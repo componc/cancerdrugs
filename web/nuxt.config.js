@@ -49,6 +49,10 @@ export default {
     '@nuxt/content'
   ],
 
+  router: {
+    base: '/cancerdrugs/'
+  },
+
   // Content module configuration: https://go.nuxtjs.dev/config-content
   content: {
     dir: '../dist',
