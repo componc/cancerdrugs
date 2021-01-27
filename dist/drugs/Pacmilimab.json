@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pacmilimab",
+  "nciThesaurus": {
+    "casRegistry": "2101273-62-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant antibody prodrug composed of a monoclonal antibody directed against the tumor-associated antigen (TAA) programmed cell death 1 ligand 1 (PD-L1; B7-H1; CD274) that is linked to a proprietary masking peptide through a protease-cleavable linker on the amino terminus of the light chain domain of the antibody, with potential immune checkpoint inhibitory and antineoplastic activities. Upon administration of pacmilimab, the linkage system is stable in the circulation and, upon extravasation into the tumor microenvironment, the peptide mask is cleaved by tumor-associated proteases. These proteases are present in high concentrations and aberrantly activated in the tumor microenvironment, while expressed as inactive forms, at much lower concentrations, in normal, healthy tissue. Protease cleavage of the linker enables binding of the unmasked, fully active monoclonal antibody moiety of CX-072 to PD-L1, which is over expressed on certain cancer cells. This blocks the binding to and activation of its receptor programmed cell death 1 (PD-1) on T-lymphocytes, thereby enhancing the T-cell-mediated anti-tumor immune response and reversing PD-L1/PD-1-mediated T-cell suppression. PD-L1 binding to PD-1 on T-cells suppresses the immune system and results in immune evasion. Compared to the unmodified PD-L1 antibody, peptide masking of CX-072 minimizes binding to PD-L1 in normal tissues, thereby decreasing autoimmune-based side effects while retaining anti-tumor activity.",
+    "fdaUniiCode": "ZXP96ZI2RA",
+    "identifier": "C132192",
+    "preferredName": "Pacmilimab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C128057"
+    ],
+    "synonyms": [
+      "CX 072",
+      "CX-072",
+      "PACMILIMAB",
+      "PD-L1 Probody Therapeutic CX-072",
+      "Pacmilimab",
+      "Probody CX-072"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Apitolisib",
+  "nciThesaurus": {
+    "casRegistry": "1032754-93-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available agent targeting phosphatidylinositol 3 kinase (PI3K) and mammalian target of rapamycin (mTOR) kinase in the PI3K/mTOR signaling pathway, with potential antineoplastic activity. Apitolisib inhibits both PI3K kinase and mTOR kinase, which may result in tumor cell apoptosis and growth inhibition of cancer cells overexpressing PI3K/mTOR. Activation of the PI3K/mTOR pathway promotes cell growth, survival, and resistance to chemotherapy and radiotherapy; mTOR, a serine/threonine kinase downstream of PI3K, may also be activated in a PI3K-independent fashion.",
+    "fdaUniiCode": "1C854K1MIJ",
+    "identifier": "C91731",
+    "preferredName": "Apitolisib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1404"
+    ],
+    "synonyms": [
+      "APITOLISIB",
+      "Apitolisib",
+      "GDC 0980",
+      "GDC-0980",
+      "GNE 390",
+      "RG 7422"
+    ]
+  }
+}

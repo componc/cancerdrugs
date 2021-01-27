@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Trimethylcolchicinic_Acid",
+  "nciThesaurus": {
+    "casRegistry": "3482-37-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A colchicine analog with potential antineoplastic activity.  Trimethylcolchicinic acid binds to tubulin, inhibiting its polymerization into microtubules and preventing cell division.",
+    "fdaUniiCode": "333BVY614O",
+    "identifier": "C1264",
+    "preferredName": "Trimethylcolchicinic Acid",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C67421"
+    ],
+    "synonyms": [
+      "Colchicinic Acid, Trimethyl-",
+      "Desacetyl Colchicine D-tartrate",
+      "Desacetylcholchiceine",
+      "N-Deacetylcolchiceine",
+      "SKF 284",
+      "TMCA",
+      "TRIMETHYLCOLCHICINIC ACID",
+      "Trimethylcolchicinic Acid",
+      "Trimethylcolchicinic Acid Methyl Ether d-tartrate",
+      "Trimethylcolchicinic acid"
+    ]
+  }
+}

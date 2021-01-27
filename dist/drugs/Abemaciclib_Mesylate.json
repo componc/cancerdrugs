@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Abemaciclib_Mesylate",
+  "nciThesaurus": {
+    "casRegistry": "1231930-82-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The mesylate salt of abemaciclib, an orally available cyclin-dependent kinase (CDK) inhibitor that targets the cyclin D1-CDK4 and cyclin D3-CDK6 cell cycle pathway, with potential antineoplastic activity. Abemaciclib specifically inhibits CDK4 and 6, thereby inhibiting retinoblastoma (Rb) protein phosphorylation in early G1. Inhibition of Rb phosphorylation prevents CDK-mediated G1-S phase transition, thereby arresting the cell cycle in the G1 phase, suppressing DNA synthesis and inhibiting cancer cell growth. Overexpression of the serine/threonine kinases CDK4/6, as seen in certain types of cancer, causes cell cycle deregulation.",
+    "fdaUniiCode": "KKT462Q807",
+    "identifier": "C162507",
+    "preferredName": "Abemaciclib Mesylate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2185"
+    ],
+    "synonyms": [
+      "ABEMACICLIB MESYLATE",
+      "Abemaciclib Mesylate",
+      "LY-2835219 Methanesulfonate",
+      "LY-2835219 methanesulfonate"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Bemcentinib",
+  "nciThesaurus": {
+    "casRegistry": "1037624-75-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available and selective inhibitor of the AXL receptor tyrosine kinase (UFO), with potential antineoplastic activity. Upon administration, bemcentinib targets and binds to the intracellular catalytic kinase domain of AXL and prevents its activity. This blocks AXL-mediated signal transduction pathways and inhibits the epithelial-mesenchymal transition (EMT), which, in turn, inhibits tumor cell proliferation and migration. In addition, bemcentinib enhances chemo-sensitivity. AXL, a member of the TAM (TYRO3, AXL and MER) family of receptor tyrosine kinases overexpressed by many tumor cell types, plays a key role in tumor cell proliferation, survival, invasion and metastasis; its expression is associated with drug resistance and poor prognosis.",
+    "fdaUniiCode": "0ICW2LX8AS",
+    "identifier": "C121854",
+    "preferredName": "Bemcentinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1967"
+    ],
+    "synonyms": [
+      "1H-1,2,4-Triazole-3,5-diamine, 1-(6,7-Dihydro-5H-benzo(6,7)cyclohepta(1,2-C)pyridazin-3-yl)-N3-((7S)-6,7,8,9-tetrahydro-7-(1-pyrrolidinyl)-5H-benzocyclohepten-2-yl)-",
+      "AXL Inhibitor BGB324",
+      "BEMCENTINIB",
+      "BGB 324",
+      "BGB-324",
+      "BGB324",
+      "Bemcentinib",
+      "R-428",
+      "R428",
+      "WHO 10631"
+    ]
+  }
+}

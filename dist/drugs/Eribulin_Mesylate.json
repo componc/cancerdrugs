@@ -1,0 +1,36 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Halaven",
+      "indication": "1 INDICATIONS AND USAGE HALAVEN is a microtubule inhibitor indicated for the treatment of patients with: Metastatic breast cancer who have previously received at least two chemotherapeutic regimens for the treatment of metastatic disease. Prior therapy should have included an anthracycline and a taxane in either the adjuvant or metastatic setting. ( 1.1 ) Unresectable or metastatic liposarcoma who have received a prior anthracycline-containing regimen. ( 1.2 ) 1.1 Me tastatic Breast Cancer HALAVEN is indicated for the treatment of patients with metastatic breast cancer who have previously received at least two chemotherapeutic regimens for the treatment of metastatic disease. Prior therapy should have included an anthracycline and a taxane in either the adjuvant or metastatic setting [see Clinical Studies (14.1) ] . 1.2 Liposarcoma HALAVEN is indicated for the treatment of patients with unresectable or metastatic liposarcoma who have received a prior anthracycline-containing regimen [see Clinical Studies (14.2) ] .",
+      "manufacturer": "Eisai Inc.",
+      "splSetId": "31ce4750-ded5-4a0b-95e9-f229fa6bc822"
+    }
+  ],
+  "id": "Eribulin_Mesylate",
+  "nciThesaurus": {
+    "casRegistry": "253128-41-5",
+    "chebiId": "",
+    "chemicalFormula": "C40H59NO11.CH4O3S",
+    "definition": "The mesylate salt of a synthetic analogue of halichondrin B, a substance derived from a marine sponge (Lissodendoryx sp.) with antineoplastic activity. Eribulin binds to the vinca domain of tubulin and inhibits the polymerization of tubulin and the assembly of microtubules, resulting in inhibition of mitotic spindle assembly, induction of cell cycle arrest at G2/M phase, and, potentially, tumor regression.",
+    "fdaUniiCode": "AV9U0660CW",
+    "identifier": "C26644",
+    "preferredName": "Eribulin Mesylate",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C67422"
+    ],
+    "synonyms": [
+      "2-(3-Amino-2-hydroxypropyl)hexacosahydro-3-methoxy-26-methyl-20,27-bis(methylene)11,15-18,21-24,28-triepoxy-7,9-ethano-12,15-methano-9H,15H-furo(3,2-i)furo(2',3'-5,6)pyrano(4,3-b)(1,4)dioxacyclopentacosin-5-(4H)-one",
+      "B1939 Mesylate",
+      "E7389",
+      "ER-086526",
+      "ERIBULIN MESYLATE",
+      "Eribulin Mesylate",
+      "Halaven",
+      "Halichondrin B Analog",
+      "eribulin mesylate"
+    ]
+  }
+}

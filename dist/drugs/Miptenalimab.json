@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Miptenalimab",
+  "nciThesaurus": {
+    "casRegistry": "2245092-03-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A monoclonal antibody directed against the inhibitory receptor lymphocyte activation gene 3 protein (LAG3; LAG-3), with potential immune checkpoint inhibitory and antineoplastic activities. Upon administration,miptenalimab binds to LAG3 expressed on tumor-infiltrating lymphocytes (TILs) and blocks its binding with major histocompatibility complex (MHC) class II molecules expressed on tumor cells. This activates antigen-specific T-lymphocytes and enhances cytotoxic T-cell-mediated tumor cell lysis, which leads to a reduction in tumor growth. LAG3, a member of the immunoglobulin superfamily (IgSF), is expressed on various immune cells, and negatively regulates both proliferation and activation of T-cells. Its expression on TILs is associated with tumor-mediated immune suppression.",
+    "fdaUniiCode": "NVCTROPV3P",
+    "identifier": "C150403",
+    "preferredName": "Miptenalimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C134305"
+    ],
+    "synonyms": [
+      "Anti-LAG3 Monoclonal Antibody BI 754111",
+      "Anti-Lymphocyte Activation Gene 3 Protein Monoclonal Antibody BI 754111",
+      "BI 754111",
+      "BI-754111",
+      "BI754111",
+      "MIPTENALIMAB",
+      "Miptenalimab"
+    ]
+  }
+}

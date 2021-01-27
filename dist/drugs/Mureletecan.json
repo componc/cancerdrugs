@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mureletecan",
+  "nciThesaurus": {
+    "casRegistry": "246527-99-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A water-soluble prodrug, consisting of camptothecin covalently linked to polymeric backbone methacryloylglycynamide, with potential antineoplastic activity. After entering tumor cells, the active moiety camptothecin is slowly released from mureletecan via hydrolysis of the ester linkage. Camptothecin, an alkaloid isolated from the Chinese tree Camptotheca acuminata, binds to and stabilizes the topoisomerase I-DNA covalent complex. This inhibits the religation of topoisomerase I-mediated single-stranded DNA breaks and produces potentially lethal double-stranded DNA breaks when encountered by the DNA replication machinery, resulting in the inhibition of DNA replication and apoptosis. Compared to camtpothecin, this prodrug formulation increases camptothecin drug delivery to the tumor site while reducing systemic toxicity.",
+    "fdaUniiCode": "TTJ03QI76T",
+    "identifier": "C2234",
+    "preferredName": "Mureletecan",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2843"
+    ],
+    "synonyms": [
+      "MAG-CPT",
+      "MAG-Camptothecin",
+      "MURELETECAN",
+      "Mureletecan",
+      "PNU 166148",
+      "PNU166148"
+    ]
+  }
+}

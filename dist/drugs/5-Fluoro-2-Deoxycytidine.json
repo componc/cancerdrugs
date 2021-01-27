@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "5-Fluoro-2-Deoxycytidine",
+  "nciThesaurus": {
+    "casRegistry": "10356-76-0",
+    "chebiId": "",
+    "chemicalFormula": "C9H12FN3O4",
+    "definition": "An antimetabolite consisting of a fluorinated pyrimidine analog with potential antineoplastic activity. As a prodrug, 5-fluoro-2-deoxycytidine is converted by intracellular deaminases to the cytotoxic agent 5-Fluorouracil (5-FU). 5-FU is subsequently metabolized to active metabolites including 5-fluoro-2-deoxyuridine monophosphate (FdUMP) and 5-fluorouridine triphosphate (FUTP). FdUMP binds to and inhibits thymidylate synthase, thereby reducing the production of thymidine monophosphate, which leads to depletion of thymidine triphosphate. This inhibits DNA synthesis and cell division. FUTP competes with uridine triphosphate for incorporation into the RNA strand thus leading to an inhibition of RNA and protein synthesis. Other fluorouracil metabolites also get incorporated into both DNA and RNA, thereby further hampering cellular growth.",
+    "fdaUniiCode": "KUA4693H5W",
+    "identifier": "C62785",
+    "preferredName": "5-Fluoro-2-Deoxycytidine",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1557"
+    ],
+    "synonyms": [
+      "5-FLUORO-2'-DEOXYCYTIDINE",
+      "5-Fluoro-2-Deoxycytidine",
+      "5-fluoro-2-deoxycytidine",
+      "Cytidine, 2'-deoxy-5-fluoro-",
+      "FdCyd",
+      "Ro 5-1090"
+    ]
+  }
+}

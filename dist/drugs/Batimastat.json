@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Batimastat",
+  "nciThesaurus": {
+    "casRegistry": "130370-60-4",
+    "chebiId": "",
+    "chemicalFormula": "C23H31N3O4S2",
+    "definition": "A synthetic hydroxamate with potential antineoplastic activity.  Batimastat binds covalently to the zinc ion in the active site of matrix metalloproteinases (MMPs), thereby inhibiting the action of MMPs, inducing extracellular matrix degradation, and inhibiting angiogenesis, tumor growth and invasion, and metastasis.",
+    "fdaUniiCode": "BK349F52C9",
+    "identifier": "C1529",
+    "preferredName": "Batimastat",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1970"
+    ],
+    "synonyms": [
+      "(2R,3S)-N{4}-Hydroxy-N{1}-[(1S)-2-(methylamino)-2-oxo-1-(phenylmethyl)ethyl]-2-(2-methylpropyl)-3-[(2-thienylthio)methyl]butanediamide",
+      "BATIMASTAT",
+      "BB-94",
+      "BB94",
+      "Batimastat",
+      "Butanediamide, N4-hydroxy-N1-(2-(methylamino)-2-oxo-1-(phenylmethyl)ethyl)-2-(2-methylpropyl)-3-((2-thienylthio)methyl)-, (2R-(1(S*),2R*,3S*))-",
+      "[4-(N-Hydroxyamino)-2R-isobutyl-3S-(2-thienylthiomethyl)-succinyl]-L-phenylalanine-N-methylamide",
+      "[4-(N-Hydroxyamino)-2R-isobutyl-3S-(thiophen-2-ylthiomethyl)-succinyl]-L-phenylalanine-N-methylamide",
+      "batimastat"
+    ]
+  }
+}

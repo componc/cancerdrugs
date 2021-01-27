@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "PI3KamTOR_Inhibitor_PKI-179",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A second generation, small-molecule mimetic of ATP that targets the mammalian target of rapamycin (mTOR) with potential antineoplastic activity. PKI-179 selectively inhibits mTOR and phosphoinositide-3-kinase (PI3K) alpha. By inhibiting the PI3K/mTOR signaling pathway, this agent may inhibit tumor cell proliferation and survival.",
+    "fdaUniiCode": "CNN7Y60164",
+    "identifier": "C90291",
+    "preferredName": "PI3Ka/mTOR Inhibitor PKI-179",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2152"
+    ],
+    "synonyms": [
+      "PI3Ka/mTOR Inhibitor PKI-179",
+      "PKI-179"
+    ]
+  }
+}

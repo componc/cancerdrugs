@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Zandelisib",
+  "nciThesaurus": {
+    "casRegistry": "1401436-95-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable inhibitor of the delta isoform of phosphatidylinositide 3-kinase (PI3K), with potential antineoplastic activity. Upon oral administration, zandelisib selectively inhibits the delta isoform of PI3K and prevents the activation of the PI3K/AKT signaling pathway. This both decreases proliferation and induces cell death in PI3K-delta-overexpressing tumor cells. PI3K-delta plays a key role in the proliferation and survival of hematologic cancer cells. The targeted inhibition of PI3K-delta is designed to preserve PI3K signaling in normal, non-neoplastic cells. PI3K, an enzyme often overexpressed in cancer cells, plays a crucial role in tumor cell regulation and survival.",
+    "fdaUniiCode": "8Z28M5SX0X",
+    "identifier": "C123925",
+    "preferredName": "Zandelisib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2152"
+    ],
+    "synonyms": [
+      "ME 401",
+      "ME-401",
+      "PI3K-delta Inhibitor PWT143",
+      "PWT-143",
+      "PWT143",
+      "ZANDELISIB",
+      "Zandelisib"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tilarginine",
+  "nciThesaurus": {
+    "casRegistry": "17035-90-4",
+    "chebiId": "CHEBI:28229",
+    "chemicalFormula": "C7H16N4O2",
+    "definition": "A pan-nitric oxide synthase (NOS) inhibitor, with potential immunomodulating and antineoplastic activities. Upon administration, tilarginine binds to and inhibits NOS, a free radical signaling molecule that promotes angiogenesis, metastasis, and immunosuppression in the tumor microenvironment (TME). Reduction in NOS activity may abrogate the immunosuppressive TME, enhance tumor antigen-specific immune response and inhibit tumor cell proliferation.",
+    "fdaUniiCode": "27JT06E6GR",
+    "identifier": "C1178",
+    "preferredName": "Tilarginine",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [],
+    "synonyms": [
+      "L-NMMA",
+      "Monomethylarginine",
+      "N-Methylarginine",
+      "N5-(Methylamidino)-L-ornithine",
+      "NG-Monomethyl-L-Arginine",
+      "NG-monomethyl-L-arginine",
+      "NMA",
+      "TILARGININE",
+      "Targinine",
+      "Tilarginine",
+      "omega-N-Monomethylarginine"
+    ]
+  }
+}

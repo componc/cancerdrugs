@@ -1,0 +1,41 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Altretamine",
+  "nciThesaurus": {
+    "casRegistry": "645-05-6",
+    "chebiId": "CHEBI:24564",
+    "chemicalFormula": "C9H18N6",
+    "definition": "A synthetic cytotoxic s-triazine derivative similar in structure to alkylating agent triethylenemelamin with antineoplastic activity.  Although the precise mechanism by which altretamine exerts its cytotoxic effect is unknown, N-demethylation of altretamine may produce reactive intermediates which covalently bind to DNA, resulting in DNA damage.",
+    "fdaUniiCode": "Q8BIH59O7H",
+    "identifier": "C544",
+    "preferredName": "Altretamine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C292"
+    ],
+    "synonyms": [
+      "2,4,6-Tris(dimethylamino)-s-triazine",
+      "2,4,6-tris(dimethylamino)-s-triazine",
+      "ALTRETAMINE",
+      "Altretamine",
+      "ENT 50852",
+      "ENT-50852",
+      "HMM",
+      "HXM",
+      "Hemel",
+      "Hexalen",
+      "Hexaloids",
+      "Hexamethylamine",
+      "Hexamethylmelamine",
+      "Hexastat",
+      "Hexinawas",
+      "N,N,N',N',N\",N\"-hexamethyl-1,3,5-triazine-2,4,6-triamine",
+      "N,n,n',N\"N\"-hexamethyl-1,3,5,-triazine-2,4,6,-triamine",
+      "RB-1515",
+      "WR-95704",
+      "altretamine",
+      "s-Triazine, 2,4,6-tris(dimethylamino)-"
+    ]
+  }
+}

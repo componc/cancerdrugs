@@ -1,0 +1,34 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Tafinlar",
+      "indication": "1 INDICATIONS AND USAGE TAFINLAR is a kinase inhibitor indicated as a single agent for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E mutation as detected by an FDA-approved test. ( 1.1 , 2.1 ) TAFINLAR is indicated, in combination with trametinib, for: the treatment of patients with unresectable or metastatic melanoma with BRAF V600E or V600K mutations as detected by an FDA-approved test. ( 1.2 , 2.1 ) the adjuvant treatment of patients with melanoma with BRAF V600E or V600K mutations, as detected by an FDA-approved test, and involvement of lymph node(s), following complete resection. ( 1.3 , 2.1 ) the treatment of patients with metastatic non-small cell lung cancer (NSCLC) with BRAF V600E mutation as detected by an FDA-approved test. ( 1.4 , 2.1 ) the treatment of patients with locally advanced or metastatic anaplastic thyroid cancer (ATC) with BRAF V600E mutation and with no satisfactory locoregional treatment options. ( 1.5 , 2.1 ) Limitations of Use : TAFINLAR is not indicated for treatment of patients with wild-type BRAF melanoma, wild-type BRAF NSCLC, or wild-type BRAF ATC. ( 1.6 , 5.2 ) 1.1 BRAF V600E Mutation-Positive Unresectable or Metastatic Melanoma TAFINLAR \u00ae is indicated as a single agent for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E mutation as detected by an FDA-approved test. 1.2 BRAF V600E or V600K Mutation-Positive Unresectable or Metastatic Melanoma TAFINLAR is indicated, in combination with trametinib, for the treatment of patients with unresectable or metastatic melanoma with BRAF V600E or V600K mutations, as detected by an FDA-approved test [see Dosage and Administration (2.1)] . 1.3 Adjuvant Treatment of BRAF V600E or V600K Mutation-Positive Melanoma TAFINLAR is indicated, in combination with trametinib, for the adjuvant treatment of patients with melanoma with BRAF V600E or V600K mutations, as detected by an FDA-approved test, and involvement of lymph node(s), following complete resection [see Dosage and Administration (2.1)] . 1.4 BRAF V600E Mutation-Positive Metastatic NSCLC TAFINLAR is indicated, in combination with trametinib, for the treatment of patients with metastatic non-small cell lung cancer (NSCLC) with BRAF V600E mutation as detected by an FDA-approved test [see Dosage and Administration (2.1)] . 1.5 BRAF V600E Mutation-Positive Locally Advanced or Metastatic Anaplastic Thyroid Cancer TAFINLAR is indicated, in combination with trametinib, for the treatment of patients with locally advanced or metastatic anaplastic thyroid cancer (ATC) with BRAF V600E mutation and with no satisfactory locoregional treatment options [see Dosage and Administration (2.1)] . 1.6 Limitations of Use TAFINLAR is not indicated for treatment of patients with wild-type BRAF melanoma, wild-type BRAF NSCLC, or wild-type BRAF ATC [see Warnings and Precautions (5.2)] .",
+      "manufacturer": "Novartis Pharmaceuticals Corporation",
+      "splSetId": "fee1e6b1-e1a5-4254-9f2e-a70e0f8dbdea"
+    }
+  ],
+  "id": "Dabrafenib_Mesylate",
+  "nciThesaurus": {
+    "casRegistry": "1195768-06-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The mesylate salt form of dabrafenib, an orally bioavailable inhibitor of B-raf (BRAF) protein with potential antineoplastic activity. Dabrafenib selectively binds to and inhibits the activity of B-raf, which may inhibit the proliferation of tumor cells which contain a mutated BRAF gene. B-raf belongs to the raf/mil family of serine/threonine protein kinases and plays a role in regulating the MAP kinase/ERKs signaling pathway, which may be constitutively activated due to BRAF gene mutations.",
+    "fdaUniiCode": "B6DC89I63E",
+    "identifier": "C128059",
+    "preferredName": "Dabrafenib Mesylate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C155322"
+    ],
+    "synonyms": [
+      "DABRAFENIB MESYLATE",
+      "Dabrafenib Mesylate",
+      "Dabrafenib Methanesulfonate",
+      "GSK2118436 Methane Sulfonate Salt",
+      "GSK2118436B",
+      "Tafinlar"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Fludarabine",
+  "nciThesaurus": {
+    "casRegistry": "21679-14-1",
+    "chebiId": "",
+    "chemicalFormula": "C10H12FN5O4",
+    "definition": "A fluorinated nucleotide antimetabolite analog of the antiviral agent vidarabine (ara-A) with antineoplastic activity. Administered parenterally as a phosphate salt, fludarabine phosphate is rapidly dephosphorylated to 2-fluoro-ara-A and then phosphorylated intracellularly by deoxycytidine kinase to the active triphosphate, 2-fluoro-ara-ATP. This metabolite may inhibit DNA polymerase alpha, ribonucleotide reductase and DNA primase, thereby interrupting DNA synthesis and inhibiting tumor cell growth. ",
+    "fdaUniiCode": "P2K93U8740",
+    "identifier": "C1094",
+    "preferredName": "Fludarabine",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1556",
+      "C2150"
+    ],
+    "synonyms": [
+      "2-Fluoro-9-beta-arabinofuranosyladenine",
+      "2-Fluorovidarabine",
+      "9-Beta-D-arabinofuranosyl-2-fluoro-9H-purin-6-amine",
+      "9-Beta-D-arabinofuranosyl-2-fluoroadenine",
+      "FLUDARABINE",
+      "Fludarabine",
+      "Fluradosa",
+      "fludarabine"
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Iboctadekin",
+  "nciThesaurus": {
+    "casRegistry": "479198-61-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant therapeutic agent which is chemically identical to or similar to the endogenous cytokine interleukin-18 (IL-18). Produced primarily by macrophages, IL-18 induces the production of interferon-gamma (IFN-gamma), and enhances the activity of natural killer (NK) and cytotoxic T lymphocytes (CTL).  As a potential immunotherapeutic agent, iboctadekin displays antitumor effects in vitro and in animal models.",
+    "fdaUniiCode": "X08H9UZ7TO",
+    "identifier": "C1680",
+    "preferredName": "Iboctadekin",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C593"
+    ],
+    "synonyms": [
+      "Human Interleukin-18 (Recombinant, Expressed in Escherichia coli)",
+      "Human Recombinant Interleukin-18",
+      "IBOCTADEKIN",
+      "IFN-Gamma-Inducing Factor",
+      "IL-18",
+      "Iboctadekin",
+      "Interferon-Gamma-Inducing Factor",
+      "Interleukin-18",
+      "Recombinant Interleukin-18",
+      "SB 485232",
+      "SB-485232"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Rilotumumab",
+  "nciThesaurus": {
+    "casRegistry": "872514-65-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fully human IgG2 monoclonal antibody directed against the human hepatocyte growth factor (HGF) with potential antineoplastic activity. Anti-HGF monoclonal antibody AMG 102 binds to and neutralizes HGF, preventing the binding of HGF to its receptor c-Met and so c-Met activation; inhibition of c-Met-mediated signal transduction may result in the induction of apoptosis in cells expressing c-Met. c-Met (HGF receptor or HGFR), a receptor tyrosine kinase overexpressed or mutated in a variety of epithelial cancer cell types, plays a key role in cancer cell growth, survival, angiogenesis, invasion, and metastasis.",
+    "fdaUniiCode": "51WEW898IJ",
+    "identifier": "C67079",
+    "preferredName": "Rilotumumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "AMG 102",
+      "Anti-HGF Monoclonal Antibody AMG 102",
+      "Fully Human Anti-HGF Monoclonal Antibody AMG 102",
+      "RILOTUMUMAB",
+      "Rilotumumab",
+      "anti-HGF monoclonal antibody AMG 102"
+    ]
+  }
+}

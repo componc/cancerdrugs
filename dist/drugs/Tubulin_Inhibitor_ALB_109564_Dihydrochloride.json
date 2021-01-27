@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tubulin_Inhibitor_ALB_109564_Dihydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "1300114-12-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A semi-synthetic derivative of the vinka alkaloid vinblastine with potential antineoplastic activity. Tubulin inhibitor ALB 109564 dihydrochloride binds to tubulin monomers and inhibits microtubule formation, resulting in disruption of mitotic spindle assembly and arrest of tumor cells in the G2/M phase of the cell cycle.",
+    "fdaUniiCode": "G2Z7R4P95M",
+    "identifier": "C78842",
+    "preferredName": "Tubulin Inhibitor ALB 109564 Dihydrochloride",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C25974"
+    ],
+    "synonyms": [
+      "ALB-109564 DIHYDROCHLORIDE",
+      "ALB-109564 dihydrochloride",
+      "Alb-109564(a)",
+      "Tubulin Inhibitor ALB 109564 Dihydrochloride"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pevonedistat",
+  "nciThesaurus": {
+    "casRegistry": "905579-51-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A small molecule inhibitor of Nedd8 activating enzyme (NAE) with potential antineoplastic activity. Pevonedistat binds to and inhibits NAE, which may result in the inhibition of tumor cell proliferation and survival. NAE activates Nedd8 (Neural precursor cell expressed, developmentally down-regulated 8), an ubiquitin-like (UBL) protein that modifies cellular targets in a pathway that is parallel to but distinct from the ubiquitin-proteasome pathway (UPP). Functioning in diverse regulatory activities, proteins conjugated to UBLs like Nedd8 typically are not targeted for proteasomal degradation.",
+    "fdaUniiCode": "S3AZD8D215",
+    "identifier": "C77906",
+    "preferredName": "Pevonedistat",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C129825"
+    ],
+    "synonyms": [
+      "((1S,2S,4R)-4-(4-((1S)-2,3-Dihydro-1H-inden-1-ylamino)-7H-pyrrolo(2,3-d)pyrimidin-7-yl)-2-hydroxycyclopentyl)methyl Sulphamate",
+      "MLN4924",
+      "Nedd8-Activating Enzyme Inhibitor MLN4924",
+      "PEVONEDISTAT",
+      "Pevonedistat"
+    ]
+  }
+}

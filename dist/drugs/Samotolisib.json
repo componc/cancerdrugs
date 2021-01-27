@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Samotolisib",
+  "nciThesaurus": {
+    "casRegistry": "1386874-06-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, small molecule inhibitor of certain class I phosphoinositide 3-kinase (PI3K) isoforms and mammalian target of rapamycin kinase (mTOR) in the PI3K/mTOR signaling pathway, with potential antineoplastic activity. Samotolisib inhibits both certain PI3K isoforms and mTOR in an ATP-competitive manner which may inhibit both the PI3K/mTOR signaling pathway in and proliferation of tumor cells overexpressing PI3K and/or mTOR. The PI3K/mTOR pathway is upregulated in a variety of tumor cells and plays a key role in promoting cancer cell proliferation, and survival, motility and resistance to chemotherapy and radiotherapy. mTOR, a serine/threonine kinase downstream of PI3K, may also be activated in a PI3K-independent fashion; therefore, this agent may be more potent than an agent that inhibits either PI3K or mTOR alone. In addition, LY3023414 may inhibit DNA-dependent protein kinase (DNA-PK), thereby inhibiting the ability of tumor cells to repair damaged DNA. DNA-PK is activated upon DNA damage and plays a key role in repairing double-stranded DNA breaks.",
+    "fdaUniiCode": "C88817F47Y",
+    "identifier": "C121817",
+    "preferredName": "Samotolisib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1404"
+    ],
+    "synonyms": [
+      "2H-Imidazo(4,5-C)quinolin-2-one, 1,3-Dihydro-8-(5-(1-hydroxy-1-methylethyl)-3-pyridinyl)-1-((2S)-2-methoxypropyl)-3-methyl-",
+      "LY 3023414",
+      "LY-3023414",
+      "LY3023414",
+      "PI3K/mTOR Inhibitor LY3023414",
+      "SAMOTOLISIB",
+      "Samotolisib",
+      "WHO 10889"
+    ]
+  }
+}

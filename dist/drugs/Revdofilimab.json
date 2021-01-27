@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Revdofilimab",
+  "nciThesaurus": {
+    "casRegistry": "2230138-89-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An agonistic humanized IgG1 monoclonal antibody that recognizes the co-stimulatory receptor OX40 (CD134; tumor necrosis factor receptor superfamily member 4; TNFRSF4), with potential immunostimulatory activity. Upon administration, revdofilimab selectively binds to and activates OX40. This may induce the proliferation of memory and effector T-lymphocytes and inhibit the function of T-regulatory cells (Tregs) in the tumor microenvironment (TME). OX40, a cell surface glycoprotein and member of the tumor necrosis factor receptor superfamily (TNFRSF), is expressed on T-lymphocytes and plays an essential role in T-cell activation and differentiation.",
+    "fdaUniiCode": "2Y83Y2ORD3",
+    "identifier": "C161864",
+    "preferredName": "Revdofilimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C96040"
+    ],
+    "synonyms": [
+      "ABBV 368",
+      "ABBV-368",
+      "ABBV368",
+      "Agonistic Anti-OX40 Monoclonal Antibody ABBV-368",
+      "Anti-OX40 Agonist Monoclonal Antibody ABBV-368",
+      "Anti-OX40 Agonistic Monoclonal Antibody ABBV-368",
+      "PR1628103",
+      "REVDOFILIMAB",
+      "Revdofilimab"
+    ]
+  }
+}

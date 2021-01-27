@@ -1,0 +1,32 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tiomolibdate_Choline",
+  "nciThesaurus": {
+    "casRegistry": "649749-10-0",
+    "chebiId": "",
+    "chemicalFormula": "2C5H14NO.MoS4",
+    "definition": "An orally active second generation tetrathiomolybdate analog with anti-angiogenic and antineoplastic activities. Tiomolibdate choline selectively chelates the copper ion in superoxide dismutase 1 (SOD1) in endothelial cells, thereby depleting SOD1 of copper and inhibiting its activity. Inhibition of SOD1 interferes with the activation of several signal transduction pathways required for cellular proliferation and angiogenesis, including those mediated by ERK1/2 and FAK and Src kinases. This results in an inhibition of cell proliferation and angiogenesis as well as induction of apoptosis.",
+    "fdaUniiCode": "FD57A79R4P",
+    "identifier": "C62514",
+    "preferredName": "Tiomolibdate Choline",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1742",
+      "C471"
+    ],
+    "synonyms": [
+      "ALXN-1840",
+      "ATN 224",
+      "ATN-224",
+      "Bis(choline)tetrathiomolybdate",
+      "Ethanaminium, 2-Hydroxy-N,N,N-Trimethyl-, (T-4)-Tetrathioxomolybdate(2-) (2:1)",
+      "SOD1 Inhibitor ATN-224",
+      "SOD1 inhibitor ATN-224",
+      "TIOMOLIBDATE CHOLINE",
+      "Tiomolibdate Choline",
+      "WTX-101",
+      "WTX101"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-IGF-1R_Monoclonal_Antibody_AVE1642",
+  "nciThesaurus": {
+    "casRegistry": "1242567-05-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody directed against the human insulin-like growth factor-1 receptor (IGF-1R/CD221) with potential antineoplastic activity. Anti-IGF-1R monoclonal antibody AVE1642 specifically binds to and blocks membrane-bound IGF-1R, preventing the binding of the natural ligand IGF-1 and the subsequent activation of PI3K/AKT signal transduction, which may result in the induction of apoptosis and a decrease in cellular proliferation. Activation of IGF-1R, a receptor tyrosine kinase of the insulin receptor superfamily overexpressed by various cancer cell types, stimulates cell proliferation, promotes angiogenesis, enables oncogenic transformation, and suppresses apoptosis.",
+    "fdaUniiCode": "Z9U2SS9ZC8",
+    "identifier": "C79798",
+    "preferredName": "Anti-IGF-1R Monoclonal Antibody AVE1642",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "AVE-1642",
+      "AVE1642",
+      "Anti-IGF-1R Monoclonal Antibody AVE1642",
+      "anti-CD122 monoclonal antibody AVE1642"
+    ]
+  }
+}

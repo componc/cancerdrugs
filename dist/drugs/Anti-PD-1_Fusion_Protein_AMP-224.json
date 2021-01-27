@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-PD-1_Fusion_Protein_AMP-224",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant B7-DC Fc-fusion protein composed of the extracellular domain of the PD-1 ligand programmed cell death ligand 2 (PD-L2, B7-DC) and the Fc region of human immunoglobulin (Ig) G1, with potential immune checkpoint inhibitory and antineoplastic activities. Anti-PD-1 fusion protein AMP-224 specifically binds to PD-1 on chronically stimulated T-cells and reduces their proliferation. This may restore immune function and may result in the activation of cytotoxic T-cells and cell-mediated immune responses against tumor cells. PD-1, a transmembrane protein of Ig superfamily and inhibitor receptor expressed on activated T-cells, negatively regulates T-cell activation and effector function when activated by its ligands, and plays an important role in tumor evasion from host immunity. AMP-224 does not bind normal activated T-cells.",
+    "fdaUniiCode": "SKF3JJJ5QA",
+    "identifier": "C97039",
+    "preferredName": "Anti-PD-1 Fusion Protein AMP-224",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C124946",
+      "C129820"
+    ],
+    "synonyms": [
+      "AMP-224",
+      "Anti-PD-1 Fusion Protein AMP-224"
+    ]
+  }
+}

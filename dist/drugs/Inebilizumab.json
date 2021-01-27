@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "UPLIZNA",
+      "indication": "1 INDICATIONS AND USAGE UPLIZNA is indicated for the treatment of neuromyelitis optica spectrum disorder (NMOSD) in adult patients who are anti-aquaporin-4 (AQP4) antibody positive. UPLIZNA is a CD19-directed cytolytic antibody indicated for the treatment of neuromyelitis optica spectrum disorder (NMOSD) in adult patients who are anti-aquaporin-4 (AQP4) antibody positive. ( 1 )",
+      "manufacturer": "Viela Bio, Inc.",
+      "splSetId": "0ce5e7f6-eb97-4738-8b10-43b89e16b5b3"
+    }
+  ],
+  "id": "Inebilizumab",
+  "nciThesaurus": {
+    "casRegistry": "1299440-37-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized immunoglobulin IgG1 kappa monoclonal antibody directed against the B-cell-specific membrane protein CD-19 with potential immunostimulating and antineoplastic activities. Inebilizumab binds to CD19, which may result in a cytotoxic T-lymphocyte (CTL) response and antibody-dependent cellular cytotoxicity (ADCC) to CD19-expressing B-cells. The Fc portion of inebilizumab does not contain a fucose sugar moiety, which may contribute to its enhanced ADCC activity. CD19 is a membrane antigen that is widely expressed during B-cell development, from pro-B-cell to early plasma cell stages.",
+    "fdaUniiCode": "74T7185BMM",
+    "identifier": "C88283",
+    "preferredName": "Inebilizumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C112889"
+    ],
+    "synonyms": [
+      "INEBILIZUMAB",
+      "Inebilizumab",
+      "MEDI-551"
+    ]
+  }
+}

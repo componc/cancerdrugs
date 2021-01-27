@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Onatasertib",
+  "nciThesaurus": {
+    "casRegistry": "1228013-30-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available inhibitor of the mammalian target of rapamycin (mTOR) with potential antineoplastic activity. Onatasertib inhibits the activity of mTOR, which may result in the induction of tumor cell apoptosis and a decrease in tumor cell proliferation. mTOR, a serine/threonine kinase that is upregulated in a variety of tumors, plays an important role downstream in the PI3K/AKT/mTOR signaling pathway, which is frequently dysregulated in human cancers.",
+    "fdaUniiCode": "I8RA3543SY",
+    "identifier": "C92575",
+    "preferredName": "Onatasertib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2201"
+    ],
+    "synonyms": [
+      "ATG-008",
+      "CC-223",
+      "ONATASERTIB",
+      "Onatasertib",
+      "TORKi",
+      "WHO 11237"
+    ]
+  }
+}

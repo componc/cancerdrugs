@@ -1,0 +1,68 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Bicalutamide",
+      "indication": "1. INDICATIONS AND USAGE Bicalutamide tablets 50 mg daily is indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. Bicalutamide tablets 150 mg daily is not approved for use alone or with other treatments [see Clinical Studies (14.2) ]. Bicalutamide tablets 50 mg is an androgen receptor inhibitor indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. ( 1 ) Bicalutamide tablets 150 mg daily is not approved for use alone or with other treatments. ( 1 )",
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "6d27f9b0-6b93-42fa-807e-fc819c0da14f"
+    },
+    {
+      "brand": "Bicalutamide",
+      "indication": "1. INDICATIONS AND USAGE Bicalutamide tablets 50 mg daily is indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. Bicalutamide tablets 150 mg daily is not approved for use alone or with other treatments [see Clinical Studies (14.2) ]. \u2022 Bicalutamide tablets 50 mg is an androgen receptor inhibitor indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. (1) \u2022 Bicalutamide tablets 150 mg daily is not approved for use alone or with other treatments. (1)",
+      "manufacturer": "ANI Pharmaceuticals, Inc.",
+      "splSetId": "7a08d88b-051a-4c16-9560-12685c500c58"
+    },
+    {
+      "brand": "Bicalutamide",
+      "indication": "1. INDICATIONS AND USAGE Bicalutamide tablets 50 mg daily is indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. Bicalutamide tablets 150 mg daily is not approved for use alone or with other treatments [see Clinical Studies (14.2) ]. Bicalutamide tablets 50 mg is an androgen receptor inhibitor indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. ( 1 ) Bicalutamide tablets 150 mg daily is not approved for use alone or with other treatments. ( 1 )",
+      "manufacturer": "Accord Healthcare Inc.",
+      "splSetId": "7c295b64-ec39-42ec-9f02-da5b42e775e1"
+    },
+    {
+      "brand": "Bicalutamide",
+      "indication": "1. INDICATIONS AND USAGE Bicalutamide tablets 50 mg daily is indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. Bicalutamide tablets 150 mg daily is not approved for use alone or with other treatments [see Clinical Studies (14.2) ]. Bicalutamide tablets 50 mg is an androgen receptor inhibitor indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. ( 1 ) Bicalutamide tablets 150 mg daily is not approved for use alone or with other treatments. ( 1 )",
+      "manufacturer": "Golden State Medical Supply, Inc.",
+      "splSetId": "7c9a8877-7364-4a3c-9345-78279fa282eb"
+    },
+    {
+      "brand": "Bicalutamide",
+      "indication": "1. INDICATIONS AND USAGE Bicalutamide tablets 50 mg daily is indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. Bicalutamide tablets 150 mg daily is not approved for use alone or with other treatments [see Clinical Studies (14.2) ]. Bicalutamide tablets 50 mg is an androgen receptor inhibitor indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. ( 1 ) Bicalutamide tablets 150 mg daily is not approved for use alone or with other treatments. ( 1 )",
+      "manufacturer": "Major Pharmaceuticals",
+      "splSetId": "82d4877e-6ebf-4f75-a108-28dc840b07fc"
+    },
+    {
+      "brand": "bicalutamide",
+      "indication": "1 INDICATIONS AND USAGE Bicalutamide tablets, USP 50 mg daily are indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. Bicalutamide tablets, USP 150 mg daily are not approved for use alone or with other treatments [see Clinical Studies (14.2)]. Bicalutamide tablet 50 mg is an androgen receptor inhibitor indicated for use in combination therapy with a luteinizing hormone-releasing hormone (LHRH) analog for the treatment of Stage D 2 metastatic carcinoma of the prostate. (1) Bicalutamide tablet 150 mg daily is not approved for use alone or with other treatments. (1)",
+      "manufacturer": "Sun Pharmaceutical Industries, Inc.",
+      "splSetId": "8b533fe4-287f-482c-b530-d9a5bf2ce40c"
+    }
+  ],
+  "id": "Bicalutamide",
+  "nciThesaurus": {
+    "casRegistry": "90357-06-5",
+    "chebiId": "CHEBI:3090",
+    "chemicalFormula": "C18H14F4N2O4S",
+    "definition": "A synthetic, nonsteroidal antiandrogen.  Bicalutamide competitively binds to cytosolic androgen receptors in target tissues, thereby inhibiting the receptor binding of androgens. This agent does not bind to most mutated forms of androgen receptors.",
+    "fdaUniiCode": "A0Z3NAU9DP",
+    "identifier": "C1599",
+    "preferredName": "Bicalutamide",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C146993"
+    ],
+    "synonyms": [
+      "(+/-)-N-[4-Cyano-3-(trifluoromethyl)phenyl]-3-[(4-fluorophenyl)sulfonyl]-2-hydroxy-2-methylpropanamide",
+      "4'-Cyano-alpha,alpha,alpha-trifuloro-3-[(p-fluorophenyl)sulfonyl]-2-methyl-m-lactotoluidide",
+      "4-Cyano-3-trifluoromethyl-N-(3-p-fluorophenylsulfonyl-2-hydroxy-2-methylpropionyl)aniline",
+      "BICALUTAMIDE",
+      "Bicalutamide",
+      "Casodex",
+      "Cosudex",
+      "ICI 176,334",
+      "ICI 176334",
+      "N-[4-Cyano-3-(trifluoromethyl)phenyl]3-3[(4-fluorophenyl)sulfonyl]-2-hydroxy-2-methyl-propanamide",
+      "bicalutamide"
+    ]
+  }
+}

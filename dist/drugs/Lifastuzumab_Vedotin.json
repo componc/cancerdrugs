@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Lifastuzumab_Vedotin",
+  "nciThesaurus": {
+    "casRegistry": "1401812-88-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) composed of a monoclonal antibody directed against the sodium-dependent phosphate transport protein 2B (NaPi2b), and covalently linked to monomethyl auristatin E (MMAE), an auristatin derivative and a potent microtubule disrupting agent, with potential antineoplastic activity. Upon administration, the monoclonal antibody moiety of DNIB0600A binds to NaPi2b-expressing tumor cells and is internalized, thereby delivering MMAE intracellularly. Proteolytic cleavage releases MMAE, which then binds to tubulin and inhibits its polymerization, resulting in G2/M phase arrest and tumor cell apoptosis. NaPi2b, a tumor-associated antigen (TAA), overexpressed in a variety of cancer cell types, plays a key role in transport of inorganic phosphate and the maintenance of phosphate homeostasis.",
+    "fdaUniiCode": "7IUT83FK6S",
+    "identifier": "C116747",
+    "preferredName": "Lifastuzumab Vedotin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C575"
+    ],
+    "synonyms": [
+      "ADC DNIB0600A",
+      "DNIB0600A",
+      "LIFASTUZUMAB VEDOTIN",
+      "Lifastuzumab Vedotin",
+      "RG-7599"
+    ]
+  }
+}

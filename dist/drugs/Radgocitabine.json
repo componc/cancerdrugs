@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Radgocitabine",
+  "nciThesaurus": {
+    "casRegistry": "135598-68-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An analogue of the nucleoside deoxycytidine with potential antineoplastic activity. Upon administration, radgocitabine is incorporated into DNA and directly inhibits the activity of DNA polymerase, which may result in inhibition of DNA replication and cell cycle arrest in the S and G2/M phases, DNA fragmentation, and tumor cell apoptosis.",
+    "fdaUniiCode": "00M634HD2V",
+    "identifier": "C82697",
+    "preferredName": "Radgocitabine",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1557"
+    ],
+    "synonyms": [
+      "4-Amino-L-(2-cyano-2-deoxy-beta-D-arabinofuranosyl)- 2(1H)-pyrimidinone",
+      "CNDAC",
+      "Deoxycytidine Analogue TAS-109",
+      "RADGOCITABINE",
+      "Radgocitabine",
+      "TAS-109"
+    ]
+  }
+}

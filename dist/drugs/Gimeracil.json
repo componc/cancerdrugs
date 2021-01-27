@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Gimeracil",
+  "nciThesaurus": {
+    "casRegistry": "103766-25-2",
+    "chebiId": "",
+    "chemicalFormula": "C5H4ClNO2",
+    "definition": "A pyridine derivative with antitumor activity. Gimeracil enhances the antitumor activity of fluoropyrimidines by competitively and reversibly inhibiting the enzyme dihydropyrimidine dehydrogenase causing decreased degradation of the fluoropyrimidines.",
+    "fdaUniiCode": "UA8SE1325T",
+    "identifier": "C2416",
+    "preferredName": "Gimeracil",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2019"
+    ],
+    "synonyms": [
+      "5-Chloro-2,4-pyridinediol",
+      "CDHP",
+      "Chlorodihydroxypyridine",
+      "GIMERACIL",
+      "Gimeracil"
+    ]
+  }
+}

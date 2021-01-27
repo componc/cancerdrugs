@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Uprosertib",
+  "nciThesaurus": {
+    "casRegistry": "1047634-65-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable inhibitor of the serine/threonine protein kinase Akt (protein kinase B) with potential antineoplastic activity. Uprosertib binds to and inhibits the activity of Akt, which may result in inhibition of the PI3K/Akt signaling pathway and tumor cell proliferation and the induction of tumor cell apoptosis. Activation of the PI3K/Akt signaling pathway is frequently associated with tumorigenesis and dysregulated PI3K/Akt signaling may contribute to tumor resistance to a variety of antineoplastic agents.",
+    "fdaUniiCode": "ZXM835LQ5E",
+    "identifier": "C84870",
+    "preferredName": "Uprosertib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C155764"
+    ],
+    "synonyms": [
+      "2-Furancarboxamide, N-((1S)-2-Amino-1-((3,4-difluorophenyl)methyl)ethyl)-5-chloro-4-(4-chloro-1-methyl-1H-pyrazol-5-yl)-",
+      "GSK2141795",
+      "Oral Akt Inhibitor GSK2141795",
+      "UPROSERTIB",
+      "Uprosertib"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Giredestrant",
+  "nciThesaurus": {
+    "casRegistry": "1953133-47-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available selective estrogen receptor degrader/downregulator (SERD), with potential antineoplastic activity. Upon oral administration, giredestrant specifically targets and binds to the estrogen receptor (ER) and induces a conformational change that promotes ER degradation. This prevents ER-mediated signaling and inhibits both the growth and survival of ER-expressing cancer cells.",
+    "fdaUniiCode": "28P3DU6DB3",
+    "identifier": "C147030",
+    "preferredName": "Giredestrant",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2116"
+    ],
+    "synonyms": [
+      "GDC 9545",
+      "GDC-49545",
+      "GIREDESTRANT",
+      "Giredestrant",
+      "RG6171",
+      "SERD GDC-9545",
+      "Selective Estrogen Receptor Degrader GDC-9545",
+      "Selective Estrogen Receptor Downregulator GDC-9545"
+    ]
+  }
+}

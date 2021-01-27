@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Penclomedine",
+  "nciThesaurus": {
+    "casRegistry": "108030-77-9",
+    "chebiId": "",
+    "chemicalFormula": "C8H6Cl5NO2",
+    "definition": "A synthetic derivative of pyrimidine with antineoplastic activity. Penclomedine alkylates and crosslinks DNA, resulting in DNA strand breaks and inhibition of DNA and RNA synthesis. This agent is more active against tumor cells that are defective in p53 function.",
+    "fdaUniiCode": "66Q80IL7CW",
+    "identifier": "C1188",
+    "preferredName": "Penclomedine",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C746"
+    ],
+    "synonyms": [
+      "3,5-dichloro-2,4-dimethoxy-6-(trichloromethyl) pyridine",
+      "CRC 88-04",
+      "PEN",
+      "PENCLOMEDINE",
+      "Penclomedine",
+      "Pyridine, 3,5-dichloro-2,4-dimethoxy-6-(trichloromethyl)-",
+      "penclomedine"
+    ]
+  }
+}

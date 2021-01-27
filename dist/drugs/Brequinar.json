@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Brequinar",
+  "nciThesaurus": {
+    "casRegistry": "96187-53-0",
+    "chebiId": "",
+    "chemicalFormula": "C23H15F2NO2",
+    "definition": "A synthetic quinolinecarboxylic acid analogue with antineoplastic properties.  Brequinar inhibits the enzyme dihydroorotate dehydrogenase, thereby blocking de novo pyrimidine biosynthesis.  This agent may also enhance the in vivo antitumor effect of antineoplastic agents such as 5-FU.",
+    "fdaUniiCode": "5XL19F49H6",
+    "identifier": "C1560",
+    "preferredName": "Brequinar",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1557",
+      "C2169"
+    ],
+    "synonyms": [
+      "6-Fluoro-2-(2'-fluoro[1,1'-biphenyl]-4-yl)-3-methyl-4-quinolinecarboxylic Acid",
+      "BREQUINAR",
+      "Bipenquinate",
+      "Brequinar"
+    ]
+  }
+}

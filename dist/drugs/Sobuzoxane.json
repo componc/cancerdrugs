@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Sobuzoxane",
+  "nciThesaurus": {
+    "casRegistry": "98631-95-9",
+    "chebiId": "",
+    "chemicalFormula": "C22H34N4O10",
+    "definition": "The orally available active prodrug of ICRF-154, a bisdioxopiperazine derivative, with cardioprotective and antineoplastic activities. Like other ICRF compounds, sobuzoxane and its active metabolite ICRF-154 interfere with topoisomerase II activity prior to the formation of intermediate cleavable DNA-enzyme complexes during the catalytic cycle resulting in tumor cell growth inhibition. Furthermore, sobuzoxane chelates metal cations thereby limiting the formation of free radical-generating anthracycline-metal complexes and may prevent anthracycline-induced oxidative damage to cardiac and soft tissues.",
+    "fdaUniiCode": "R1308VH37P",
+    "identifier": "C66540",
+    "preferredName": "Sobuzoxane",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1968"
+    ],
+    "synonyms": [
+      "1,2-Bis(4-isobutoxycarbonyloxymethyl-3,5-dioxo-piperazin-1-yl)ethane",
+      "MST-16",
+      "SOBUZOXANE",
+      "Sobuzoxane"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Demcizumab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "1243262-17-0",
+    "definition": "A humanized monoclonal antibody directed against the N-terminal epitope of Notch ligand DLL4 (delta-like 4) with potential antineoplastic activity. Demcizumab binds to the membrane-binding portion of DLL4 and prevents its interaction with Notch-1 and Notch-4 receptors, thereby inhibiting Notch-mediated signaling and gene transcription, which may impede tumor angiogenesis. Activation of Notch receptors by DLL4 stimulates proteolytic cleavage of the Notch intracellular domain (NICD); after cleavage, NICD is translocated into the nucleus and mediates the transcriptional regulation of a variety of genes involved in vascular development. The expression of DLL4 is highly restricted to the vascular endothelium.",
+    "fdaUniiCode": "SF168W7FW0",
+    "identifier": "C80041",
+    "preferredName": "Demcizumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-DLL4 Monoclonal Antibody OMP-21M18",
+      "Anti-Delta-like 4 Monoclonal Antibody OMP-21M18",
+      "DEMCIZUMAB",
+      "Demcizumab",
+      "OMP-21M18"
+    ]
+  }
+}

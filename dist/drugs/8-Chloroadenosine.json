@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "8-Chloroadenosine",
+  "nciThesaurus": {
+    "casRegistry": "34408-14-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antimetabolite and a chlorine derivative of the purine nucleoside adenosine, with potential antineoplastic activity. Upon administration, 8-chloro-adenosine is phosphorylated to form 8-chloro-adenosine triphosphate (8-chloro-ATP), which functions as a ribonucleoside analogue and competes with ATP during transcription. Therefore, this agent causes RNA synthesis inhibition, inhibits cellular proliferation, and induces apoptosis.",
+    "fdaUniiCode": "PA05MFH3I7",
+    "identifier": "C124047",
+    "preferredName": "8-Chloroadenosine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1556",
+      "C1934"
+    ],
+    "synonyms": [
+      "8-CHLOROADENOSINE",
+      "8-Chloro-adenosine",
+      "8-Chloroadenosine",
+      "8-Cl-Ado",
+      "8-Cl-adenosine",
+      "Adenosine, 8-Chloro-"
+    ]
+  }
+}

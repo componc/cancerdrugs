@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Cetuximab_Sarotalocan",
+  "nciThesaurus": {
+    "casRegistry": "2166339-33-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A chemical conjugate composed of the dye IR700 linked to cetuximab, a monoclonal antibody directed against the epidermal growth factor receptor (EGFR), with potential antineoplastic activity. Upon injection of cetuximab sarotalocan, the cetuximab moiety targets and binds to EGFR-expressing tumor cells, resulting in the internalization of the conjugate. Upon localized application of near-infrared (NIR) light, the IR700 dye becomes activated, disrupts the cell membrane and selectively kills the EGFR-expressing tumor cells. EGFR, a tyrosine kinase receptor, is overexpressed in a variety of cancers.",
+    "fdaUniiCode": "MG94W1I5XW",
+    "identifier": "C121850",
+    "preferredName": "Cetuximab Sarotalocan",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1512"
+    ],
+    "synonyms": [
+      "ASP 1929",
+      "ASP-1929",
+      "ASP1929",
+      "CETUXIMAB SAROTALOCAN",
+      "Cet-IR700",
+      "Cetuximab Sarotalocan",
+      "Cetuximab-IR700 Conjugate RM-1929",
+      "RM-1929"
+    ]
+  }
+}

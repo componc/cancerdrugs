@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Spiroplatin",
+  "nciThesaurus": {
+    "casRegistry": "74790-08-2",
+    "chebiId": "",
+    "chemicalFormula": "C8H18N2.O4S.Pt",
+    "definition": "A synthetic derivative of cyclohexane sulfatoplatinum with antineoplastic properties.  Spiroplatin induces DNA cross-links, thereby inhibiting DNA replication and RNA and protein synthesis. Similar to other platinum compounds, this agent has been shown to be mutagenic and carcinogenic.",
+    "fdaUniiCode": "H2V318W7LE",
+    "identifier": "C1234",
+    "preferredName": "Spiroplatin",
+    "semanticType": "Inorganic Chemical",
+    "subclassOf": [
+      "C1450"
+    ],
+    "synonyms": [
+      "Cis-1,1-diamino-methylcyclohexane sulfato-platinum",
+      "Platinum, (1,1-cyclohexanedimethanamine-n,n')(sulfato(2-)-O,O')-, (sp-4-2)-",
+      "SPIROPLATIN",
+      "Spiroplatin",
+      "TNO-6"
+    ]
+  }
+}

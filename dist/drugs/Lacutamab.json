@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Lacutamab",
+  "nciThesaurus": {
+    "casRegistry": "2187368-16-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody against the immune receptor human killer cell immunoglobulin-like receptor, three domains, long cytoplasmic tail, 2 (KIR3DL2), with potential immunomodulating and antineoplastic activities. Upon administration, lacutamab binds to KIR3DL2 expressed on certain tumor cells. This recruits natural killer (NK) cells and leads to lysis of KIR3DL2-expressing tumor cells. In addition, IPH4102 induces antibody-dependent cellular cytotoxicity (ADCC), thereby further eliminating tumor cells. KIR3DL2, a tumor-associated antigen (TAA) and inhibitory receptor of the KIR family, is specifically expressed in most subtypes of cutaneous T-cell lymphomas (CTCL) and expressed only on a fraction of normal NK cells.",
+    "fdaUniiCode": "N8O7MY0VNS",
+    "identifier": "C124999",
+    "preferredName": "Lacutamab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-KIR3DL2 Monoclonal Antibody IPH4102",
+      "Anti-KIR3DL2 mAb IPH4102",
+      "IPH-4102",
+      "IPH4102",
+      "LACUTAMAB",
+      "Lacutamab"
+    ]
+  }
+}

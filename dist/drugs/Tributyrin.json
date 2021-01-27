@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tributyrin",
+  "nciThesaurus": {
+    "casRegistry": "60-01-5",
+    "chebiId": "",
+    "chemicalFormula": "C15H26O6",
+    "definition": "A triglyceride prodrug of butyric acid with potential antineoplastic activity. Butyrate, the active metabolite of tributyrin, inhibits histone deacetylase, resulting in increased differentiation, decreased proliferation, cell cycle arrest, and apoptosis in some tumor cell lines.",
+    "fdaUniiCode": "S05LZ624MF",
+    "identifier": "C1260",
+    "preferredName": "Tributyrin",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [],
+    "synonyms": [
+      "1,2,3-Propanetriyl Butanoate",
+      "1,2,3-Tributyrylglycerol",
+      "Butanoic Acid 1,2,3-Propanetriyl Ester",
+      "Butanoic Acid, 1,2,3-Propanetriyl Ester",
+      "Butyryl Triglyceride",
+      "Glyceryl Tributyrate",
+      "Glyceryl tributyrate",
+      "TB",
+      "TRIBUTYRIN",
+      "Tributyrin",
+      "tributyrin"
+    ]
+  }
+}

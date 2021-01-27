@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mitobronitol",
+  "nciThesaurus": {
+    "casRegistry": "488-41-5",
+    "chebiId": "",
+    "chemicalFormula": "C6H12Br2O4",
+    "definition": "A brominated analog of mannitol with potential antineoplastic activity. Mitobronitol most likely acts through alkylation via derived epoxide groups.",
+    "fdaUniiCode": "5UP30YED7N",
+    "identifier": "C659",
+    "preferredName": "Mitobronitol",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1590"
+    ],
+    "synonyms": [
+      "1,6-Dibromo-1,6-dideoxy-D-mannitol",
+      "DBM",
+      "Dibromomannitol",
+      "MITOBRONITOL",
+      "Mitobronitol",
+      "Myelobromol"
+    ]
+  }
+}

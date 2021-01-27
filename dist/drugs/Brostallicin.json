@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Brostallicin",
+  "nciThesaurus": {
+    "casRegistry": "203258-60-0",
+    "chebiId": "",
+    "chemicalFormula": "C30H35BrN12O5",
+    "definition": "A synthetic, alpha-bromoacrylic, second-generation minor groove binder (MGB), related to distamycin A, with potential antineoplastic activity. Brostallicin binds to DNA minor groove DNA, after having formed a highly reactive glutathione (GSH)-brostallicin complex in the presence of the enzyme glutathione S-transferase (GST), which is overexpressed in cancer cells; DNA replication and cell division are inhibited, resulting in tumor cell death. Compared to typical MGBs, this agent appears to bind covalently to DNA in a different manner and its activity does not depend on a functional DNA mismatch repair (MMR) mechanism. Accordingly, brostallicin may be effective against MMR-defective tumors that are refractory to various anticancer agents.",
+    "fdaUniiCode": "RPC6R41K4I",
+    "identifier": "C1889",
+    "preferredName": "Brostallicin",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2115",
+      "C446"
+    ],
+    "synonyms": [
+      "4-(2-Bromoacrylamido)-N'''-(2-guanidinoethyl)-1,1',1',1'''-tetramethyl-N,4':N',4':N',4'''-quater(pyrrole-2-carboxamide)",
+      "BROSTALLICIN",
+      "Brostallicin",
+      "PNU-166196"
+    ]
+  }
+}

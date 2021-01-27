@@ -1,0 +1,48 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "GUNA-GERIATRICS",
+      "indication": "USES TAKE 15 MINUTES BEFORE MEALS",
+      "manufacturer": "Guna spa",
+      "splSetId": "03dc86d3-575f-4c65-b06d-2613efbcd943"
+    },
+    {
+      "brand": "GUNA-AWARENESS",
+      "indication": "Take 15 minutes before meals",
+      "manufacturer": "Guna spa",
+      "splSetId": "10e46b39-7903-4390-b72d-865291245b4c"
+    },
+    {
+      "brand": "Thyrogen",
+      "indication": "1 INDICATIONS AND USAGE THYROGEN \u00ae is a thyroid stimulating hormone indicated for: Adjunctive Diagnostic Tool for Well-Differentiated Thyroid Cancer: Use as an adjunctive diagnostic tool for serum thyroglobulin (Tg) testing with or without radioiodine imaging in the follow-up of patients with well-differentiated thyroid cancer who have previously undergone thyroidectomy. ( 1.1 ) Limitations of Use : THYROGEN-stimulated Tg levels are generally lower than, and do not correlate with Tg levels after thyroid hormone withdrawal. Even when THYROGEN-Tg testing is performed in combination with radioiodine imaging, there remains a risk of missing a diagnosis of thyroid cancer or underestimating the extent of the disease. Anti-Tg Antibodies may confound the Tg assay and render Tg levels uninterpretable. Adjunct for Thyroid Remnant Ablation in Well-Differentiated Thyroid Cancer: Use as an adjunctive treatment for radioiodine ablation of thyroid tissue remnants in patients who have undergone a near-total or total thyroidectomy for well-differentiated thyroid cancer and who do not have evidence of distant metastatic thyroid cancer. ( 1.2 ) Limitations of Use : The effect of THYROGEN on thyroid cancer recurrence greater than 5 years post-remnant ablation has not been evaluated. 1.1 Adjunctive Diagnostic Tool for Well-Differentiated Thyroid Cancer THYROGEN \u00ae is indicated for use as an adjunctive diagnostic tool for serum thyroglobulin (Tg) testing with or without radioiodine imaging in the follow-up of patients with well-differentiated thyroid cancer who have previously undergone thyroidectomy. Limitations of Use : THYROGEN-stimulated Tg levels are generally lower than, and do not correlate with, Tg levels after thyroid hormone withdrawal [see Clinical Studies (14.1) ] . Even when THYROGEN-stimulated Tg testing is performed in combination with radioiodine imaging, there remains a risk of missing a diagnosis of thyroid cancer or of underestimating the extent of disease. Anti-Tg antibodies may confound the Tg assay and render Tg levels uninterpretable [see Clinical Studies (14.1) ] . Therefore, in such cases, even with a negative or low-stage THYROGEN radioiodine scan, consideration should be given to further evaluating patients. 1.2 Adjunct for Thyroid Remnant Ablation in Well-Differentiated Thyroid Cancer THYROGEN is indicated for use as an adjunctive treatment for radioiodine ablation of thyroid tissue remnants in patients who have undergone a near-total or total thyroidectomy for well-differentiated thyroid cancer and who do not have evidence of distant metastatic thyroid cancer. Limitations of Use : The effect of THYROGEN on thyroid cancer recurrence greater than five years post-remnant ablation has not been evaluated [see Clinical Studies (14.2) ] .",
+      "manufacturer": "Genzyme Corporation",
+      "splSetId": "b52dfa36-f90b-4e19-9b5e-26db9d04df2b"
+    }
+  ],
+  "id": "Recombinant_Thyrotropin_Alfa",
+  "nciThesaurus": {
+    "casRegistry": "194100-83-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant form of the human anterior pituitary glycoprotein thyroid stimulating hormone (TSH) with use in the diagnostic setting. With an amino acid sequence identical to that of human TSH, thyrotropin alfa binds to TSH receptors on normal thyroid epithelial cells or well-differentiated thyroid cancer cells, stimulating iodine uptake and organification, synthesis and secretion of thyroglobulin (Tg), triiodothyronine (T3), and thyroxine (T4).",
+    "fdaUniiCode": "AVX3D5A4LM",
+    "identifier": "C61322",
+    "preferredName": "Recombinant Thyrotropin Alfa",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C2348"
+    ],
+    "synonyms": [
+      "Recombinant TSH Alpha",
+      "Recombinant Thyrotropin Alfa",
+      "Recombinant Thyrotropin Alpha",
+      "THYROTROPIN ALFA",
+      "TSH-alpha",
+      "Thyrogen",
+      "Thyroid Stimulating Hormone Alpha",
+      "Thyrotropin Alfa",
+      "thyrotropin alfa"
+    ]
+  }
+}

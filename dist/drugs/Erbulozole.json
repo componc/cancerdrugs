@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Erbulozole",
+  "nciThesaurus": {
+    "casRegistry": "124784-31-2",
+    "chebiId": "",
+    "chemicalFormula": "C24H27N3O5S",
+    "definition": "A water soluble congener of tubulozole and a tubulin binding agent with potential antimitotic and antineoplastic activities. Erbulozole targets and binds to tubulin, thereby preventing the polymerization of tubulin. This may lead to an inhibition of cell division and induction of apoptosis.",
+    "fdaUniiCode": "78XGN2K5RX",
+    "identifier": "C73258",
+    "preferredName": "Erbulozole",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C25974"
+    ],
+    "synonyms": [
+      "Carbamic acid, (4-(((2-(1H-imidazol-1-ylmethyl)-2-(4-methoxyphenyl)-1,3-dioxolan-4-yl)methyl)thio)phenyl)-,ethyl ester, cis-(+-)-",
+      "ERBULOZOLE",
+      "Erbulozole",
+      "R55104"
+    ]
+  }
+}

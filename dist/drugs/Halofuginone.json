@@ -1,0 +1,21 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Halofuginone",
+  "nciThesaurus": {
+    "casRegistry": "55837-20-2",
+    "chebiId": "",
+    "chemicalFormula": "C16H17BrClN3O3",
+    "definition": "An orally-active quinazolinone alkaloid with potential antineoplastic activity. Halofuginone interferes with the signaling pathway of transforming growth factor beta (TGF beta) and inhibits expression of matrix metalloproteinase 2, thereby inhibiting collagen type I synthesis and inducing extracellular matrix degradation, resulting in inhibition of angiogenesis, tumor growth, or metastasis.",
+    "fdaUniiCode": "L31MM1385E",
+    "identifier": "C1120",
+    "preferredName": "Halofuginone",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [],
+    "synonyms": [
+      "HALOFUGINONE",
+      "Halofuginone",
+      "trans-(+/-)-7-Bromo-6-chloro-3-[3-(3-hydroxy-2-piperidinyl)-2-oxopropyl]-4(3H)-quinazolinone"
+    ]
+  }
+}

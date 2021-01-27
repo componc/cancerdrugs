@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Irinotecan_Sucrosofate",
+  "nciThesaurus": {
+    "casRegistry": "1361317-83-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A liposomal formulation of the semisynthetic camptothecin analogue irinotecan with potential antineoplastic activity. During the S phase of the cell cycle, irinotecan selectively stabilizes topoisomerase I-DNA covalent complexes, inhibiting religation of topoisomerase I-mediated single-strand DNA breaks and producing lethal double-strand DNA breaks when complexes are encountered by the DNA replication machinery. Liposome encapsulation of this agent promotes efficient drug delivery into the cytosol from the endosome compartment of the cell.",
+    "fdaUniiCode": "OL741S3N8B",
+    "identifier": "C82676",
+    "preferredName": "Irinotecan Sucrosofate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2843"
+    ],
+    "synonyms": [
+      "IRINOTECAN SUCROSOFATE",
+      "Irinotecan Liposome",
+      "Irinotecan Sucrosofate",
+      "MM-398",
+      "Nanoliposomal Irinotecan",
+      "Nanoparticle Liposome Formulation of Irinotecan",
+      "Onivyde",
+      "PEP02",
+      "nal-IRI"
+    ]
+  }
+}

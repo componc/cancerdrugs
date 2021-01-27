@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ulixertinib",
+  "nciThesaurus": {
+    "casRegistry": "869886-67-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available inhibitor of extracellular signal-regulated kinase (ERK) 1 and 2, with potential antineoplastic activity. Upon oral administration, ulixertinib inhibits both ERK 1 and 2, thereby preventing the activation of ERK-mediated signal transduction pathways. This results in the inhibition of ERK-dependent tumor cell proliferation and survival. The mitogen-activated protein kinase (MAPK)/ERK pathway is often upregulated in a variety of tumor cell types and plays a key role in tumor cell proliferation, differentiation and survival.",
+    "fdaUniiCode": "16ZDH50O1U",
+    "identifier": "C104744",
+    "preferredName": "Ulixertinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C61074"
+    ],
+    "synonyms": [
+      "1H-Pyrrole-2-carboxamide, 4-(5-chloro-2-((1-methylethyl)amino)-4-pyridinyl)-N-((1S)-1-(3-chlorophenyl)-2-hydroxyethyl)-",
+      "BVD-523",
+      "ULIXERTINIB",
+      "Ulixertinib",
+      "VRT752271"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "BET_Inhibitor_RO6870810",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A small molecule inhibitor of the BET (Bromodomain and Extra-Terminal) family of bromodomain-containing proteins with potential antineoplastic activity. Upon administration, the BET inhibitor RO6870810 binds to the acetylated lysine recognition motifs found in the bromodomain of BET proteins, which prevents the interaction between BET proteins and acetylated histones. This interaction disrupts chromatin remodeling and gene expression. Prevention of the expression of certain growth-promoting genes may lead to an inhibition of tumor cell growth. Characterized by a tandem repeat of bromodomains at the N-terminus, BET proteins, comprised of BRD2, BRD3, BRD4 and BRDT, are transcriptional regulators that play an important role during cellular development and growth.",
+    "fdaUniiCode": "TA3QN7788D",
+    "identifier": "C112500",
+    "preferredName": "BET Inhibitor RO6870810",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C128462"
+    ],
+    "synonyms": [
+      "BET Inhibitor RO6870810",
+      "Bromodomain and Extra-Terminal Protein Inhibitor RO6870810",
+      "RG 6146",
+      "RG6146",
+      "RO-6870810",
+      "RO6870810",
+      "TEN 010",
+      "TEN-010"
+    ]
+  }
+}

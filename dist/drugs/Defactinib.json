@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Defactinib",
+  "nciThesaurus": {
+    "casRegistry": "1073154-85-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, small-molecule focal adhesion kinase (FAK) inhibitor with potential antiangiogenic and antineoplastic activities. Defactinib inhibits FAK, which may prevent the integrin-mediated activation of several downstream signal transduction pathways, including those involving RAS/MEK/ERK and PI3K/Akt, thus inhibiting tumor cell migration, proliferation, survival, and tumor angiogenesis. The tyrosine kinase FAK, a signal transducer for integrins, is normally activated by binding to integrins in the extracellular matrix (ECM) but may be upregulated and constitutively activated in various tumor cell types.",
+    "fdaUniiCode": "53O87HA2QU",
+    "identifier": "C79809",
+    "preferredName": "Defactinib",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C129825",
+      "C1742",
+      "C1967"
+    ],
+    "synonyms": [
+      "Benzamide, N-methyl-4-((4-(((3-(methyl(methylsulfonyl)amino)-2-pyrazinyl)methyl)amino)-5-(trifluoromethyl)-2-pyrimidinyl)amino)-",
+      "DEFACTINIB",
+      "Defactinib"
+    ]
+  }
+}

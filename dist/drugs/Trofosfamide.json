@@ -1,0 +1,35 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Trofosfamide",
+  "nciThesaurus": {
+    "casRegistry": "22089-22-1",
+    "chebiId": "",
+    "chemicalFormula": "C9H18Cl3N2O2P",
+    "definition": "An orally bioavailable oxazaphosphorine prodrug with antineoplastic activity. Trofosfamide (TFF) is metabolized predominantly to the cyclophosphamide analogue ifosfamide (IFO), which is then metabolized by liver cytochrome P450s to the active isophosphoramide mustard (IPM). IPM alkylates DNA to form DNA-DNA cross-links, which may result in inhibition of DNA, RNA and protein synthesis, and ultimately lead to tumor cell apoptosis.",
+    "fdaUniiCode": "H64JRU6GJ0",
+    "identifier": "C1268",
+    "preferredName": "Trofosfamide",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C697"
+    ],
+    "synonyms": [
+      "2-[bis(2-chloroethyl)amino]-3-(2-chloroethyl)tetrahydro-2H-1,3,2-oxaphosphorine 2-oxide",
+      "2H-1,3,2-Oxazaphosphorin-2-amine, N,N, 3-tris(2-chloroethyl)tetrahydro-, 2-oxide, (+)-",
+      "2H-1,3,2-Oxazaphosphorin-2-amine, N,N, 3-tris(2-chloroethyl)tetrahydro-, 2-oxide, (-)-",
+      "A-4828",
+      "Genoxal Trofosfamida",
+      "Ixoten",
+      "N,N,3-tris(2-chloroethyl)tetrahydro-2H-1,3,2-oxazaphosphorin-2-amine 2-oxide",
+      "N,N,N'-tris(2-chloroethyl)-N',O-propylene phosphoric acid ester diamide",
+      "TROFOSFAMIDE",
+      "Trilophosphamide",
+      "Trofosfamid",
+      "Trofosfamide",
+      "Trophosphamide",
+      "Z 4828",
+      "Z-4828"
+    ]
+  }
+}

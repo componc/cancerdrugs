@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Letaplimab",
+  "nciThesaurus": {
+    "casRegistry": "2283356-07-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A human immunoglobulin G4 (IgG4) monoclonal antibody targeting leukocyte surface antigen CD47 with potential immunostimulating and antineoplastic activities. Upon intravenous administration, letaplimab selectively binds to CD47 expressed on tumor cells and blocks the interaction of CD47 with signal regulatory protein alpha (SIRPa), a protein expressed on phagocytic cells. This prevents CD47/SIRPa-mediated signaling and abrogates the CD47/SIRPa-mediated inhibition of phagocytosis. This induces pro-phagocytic signaling mediated by the binding of calreticulin (CRT), which is specifically expressed on the surface of tumor cells, to low-density lipoprotein (LDL) receptor-related protein (LRP), expressed on macrophages. This results in macrophage activation and the specific phagocytosis of tumor cells. In addition, blocking CD47 signaling activates both an anti-tumor T-lymphocyte immune response and T cell-mediated killing of CD47-expressing tumor cells. CD47, also called integrin-associated protein (IAP), is a tumor-associated antigen (TAA) expressed on normal, healthy hematopoietic stem cells (HSCs) and overexpressed on the surface of a variety of cancer cells. Expression of CD47, and its interaction with SIRPa, leads to the inhibition of macrophage activation and protects cancer cells from phagocytosis, which allows cancer cells to proliferate.",
+    "fdaUniiCode": "BDN84I1TFE",
+    "identifier": "C157385",
+    "preferredName": "Letaplimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C159583"
+    ],
+    "synonyms": [
+      "Anti-CD47 Monoclonal Antibody IBI188",
+      "IBI 188",
+      "IBI-188",
+      "IBI188",
+      "LETAPLIMAB",
+      "Letaplimab"
+    ]
+  }
+}

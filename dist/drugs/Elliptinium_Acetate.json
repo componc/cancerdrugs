@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Elliptinium_Acetate",
+  "nciThesaurus": {
+    "casRegistry": "58337-35-2",
+    "chebiId": "",
+    "chemicalFormula": "C18H17N2O.C2H3O2",
+    "definition": "Acetate salt of elliptinium, a derivative of the alkaloid ellipticine isolated from species of the plant family Apocynaceae, including Bleekeria vitensis, a plant with anti-cancer properties.  As a topoisomerase II inhibitor and intercalating agent, elliptinium stabilizes the cleavable complex of topoisomerase II and induces DNA breakages, thereby inhibiting DNA replication and RNA and protein synthesis.",
+    "fdaUniiCode": "H9B41234P4",
+    "identifier": "C1367",
+    "preferredName": "Elliptinium Acetate",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1968",
+      "C582"
+    ],
+    "synonyms": [
+      "6H-Pyrido[4, 3-b]carbazolium, 9-hydroxy-2,5,11-trimethyl-acetate (salt)",
+      "9-Hydroxy-2,5,11-trimethyl-6H-pyrido[4,3-b]carbazolium Acetate (Salt)",
+      "9-Hydroxy-2-methylellipticinium Acetate",
+      "9-Hydroxy-2-methylellipticinium acetate",
+      "Celiptium",
+      "ELLIPTINIUM ACETATE",
+      "Elliptinium Acetate",
+      "N-2-Methyl-9-hydroxyellipticinium Acetate"
+    ]
+  }
+}

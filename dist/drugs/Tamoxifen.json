@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tamoxifen",
+  "nciThesaurus": {
+    "casRegistry": "10540-29-1",
+    "chebiId": "CHEBI:41774",
+    "chemicalFormula": "C26H29NO",
+    "definition": "An antineoplastic nonsteroidal selective estrogen receptor modulator (SERM).  Tamoxifen competitively inhibits the binding of estradiol to estrogen receptors, thereby preventing the receptor from binding to the estrogen-response element on DNA.  The result is a reduction in DNA synthesis and cellular response to estrogen.  In addition, tamoxifen up-regulates the production of transforming growth factor B (TGFb), a factor that inhibits tumor cell growth, and down-regulates insulin-like growth factor 1 (IGF-1), a factor that stimulates breast cancer cell growth.",
+    "fdaUniiCode": "094ZI81Y45",
+    "identifier": "C62078",
+    "preferredName": "Tamoxifen",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1821",
+      "C2089"
+    ],
+    "synonyms": [
+      "1-p-beta-dimethylamino-ethoxyphenyl-trans-1,2-diphenylbut-1-ene",
+      "TAMOXIFEN",
+      "Tamoxifen",
+      "tamoxifen"
+    ]
+  }
+}

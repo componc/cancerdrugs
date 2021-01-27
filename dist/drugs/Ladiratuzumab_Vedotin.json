@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ladiratuzumab_Vedotin",
+  "nciThesaurus": {
+    "casRegistry": "1629760-29-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) composed of a humanized monoclonal antibody directed against the anti-solute carrier family 39 zinc transporter member 6 (SLC39A6; LIV-1; ZIP6) protein that is conjugated, via a protease-cleavable linker, to the cytotoxic agent monomethyl auristatin E (MMAE), with potential antineoplastic activity. Upon administration and internalization by LIV-1-positive tumor cells, ladiratuzumab vedotin undergoes enzymatic cleavage to release MMAE into the cytosol. In turn, MMAE binds to and inhibits tubulin polymerization, which may result in G2/M phase cell cycle arrest and apoptosis in LIV-1-expressing tumor cells. LIV-1, a member of the zinc transporter family, is expressed in several types of solid tumors and plays a key role in tumor cell progression and metastasis. The linkage system in ladiratuzumab vedotin is highly stable in plasma, resulting in cytotoxic specificity against LIV-1-positive cells.",
+    "fdaUniiCode": "VM4G5D1A60",
+    "identifier": "C112001",
+    "preferredName": "Ladiratuzumab Vedotin",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C129823",
+      "C20401"
+    ],
+    "synonyms": [
+      "LADIRATUZUMAB VEDOTIN",
+      "Ladiratuzumab Vedotin",
+      "SGN-LIV1A"
+    ]
+  }
+}

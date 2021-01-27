@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mavelertinib",
+  "nciThesaurus": {
+    "casRegistry": "1776112-90-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available inhibitor of the epidermal growth factor receptor (EGFR) mutant form T790M, with potential antineoplastic activity. Mavelertinib specifically binds to and inhibits EGFR T790M, a secondary acquired resistance mutation, which prevents EGFR-mediated signaling and leads to cell death in EGFR/T790M-expressing tumor cells. Compared to some other EGFR inhibitors, PF-06747775 may have therapeutic benefits in tumors with T790M-mediated drug resistance. This agent shows minimal activity against wild-type EGFR (WT EGFR), and does not cause dose-limiting toxicities that occur during the use of non-selective EGFR inhibitors, which can inhibit WT EGFR. EGFR, a receptor tyrosine kinase mutated in many tumor cell types, plays a key role in tumor cell proliferation and tumor vascularization.",
+    "fdaUniiCode": "YXX2180047",
+    "identifier": "C120307",
+    "preferredName": "Mavelertinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2167"
+    ],
+    "synonyms": [
+      "2-Propenamide, N-((3R,4R)-4-fluoro-1-(6-((3-methoxy-1-methyl-1H-pyrazol-4-yl)amino)-9-methyl-9H-purin-2-yl)-3-pyrrolidinyl)-",
+      "MAVELERTINIB",
+      "Mavelertinib",
+      "PF-06747775"
+    ]
+  }
+}

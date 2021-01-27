@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Fluvastatin",
+  "nciThesaurus": {
+    "casRegistry": "93957-54-1",
+    "chebiId": "CHEBI:38561",
+    "chemicalFormula": "C24H26FNO4",
+    "definition": "A synthetic lipid-lowering agent with antilipidemic and potential antineoplastic properties. Fluvastatin competitively inhibits hepatic 3-hydroxy-3-methylglutaryl coenzyme A (HMG-CoA) reductase, which catalyzes the conversion of HMG-CoA to mevalonate, a key step in cholesterol synthesis. This agent lowers plasma cholesterol and lipoprotein levels, and modulates immune responses through the suppression of MHC II (major histocompatibility complex II) on interferon gamma-stimulated antigen-presenting cells such as human vascular endothelial cells. Due to its anti-inflammatory effects mediated by alterations of lipid metabolism, fluvastatin may possess chemopreventive and therapeutic antineoplastic properties.",
+    "fdaUniiCode": "4L066368AS",
+    "identifier": "C61768",
+    "preferredName": "Fluvastatin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1655"
+    ],
+    "synonyms": [
+      "FLUVASTATIN",
+      "Fluvastatin"
+    ]
+  }
+}

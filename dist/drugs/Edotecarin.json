@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Edotecarin",
+  "nciThesaurus": {
+    "casRegistry": "174402-32-5",
+    "chebiId": "",
+    "chemicalFormula": "C29H28N4O11",
+    "definition": "A synthetic indolocarbazole with antineoplastic activity. Edotecarin inhibits the enzyme topoisomerase I through stabilization of the DNA-enzyme complex and enhanced single-strand DNA cleavage, resulting in inhibition of DNA replication and decreased tumor cell proliferation.",
+    "fdaUniiCode": "1V8X590XDP",
+    "identifier": "C2665",
+    "preferredName": "Edotecarin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1904"
+    ],
+    "synonyms": [
+      "6-N-(1-hydroxymethyla-2-hydroxy)ethylamino-12,13-dihydro-13-(beta-D-gluco pyranosyl)-5H-indolo[2,3-a]-pyrrolol[3,4-c]-carbazole-5,7(6H)-dione",
+      "EDOTECARIN",
+      "Edotecarin",
+      "J-107088",
+      "J107088",
+      "edotecarin"
+    ]
+  }
+}

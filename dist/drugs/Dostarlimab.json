@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Dostarlimab",
+  "nciThesaurus": {
+    "casRegistry": "2022215-59-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody directed against the negative immunoregulatory human cell surface receptor programmed cell death 1 (PD-1; programmed death-1), with potential immune checkpoint inhibitory and antineoplastic activities. Upon administration, dostarlimab binds to and inhibits PD-1 and its downstream signaling pathways. This may restore immune function through the activation of T-cells. PD-1, a transmembrane protein in the Ig superfamily expressed on T-cells, functions as an immune checkpoint protein that negatively regulates T-cell activation and T-cell-mediated immune responses when activated by its ligands programmed cell death receptor ligand 1 (PD-L1) or 2 (PD-L2); it plays an important role in tumor evasion from host immunity.",
+    "fdaUniiCode": "P0GVQ9A4S5",
+    "identifier": "C126799",
+    "preferredName": "Dostarlimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C128037",
+      "C129822"
+    ],
+    "synonyms": [
+      "ANB011",
+      "DOSTARLIMAB",
+      "Dostarlimab",
+      "Immunoglobulin G4, Anti-programmed Cell Death Protein 1 (PDCD1) (Humanized Clone ABT1 Gamma4-chain), Disulfide with Humanized Clone ABT1 Kappa-chain, Dimer",
+      "TSR 042",
+      "TSR-042",
+      "TSR042"
+    ]
+  }
+}

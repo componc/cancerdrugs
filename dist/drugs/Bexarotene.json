@@ -1,0 +1,86 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "bexarotene",
+      "conditionIndication": "Targretin capsules are indicated for the treatment of skin manifestations of advanced stage cutaneous T-cell lymphoma (CTCL) patients refractory to at least one systemic treatment.",
+      "inn": "bexarotene",
+      "marketingAuthorisationDate": "2001-03-29 00:00:00",
+      "marketingAuthorisationHolder": "Eisai GmbH",
+      "medicineName": "Targretin",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/targretin"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Targretin",
+      "indication": "1 INDICATIONS AND USAGE TARGRETIN \u00ae (bexarotene) Capsules are indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy. TARGRETIN (bexarotene) is a retinoid indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy. ( 1 )",
+      "manufacturer": "Bausch Health US, LLC",
+      "splSetId": "1d056725-0576-4338-8089-6336e768ccdc"
+    },
+    {
+      "brand": "Bexarotene",
+      "indication": "1 INDICATIONS AND USAGE Bexarotene capsules are indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy. Bexarotene is a retinoid indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy. ( 1 )",
+      "manufacturer": "Mylan Pharmaceuticals Inc.",
+      "splSetId": "2d1eb4bd-51f9-4c9b-9fb1-0be5e30a3dc5"
+    },
+    {
+      "brand": "Bexarotene",
+      "indication": "1 INDICATIONS AND USAGE Bexarotene capsules are indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy. Bexarotene capsules are a retinoid indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy. ( 1 )",
+      "manufacturer": "Upsher-Smith Laboratories, Inc.",
+      "splSetId": "7437a43f-172a-4f4e-8132-fe23b00224f9"
+    },
+    {
+      "brand": "bexarotene",
+      "indication": "1 INDICATIONS AND USAGE Bexarotene capsules are indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy. Bexarotene capsule is a retinoid indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy. ( 1 )",
+      "manufacturer": "Oceanside Pharmaceuticals",
+      "splSetId": "7945daa3-b607-48c3-a94f-f3a28b033dad"
+    },
+    {
+      "brand": "Targretin",
+      "indication": "INDICATIONS AND USAGE Targretin (bexarotene) gel 1% is indicated for the topical treatment of cutaneous lesions in patients with CTCL (Stage IA and IB) who have refractory or persistent disease after other therapies or who have not tolerated other therapies.",
+      "manufacturer": "Bausch Health US, LLC",
+      "splSetId": "d35b4697-3f3b-4aa1-b5d9-153993e83811"
+    },
+    {
+      "brand": "Bexarotene",
+      "indication": "1 INDICATIONS AND USAGE Bexarotene capsules are indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy. Bexarotene capsules are a retinoid indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy. (1)",
+      "manufacturer": "Amneal Pharmaceuticals NY LLC",
+      "splSetId": "d7fc7c7b-2ecf-4543-8bb4-9b4415d66613"
+    },
+    {
+      "brand": "Bexarotene",
+      "indication": "1 INDICATIONS AND USAGE Bexarotene capsules are indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy. Bexarotene capsules are a retinoid indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy. ( 1 )",
+      "manufacturer": "Hikma Pharmaceuticals USA Inc.",
+      "splSetId": "dc8d68d1-0c5c-4004-b71d-22b83daf4270"
+    },
+    {
+      "brand": "Bexarotene",
+      "indication": "1 INDICATIONS AND USAGE Bexarotene capsules are indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy. Bexarotene capsules are a retinoid indicated for the treatment of cutaneous manifestations of cutaneous T-cell lymphoma in patients who are refractory to at least one prior systemic therapy. ( 1 )",
+      "manufacturer": "ANI Pharmaceuticals, Inc.",
+      "splSetId": "e713c60d-f623-4260-b0ca-db07e1365fd2"
+    }
+  ],
+  "id": "Bexarotene",
+  "nciThesaurus": {
+    "casRegistry": "153559-49-0",
+    "chebiId": "CHEBI:50859",
+    "chemicalFormula": "C24H28O2",
+    "definition": "A synthetic retinoic acid agent with potential antineoplastic, chemopreventive, teratogenic and embryotoxic properties.  Bexarotene selectively binds to and activates retinoid X receptors (RXRs), thereby inducing changes in gene expression that lead to cell differentiation, decreased cell proliferation, apoptosis of some cancer cell types, and tumor regression.",
+    "fdaUniiCode": "A61RXM4375",
+    "identifier": "C1635",
+    "preferredName": "Bexarotene",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C804"
+    ],
+    "synonyms": [
+      "3-methyl TTNEB",
+      "4-[1-(5,6,7,8-Tetrahydro-3,5,5,8,8-pentamethyl-2-naphthalenyl)ethenyl]benzoic Acid",
+      "BEXAROTENE",
+      "Bexarotene",
+      "LGD1069",
+      "Targretin",
+      "bexarotene"
+    ]
+  }
+}

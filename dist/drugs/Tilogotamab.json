@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tilogotamab",
+  "nciThesaurus": {
+    "casRegistry": "2109731-10-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An agonistic hexamer formation-enhanced mixture of two antibodies (HexaBody) that target two separate epitopes on death receptor type 5 (DR5; TNFRSF10B; tumor necrosis factor-related apoptosis-inducing ligand receptor 2; TRAILR2), with potential antineoplastic activity. Upon administration, tilogotamab specifically binds to and activates DR5. This results in the activation of caspase cascades and the induction of apoptosis in DR5-expressing tumor cells. DR5, a cell surface receptor and member of the tumor necrosis factor receptor superfamily (TNFRSF), is involved in the promotion of caspase-dependent apoptosis. Compared to other DR5 antibody-based agonists, the antibodies in GEN1029 (DR5-01 and DR5-05) elicit increased receptor activation because they exhibit enhanced formation of antibody hexamers and receptor clusters at the cell surface due to E430G mutations in the Fc domains of both antibodies.",
+    "fdaUniiCode": "1BU5EGF80S",
+    "identifier": "C153259",
+    "preferredName": "Tilogotamab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822"
+    ],
+    "synonyms": [
+      "DR5 HexaBody Agonist GEN1029",
+      "GEN 1029",
+      "GEN1029",
+      "HexaBody-DR5-01/DR5-05",
+      "HexaBody-DR5/DR5",
+      "Hx-DR5-01/05",
+      "TILOGOTAMAB",
+      "Tilogotamab"
+    ]
+  }
+}

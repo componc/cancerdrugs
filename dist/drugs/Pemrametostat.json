@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pemrametostat",
+  "nciThesaurus": {
+    "casRegistry": "1616392-22-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available, selective small molecule inhibitor of protein arginine methyltransferase 5 (PRMT5), with potential antiproliferative and antineoplastic activities. Although the mechanism of action has not been completely determined, pemrametostat binds to the substrate recognition site of PRMT5 following oral administration and inhibits its methyltransferase activity, which decreases the levels of both monomethylated and dimethylated arginine residues in histones H2A, H3 and H4 and modulates the expression of genes involved in several cellular processes, including cell proliferation. Therefore, this agent may increase the expression of antiproliferative genes and/or decrease the expression of genes that promote cell proliferation and may lead to decreased growth of rapidly proliferating cells, including cancer cells. PRTM5, an arginine methyltransferase that can catalyze the formation of both omega-N monomethylarginine (MMA) and symmetrical dimethylarginine (sDMA) on histones and a variety of other protein substrates, is overexpressed in several neoplasms.",
+    "fdaUniiCode": "VXT8SZ6875",
+    "identifier": "C142177",
+    "preferredName": "Pemrametostat",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C163968"
+    ],
+    "synonyms": [
+      "EPZ015938",
+      "GSK-3326595",
+      "GSK3326595",
+      "PEMRAMETOSTAT",
+      "PRMT5 Inhibitor GSK3326595",
+      "Pemrametostat",
+      "Protein Arginine Methyltransferase 5 Inhibitor GSK3326595"
+    ]
+  }
+}

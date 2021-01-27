@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Balstilimab",
+  "nciThesaurus": {
+    "casRegistry": "2230167-06-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A monoclonal antibody directed against the negative immunoregulatory human cell surface receptor programmed cell death 1 (PD-1, PCD-1; PDCD1) protein, with potential immune checkpoint inhibitory and antineoplastic activities. Upon administration, balstilimab binds to PD-1, and thereby blocks its binding to the PD-1 ligand programmed cell death-1 ligand 1 (PD-L1), and prevents the activation of its downstream signaling pathways. This may restore immune function through the activation of cytotoxic T-cells. PD-1, a transmembrane protein in the immunoglobulin superfamily expressed on activated T-cells, negatively regulates T-cell activation and effector function when activated by its ligand; it plays an important role in tumor evasion from host immunity.",
+    "fdaUniiCode": "1Q2QT5M7EO",
+    "identifier": "C136465",
+    "preferredName": "Balstilimab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C128037",
+      "C129822"
+    ],
+    "synonyms": [
+      "AGEN 2034",
+      "AGEN-2034",
+      "AGEN2034",
+      "BALSTILIMAB",
+      "Balstilimab"
+    ]
+  }
+}

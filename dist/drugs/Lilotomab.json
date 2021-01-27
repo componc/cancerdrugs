@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Lilotomab",
+  "nciThesaurus": {
+    "casRegistry": "1453362-55-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A murine immunoglobulin G1 (IgG1) monoclonal antibody directed against the CD37 antigen with potential antineoplastic activity. Upon administration, lilotomab both activates the immune system to induce an antibody-dependent cell-mediated cytotoxicity (ADCC) against CD37-overexpressing tumor cells and induces apoptosis in these tumor cells. CD37 is a transmembrane glycoprotein expressed at high-levels on B-cells and to a lesser extent on T-cells and myeloid cells, and is frequently overexpressed in certain B-cell malignancies.",
+    "fdaUniiCode": "58I6YNR7BV",
+    "identifier": "C165685",
+    "preferredName": "Lilotomab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-CD37 Monoclonal Antibody HH1",
+      "HH1",
+      "LILOTOMAB",
+      "Lilotomab"
+    ]
+  }
+}

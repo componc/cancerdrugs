@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Narnatumab",
+  "nciThesaurus": {
+    "casRegistry": "1188275-92-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fully human monoclonal antibody against RON (recepteur d'origine nantais; macrophage stimulating 1 receptor), with potential antineoplastic activity. Anti-RON monoclonal antibody IMC-RON8 binds to RON, thereby preventing binding of its ligand hepatocyte growth factor-like protein (HGFL or macrophage-stimulating protein (MSP)). This may prevent RON receptor-mediated signaling and may prevent cellular proliferation in tumor cells overexpressing RON. RON, a receptor tyrosine kinase, is overexpressed in a variety of epithelial cancer cell types and plays an important role in cellular proliferation, migration and invasion.",
+    "fdaUniiCode": "R42YK40U9M",
+    "identifier": "C91382",
+    "preferredName": "Narnatumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-RON Monoclonal Antibody IMC-RON8",
+      "IMC-RON8",
+      "NARNATUMAB",
+      "Narnatumab"
+    ]
+  }
+}

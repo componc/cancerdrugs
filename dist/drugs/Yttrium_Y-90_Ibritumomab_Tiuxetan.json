@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Yttrium_Y-90_Ibritumomab_Tiuxetan",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A radioimmunotherapeutic agent consisting of a murine monoclonal anti-CD20 antibody (ibritumomab) linked by the chelator tiuxetan to the radioisotope yttrium-90 (Y 90).  Yttrium Y 90 ibritumomab tiuxetan binds to and specifically delivers beta radiation to CD20-expressing tumor cells, thereby minimizing the systemic effects of radiation.",
+    "fdaUniiCode": "QA846JAV5B",
+    "identifier": "C1812",
+    "preferredName": "Yttrium Y-90 Ibritumomab Tiuxetan",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129819",
+      "C1511"
+    ],
+    "synonyms": [
+      "IDEC-Y2B8",
+      "IDEC-Y2B8 monoclonal antibody",
+      "Y 90 Ibritumomab Tiuxetan",
+      "Y 90 Zevalin",
+      "Y 90 ibritumomab tiuxetan",
+      "YTTRIUM Y-90 IBRITUMOMAB TIUXETAN",
+      "Yttrium Y 90 Ibritumomab Tiuxetan",
+      "Yttrium Y-90 Ibritumomab Tiuxetan",
+      "yttrium Y90 ibritumomab tiuxetan"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Dusigitumab",
+  "nciThesaurus": {
+    "casRegistry": "1204390-13-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody directed against insulin-like growth factors 1 and 2 (IGF-1/2) with potential antineoplastic activity. Dusigitumab inhibits IGF1- and IGF2-stimulated activation of membrane-bound IGF receptors and the subsequent triggering of proliferation and survival signaling pathways. This may result in the inhibition of tumor cell proliferation and the induction of tumor cell apoptosis. IGF1/2 ligands stimulate cell proliferation, enable oncogenic transformation, and suppress apoptosis; IGF1/2 signaling has been highly implicated in tumorigenesis and metastasis.",
+    "fdaUniiCode": "0Z70DT5PRX",
+    "identifier": "C82683",
+    "preferredName": "Dusigitumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-Insulin-Like Growth Factor 1/2 Monoclonal Antibody MEDI-573",
+      "DUSIGITUMAB",
+      "Dusigitumab",
+      "Immunoglobulin G2, Anti-(Human Insulin-like Growth Factor I/Insulin-like Growth Factor II); Human Monoclonal MEDI-573 gamma Heavy Chain (134-216')-Disulfide with Human Monoclonal MEDI-573 lambda Light Chain Dimer (222-222'':223-223'':226-226'':229-229'')-Tetrakisdisulfide",
+      "MEDI-573"
+    ]
+  }
+}

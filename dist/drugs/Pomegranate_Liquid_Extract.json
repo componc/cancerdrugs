@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pomegranate_Liquid_Extract",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A liquid extract preparation derived from pomegranate (Punica granatum) seeds with antioxidant, and potential antineoplastic and chemopreventive activities. Pomegranate liquid extract contains flavonoids which may promote differentiation and apoptosis in tumor cells by down-regulating vascular endothelial growth factor (VEGF) and stimulating migration inhibitory factor (MIF), thus inhibiting angiogenesis. Pomegranate liquid extract flavanoids also scavenge reactive oxygen species (ROS) and, in some cell types, may prevent ROS-mediated cell injury and death.",
+    "fdaUniiCode": "P52EO36K90",
+    "identifier": "C78866",
+    "preferredName": "Pomegranate Liquid Extract",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C106105"
+    ],
+    "synonyms": [
+      "Dadima Fruit Water",
+      "POMEGRANATE FRUIT VOLATILE OIL",
+      "Pomegranate Liquid Extract",
+      "Punica granatum Fruit Volatile Oil"
+    ]
+  }
+}

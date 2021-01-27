@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "EGFRHER2_Inhibitor_AV-412",
+  "nciThesaurus": {
+    "casRegistry": "451493-31-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A second-generation, orally bioavailable dual kinase inhibitor with potential antineoplastic activity. EGFR/HER2 inhibitor AV-412 binds to and inhibits the epidermal growth factor receptor (EGFR) and the human epidermal growth factor receptor 2 (HER2), which may result in the inhibition of tumor growth and angiogenesis, and tumor regression in EGFR/HER2-expressing tumors. This agent may be active against EGFR/HER2-expressing tumor cells that are resistant to first-generation kinase inhibitors. EGFR and HER2 are receptor tyrosine kinases that play major roles in tumor cell proliferation and tumor vascularization.",
+    "fdaUniiCode": "Z541VW0W40",
+    "identifier": "C64627",
+    "preferredName": "EGFR/HER2 Inhibitor AV-412",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C129825",
+      "C2167"
+    ],
+    "synonyms": [
+      "AV 412",
+      "AV-412",
+      "AV412",
+      "EGFR/HER2 Inhibitor AV-412",
+      "MP 412",
+      "MP-412"
+    ]
+  }
+}

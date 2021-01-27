@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ecromeximab",
+  "nciThesaurus": {
+    "casRegistry": "292819-64-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A low-fucose, human-mouse chimeric IgG1 monoclonal antibody with potential antineoplastic activity targeting at the ganglioside GD3, a surface antigen expressed on many malignant melanoma cells. Monoclonal antibody KW-2871 binds to GD3-positive cells, thereby initiating antibody-dependent cytotoxicity against GD3-positive cells. This agent is prepared by fusing murine immunoglobulin (Ig) light and heavy variable regions derived from the murine IgG3 antibody KM-641 to a human constant (Fc) region. The low fucose content of the oligosaccharide side chains of this antibody may enhance binding of the antibody Fc region to lymphocyte Fc receptors.",
+    "fdaUniiCode": "M76FX2JZRM",
+    "identifier": "C61095",
+    "preferredName": "Ecromeximab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Chimeric Monoclonal Antibody KW-2871",
+      "ECROMEXIMAB",
+      "Ecromeximab",
+      "Immunoglobulin G1, Anti-(Gd3 Ganglioside) (Human-Mouse Monoclonal Km871 Gamma-1-Chain), Disulfide with Human-Mouse Monoclonal KM871 Kappa-Chain, Dimer",
+      "KM871",
+      "KW-2871",
+      "Monoclonal Antibody KW-2871"
+    ]
+  }
+}

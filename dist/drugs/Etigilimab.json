@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Etigilimab",
+  "nciThesaurus": {
+    "casRegistry": "2044984-83-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A monoclonal antibody targeting the human co-inhibitory molecule and immune checkpoint inhibitor T-cell immunoreceptor with immunoglobulin (Ig) and immunoreceptor tyrosine-based inhibitory motif (ITIM) domains (TIGIT), with potential immune checkpoint inhibitory activity. Upon administration, etigilimab binds to TIGIT expressed on various immune cells, including T-cells, and prevents the interaction of TIGIT with its ligands CD112 (nectin-2; poliovirus receptor related-2; PVRL2) and CD155 (poliovirus receptor; PVR; nectin-like protein 5; NECL-5). This enhances the interaction of CD112 and CD155 with the costimulatory receptor CD226 (DNAX Accessory molecule-1; DNAM-1), which is expressed on immune cells, such as natural killer (NK) cells and CD8-positive T-cells, and leads to CD226 dimerization and CD226-mediated signaling. This activates the immune system to exert a T-cell-mediated immune response against cancer cells. TIGIT, a member of the Ig super family and an immune inhibitory receptor, plays a key role in the suppression of T-cell proliferation and activation; it is involved in tumor cell immune evasion and the inhibition of antiviral immune responses.",
+    "fdaUniiCode": "FC1ZF28VIT",
+    "identifier": "C142821",
+    "preferredName": "Etigilimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C134787"
+    ],
+    "synonyms": [
+      "Anti-TIGIT OMP-313M32",
+      "ETIGILIMAB",
+      "Etigilimab",
+      "Immunoglobulin G1, Anti-(Human Receptor TIGIT(T-cell Immunoreceptor with Ig and iTIM Domains)) (Humanized Mouse Monoclonal OMP-313M32 Gamma1-chain), Disulfide with Humanized Mouse Monoclonal OMP-313M32 Kappa-chain, Dimer",
+      "OMP 313M32",
+      "OMP-313M32",
+      "WHO 10742"
+    ]
+  }
+}

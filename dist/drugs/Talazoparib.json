@@ -1,0 +1,34 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "talazoparib",
+      "conditionIndication": "Talzenna is indicated as monotherapy for the treatment of adult patients with germline BRCA1/2 mutations, who have HER2-negative locally advanced or metastatic breast cancer. Patients should have been previously treated with an anthracycline and/or a taxane in the (neo)adjuvant, locally advanced or metastatic setting unless patients were not suitable for these treatments. Patients with hormone receptor (HR)-positive breast cancer should have been treated with a prior endocrine-based therapy, or be considered unsuitable for endocrine-based therapy., ",
+      "inn": "talazoparib",
+      "marketingAuthorisationDate": "2019-06-20 00:00:00",
+      "marketingAuthorisationHolder": "Pfizer Europe MA EEIG",
+      "medicineName": "Talzenna",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/talzenna"
+    }
+  ],
+  "fdaDrugLabel": [],
+  "id": "Talazoparib",
+  "nciThesaurus": {
+    "casRegistry": "1207456-01-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable inhibitor of the nuclear enzyme poly(ADP-ribose) polymerase (PARP) with potential antineoplastic activity. Talazoparib selectively binds to PARP and prevents PARP-mediated DNA repair of single strand DNA breaks via the base-excision repair pathway. This enhances the accumulation of DNA strand breaks, promotes genomic instability and eventually leads to apoptosis. PARP catalyzes post-translational ADP-ribosylation of nuclear proteins that signal and recruit other proteins to repair damaged DNA and is activated by single-strand DNA breaks.",
+    "fdaUniiCode": "9QHX048FRV",
+    "identifier": "C95733",
+    "preferredName": "Talazoparib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C62554"
+    ],
+    "synonyms": [
+      "BMN 673",
+      "BMN-673",
+      "TALAZOPARIB",
+      "Talazoparib"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Lucatumumab",
+  "nciThesaurus": {
+    "casRegistry": "903512-50-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fully human monoclonal antibody directed against the B-cell surface antigen CD40 with potential antineoplastic activity. Lucatumumab binds to and inhibits CD40, thereby inhibiting CD40 ligand-induced cell proliferation and triggering cell lysis via antibody-dependent cellular cytotoxicity (ADCC) in cells overexpressing CD40. CD40, an integral membrane protein found on the surface of B lymphocytes, is a member of the tumor necrosis factor receptor superfamily and is highly expressed in a number of B-cell malignancies.",
+    "fdaUniiCode": "P0EP9VFC4R",
+    "identifier": "C48405",
+    "preferredName": "Lucatumumab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-CD40 Monoclonal Antibody CHIR-12.12",
+      "CHIR-12.12",
+      "HCD-122",
+      "LUCATUMUMAB",
+      "Lucatumumab",
+      "Monoclonal Antibody CHIR-12.12"
+    ]
+  }
+}

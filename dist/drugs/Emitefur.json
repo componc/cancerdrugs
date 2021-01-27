@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Emitefur",
+  "nciThesaurus": {
+    "casRegistry": "110690-43-2",
+    "chebiId": "",
+    "chemicalFormula": "C28H19FN4O8",
+    "definition": "An orally available antimetabolite composed of the 1-ethoxymethyl derivative of 5-fluorouracil (5-FU) and the dihydropyrimidine dehydrogenase (DPYD) inhibitor 3-cyano-2,6-dihydroxypyridine (CNDP) in a 1:1 molar ratio, with antineoplastic activity.  Upon administration, the prodrug emitefur is converted into 5-FU, while CNDP prevents the degradation of 5-FU by inhibiting DPYD and thereby prolonging the half-life of 5-FU. This increases 5-FU's concentration and thus its antitumor activity through inhibition of DNA and RNA synthesis, as well as inhibition of thymidylate synthase activity. In addition, by inhibiting the formation of 5-FU metabolites, some toxic effects associated with these metabolites may be reduced. DPYD is the rate-limiting enzyme in the catabolism of 5-FU.",
+    "fdaUniiCode": "9I50NF4AQ2",
+    "identifier": "C1022",
+    "preferredName": "Emitefur",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1557"
+    ],
+    "synonyms": [
+      "(2) m-[[3-(Ethoxymethyl)-5-fluoro-3,6-dihydro-2,6-dioxo-1(2H)-pyrimidinyl]carbonyl]benzoic Acid, 2-Ester with 2,6-Dihydroxynicotinonitrile Benzoate (Ester)",
+      "3-((3-(Ethoxymethyl)-5-fluoro-3,6-dihydro-2,6-dioxo-1(2H)-pyrimidinyl)carbonyl)benzoic acid, 6-(benzoyloxy)-3-cyano-2-pyridinyl ester",
+      "3-[3-(6-Benzoyloxy-3-cyrano-2-pyridyloxycarbonyl)benzoyl]-1-(ethoxymethyl)-5-fluorouracil",
+      "BOF-A2",
+      "EMITEFUR",
+      "Emitefur",
+      "Last-F",
+      "[[Ethoxymethyl-5-fluoro-3,6-dihydro-2,6-dioxo-1(2H)-pyrimidinyl]carbonyl]benzoic Acid, 6-(Benzoyloxy)-3-cyano-2-pyridinyl Ester",
+      "emitefur"
+    ]
+  }
+}

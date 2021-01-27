@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Nolatrexed_Dihydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "152946-68-4",
+    "chebiId": "",
+    "chemicalFormula": "C14H12N4OS.2ClH",
+    "definition": "The dihydrochloride salt of nolatrexed, a water-soluble lipophilic quinazoline folate analog with antineoplastic activity. Nolatrexed occupies the folate binding site of thymidylate synthase, resulting in inhibition of thymidylate synthase activity and thymine nucleotide synthesis with subsequent inhibition of DNA replication, DNA damage, S-phase cell cycle arrest, and caspase-dependent apoptosis. This agent also exhibits radiosensitizing activity.",
+    "fdaUniiCode": "1XA69O733O",
+    "identifier": "C1577",
+    "preferredName": "Nolatrexed Dihydrochloride",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2021",
+      "C511"
+    ],
+    "synonyms": [
+      "3,4-Dihydro-2-amino-6-methyl-4-oxy-5-(4-pyridylthio)-quinazoline Dihydrochloride",
+      "AG-337",
+      "AG337",
+      "NOLATREXED DIHYDROCHLORIDE",
+      "Nolatrexed Dihydrochloride",
+      "Nolatrexed Hydrochloride",
+      "Thymitaq",
+      "nolatrexed"
+    ]
+  }
+}

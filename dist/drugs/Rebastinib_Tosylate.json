@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Rebastinib_Tosylate",
+  "nciThesaurus": {
+    "casRegistry": "1033893-29-6",
+    "chebiId": "CHEBI:62166",
+    "chemicalFormula": "C30H28FN7O3.C7H8O3S",
+    "definition": "The tosylate salt of rebastinib, an orally bioavailable small-molecule inhibitor of multiple tyrosine kinases with potential antineoplastic activity. Rebastinib binds to and inhibits the Bcr-Abl fusion oncoprotein by changing the conformation of the folded protein to disallow ligand-dependent and ligand-independent activation; in addition, this agent binds to and inhibits Src family kinases LYN, HCK and FGR and the receptor tyrosine kinases TIE-2 and VEGFR-2. Rebastinib may exhibit more potent activity against T315I Bcr-Abl gatekeeper mutant kinases than other Bcr-Abl kinase inhibitors. The TIE-2 and VEGFR-2 receptor tyrosine kinases regulate angiogenesis, respectively, while the Src family kinases Abl, LYN, and HCK Src regulate a variety of cellular responses including differentiation, division, adhesion, and the stress response.",
+    "fdaUniiCode": "042A5NJE6B",
+    "identifier": "C82693",
+    "preferredName": "Rebastinib Tosylate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1967"
+    ],
+    "synonyms": [
+      "DCC-2036",
+      "DP-1919.TO",
+      "REBASTINIB TOSYLATE",
+      "Rebastinib Tosylate"
+    ]
+  }
+}

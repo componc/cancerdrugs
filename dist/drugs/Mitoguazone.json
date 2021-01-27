@@ -1,0 +1,36 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mitoguazone",
+  "nciThesaurus": {
+    "casRegistry": "459-86-9",
+    "chebiId": "",
+    "chemicalFormula": "C5H12N8",
+    "definition": "A guanylhydrazone with potential antineoplastic activity. Mitoguazone competitively inhibits S-adenosyl-L-methionine decarboxylase (SAMD), an enzyme involved in the synthesis of polyamines, resulting in decreased proliferation of tumor cells, antimitochondrial effects, and p53-independent apoptosis. Polyamines, specifically spermine and spermidine, are essential for thymidine kinase production, DNA synthesis, and cell proliferation.",
+    "fdaUniiCode": "OD5Q0L447W",
+    "identifier": "C661",
+    "preferredName": "Mitoguazone",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2076",
+      "C2090"
+    ],
+    "synonyms": [
+      "1,1'-((methylethanediylidene)dinitrilo)diguanidine",
+      "2,2\"-(methyl-1,2-ethanediylidene)bis[hydrazinecarboximidamide]",
+      "DRG-0223",
+      "MGBG",
+      "MITOGUAZONE",
+      "Me-GAG",
+      "Methyl GAG",
+      "Methyl-G",
+      "Methyl-GAG",
+      "Methylglyoxal Bisguanylhydrazone",
+      "Methylglyoxal bis(amidinohydrazone)",
+      "Mitoguazone",
+      "Zyrkamine",
+      "methylglyoxal bis(guanylhydrazone)",
+      "pyruvaldehyde bis(amidinohydrazone)"
+    ]
+  }
+}

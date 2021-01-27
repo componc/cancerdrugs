@@ -1,0 +1,33 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mosunetuzumab",
+  "nciThesaurus": {
+    "casRegistry": "1905409-39-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A bispecific, humanized monoclonal antibody with potential antineoplastic activity. Mosunetuzumab contains two antigen-recognition sites: one for human CD3, a T-cell surface antigen, and one for human CD20, a tumor-associated antigen (TAA) that is exclusively expressed on B-cells during most stages of B-cell development and is often overexpressed in B-cell malignancies. Upon administration, mosunetuzumab binds to both T-cells and CD20-expressing tumor B-cells; this cross-links T-cells to tumor cells, and may result in a potent cytotoxic T-lymphocyte (CTL) response against CD20-expressing tumor B-cells.",
+    "fdaUniiCode": "LDJ89SS0YG",
+    "identifier": "C129691",
+    "preferredName": "Mosunetuzumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C141215",
+      "C28227"
+    ],
+    "synonyms": [
+      "Anti-CD20 x Anti-CD3 Bispecific Monoclonal Antibody BTCT4465A",
+      "BTCT 4465A",
+      "BTCT-4465A",
+      "BTCT4465A",
+      "CD20/CD3 BiMAb BTCT4465A",
+      "MOSUNETUZUMAB",
+      "Mosunetuzumab",
+      "RG 7828",
+      "RG-7828",
+      "RG7828",
+      "RO7030816"
+    ]
+  }
+}

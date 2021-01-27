@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Merestinib",
+  "nciThesaurus": {
+    "casRegistry": "1206799-15-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available, small molecule inhibitor of the proto-oncogene c-Met (also known as hepatocyte growth factor receptor (HGFR)) with potential antineoplastic activity. Merestinib selectively binds to c-Met, thereby inhibiting c-Met phosphorylation and disrupting c-Met signal transduction pathways. This may induce cell death in tumor cells overexpressing c-Met protein or expressing constitutively activated c-Met protein. This agent has potent anti-tumor efficacy in mono and combination therapy in a broad range of cancers. c-Met, a receptor tyrosine kinase overexpressed or mutated in many tumor cell types, plays key roles in tumor cell proliferation, survival, invasion, metastasis, and tumor angiogenesis.",
+    "fdaUniiCode": "5OGS5K699E",
+    "identifier": "C95729",
+    "preferredName": "Merestinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1967"
+    ],
+    "synonyms": [
+      "3-Pyridinecarboxamide, N-(3-fluoro-4-((1-methyl-6-(1H-pyrazol-4-yl)-1H-indazol-5-yl)oxy)phenyl)-1-(4-fluorophenyl)-1,2-dihydro-6-methyl-2-oxo-",
+      "LY-2801653",
+      "LY2801653",
+      "MERESTINIB",
+      "Merestinib"
+    ]
+  }
+}

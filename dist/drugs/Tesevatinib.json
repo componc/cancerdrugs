@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tesevatinib",
+  "nciThesaurus": {
+    "casRegistry": "781613-23-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable small-molecule receptor tyrosine kinase (RTK) inhibitor with potential antineoplastic activity. Tesevatinib binds to and inhibits several tyrosine receptor kinases that play major roles in tumor cell proliferation and tumor vascularization, including epidermal growth factor receptor (EGFR; ERBB1), epidermal growth factor receptor 2 (HER2; ERBB2), vascular endothelial growth factor receptor (VEGFR), and ephrin B4 (EphB4). This may result in the inhibition of tumor growth and angiogenesis, and tumor regression.",
+    "fdaUniiCode": "F6XM2TN5A1",
+    "identifier": "C62496",
+    "preferredName": "Tesevatinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1742",
+      "C1967"
+    ],
+    "synonyms": [
+      "4-Quinazolinamine, N-(3,4-dichloro-2-fluorophenyl)-6-methoxy-7-(((3aalpha,5beta,6aalpha)-octahydro-2-methylcyclopenta(c)pyrrol-5-yl)methoxy)-",
+      "EXEL 7647",
+      "KD 019",
+      "KD019",
+      "TESEVATINIB",
+      "Tesevatinib",
+      "XL647"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Nelipepimut-S",
+  "nciThesaurus": {
+    "casRegistry": "160212-35-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A cancer vaccine comprised of a human leukocyte antigen (HLA) A2/A3 restricted HER2/neu (human epidermal growth factor receptor 2; ErbB2) nonapeptide derived from the extracellular domain of the HER2 protein, with potential immunomodulating and antineoplastic activities. Upon intradermal injection, nelipepimut-S may induce a specific cytotoxic T-lymphocyte (CTL) response against HER2/neu-expressing tumor cells. HER2/neu, a tumor-associated antigen and a member of the epidermal growth factor receptor family of tyrosine kinases, is overexpressed in various tumor cell types and plays a key role in tumorigenesis.",
+    "fdaUniiCode": "7M0A29CD8B",
+    "identifier": "C117985",
+    "preferredName": "Nelipepimut-S",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C129826",
+      "C1663"
+    ],
+    "synonyms": [
+      "E75 Peptide",
+      "Human Receptor Tyrosine-Protein Kinase erbB-2 (Proto-Oncogene Neu, Tyrosine Kinase- type Cell Surface Receptor HER2, CD340)-(347-355)-Peptide",
+      "L-Leucine, L-lysyl-L-isoleucyl-L-phenylalanylglycyl-L-seryl-L-leucyl-L-alanyl-L- phenylalanyl-",
+      "NELIPEPIMUT-S",
+      "Nelipepimut S",
+      "Nelipepimut-S",
+      "NeuVax"
+    ]
+  }
+}

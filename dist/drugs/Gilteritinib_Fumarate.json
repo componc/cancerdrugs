@@ -1,0 +1,34 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Xospata",
+      "indication": "1 INDICATIONS AND USAGE XOSPATA is a kinase inhibitor indicated for the treatment of adult patients who have relapsed or refractory acute myeloid leukemia (AML) with a FLT3 mutation as detected by an FDA-approved test. ( 1.1 ) 1.1 Relapsed or Refractory Acute Myeloid Leukemia XOSPATA is indicated for the treatment of adult patients who have relapsed or refractory acute myeloid leukemia (AML) with a FMS-like tyrosine kinase 3 (FLT3) mutation as detected by an FDA-approved test.",
+      "manufacturer": "Astellas Pharma US, Inc.",
+      "splSetId": "b5ff59aa-9c0d-49a8-9053-1f179b482383"
+    }
+  ],
+  "id": "Gilteritinib_Fumarate",
+  "nciThesaurus": {
+    "casRegistry": "1254053-84-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The fumarate salt form of gilteritinib, an orally bioavailable inhibitor of the receptor tyrosine kinases (RTKs) FMS-like tyrosine kinase 3 (FLT3; STK1; FLK2), AXL (UFO; JTK11), anaplastic lymphoma kinase (ALK; CD246), and leukocyte receptor tyrosine kinase (LTK), with potential antineoplastic activity. Upon administration, gilteritinib binds to and inhibits both the wild-type and mutated forms of FLT3, AXL, ALK and LTK. This may result in an inhibition of FLT3-, AXL-, ALK-, and LTK-mediated signal transduction pathways and reduced proliferation in cancer cells that overexpress these RTKs. FLT3, AXL, ALK, and LTK, which are overexpressed or mutated in a variety of cancer cell types, play key roles in tumor cell growth and survival.",
+    "fdaUniiCode": "5RZZ0Z1GJT",
+    "identifier": "C119665",
+    "preferredName": "Gilteritinib Fumarate",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1967"
+    ],
+    "synonyms": [
+      "2-Pyrazinecarboxamide, 6-ethyl-3-((3-methoxy-4-(4-(4-methyl-1-piperazinyl)-1-piperidinyl)phenyl)amino)-5-((tetrahydro-2H-pyran-4-yl)amino)-, (2E)-2-Butenedioate (2:1)",
+      "ASP-2215 Hemifumarate",
+      "ASP2215 Hemifumarate",
+      "GILTERITINIB FUMARATE",
+      "Gilteritinib Fumarate",
+      "Gilteritinib Hemifumarate",
+      "Xospata"
+    ]
+  }
+}

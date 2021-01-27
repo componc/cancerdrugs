@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tivozanib",
+  "nciThesaurus": {
+    "casRegistry": "475108-18-0",
+    "chebiId": "",
+    "chemicalFormula": "C22H19ClN4O5",
+    "definition": "An orally bioavailable inhibitor of vascular endothelial growth factor receptors (VEGFRs) 1, 2 and 3 with potential antiangiogenic and antineoplastic activities.  Tivozanib binds to and inhibits VEGFRs 1, 2 and 3, which may result in the inhibition of endothelial cell migration and proliferation, inhibition of tumor angiogenesis and tumor cell death. VEGFR tyrosine kinases, frequently overexpressed by a variety of tumor cell types, play a key role in angiogenesis.",
+    "fdaUniiCode": "172030934T",
+    "identifier": "C85444",
+    "preferredName": "Tivozanib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C93259"
+    ],
+    "synonyms": [
+      "AV-951",
+      "TIVOZANIB",
+      "Tivozanib",
+      "Urea, N-[2-chloro-4-[(6,7-dimethoxy-4-quinolinyl)oxy]phenyl]-N'-(5-methyl-3-isoxazolyl)-"
+    ]
+  }
+}

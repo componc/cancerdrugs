@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Inecalcitol",
+  "nciThesaurus": {
+    "casRegistry": "163217-09-2",
+    "chebiId": "",
+    "chemicalFormula": "C26H40O3",
+    "definition": "An analog of calcitriol and a vitamin D3 receptor (VDR) agonist, with potential antineoplastic activity. Upon administration, inecalcitol targets and binds to VDR. This activates VDR and VDR-mediated signal transduction pathways. This modulates the VDR-mediated expression of certain genes, including the expression of anti-cancer genes, enhances cellular differentiation, induces tumor cell apoptosis and inhibits tumor cell growth. VDR plays a central role in calcium homeostasis and in the growth of certain cancer cells.",
+    "fdaUniiCode": "05FZV98342",
+    "identifier": "C83818",
+    "preferredName": "Inecalcitol",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C39713"
+    ],
+    "synonyms": [
+      "(7E)-19-Nor-9,10-seco-14beta-cholesta-5,7-dien-23-yne-1alpha,3beta,25-triol",
+      "ICC",
+      "INECALCITOL",
+      "Inecalcitol",
+      "TX 522"
+    ]
+  }
+}

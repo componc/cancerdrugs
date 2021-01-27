@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "MELK_Inhibitor_OTS167",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available inhibitor of maternal embryonic leucine zipper kinase (MELK) with potential antineoplastic activity. Upon administration, OTS167 binds to MELK, which prevents both MELK phosphorylation and activation; thus inhibiting the phosphorylation of downstream MELK substrates. This may lead to an inhibition of both cell proliferation and survival in MELK-expressing tumor cells. MELK, a serine/threonine kinase, is involved in cancer cell survival, invasiveness and cancer-stem cell formation and maintenance; it is highly upregulated in various types of cancer cells and absent in normal, healthy cells.",
+    "fdaUniiCode": "VY778IXU5T",
+    "identifier": "C111569",
+    "preferredName": "MELK Inhibitor OTS167",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C61074"
+    ],
+    "synonyms": [
+      "MELK Inhibitor OTS167",
+      "OTS-167",
+      "OTS167"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Conbercept",
+  "nciThesaurus": {
+    "casRegistry": "1227158-72-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant, soluble, vascular endothelial growth factor receptor (VEGFR) protein composed of the second immunoglobulin (Ig) domain of VEGFR-1, the third and fourth Ig domains of VEGFR-2, and the constant region (Fc) of human immunoglobulin G1 (IgG1) with potential anti-angiogenic activities. Upon intravitreal injection, conbercept, functioning as a soluble decoy receptor, binds with high affinity to all VEGF-A isoforms, VEGF-B, as well as placenta growth factor (PlGF)-1 and PlGF-2. This prevents the binding of these growth factors to their endogenous receptors, potentially inhibiting angiogenesis and tumor cell growth.",
+    "fdaUniiCode": "1P05PW62F3",
+    "identifier": "C162879",
+    "preferredName": "Conbercept",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1512",
+      "C1742"
+    ],
+    "synonyms": [
+      "CONBERCEPT",
+      "Conbercept",
+      "KH 902",
+      "KH-902",
+      "KH902"
+    ]
+  }
+}

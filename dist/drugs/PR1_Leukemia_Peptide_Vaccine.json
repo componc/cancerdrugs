@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "PR1_Leukemia_Peptide_Vaccine",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A cancer vaccine containing PR1, a 9 amino-acid human leukocyte antigen (HLA)-A2 restricted peptide derived from proteinase 3, with potential immunotherapeutic activity. Vaccination with PR1 leukemia peptide vaccine may stimulate the host immune system to mount a cytotoxic T lymphocyte (CTL) response against tumor cells expressing proteinase 3, resulting in tumor cell lysis. Often overexpressed in leukemic cells, proteinase 3 is a serine proteinase that activates progelatinase A and is involved in angiogenesis and metastasis.",
+    "fdaUniiCode": "54XUF2TZ7G",
+    "identifier": "C2235",
+    "preferredName": "PR1 Leukemia Peptide Vaccine",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1752"
+    ],
+    "synonyms": [
+      "Leukemia Peptide Vaccine, PR1",
+      "PR1 LEUKEMIA PEPTIDE VACCINE",
+      "PR1 Leukemia Peptide Vaccine",
+      "Proteinase 3:PR1 Peptide"
+    ]
+  }
+}

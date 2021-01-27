@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "PARPTankyrase_Inhibitor_2X-121",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available small molecule inhibitor of the nuclear enzymes poly (ADP-ribose) polymerase (PARP) 1 and 2, with potential antineoplastic activity. Upon administration, E7449 selectively binds to PARP 1 and 2, thereby preventing the repair of damaged DNA via the base excision repair (BER) pathway. This agent enhances the accumulation of single and double strand DNA breaks and promotes genomic instability eventually leading to apoptosis. PARP 1/2 inhibitor E7449 may enhance the cytotoxicity of DNA-damaging agents and of radiotherapy. PARP catalyzes post-translational ADP-ribosylation of nuclear proteins that signal and recruit other proteins to repair damaged DNA.",
+    "fdaUniiCode": "9X5A2QIA7C",
+    "identifier": "C102746",
+    "preferredName": "PARP/Tankyrase Inhibitor 2X-121 ",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C62554"
+    ],
+    "synonyms": [
+      "2X-121",
+      "E-7449",
+      "E7449",
+      "PARP/TNKS Inhibitor 2X-121",
+      "PARP/Tankyrase Inhibitor 2X-121",
+      "PARP/Tankyrase Inhibitor 2X-121 "
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Triethylenemelamine",
+  "nciThesaurus": {
+    "casRegistry": "51-18-3",
+    "chebiId": "CHEBI:27919",
+    "chemicalFormula": "C9H12N6",
+    "definition": "A trisaziridine alkylating agent with antineoplastic and carcinogenic properties.  Used to induce cancer in experimental animal models, triethylenemelamine ethylates DNA, resulting in inhibition of DNA replication, unscheduled DNA synthesis, chromosomal aberrations, and sister chromatid exchanges.  This agent also exhibits reproductive toxicities.",
+    "fdaUniiCode": "F7IY6HZG9D",
+    "identifier": "C29858",
+    "preferredName": "Triethylenemelamine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C292"
+    ],
+    "synonyms": [
+      "TEM",
+      "TRIETHYLENEMELAMINE",
+      "Tretamine",
+      "Triethylene Melamine",
+      "Triethylenemelamine"
+    ]
+  }
+}

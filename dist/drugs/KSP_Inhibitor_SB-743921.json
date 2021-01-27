@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "KSP_Inhibitor_SB-743921",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic small molecule with potential antineoplastic properties. SB-743921 selectively inhibits kinesin spindle protein (KSP), an important protein involved in the early stages of mitosis that is expressed in proliferating cells. Inhibition of KSP results in inhibition of mitotic spindle assembly and interrupts cell division, thereby causing cell cycle arrest and induction of apoptosis.",
+    "fdaUniiCode": "24DSZ1VN92",
+    "identifier": "C52199",
+    "preferredName": "KSP Inhibitor SB-743921",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C67440"
+    ],
+    "synonyms": [
+      "KSP Inhibitor SB-743921",
+      "SB 743921",
+      "SB-743921"
+    ]
+  }
+}

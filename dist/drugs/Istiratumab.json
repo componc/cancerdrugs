@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Istiratumab",
+  "nciThesaurus": {
+    "casRegistry": "1509928-04-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A bispecific monoclonal antibody directed against the human epidermal growth factor receptor ErbB3 (Her3) and the human insulin-like growth factor-1 receptor (IGF-1R), with potential antineoplastic activity. The anti-IGF-1R targeting arm of Istiratumab binds to IGF-1R on tumor cells thereby preventing the binding of the natural ligands IGF-1, 2 and heregulin (HRG) to IGF-1R; the anti-ErbB3 therapeutic arm prevents the binding of neuregulin (NRG) to ErbB3. This prevents the activation of the PI3K/AKT signal transduction pathway and may result in both the induction of apoptosis and a decrease in cellular proliferation in IGF-1R and ErbB3-overexpressing tumor cells. IGF-1R, a receptor tyrosine kinase of the insulin receptor superfamily, and ErB3, a member of the epidermal growth factor receptor (EGFR) family of receptor tyrosine kinases, are frequently overexpressed in solid tumors.",
+    "fdaUniiCode": "XLR461MD3M",
+    "identifier": "C103863",
+    "preferredName": "Istiratumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C1454",
+      "C20401"
+    ],
+    "synonyms": [
+      "ISTIRATUMAB",
+      "Istiratumab",
+      "MM-005",
+      "MM-141"
+    ]
+  }
+}

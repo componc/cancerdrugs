@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Patupilone",
+  "nciThesaurus": {
+    "casRegistry": "152044-54-7",
+    "chebiId": "",
+    "chemicalFormula": "C27H41NO6S",
+    "definition": "A compound isolated from the myxobacterium Sorangium cellulosum.  Similar to paclitaxel, patupilone induces microtubule polymerization and stabilizes microtubules against depolymerization conditions.  In addition to promoting tubulin polymerization and stabilization of microtubules, this agent is cytotoxic for cells overexpressing P-glycoprotein, a characteristic that distinguishes it from the taxanes.  Patupilone may cause complete cell-cycle arrest.",
+    "fdaUniiCode": "UEC0H0URSE",
+    "identifier": "C1623",
+    "preferredName": "Patupilone",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1922",
+      "C67437"
+    ],
+    "synonyms": [
+      "(-)-Epothilone B",
+      "(1S,3S,7S,10R,11S,12S,16R)-7,11-Dihydroxy-8,8,10,12,16-pentamethyl-3-[(1E)-1-methyl-2-(2-methyl-4-thiazolyl)ethenyl]-4,17-dioxabicyclo[14.1.0]heptadecane-5,9-dione",
+      "EPO-906A",
+      "EPO906",
+      "Epothilone B",
+      "PATUPILONE",
+      "Patupilone",
+      "epothilone B"
+    ]
+  }
+}

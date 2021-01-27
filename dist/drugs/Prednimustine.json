@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Prednimustine",
+  "nciThesaurus": {
+    "casRegistry": "29069-24-7",
+    "chebiId": "",
+    "chemicalFormula": "C35H45Cl2NO6",
+    "definition": "The prednisolone ester of chlorambucil and nitrogen mustard alkylating agent with antineoplastic activity. Prednimustine itself is not cytotoxic, however, it becomes cytotoxic upon hydrolysis by serum esterases to chlorambucil. Therefore, the increased potency of prednimustine is linked to the prolonged availability of free chlorambucil.",
+    "fdaUniiCode": "9403SIO2S8",
+    "identifier": "C768",
+    "preferredName": "Prednimustine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C697"
+    ],
+    "synonyms": [
+      "11beta,17,21-trihydroxypregna-1,4-diene-3,20-dione 21-[4-[p-[bis(3-chloroethyl)amino]phenyl]butyrate]",
+      "11beta-21-[4-[4-[bis(2-chloroethyl)amino]phenyl]-1-oxobutoxy]-11,17-dihydroxypregna-1,4-diene-3,20-dione",
+      "Chlorambucil Prednisolone Ester",
+      "LEO-1031",
+      "Leo 1031",
+      "PREDNIMUSTINE",
+      "Prednimustine",
+      "Pregna-1,4-diene-3,20-dione, 11-beta,17,21-trihydroxy-,21-(4-(p-(bis(2-chloroethyl)amino)phenyl)butyrate)",
+      "Sterecyt",
+      "Stereocyt"
+    ]
+  }
+}

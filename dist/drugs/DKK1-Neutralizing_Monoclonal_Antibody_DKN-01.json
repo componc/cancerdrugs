@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "DKK1-Neutralizing_Monoclonal_Antibody_DKN-01",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody directed against the WNT antagonist dickkopf homolog 1 (DKK1), with potential anti-osteolytic activity. Upon administration, DKK1-neutralizing monoclonal antibody DKN-01 binds to and inhibits DKK1, thereby restoring signaling through the WNT pathway, which may result in osteoblast differentiation and activation within the bone matrix and the reversal of tumor-induced osteolytic disease. DKK1, overexpressed by certain cancer cells, is an inhibitor of the WNT signaling pathway and prevents the mediated formation of bone.",
+    "fdaUniiCode": "RM898LZ4SI",
+    "identifier": "C99123",
+    "preferredName": "DKK1-Neutralizing Monoclonal Antibody DKN-01",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "DKK1-Neutralizing Monoclonal Antibody DKN-01",
+      "DKK1-neutralizing Monoclonal Antibody DKN-01",
+      "DKN-01",
+      "LY2812176"
+    ]
+  }
+}

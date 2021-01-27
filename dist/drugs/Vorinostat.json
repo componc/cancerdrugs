@@ -1,0 +1,38 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "ZOLINZA",
+      "indication": "1 INDICATIONS AND USAGE ZOLINZA \u00ae is indicated for the treatment of cutaneous manifestations in patients with cutaneous T-cell lymphoma who have progressive, persistent or recurrent disease on or following two systemic therapies. ZOLINZA is a histone deacetylase (HDAC) inhibitor indicated for the treatment of cutaneous manifestations in patients with cutaneous T-cell lymphoma (CTCL) who have progressive, persistent or recurrent disease on or following two systemic therapies. ( 1 )",
+      "manufacturer": "Merck Sharp & Dohme Corp.",
+      "splSetId": "cd86ee78-2781-468b-930c-3c4677bcc092"
+    }
+  ],
+  "id": "Vorinostat",
+  "nciThesaurus": {
+    "casRegistry": "149647-78-9",
+    "chebiId": "",
+    "chemicalFormula": "C14H20N2O3",
+    "definition": "A synthetic hydroxamic acid derivative with antineoplastic activity. Vorinostat, a second generation polar-planar compound, binds to the catalytic domain of the histone deacetylases (HDACs). This allows the hydroxamic moiety to chelate zinc ion located in the catalytic pockets of HDAC, thereby inhibiting deacetylation and leading to an accumulation of both hyperacetylated histones and transcription factors. Hyperacetylation of histone proteins results in the upregulation of the cyclin-dependant kinase p21, followed by G1 arrest. Hyperacetylation of non-histone proteins such as tumor suppressor p53, alpha tubulin, and heat-shock protein 90 produces additional anti-proliferative effects. This agent also induces apoptosis and sensitizes tumor cells to cell death processes. Vorinostat crosses the blood-brain barrier.",
+    "fdaUniiCode": "58IFB293JI",
+    "identifier": "C1796",
+    "preferredName": "Vorinostat",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1946"
+    ],
+    "synonyms": [
+      "L-001079038",
+      "MSK-390",
+      "N-Hydroxy-N'-phenyloctanediamide",
+      "SAHA",
+      "Suberanilohydroxamic Acid",
+      "Suberoylanilide Hydroxamic Acid",
+      "VORINOSTAT",
+      "Vorinostat",
+      "Zolinza",
+      "suberoylanilide hydroxamic acid",
+      "vorinostat"
+    ]
+  }
+}

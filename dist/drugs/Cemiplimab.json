@@ -1,0 +1,45 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "Cemiplimab",
+      "conditionIndication": "Libtayo as monotherapy is indicated for the treatment of adult patients with metastatic or locally advanced cutaneous squamous cell carcinoma who are not candidates for curative surgery or curative radiation.",
+      "inn": "cemiplimab",
+      "marketingAuthorisationDate": "2019-06-28 00:00:00",
+      "marketingAuthorisationHolder": "Regeneron Ireland U.C.",
+      "medicineName": "Libtayo",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/libtayo"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "LIBTAYO",
+      "indication": "1 INDICATIONS AND USAGE LIBTAYO is indicated for the treatment of patients with metastatic cutaneous squamous cell carcinoma (mCSCC) or locally advanced CSCC (laCSCC) who are not candidates for curative surgery or curative radiation. LIBTAYO is a programmed death receptor-1 (PD-1) blocking antibody indicated for the treatment of patients with metastatic cutaneous squamous cell carcinoma (mCSCC) or locally advanced CSCC (laCSCC) who are not candidates for curative surgery or curative radiation. ( 1 )",
+      "manufacturer": "Regeneron Pharmaceuticals, Inc.",
+      "splSetId": "4347ae1f-d397-4f18-8b70-03897e1c054a"
+    }
+  ],
+  "id": "Cemiplimab",
+  "nciThesaurus": {
+    "casRegistry": "1801342-60-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A human monoclonal antibody directed against the negative immunoregulatory human cell surface receptor programmed cell death 1 (PD-1, PCD-1) protein, with potential immune checkpoint inhibitory and antineoplastic activity. Upon administration, cemiplimab binds to PD-1, inhibits its binding to the PD-1 ligand programmed cell death-1 ligand 1 (PD-L1), and prevents the activation of its downstream signaling pathways. This may restore immune function through the activation of cytotoxic T-cells. PD-1, a transmembrane protein in the immunoglobulin superfamily expressed on activated T-cells, negatively regulates T-cell activation and effector function when activated by its ligand; it plays an important role in tumor evasion from host immunity.",
+    "fdaUniiCode": "6QVL057INT",
+    "identifier": "C121540",
+    "preferredName": "Cemiplimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C128037",
+      "C129822"
+    ],
+    "synonyms": [
+      "CEMIPLIMAB",
+      "Cemiplimab",
+      "Cemiplimab RWLC",
+      "Cemiplimab-rwlc",
+      "Immunoglobulin G4, Anti-(Human Programmed Cell Death Protein 1) (Human Monoclonal REGN2810 Heavy Chain), Disulfide with Human Monoclonal REGN2810 kappa-chain, Dimer",
+      "Libtayo",
+      "REGN2810"
+    ]
+  }
+}

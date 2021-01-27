@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Coltuximab_Ravtansine",
+  "nciThesaurus": {
+    "casRegistry": "1269764-99-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An immunoconjugate consisting of an anti-CD19 monoclonal antibody conjugated to the maytansinoid DM4, a derivative of the cytotoxic agent maytansine (DM1), with potential antineoplastic activity. Coltuximab ravtansine targets the cell surface antigen CD19, found on a number of B-cell-derived cancers. Upon antibody/antigen binding and internalization, the immunoconjugate releases DM4, which binds to tubulin and disrupts microtubule assembly/disassembly dynamics, resulting in inhibition of cell division and cell growth of CD19-expressing tumor cells.",
+    "fdaUniiCode": "MRS84YT9L2",
+    "identifier": "C71009",
+    "preferredName": "Coltuximab Ravtansine",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C2330"
+    ],
+    "synonyms": [
+      "Anti-CD19-DM4 Immunoconjugate SAR3419",
+      "COLTUXIMAB RAVTANSINE",
+      "Coltuximab Ravtansine",
+      "SAR3419"
+    ]
+  }
+}

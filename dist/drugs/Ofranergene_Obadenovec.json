@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ofranergene_Obadenovec",
+  "nciThesaurus": {
+    "casRegistry": "1476737-24-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A non-replicating adenovirus 5 (Ad-5, El-deleted) encoding a human Fas-chimera (Fas-c) transgene under the control of a modified murine pre-proendothelin-1 (PPE-1) promoter, with potential anti-angiogenic activity. Upon the administration of ofranergene obadenovec, the modified murine PPE-1 promoter is specifically activated in PPE-1-expressing angiogenic endothelial cells residing in the tumor microvasculature.  Subsequently, the Fas-c pro-apoptotic transgene, containing the human tumor necrosis factor (TNF) receptor 1 (TNFR-1/p55) and the signaling domain of Fas, is expressed in angiogenic endothelial cells.  Fas-mediated apoptosis is activated via binding of the TNFR-1 receptor with TNF-alpha, which is more abundant in the tumor microenvironment (TME), enhancing specificity and limiting systemic toxicities.",
+    "fdaUniiCode": "5Q5PRH05GI",
+    "identifier": "C71539",
+    "preferredName": "Ofranergene Obadenovec",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1742",
+      "C49146"
+    ],
+    "synonyms": [
+      "GT-111",
+      "OFRANERGENE OBADENOVEC",
+      "Ofranergene Obadenovec",
+      "VB-111"
+    ]
+  }
+}

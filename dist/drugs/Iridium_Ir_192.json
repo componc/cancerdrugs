@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Iridium_Ir_192",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A radioactive isotope of iridium. Iridium-192 emits gamma rays and has a half-life of 74 days. A high dose rate of this radioisotope can be used in brachytherapy to treat tumors by selectively delivering a cytotoxic dose of radiation to the tumor site.",
+    "fdaUniiCode": "064LI0IBFL",
+    "identifier": "C104270",
+    "preferredName": "Iridium Ir 192",
+    "semanticType": "Indicator, Reagent, or Diagnostic Aid",
+    "subclassOf": [
+      "C799"
+    ],
+    "synonyms": [
+      "IRIDIUM IR-192",
+      "Ir-192",
+      "Iridium Ir 192",
+      "Iridium-192"
+    ]
+  }
+}

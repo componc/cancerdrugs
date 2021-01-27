@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Numidargistat",
+  "nciThesaurus": {
+    "casRegistry": "2095732-06-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available inhibitor of arginase, a manganese-dependent enzyme that hydrolyzes the amino acid arginine to form ornithine and urea, with potential immunomodulating and antineoplastic activities. Upon administration, numidargistat inhibits the breakdown of arginine by arginase, which is produced by myeloid cells, and restores arginine levels. This allows arginine to stimulate the synthesis of nitric oxide and the secretion of pro-inflammatory cytokines and chemokines, which induces the proliferation and activation of T-cells. Therefore, this agent may prevent the immunosuppressive effects of tumor-infiltrating myeloid cells and promote lymphocyte-mediated immune responses against tumor cells. Arginase is produced by neutrophils, macrophages and myeloid-derived suppressor cells (MDSC) and plays a role in inflammation-associated immunosuppression.",
+    "fdaUniiCode": "IFD73D535A",
+    "identifier": "C142866",
+    "preferredName": "Numidargistat",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C308"
+    ],
+    "synonyms": [
+      "Arginase Inhibitor INCB001158",
+      "CB-1158",
+      "CB1158",
+      "INCB001158",
+      "NUMIDARGISTAT",
+      "Numidargistat"
+    ]
+  }
+}

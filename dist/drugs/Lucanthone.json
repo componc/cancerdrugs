@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Lucanthone",
+  "nciThesaurus": {
+    "casRegistry": "479-50-5",
+    "chebiId": "CHEBI:51052",
+    "chemicalFormula": "C20H24N2OS",
+    "definition": "An orally available thioxanthone-based DNA intercalator and inhibitor of the DNA repair enzyme apurinic-apyrimidinic endonuclease 1 (APEX1 or APE1), with anti-schistosomal and potential antineoplastic activity. Lucanthone intercalates DNA and interferes with the activity of topoisomerases I and II during replication and transcription, thereby inhibiting the synthesis of macromolecules. In addition, this agent specifically inhibits the endonuclease activity of APE1, without affecting its redox activity, resulting in un-repaired DNA strand breaks which may induce apoptosis. Therefore, lucanthone may sensitize tumor cells to radiation and chemotherapy. Furthermore, lucanthone inhibits autophagy through the disruption of lysosomal function. The multifunctional nuclease APE1 is a key component for DNA repair; its expression is often correlated with tumor cell resistance to radio- and chemotherapy.",
+    "fdaUniiCode": "FC6D57000M",
+    "identifier": "C83925",
+    "preferredName": "Lucanthone",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C250"
+    ],
+    "synonyms": [
+      "LUCANTHONE",
+      "Lucanthone"
+    ]
+  }
+}

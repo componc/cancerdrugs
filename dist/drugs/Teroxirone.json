@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Teroxirone",
+  "nciThesaurus": {
+    "casRegistry": "59653-73-5",
+    "chebiId": "",
+    "chemicalFormula": "C12H15N3O6",
+    "definition": "A triazene triepoxide with antineoplastic activity. Teroxine alkylates and cross-links DNA, thereby inhibiting DNA replication.",
+    "fdaUniiCode": "456V4159SL",
+    "identifier": "C2320",
+    "preferredName": "Teroxirone",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C475"
+    ],
+    "synonyms": [
+      "Henkel's Compound",
+      "TEROXIRONE",
+      "Teroxirone",
+      "alpha-1,3,5-triglycidyl-s-triazinetrione",
+      "alpha-TGI",
+      "alpha-Triglycidyl Isocyanurate"
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Silibinin",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "",
+    "fdaUniiCode": "4RKY41TBTF",
+    "identifier": "C152359",
+    "preferredName": "Silibinin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1745",
+      "C2081"
+    ],
+    "synonyms": [
+      "SILIBININ",
+      "Silibinin"
+    ]
+  }
+}

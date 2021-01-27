@@ -1,0 +1,33 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Xevinapant",
+  "nciThesaurus": {
+    "casRegistry": "1071992-81-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available mimetic of the natural second mitochondrial-derived activator of caspases (Smac) and inhibitor of Inhibitor of Apoptosis Proteins (IAPs), with potential immunomodulating, apoptotic-inducing, chemo-radio-sensitizing and antineoplastic activities. Upon oral administration,xevinapant targets and binds to the Smac binding groove on IAPs, including the direct caspase inhibitor X chromosome-linked IAP (XIAP), and the cellular IAPs 1 (c-IAP1) and 2 (c-IAP2). This inhibits the activities of these IAPs and promotes the induction of apoptosis. Additionally, as xevinapant inhibits the activity of IAPs, it may work synergistically with cytotoxic drugs and/or radiation to overcome tumor cell resistance to apoptosis. As IAPs regulate nuclear factor-kappa B (NFkB) signaling pathways, which drives the expression of genes involved in immune and inflammatory responses, xevinapant may enhance anti-tumor immune responses when administered with certain immunomodulating agents, such as immune checkpoint inhibitors. IAPs are overexpressed by many cancer cell types and suppress both intrinsic and extrinsic apoptosis by binding to and inhibiting active caspases via their baculoviral lAP repeat (BIR) domains. They contribute to chemo-radio-resistance of cancer cells to certain cytotoxic agents and radiation, promote tumor cell survival and are associated with poor prognosis in certain types of cancer. SMAC, a pro-apoptotic mitochondrial protein, is an endogenous inhibitor of the IAPs family of cellular proteins.",
+    "fdaUniiCode": "N65WC8PXDD",
+    "identifier": "C90574",
+    "preferredName": "Xevinapant",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129824"
+    ],
+    "synonyms": [
+      "AT-406",
+      "D1143",
+      "Debio 1143",
+      "Debio-1143",
+      "Debio1143",
+      "IAPs Antagonist Debio 1143",
+      "IAPs Inhibitor Debio 1143",
+      "Pyrrolo(1,2-a)(1,5)diazocine-8-carboxamide, n-((1,1'-biphenyl)-2-ylmethyl)decahydro-5-(((2s)-2-(methylamino)-1-oxopropyl)amino)-3-(3-methyl-1-oxobutyl)-6-oxo-, (5s,8s,10ar)",
+      "SM-406",
+      "SMAC Mimetic Debio 1143",
+      "Second Mitochondrial-derived Activator of Caspases Mimetic Debio 1143",
+      "XEVINAPANT",
+      "Xevinapant"
+    ]
+  }
+}

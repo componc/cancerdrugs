@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Minretumomab",
+  "nciThesaurus": {
+    "casRegistry": "195189-17-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A second-generation murine monoclonal antibody based on the antibody B72.3 that is directed against tumor-associated glycoprotein 72 (TAG72).  TAG72 is expressed by gastric, breast, pancreatic, colorectal, and ovarian carcinoma cells.",
+    "fdaUniiCode": "235435CH6L",
+    "identifier": "C2567",
+    "preferredName": "Minretumomab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Antibody CC49, Monoclonal",
+      "CC-49",
+      "CC-49 Monoclonal Antibody",
+      "MAb CC49",
+      "MINRETUMOMAB",
+      "MOAB CC-49/TAG72 (DW)",
+      "Minretumomab",
+      "MoAb CC49",
+      "Monoclonal Antibody CC-49",
+      "Monoclonal Antibody CC49"
+    ]
+  }
+}

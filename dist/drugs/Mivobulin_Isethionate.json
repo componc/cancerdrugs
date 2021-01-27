@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mivobulin_Isethionate",
+  "nciThesaurus": {
+    "casRegistry": "126268-81-3",
+    "chebiId": "",
+    "chemicalFormula": "C17H19N5O2.C2H6O4S",
+    "definition": "The isethionate salt of mivobulin, a synthetic colchicine analogue with potential antineoplastic activity. Mivobulin isethionate binds to tubulin, thereby inhibiting microtubule polymerization and mitosis.",
+    "fdaUniiCode": "8J08028R66",
+    "identifier": "C1357",
+    "preferredName": "Mivobulin Isethionate",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C67421"
+    ],
+    "synonyms": [
+      "CI 980",
+      "CI-980",
+      "CI980",
+      "MIVOBULIN ISETHIONATE",
+      "Mivobulin Isethionate",
+      "mivobulin isethionate"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pirarubicin_Hydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "72496-41-4",
+    "chebiId": "",
+    "chemicalFormula": "C32H37NO12.ClH",
+    "definition": "The hydrochloride salt form of pirarubicin, an analogue of the anthracycline antineoplastic antibiotic doxorubicin with antineoplastic activity. Pirarubicin intercalates into DNA and interacts with topoisomerase II, thereby inhibiting DNA replication and repair as well as RNA and protein synthesis. This agent is less cardiotoxic than doxorubicin and exhibits activity against some doxorubicin-resistant cell lines.",
+    "fdaUniiCode": "E7V83174BE",
+    "identifier": "C95319",
+    "preferredName": "Pirarubicin Hydrochloride",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C1594"
+    ],
+    "synonyms": [
+      "(2\"R)-4'-O-Tetrahydropyranyladriamycin Hydrochloride",
+      "4'-O-Tetrahydropyranyl Doxorubicin HCl",
+      "PIRARUBICIN HYDROCHLORIDE",
+      "Pirarubicin Hydrochloride",
+      "THP-ADM",
+      "THP-adriamycin Hydrochloride"
+    ]
+  }
+}

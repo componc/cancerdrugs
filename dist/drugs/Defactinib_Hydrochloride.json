@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Defactinib_Hydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "1073160-26-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The hydrochloride salt form of defactinib, an orally bioavailable, small-molecule focal adhesion kinase (FAK) inhibitor with potential antiangiogenic and antineoplastic activities. Defactinib inhibits FAK, which may prevent the integrin-mediated activation of several downstream signal transduction pathways, including those involving RAS/MEK/ERK and PI3K/Akt, thus inhibiting tumor cell migration, proliferation, survival, and tumor angiogenesis. The tyrosine kinase FAK, a signal transducer for integrins, is normally activated by binding to integrins in the extracellular matrix (ECM) but may be upregulated and constitutively activated in various tumor cell types.",
+    "fdaUniiCode": "L2S469LM49",
+    "identifier": "C128039",
+    "preferredName": "Defactinib Hydrochloride",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C129825",
+      "C1742",
+      "C1967"
+    ],
+    "synonyms": [
+      "Benzamide, N-methyl-4-((4-(((3-(methyl(methylsulfonyl)amino)-2-pyrazinyl)methyl)amino)-5-(trifluoromethyl)-2-pyrimidinyl)amino)-, Hydrochloride (1:1)",
+      "DEFACTINIB HYDROCHLORIDE",
+      "Defactinib Hydrochloride",
+      "PF-04554878",
+      "VS-6063"
+    ]
+  }
+}

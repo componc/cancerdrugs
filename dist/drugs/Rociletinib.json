@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Rociletinib",
+  "nciThesaurus": {
+    "casRegistry": "1374640-70-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available small molecule, irreversible inhibitor of epidermal growth factor receptor (EGFR) with potential antineoplastic activity. Rociletinib binds to and inhibits mutant forms of EGFR, including T790M, thereby leading to cell death of resistant tumor cells. Compared to other EGFR inhibitors, CO-1686 inhibits T790M, a secondary acquired resistance mutation, as well as other mutant EGFRs and may have therapeutic benefits in tumors with T790M-mediated resistance to other EGFR tyrosine kinase inhibitors. This agent shows minimal activity against wild-type EGFR, hence does not cause certain dose-limiting toxicities.",
+    "fdaUniiCode": "72AH61702G",
+    "identifier": "C99905",
+    "preferredName": "Rociletinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2167"
+    ],
+    "synonyms": [
+      "CO-1686",
+      "N-(3-((2-((4-(4-Acetylpiperazin-1-yl)-2-methoxyphenyl)amino)-5-(trifluoromethyl)pyrimidin-4-yl)amino)phenyl)prop-2-enamide",
+      "ROCILETINIB",
+      "Rociletinib"
+    ]
+  }
+}

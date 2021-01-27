@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Vinflunine_Ditartrate",
+  "nciThesaurus": {
+    "casRegistry": "194468-36-5",
+    "chebiId": "",
+    "chemicalFormula": "C45H54F2N4O8.2C4H6O6",
+    "definition": "The ditartrate salt of vinflunine, a bi-fluorinated derivative of the semisynthetic vinca alkaloid vinorelbine with potential antimitotic and antineoplastic activities. Vinflunine binds to tubulin and inhibits tubulin assembly and disrupts microtubule assembly dynamics. This results in cell cycle arrest in mitosis and an induction of apoptosis.",
+    "fdaUniiCode": "33MG53C7XW",
+    "identifier": "C76266",
+    "preferredName": "Vinflunine Ditartrate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C67422"
+    ],
+    "synonyms": [
+      "Javlor",
+      "VINFLUNINE DITARTRATE",
+      "Vinflunine Ditartrate"
+    ]
+  }
+}

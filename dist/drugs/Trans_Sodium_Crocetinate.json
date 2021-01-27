@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Trans_Sodium_Crocetinate",
+  "nciThesaurus": {
+    "casRegistry": "591230-99-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The sodium salt of the trans-isomer of the carotenoid crocetin with potential antihypoxic and radiosensitizing activities. Trans sodium crocetinate (TSC) increases the diffusion rate of oxygen in aqueous solutions such as from plasma to body tissue. The agent has been shown to increase available oxygen during hypoxic and ischemic conditions that may occur in hemorrhage, vascular and neurological disorders, and in the tumor microenvionment.",
+    "fdaUniiCode": "YP57637WMX",
+    "identifier": "C82695",
+    "preferredName": "Trans Sodium Crocetinate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C68303"
+    ],
+    "synonyms": [
+      "2,4,6,8,10,12,14-Hexadecaheptaenedioic Acid, 2,6,11,15-Tetramethyl-, Sodium Salt (1:2), (2E,4E,6E,8E,10E,12E,14E)-",
+      "TRANSCROCETINATE SODIUM",
+      "TSC",
+      "Trans Sodium Crocetinate"
+    ]
+  }
+}

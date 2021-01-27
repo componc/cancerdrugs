@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "CHK1_Inhibitor_MK-8776",
+  "nciThesaurus": {
+    "casRegistry": "891494-63-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An agent targeting cell cycle checkpoint kinase 1 (Chk1) with potential radiosensitization and chemosensitization activities. Chk1 inhibitor MK-8776 specifically binds to and inhibits Chk1, which may result in tumor cells bypassing Chk1-dependent cell cycle arrest in the S and G2/M phases to undergo DNA repair prior to entry into mitosis; tumor cells may thus be sensitized to the DNA-damaging effects of ionizing radiation and alkylating chemotherapeutic agents. Chk1 is an ATP-dependent serine-threonine kinase that in response to DNA damage phosphorylates cdc25 phosphatases, resulting in inhibitory tyrosine phosphorylation of CDK-cyclin complexes and cell cycle arrest.",
+    "fdaUniiCode": "K2ZSF0992C",
+    "identifier": "C79867",
+    "preferredName": "CHK1 Inhibitor MK-8776",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C155927"
+    ],
+    "synonyms": [
+      "(R)-6-Bromo-3-(1-methyl-1H-pyrazol-4-yl)-5-(piperidin-3-yl)pyrazolo[1,5-a]pyrimidin-7-amine",
+      "CHK1 Inhibitor MK-8776",
+      "MK-8776",
+      "MK8776",
+      "SCH 900776",
+      "SCH-900776"
+    ]
+  }
+}

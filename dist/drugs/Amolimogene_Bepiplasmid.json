@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Amolimogene_Bepiplasmid",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A plasmid DNA-based vaccine consisting of small biodegradable poly(lactide-co-glicolide) polymer microparticles encapsulating plasmid-DNA vector encoding a chimeric protein comprising epitopes derived from the E6 and E7 oncoproteins of the human papillomavirus (HPV) types 16 and 18, with potential antineoplastic activity. Upon intramuscular vaccination, amolimogene bepiplasmid may elicit the host immune system to mount a cytotoxic T-lymphocyte (CTL) response against tumor cells positive for HPV-16 and -18 E6 and E7 and may result in a reduction in tumor cell growth. HPV types 16 and 18 oncoproteins E6 and E7 are most commonly involved in cervical cancer.",
+    "fdaUniiCode": "8B5KCA0GAK",
+    "identifier": "C90592",
+    "preferredName": "Amolimogene Bepiplasmid",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1663",
+      "C39619"
+    ],
+    "synonyms": [
+      "AMOLIMOGENE BEPIPLASMID",
+      "Amolimogene",
+      "Amolimogene Bepiplasmid",
+      "Bacterially Derived DNA and Microparticles Made of Poly(D,L-lactide-co-glydolide)",
+      "DNA (synthetic Plasmid p3kDRalphaHPV16-18)",
+      "ZYC101a"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Valrubicin Intravesical Solution",
+      "indication": "1 INDICATIONS AND USAGE Valrubicin intravesical solution is an anthracycline topoisomerase inhibitor indicated for intravesical therapy of BCG-refractory carcinoma in situ (CIS) of the urinary bladder in patients for whom immediate cystectomy would be associated with unacceptable morbidity or mortality. Valrubicin intravesical solution is an anthracycline topoisomerase inhibitor indicated for intravesical therapy of BCG-refractory carcinoma in situ (CIS) of the urinary bladder in patients for whom immediate cystectomy would be associated with unacceptable morbidity or mortality. ( 1 )",
+      "manufacturer": "Leucadia Pharmaceuticals",
+      "splSetId": "8739ae02-e4c5-0fa2-e053-2a91aa0a1b74"
+    },
+    {
+      "brand": "Valstar",
+      "indication": "1 INDICATIONS AND USAGE VALSTAR is an anthracycline topoisomerase inhibitor indicated for intravesical therapy of BCG-refractory carcinoma in situ (CIS) of the urinary bladder in patients for whom immediate cystectomy would be associated with unacceptable morbidity or mortality. VALSTAR is an anthracycline topoisomerase inhibitor indicated for intravesical therapy of BCG-refractory carcinoma in situ (CIS) of the urinary bladder in patients for whom immediate cystectomy would be associated with unacceptable morbidity or mortality. ( 1 )",
+      "manufacturer": "Endo Pharmaceuticals Solutions Inc.",
+      "splSetId": "e96f30a0-6662-11de-8f80-0002a5d5c51b"
+    }
+  ],
+  "id": "Valrubicin",
+  "nciThesaurus": {
+    "casRegistry": "56124-62-0",
+    "chebiId": "",
+    "chemicalFormula": "C34H36F3NO13",
+    "definition": "A semisynthetic derivative of the antineoplastic anthracycline antibiotic doxorubicin. With a mechanism of action that appears to differ from doxorubicin, valrubicin is converted intracytoplasmically into N-trifluoroacetyladriamycin, which interacts with topoisomerase II, stabilizing the complex between the enzyme and DNA; consequently, DNA replication and repair and RNA and protein synthesis are inhibited and the cell cycle is arrested in the G2 phase. In addition, this agent accumulates in the cell cytoplasm where it inhibits protein kinase C (PKC). Valrubicin is less cardiotoxic than doxorubicin when administered systemically; applied topically, this agent shows excellent tissue penetration. Structurally, the trifluoro-acetyl moiety on the amino group of the glycoside and the valerate moiety appear to result in a lipophilicity that is greater than of doxorubicin, resulting in increased intracytoplasmic concentrations.",
+    "fdaUniiCode": "2C6NUM6878",
+    "identifier": "C1340",
+    "preferredName": "Valrubicin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C1594"
+    ],
+    "synonyms": [
+      "AD 32",
+      "AD-32",
+      "N-Trifluoroacetyladriamycin-14-valerate",
+      "VALRUBICIN",
+      "Valrubicin",
+      "Valstar",
+      "Valtaxin",
+      "valrubicin"
+    ]
+  }
+}

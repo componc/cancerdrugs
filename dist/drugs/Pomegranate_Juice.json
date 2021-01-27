@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pomegranate_Juice",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A natural juice isolated from the fruit of the plant Punica granatum with antioxidant, potential antineoplastic, and chemopreventive activities.  Pomegranate juice contains flavonoids which promote differentiation and apoptosis in tumor cells by down-regulating vascular endothelial growth factor (VEGF) and stimulating migration inhibitory factor (MIF), thereby inhibiting angiogenesis. The flavonoids in pomegranate juice also scavenge reactive oxygen species (ROS) and, in some cell types, may prevent ROS-mediated cell injury and death.",
+    "fdaUniiCode": "99S671U9KB",
+    "identifier": "C26665",
+    "preferredName": "Pomegranate Juice",
+    "semanticType": "Food",
+    "subclassOf": [
+      "C71952"
+    ],
+    "synonyms": [
+      "POMEGRANATE JUICE",
+      "Pomegranate Juice"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Melphalan_Flufenamide",
+  "nciThesaurus": {
+    "casRegistry": "380449-51-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A peptide-drug conjugate composed of a peptide conjugated, via an aminopeptidase-targeting linkage, to the alkylating agent melphalan, with potential antineoplastic and anti-angiogenic activities. Upon administration, the highly lipophilic melphalan flufenamide penetrates cell membranes and enters cells. In aminopeptidase-positive tumor cells, melphalan flufenamide is hydrolyzed by peptidases to release the hydrophilic alkylating agent melphalan. This results in the specific release and accumulation of melphalan in aminopeptidase-positive tumor cells. Melphalan alkylates DNA at the N7 position of guanine residues and induces DNA intra- and inter-strand cross-linkages. This results in the inhibition of DNA and RNA synthesis and the induction of apoptosis, thereby inhibiting tumor cell proliferation. Peptidases are overexpressed by certain cancer cells. The administration of melphalan flufenamide allows for enhanced efficacy and reduced toxicity compared to melphalan.",
+    "fdaUniiCode": "F70C5K4786",
+    "identifier": "C107680",
+    "preferredName": "Melphalan Flufenamide",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1742",
+      "C697"
+    ],
+    "synonyms": [
+      "Ethyl (2S)-2-((2S)-2-Amino-3-(4-(bis(2-chloroethyl)amino)phenyl)propanamido)-3-(4-fluorophenyl)propanoate",
+      "J-1",
+      "J1",
+      "L-melphalanyl-p-L-fluorophenylalanine Ethyl Ester",
+      "MELPHALAN FLUFENAMIDE",
+      "Melflufen",
+      "Melphalan Flufenamide",
+      "Prodrug J1",
+      "Ygalo"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Roducitabine",
+  "nciThesaurus": {
+    "casRegistry": "865838-26-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available small molecule and nucleoside antimetabolite with potential antineoplastic activity. Upon administration, tRoducitabine is taken up by cells through a carrier-mediated transporter, phosphorylated by uridine cytidine kinase (UCK) and then further phosphorylated to its diphosphate (RX-DP) and triphosphate forms (RX-TP). The triphosphate form is incorporated into RNA and inhibits RNA synthesis. The diphosphate RX-DP is reduced by ribonucleotide reductase (RR) to dRX-DP; its triphosphate form (dRX-TP) is incorporated into DNA. In addition, RX-3117 also inhibits DNA methyltransferase 1 (DNMT1). This eventually leads to cell cycle arrest and the induction of apoptosis. UCK is the rate-limiting enzyme in the pyrimidine-nucleotide salvage pathway.",
+    "fdaUniiCode": "0Z4A82I0JO",
+    "identifier": "C113444",
+    "preferredName": "Roducitabine",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1557",
+      "C2150"
+    ],
+    "synonyms": [
+      "4-Amino-1-((1S,4R,5S)-2-fluoro-4,5-dihydroxy-3-(hydroxymethyl)cyclopent-2-en-1-yl)pyrimidin-2(1H)-one",
+      "Cytidine Analog RX-3117",
+      "Fluorocyclopentenylcytosine",
+      "RODUCITABINE",
+      "RX-3117",
+      "Roducitabine",
+      "TV-1360"
+    ]
+  }
+}

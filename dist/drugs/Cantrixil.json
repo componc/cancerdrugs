@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Cantrixil",
+  "nciThesaurus": {
+    "casRegistry": "1803036-93-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A cyclodextrin-encapsulated, third generation super-benzopyran (SBP) compound with potential antineoplastic activity. Upon intraperitoneal (IP) administration, cantrixil enhances the activation and expression of c-Jun, downregulates phosphorylated extracellular signal-regulated kinase (p-ERK) and induces activation of caspase-3, -7 and -9, thereby inducing tumor cell apoptosis. c-Jun, an activator protein-1 (AP-1) transcription factor component, is involved in a wide range of cellular processes including cell cycle progression, differentiation, cell transformation and apoptosis.",
+    "fdaUniiCode": "5DVS457HEG",
+    "identifier": "C159719",
+    "preferredName": "Cantrixil",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129839"
+    ],
+    "synonyms": [
+      "Cantrixil",
+      "TRX E 002 1",
+      "TRX-E-002-1",
+      "TRXE0021",
+      "cis-4-(para-hydroxyphenyl)-7,4'-dihydroxy-3',5'-dimethoxy-8-methylisoflavan"
+    ]
+  }
+}

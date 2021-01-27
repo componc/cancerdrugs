@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tidutamab",
+  "nciThesaurus": {
+    "casRegistry": "2148354-90-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized, Fc domain-containing, bispecific monoclonal antibody targeting human CD3, a T-cell surface antigen, and somatostatin receptor 2 (SSTR2), a tumor-associated antigen (TAA) expressed on certain cancer cells, with potential antineoplastic activity. Upon administration, tidutamab binds to both T-cells and SSTR2-expressing cancer cells. The resulting cross-linkage may trigger a potent cytotoxic T-lymphocyte (CTL) response against the SSTR2-expressing cancer cells. The inclusion of an Fc domain on the antibody prolongs the half-life of the bispecific antibody.",
+    "fdaUniiCode": "88635FW2QX",
+    "identifier": "C146820",
+    "preferredName": "Tidutamab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C28227"
+    ],
+    "synonyms": [
+      "Anti-SSTR2 x Anti-CD3 Monoclonal Antibody XmAb18087",
+      "TIDUTAMAB",
+      "Tidutamab",
+      "XmAb 18087",
+      "XmAb-18087",
+      "XmAb18087"
+    ]
+  }
+}

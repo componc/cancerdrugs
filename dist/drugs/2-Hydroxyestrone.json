@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "2-Hydroxyestrone",
+  "nciThesaurus": {
+    "casRegistry": "362-06-1",
+    "chebiId": "CHEBI:1156",
+    "chemicalFormula": "C18H22O3",
+    "definition": "A metabolite formed during the catabolism of estrone by the liver through the hydroxylation of the carbon at position 2 by cytochrome P450 (CYP) enzymes, including CYP1A1 and 1A2, with potential anticarcinogenic activity. The mechanism of action for the antitumor activity of 2-hydroxyestrone is not known but this metabolic product has minimal estrogenic activity compared to the parent compound and other estrone metabolites. Additionally, O-methylation of this compound produces 2-methoxyestradiol (2-MeOE2), which is a potent inhibitor of both cell proliferation and angiogenesis.",
+    "fdaUniiCode": "UQS3A06ILY",
+    "identifier": "C63947",
+    "preferredName": "2-Hydroxyestrone",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2181"
+    ],
+    "synonyms": [
+      "1,3,5(10)-Estratrien-2,3-diol-17-one",
+      "2-HYDROXYESTRONE",
+      "2-Hydroxyestrone",
+      "2-OHE(1)",
+      "2-OHE1",
+      "Catecholestrone",
+      "Estra-1,3,5(1)-Trien-17-One, 2,3-Dihydroxy-"
+    ]
+  }
+}

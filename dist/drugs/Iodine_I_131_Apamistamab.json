@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Iodine_I_131_Apamistamab",
+  "nciThesaurus": {
+    "casRegistry": "2097132-02-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A radioimmunoconjugate consisting of BC8, a murine IgG1 anti-CD45 monoclonal antibody labeled with iodine 131 (I-131), with radioimmunotherapeutic properties. Using monoclonal antibody BC8 as a carrier for I-131 results in the targeted destruction of cells expressing CD45. CD45 is tyrosine phosphatase expressed on virtually all leukocytes, including myeloid and lymphoid precursors in bone marrow and mature lymphocytes in lymph nodes; it is also expressed on most myeloid and lymphoid leukemic cells, but not on mature erythrocytes or platelets.",
+    "fdaUniiCode": "71RR81V666",
+    "identifier": "C2527",
+    "preferredName": "Iodine I 131 Apamistamab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129819",
+      "C1511"
+    ],
+    "synonyms": [
+      "I 131 MOAB BC8",
+      "I 131 Monoclonal Antibody BC8",
+      "IODINE I-131 APAMISTAMAB",
+      "Iodine (131I) Apamistamab",
+      "Iodine I 131 Apamistamab",
+      "Iomab-B",
+      "MOAB BC8, iodine I 131",
+      "iodine I 131 MOAB BC8",
+      "iodine I 131 monoclonal antibody BC8",
+      "monoclonal antibody BC8, iodine I 131"
+    ]
+  }
+}

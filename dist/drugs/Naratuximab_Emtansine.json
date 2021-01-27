@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Naratuximab_Emtansine",
+  "nciThesaurus": {
+    "casRegistry": "1607824-64-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An immunoconjugate that consists of a humanized IgG1 antibody K7153A against the cell-surface antigen CD37 and covalently linked via the uncleavable, maleimide-derived thioether-based linker SMCC to the maytansinoid DM1, with potential pro-apoptotic and cytotoxic activities. Upon administration of naratuximab emtansine, the antibody moiety of IMGN529 binds to CD37 on tumor B-cells and induces an antibody-dependent cell-mediated cytotoxicity (ADCC) and complement-dependent cytotoxicity (CDC), thereby showing pro-apoptotic activity. In addition, after the internalization of this agent and lysosomal degradation, the DM1 moiety binds to tubulin and inhibits tubulin polymerization and microtubule assembly, resulting in a disruption of microtubule activity and cell division, and eventually causing cell death in CD37-positive B-cells. CD37, a transmembrane glycoprotein, is overexpressed in B-cell malignancies. Compared to reducible, cleavable linkers, the non-reducible SMCC linker shows increased stability in plasma.",
+    "fdaUniiCode": "WE1X5A83B9",
+    "identifier": "C100101",
+    "preferredName": "Naratuximab Emtansine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "IMGN529",
+      "MP 529",
+      "MP-529",
+      "MP529",
+      "NARATUXIMAB EMTANSINE",
+      "Naratuximab Emtansine"
+    ]
+  }
+}

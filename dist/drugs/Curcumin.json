@@ -1,0 +1,36 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Kaydia Patch",
+      "indication": "Use",
+      "manufacturer": "Strong Current Enterprises Limited",
+      "splSetId": "a52fd018-72de-15be-e053-2a95a90a4450"
+    }
+  ],
+  "id": "Curcumin",
+  "nciThesaurus": {
+    "casRegistry": "458-37-7",
+    "chebiId": "CHEBI:3962",
+    "chemicalFormula": "C21H20O6",
+    "definition": "A phytopolylphenol pigment isolated from the plant Curcuma longa, commonly known as turmeric, with a variety of pharmacologic properties.  Curcumin blocks the formation of reactive-oxygen species, possesses anti-inflammatory properties as a result of inhibition of cyclooxygenases (COX) and other enzymes involved in inflammation; and disrupts cell signal transduction by various mechanisms including inhibition of protein kinase C.  These effects may play a role in the agent's observed antineoplastic properties, which include inhibition of tumor cell proliferation and suppression of chemically induced carcinogenesis and tumor growth in animal models of cancer.",
+    "fdaUniiCode": "IT942ZTH98",
+    "identifier": "C401",
+    "preferredName": "Curcumin",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1323",
+      "C1967"
+    ],
+    "synonyms": [
+      "(E,E)-1,7-Bis(4-hydroxy-3-methoxyphenyl)-1,6-heptadiene-3,5-dione",
+      "C.I. 75300",
+      "C.I. Natural Yellow 3",
+      "CURCUMIN",
+      "Curcumin",
+      "Diferuloylmethane",
+      "Turmeric Yellow",
+      "curcumin"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Bazlitoran",
+  "nciThesaurus": {
+    "casRegistry": "1378549-07-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An oligonucleotide targeted to the mRNA of MYD88 L265P, a mutant form of the linker protein MYD88, with potential antitumor activity. Bazlitoran binds to and inhibits the translation of mutated MYD88 L265P mRNA. This prevents overactivation of signaling pathways mediated by toll-like receptors (TLRs) 7, 8, and 9, nuclear factor-kappa B (NF-kB) activity, Janus-associated kinases-signal transducer and activator of transcription (JAK-STAT) signaling and the production of various cytokines. Together, this leads to an induction of apoptosis and an inhibition of tumor cell proliferation in MYD88 L265P-expressing tumor cells. MYD88, a key adaptor protein in the TLR signaling pathway, is mutated in a variety of B-cell lymphomas, including Waldenstrom's macroglobulinemia (WM) and activated B-cell-like diffuse large B-cell lymphoma (ABC-DLBCL).",
+    "fdaUniiCode": "2U46M95B5M",
+    "identifier": "C114975",
+    "preferredName": "Bazlitoran",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1291"
+    ],
+    "synonyms": [
+      "BAZLITORAN",
+      "Bazlitoran",
+      "IMO-8400",
+      "Oligonucleotide IMO-8400"
+    ]
+  }
+}

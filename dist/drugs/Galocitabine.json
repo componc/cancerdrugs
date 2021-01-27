@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Galocitabine",
+  "nciThesaurus": {
+    "casRegistry": "124012-42-6",
+    "chebiId": "",
+    "chemicalFormula": "C19H22FN3O8",
+    "definition": "An orally available 5-fluorouracil (5-FU) prodrug with potential antineoplastic activity. Upon administration, galocitabine is converted into 5'-deoxy-5-fluorocytidine, 5'-deoxy-fluorouridine, and 5-FU. 5-FU is further metabolized into other cytotoxic metabolites that interfere with RNA and DNA synthesis via inhibition of thymidylate synthase. As a result, this agent eventually inhibits tumor cell growth.",
+    "fdaUniiCode": "X9788XI79O",
+    "identifier": "C73254",
+    "preferredName": "Galocitabine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1557"
+    ],
+    "synonyms": [
+      "GALOCITABINE",
+      "Galocitabine",
+      "Ro 09-1390"
+    ]
+  }
+}

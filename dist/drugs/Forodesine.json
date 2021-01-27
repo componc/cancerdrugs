@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Forodesine",
+  "nciThesaurus": {
+    "casRegistry": "209799-67-7",
+    "chebiId": "CHEBI:43362",
+    "chemicalFormula": "C11H14N4O4",
+    "definition": "",
+    "fdaUniiCode": "426X066ELK",
+    "identifier": "C65755",
+    "preferredName": "Forodesine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2151"
+    ],
+    "synonyms": [
+      "FORODESINE",
+      "Forodesine",
+      "forodesine"
+    ]
+  }
+}

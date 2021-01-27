@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Paclitaxel_Ceribate",
+  "nciThesaurus": {
+    "casRegistry": "186040-50-6",
+    "chebiId": "",
+    "chemicalFormula": "C51H57NO18",
+    "definition": "The ceribate ester form of paclitaxel, a compound extracted from the Pacific yew tree Taxus brevifolia with antineoplastic activity. Paclitaxel binds to and stabilizes tubulin thereby inhibiting the disassembly of microtubules, resulting in the inhibition of cell division. This agent also induces apoptosis by binding to and blocking the function of the apoptosis inhibitor protein B-cell Leukemia 2 (BCL2).",
+    "fdaUniiCode": "B3C86E80A0",
+    "identifier": "C96934",
+    "preferredName": "Paclitaxel Ceribate",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1490",
+      "C67437"
+    ],
+    "synonyms": [
+      "7beta-((2RS)-2,3-dihydroxypropoxycarbonyloxy)-1-hydroxy-9-oxo-5beta,20-epoxytax-11-ene-2alpha,4,10beta,13alpha-tetrayl 4,10-diacetate 2-benzoate 13-((2R,3S)-3-benzamido-2-hydroxy-3-phenylpropanoate)",
+      "PACLITAXEL CERIBATE",
+      "Paclitaxel Ceribate"
+    ]
+  }
+}

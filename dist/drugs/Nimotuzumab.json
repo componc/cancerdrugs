@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Nimotuzumab",
+  "nciThesaurus": {
+    "casRegistry": "828933-51-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody directed against the epidermal growth factor receptor (EGFR) with potential antineoplastic activity. Nimotuzumab binds to and inhibits EGFR, resulting in growth inhibition of tumor cells that overexpress EGFR. This agent may act synergistically with radiation therapy.",
+    "fdaUniiCode": "6NS400BXKH",
+    "identifier": "C2733",
+    "preferredName": "Nimotuzumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C20401",
+      "C2167"
+    ],
+    "synonyms": [
+      "H-R3",
+      "NIMOTUZUMAB",
+      "Nimotuzumab",
+      "Thera-CIM-hr3",
+      "TheraCim hR3",
+      "Theraloc",
+      "hR3",
+      "nimotuzumab"
+    ]
+  }
+}

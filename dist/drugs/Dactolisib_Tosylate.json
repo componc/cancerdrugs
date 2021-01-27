@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Dactolisib_Tosylate",
+  "nciThesaurus": {
+    "casRegistry": "1028385-32-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The tosylate salt form of dactolisib, an orally bioavailable imidazoquinoline targeting the phosphatidylinositol 3 kinase (PI3K) and the mammalian target of rapamycin (mTOR), with potential antineoplastic activity. Upon administration, dactolisib inhibits PI3K kinase and mTOR kinase in the PI3K/AKT/mTOR kinase signaling pathway, which may result in tumor cell apoptosis and growth inhibition in PI3K/mTOR-overexpressing tumor cells. Activation of the PI3K/mTOR pathway promotes cell growth, survival, and resistance to chemotherapy and radiotherapy. mTOR, a serine/threonine kinase downstream of PI3K, may also be activated independent of PI3K.",
+    "fdaUniiCode": "U54GT9151S",
+    "identifier": "C162346",
+    "preferredName": "Dactolisib Tosylate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2152"
+    ],
+    "synonyms": [
+      "2-Methyl-2-(4-(3-methyl-2-oxo-8-(quinolin-3-yl)-2,3-dihydroimidazo(4,5-c)quinolin-1-yl)phenyl)propanenitrile 4-Methylbenzenesulfonate",
+      "Benzeneacetonitrile, 4-(2,3-Dihydro-3-methyl-2-oxo-8-(3-quinolinyl)-1H-imidazo(4,5-c)quinolin-1-yl)-alpha,alpha-dimethyl-, 4-Methylbenzenesulfonate (1:1)",
+      "DACTOLISIB TOSYLATE",
+      "Dactolisib Tosylate",
+      "NVP-BEZ235-ANA",
+      "NVP-BEZ235-NX"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Carotuximab",
+  "nciThesaurus": {
+    "casRegistry": "1268714-50-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A human/murine chimeric monoclonal antibody directed against endoglin (CD105) with potential antiangiogenic and antineoplastic activities. Carotuximab binds to endoglin, which may result in inhibition of tumor angiogenesis and decreased tumor cell proliferation. The glycoprotein endoglin is a transforming growth factor beta-1 (TGF beta-1) accessory receptor that is highly expressed on tumor vessel endothelial cells and appears to be essential for angiogenesis.",
+    "fdaUniiCode": "YB2EWE6139",
+    "identifier": "C74010",
+    "preferredName": "Carotuximab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C1742",
+      "C20401"
+    ],
+    "synonyms": [
+      "CAROTUXIMAB",
+      "Carotuximab",
+      "TRC 105",
+      "TRC-105",
+      "TRC105"
+    ]
+  }
+}

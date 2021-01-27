@@ -1,0 +1,32 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Terameprocol",
+  "nciThesaurus": {
+    "casRegistry": "24150-24-1",
+    "chebiId": "",
+    "chemicalFormula": "C22H30O4",
+    "definition": "A synthetic tetra-methylated derivative of nordihydroguaiaretic acid (NDGA) and transcriptional inhibitor with potential antiviral, antiangiogenic, and antineoplastic activities. Terameprocol competes with the transcription factor Sp1 for specific Sp1 DNA binding domains within gene promoter regions during DNA synthesis. In virally-infected cells, blocking of the Sp1 binding site suppresses Sp1-regulated viral promoter activity and gene expression, thereby inhibiting viral transcription and replication. In tumor cells, blockage of Sp1 binding sites by this agent interferes with the transcription of the Sp1-dependant genes cyclin-dependant kinase (Cdc2), survivin, and vascular endothelial growth factor (VEGF), which are overexpressed in a variety of cancers. By suppressing Sp1-regulated transcription of these genes, terameprocol may reduce tumor angiogenesis and tumor cell proliferation and induce tumor cell apoptosis.",
+    "fdaUniiCode": "53YET703F2",
+    "identifier": "C61441",
+    "preferredName": "Terameprocol",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1742",
+      "C2161"
+    ],
+    "synonyms": [
+      "1,1'-(2,3-Dimethyl-1,4-butanediyl)bis(3,4-dimethoxybenzene)",
+      "EM-1421",
+      "M4N",
+      "TERAMEPROCOL",
+      "TMNDGA",
+      "Terameprocol",
+      "Tetra-O-methyl Nordihydroguaiaretic Acid",
+      "Tetra-O-methyl-NDGA",
+      "Tetramethoxynordihydroguaiaretic Acid",
+      "tetra-O-methyl NDGA",
+      "tetra-O-methyl nordihydroguaiaretic acid"
+    ]
+  }
+}

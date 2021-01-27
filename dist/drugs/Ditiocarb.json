@@ -1,0 +1,32 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ditiocarb",
+  "nciThesaurus": {
+    "casRegistry": "147-84-2",
+    "chebiId": "",
+    "chemicalFormula": "C5H11NS2",
+    "definition": "A sulfhydryl-containing carbamate that is the primary in vivo metabolite of disulfiram. Diethyldithiocarbamate chelates zinc, thereby inhibiting metalloproteinases, thereby preventing the degradation of the extracellular matrix and inhibiting an initial step in cancer metastasis and angiogenesis. A known inhibitor of superoxide dismutase, this agent can either potentiate or protect against cell oxidative damage caused by ionizing radiation, depending on the time of administration.",
+    "fdaUniiCode": "99Z2744345",
+    "identifier": "C432",
+    "preferredName": "Ditiocarb",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2139",
+      "C360"
+    ],
+    "synonyms": [
+      "DDTC",
+      "DIECA",
+      "DITIOCARB",
+      "DTC",
+      "Diethylcarbamodithioic Acid",
+      "Diethyldione",
+      "Diethyldithiocarbamate",
+      "Diethyldithiocarbamic Acid",
+      "Diethyldithiocarbaminic Acid",
+      "Diethyldithione",
+      "Ditiocarb"
+    ]
+  }
+}

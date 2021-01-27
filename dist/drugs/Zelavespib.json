@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Zelavespib",
+  "nciThesaurus": {
+    "casRegistry": "873436-91-0",
+    "chebiId": "",
+    "chemicalFormula": "C18H21IN6O2S",
+    "definition": "A purine-based heat shock protein 90 (Hsp90) inhibitor with potential antineoplastic activity. Zelavespib specifically inhibits active Hsp90, thereby inhibiting its chaperone function and promoting the proteasomal degradation of oncogenic signaling proteins involved in tumor cell proliferation and survival. This may result in the inhibition of cellular proliferation in susceptible tumor cell populations. Hsp90, a molecular chaperone protein, is upregulated in a variety of tumor cell types.",
+    "fdaUniiCode": "06IVK87M04",
+    "identifier": "C101227",
+    "preferredName": "Zelavespib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C156880"
+    ],
+    "synonyms": [
+      "9H-Purine-9-propanamine, 6-amino-8-((6-iodo-1,3-benzodioxol-5-yl)thio)-N-(1-methylethyl)-",
+      "Hsp90 Inhibitor PU-H71",
+      "PU-H-71",
+      "PU-H71",
+      "PUH71",
+      "ZELAVESPIB",
+      "Zelavespib"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pidilizumab",
+  "nciThesaurus": {
+    "casRegistry": "1036730-42-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody directed against human PD-1 (programmed cell death 1; PDCD1), with immunomodulating and antitumor activities. Pidilizumab blocks interaction between the receptor PD-1 with its ligands, PD-1 ligand 1 (PD-1L1) and PD-1 ligand 2 (PD-1L2), resulting in the attenuation of apoptotic processes in lymphocytes, primarily effector/memory T cells, and the augmentation of the anti-tumor activities of NK cells. PD-1 is an inhibitory receptor belonging to the B7-receptor family that is expressed on lymphocytes and myeloid cells; its ligands, PD-1L1 and PD-1L2, are expressed not only by hematopoietic cells but also by cells in non-lymphoid tissues.",
+    "fdaUniiCode": "B932PAQ1BQ",
+    "identifier": "C71014",
+    "preferredName": "Pidilizumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C128037"
+    ],
+    "synonyms": [
+      "CT 011",
+      "CT-011",
+      "Immunoglobulin G1, Anti-(Human Programmed Cell Death 1); Humanized Mouse Monoclonal CT-011 Gamma1 Heavy Chain (220-213')-disulfide with Humanized Mouse Monoclonal CT-011 Kappa Light Chain Dimer (226-226'':229-229'')-bisdisulfide, Glycosylated (CT-011 is Expressed in NSO Cells)",
+      "MDV9300",
+      "PIDILIZUMAB",
+      "Pidilizumab"
+    ]
+  }
+}

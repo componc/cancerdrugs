@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pixantrone",
+  "nciThesaurus": {
+    "casRegistry": "144510-96-3",
+    "chebiId": "",
+    "chemicalFormula": "C17H19N5O2",
+    "definition": "A synthetic, noncardiotoxic aza-anthracenedione analogue with potential antineoplastic activity. Pixantrone intercalates into DNA and induces topoisomerase II-mediated DNA strand crosslinks, resulting in inhibition of DNA replication and tumor cell cytotoxicity.",
+    "fdaUniiCode": "F5SXN2KNMR",
+    "identifier": "C26663",
+    "preferredName": "Pixantrone",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C582"
+    ],
+    "synonyms": [
+      "6,9-Bis((2-aminoethyl)amino)benzo(g)isoquinoline-5,10-dione",
+      "PIXANTRONE",
+      "Pixantrone",
+      "pixantrone"
+    ]
+  }
+}

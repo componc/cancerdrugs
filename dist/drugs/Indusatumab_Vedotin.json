@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Indusatumab_Vedotin",
+  "nciThesaurus": {
+    "casRegistry": "1514889-12-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) containing a monoclonal antibody directed against guanylyl cyclase C (GCC or GUCY2C) conjugated to monomethylauristatin E (MMAE), an auristatin derivative and a potent microtubule inhibitor, with potential antineoplastic activity. The monoclonal antibody moiety of indusatumab vedotin selectively binds to GCC, a transmembrane receptor normally found on intestinal cells and dopamine neurons in the brain, but is also overexpressed on the surface of gastrointestinal cancers. Upon internalization and proteolytic cleavage, MMAE binds to tubulin and inhibits its polymerization, resulting in G2/M phase arrest and tumor cell apoptosis in GCC-expressing tumor cells.",
+    "fdaUniiCode": "3F0FR4W3H8",
+    "identifier": "C101524",
+    "preferredName": "Indusatumab Vedotin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "INDUSATUMAB VEDOTIN",
+      "Indusatumab Vedotin",
+      "MLN0264"
+    ]
+  }
+}

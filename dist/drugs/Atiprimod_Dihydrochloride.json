@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Atiprimod_Dihydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "130065-61-1",
+    "chebiId": "",
+    "chemicalFormula": "C22H44N2.2ClH",
+    "definition": "The dihydrochloride salt form of atiprimod, an orally bioavailable small molecule belonging to the azaspirane class of cationic amphiphilic agents with anti-inflammatory, antineoplastic, and anti-angiogenic activities. Atiprimod inhibits the phosphorylation of signal transducer and activator of transcription 3 (STAT3) and AKT, blocking the signaling pathways of interleukin-6, vascular endothelial growth factor (VEGF) and downregulating the anti-apoptotic proteins Bcl-2, Bcl-XL, and Mcl-1. This results in the inhibition of cell proliferation, induction of cell cycle arrest, and apoptosis.",
+    "fdaUniiCode": "O12I24570R",
+    "identifier": "C76969",
+    "preferredName": "Atiprimod Dihydrochloride",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1742",
+      "C2189"
+    ],
+    "synonyms": [
+      "ATIPRIMOD DIHYDROCHLORIDE",
+      "Atiprimod Dihydrochloride"
+    ]
+  }
+}

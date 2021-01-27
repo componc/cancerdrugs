@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Darovasertib",
+  "nciThesaurus": {
+    "casRegistry": "1874276-76-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available protein kinase C (PKC) inhibitor with potential immunosuppressive and antineoplastic activities. Upon oral administration, darovasertib inds to and inhibits PKC, which prevents the activation of PKC-mediated signaling pathways. This may lead to the induction of cell cycle arrest and apoptosis in susceptible tumor cells. PKC, a serine/threonine protein kinase overexpressed in certain types of cancer cells, is involved in tumor cell differentiation, proliferation, invasion and survival.",
+    "fdaUniiCode": "E0YF0M8O09",
+    "identifier": "C124796",
+    "preferredName": "Darovasertib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2089"
+    ],
+    "synonyms": [
+      "DAROVASERTIB",
+      "Darovasertib",
+      "IDE 196",
+      "IDE-196",
+      "IDE196",
+      "LXS196",
+      "PKC Inhibitor IDE196",
+      "Protein Kinase C Inhibitor IDE196",
+      "Protein Kinase C Inhibitor LXS196"
+    ]
+  }
+}

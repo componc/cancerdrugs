@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Laromustine",
+  "nciThesaurus": {
+    "casRegistry": "173424-77-6",
+    "chebiId": "",
+    "chemicalFormula": "C6H14ClN3O5S2",
+    "definition": "A sulfonyl hydrazine prodrug with antineoplastic activity. Laromustine releases the DNA chloroethylating agent 90CE after entering the blood stream; 90CE chloroethylates alkylates the O6 position of guanine, resulting in DNA crosslinking, strand breaks, chromosomal aberrations, and disruption of DNA synthesis. Intracellular metabolism of this agent also releases methyl isocyanate which inhibits O6-alkyl-guanine transferase, an enzyme involved with DNA repair.",
+    "fdaUniiCode": "14J2G0U3NQ",
+    "identifier": "C2653",
+    "preferredName": "Laromustine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1590",
+      "C2134"
+    ],
+    "synonyms": [
+      "1,2-Bis(methylsulfonyl)-1-(2-chloroethyl)-2-(methylaminocarbonyl)hydrazine",
+      "101M",
+      "Cloretazine",
+      "LAROMUSTINE",
+      "Laromustine",
+      "Onrigin",
+      "VNP40101M",
+      "laromustine"
+    ]
+  }
+}

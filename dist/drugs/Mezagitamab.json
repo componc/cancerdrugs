@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mezagitamab",
+  "nciThesaurus": {
+    "casRegistry": "2227490-52-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A human, non-agonistic immunoglobulin G1 (IgG1) monoclonal antibody directed against the cell surface glycoprotein ADP-ribosyl cyclase 1 (CD38) with potential immunomodulating and antineoplastic activities. Mezagitamab specifically binds to CD38 that is expressed on human plasmablasts, plasma cells, NK cells and activated T- and B-cells. This may trigger antibody-dependent cellular cytotoxicity (ADCC), cell lysis and depletion of CD38-expressing cells. Additionally, TAK-079 does not induce CD38-dependent signaling and does not promote cytokine activation in peripheral blood mononuclear cells (PMBCs). CD38, a type II transmembrane glycoprotein, is overexpressed on cells associated with autoimmune diseases and hematologic malignancies.",
+    "fdaUniiCode": "0XMR8L9LOL",
+    "identifier": "C148078",
+    "preferredName": "Mezagitamab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C155321"
+    ],
+    "synonyms": [
+      "Anti-CD38 MAb TAK-079",
+      "MEZAGITAMAB",
+      "Mezagitamab",
+      "TAK 079",
+      "TAK-079",
+      "TAK079"
+    ]
+  }
+}

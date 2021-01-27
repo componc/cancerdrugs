@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Radgocitabine_Hydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "134665-72-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The hydrochloride salt form of radgocitabine, an analogue of the nucleoside deoxycytidine with potential antineoplastic activity. Upon administration, radgocitabine is incorporated into DNA and directly inhibits the activity of DNA polymerase, which may result in inhibition of DNA replication and cell cycle arrest in the S and G2/M phases, DNA fragmentation, and tumor cell apoptosis.",
+    "fdaUniiCode": "VSS4ZDZ2IE",
+    "identifier": "C150430",
+    "preferredName": "Radgocitabine Hydrochloride",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1557"
+    ],
+    "synonyms": [
+      "2'-Cyano-2'-deoxy-1-(beta-D-arabinofuranosyl)cytosine Monohydrochloride",
+      "CNDAC Hydrochloride",
+      "Deoxycytidine Analogue TAS-109 Hydrochloride",
+      "RADGOCITABINE HYDROCHLORIDE",
+      "Radgocitabine Hydrochloride"
+    ]
+  }
+}

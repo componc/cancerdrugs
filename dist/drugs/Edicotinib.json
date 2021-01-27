@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Edicotinib",
+  "nciThesaurus": {
+    "casRegistry": "1142363-52-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A small molecule and orally available inhibitor of colony-stimulating factor-1 receptor (CSF1R; FMS) with potential antineoplastic activity. Edicotinib blocks the receptor-ligand interaction between FMS and its ligand CSF1, thereby preventing autophosphorylation of FMS. As a result, unphosphorylated FMS can not activate FMS-mediated signaling pathways, thus potentially inhibiting cell proliferation in FMS-overexpressed tumor cells. FMS, a tyrosine kinase receptor, is overexpressed in certain tumor cell types and plays an essential role in macrophage differentiation, recruitment, and activation as well as the regulation of cell proliferation.",
+    "fdaUniiCode": "3NU609VYNF",
+    "identifier": "C101519",
+    "preferredName": "Edicotinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1967"
+    ],
+    "synonyms": [
+      "1H-Imidazole-2-carboxamide, 5-Cyano-N-(2-(4,4-dimethyl-1-cyclohexen-1-yl)-6-(tetrahydro-2,2,6,6-tetramethyl-2H-pyran-4-yl)-3-pyridinyl)-",
+      "4-Cyano-1H-imidazole-2-carboxylic acid N-(2-(4,4-dimethylcyclohex-1-enyl)-6-(2,2,6,6-tetramethyltetrahydropyran-4-yl)pyridin-3-yl)amide",
+      "4-Cyano-N-(2-(4,4-dimethylcyclohex-1-en-1-yl)-6-(2,2,6,6-tetramethyl-tetrahydro-2H-pyran-4-yl)pyridin-3-yl)-1H-imidazole-2-carboxamide",
+      "EDICOTINIB",
+      "Edicotinib",
+      "JNJ-40346527"
+    ]
+  }
+}

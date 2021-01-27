@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Omipalisib",
+  "nciThesaurus": {
+    "casRegistry": "1086062-66-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A small-molecule pyridylsulfonamide inhibitor of phosphatidylinositol 3-kinase (PI3K) with potential antineoplastic activity. Omipalisib binds to and inhibits PI3K in the PI3K/mTOR signaling pathway, which may trigger the translocation of cytosolic Bax to the mitochondrial outer membrane, increasing mitochondrial membrane permeability and inducing apoptotic cell death. Bax is a member of the proapoptotic Bcl2 family of proteins. PI3K, often overexpressed in cancer cells, plays a crucial role in tumor cell regulation and survival.",
+    "fdaUniiCode": "1X8F5A3NA0",
+    "identifier": "C88270",
+    "preferredName": "Omipalisib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2152"
+    ],
+    "synonyms": [
+      "Benzenesulfonamide, 2,4-Difluoro-N-(2-methoxy-5-(4-(4-pyridazinyl)-6-quinolinyl)-3-pyridinyl)-",
+      "GSK2126458",
+      "OMIPALISIB",
+      "Omipalisib"
+    ]
+  }
+}

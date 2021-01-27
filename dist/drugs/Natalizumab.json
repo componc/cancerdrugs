@@ -1,0 +1,45 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "natalizumab",
+      "conditionIndication": "Tysabri is indicated as single disease modifying therapy in adults with highly active relapsing remitting multiple sclerosis for the following patient groups:Patients with highly active disease activity despite a full and adequate course of treatment with at least one disease modifying therapy (DMT) (for exceptions and information about washout periods see sections 4.4 and 5.1)orPatients with rapidly evolving severe relapsing remitting multiple sclerosis defined by 2 or more disabling relapses in one year, and with 1 or more Gadolinium enhancing lesions on brain MRI or a significant increase in T2 lesion load as compared to a previous recent MRI.",
+      "inn": "natalizumab",
+      "marketingAuthorisationDate": "2006-06-27 00:00:00",
+      "marketingAuthorisationHolder": "Biogen Netherlands B.V.",
+      "medicineName": "Tysabri",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tysabri"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "TYSABRI",
+      "indication": "1 INDICATIONS AND USAGE TYSABRI is an integrin receptor antagonist indicated for treatment of: Multiple Sclerosis (MS) TYSABRI is indicated as monotherapy for the treatment of relapsing forms of multiple sclerosis, to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults. TYSABRI increases the risk of PML [See Warnings and Precautions ( 5.1 ) ]. When initiating and continuing treatment with TYSABRI, physicians should consider whether the expected benefit of TYSABRI is sufficient to offset this risk. ( 1.1 ) Crohn's Disease (CD) TYSABRI is indicated for inducing and maintaining clinical response and remission in adult patients with moderately to severely active Crohn's disease with evidence of inflammation who have had an inadequate response to, or are unable to tolerate, conventional CD therapies and inhibitors of TNF-\u03b1. ( 1.2 ) Important Limitations: In CD, TYSABRI should not be used in combination with immunosuppressants or inhibitors of TNF-\u03b1. ( 1.2 ) 1.1 Multiple Sclerosis (MS) TYSABRI is indicated as monotherapy for the treatment of relapsing forms of multiple sclerosis, to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults. TYSABRI increases the risk of PML [ see Warnings and Precautions ( 5.1 ) ]. When initiating and continuing treatment with TYSABRI, physicians should consider whether the expected benefit of TYSABRI is sufficient to offset this risk. 1.2 Crohn's Disease (CD) TYSABRI is indicated for inducing and maintaining clinical response and remission in adult patients with moderately to severely active Crohn's disease with evidence of inflammation who have had an inadequate response to, or are unable to tolerate, conventional CD therapies and inhibitors of TNF-\u03b1. TYSABRI should not be used in combination with immunosuppressants (e.g., 6-mercaptopurine, azathioprine, cyclosporine, or methotrexate) or inhibitors of TNF-\u03b1 [ see Warnings and Precautions ( 5.1 ) ].",
+      "manufacturer": "Biogen Inc.",
+      "splSetId": "c5fdde91-1989-4dd2-9129-4f3323ea2962"
+    }
+  ],
+  "id": "Natalizumab",
+  "nciThesaurus": {
+    "casRegistry": "189261-10-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized recombinant IgG4 monoclonal antibody directed against the alpha4 subunit of the integrins alpha4beta1and alpha4beta7 with immunomodulating, anti-inflammatory, and potential antineoplastic activities.  Natalizumab binds to the alpha4-subunit of alpha4beta1 and alpha4beta7 integrins expressed on the surface of all leukocytes except neutrophils, inhibiting the alpha4-mediated adhesion of leukocytes to counter-receptor(s) such as vascular cell adhesion molecule-1 (VCAM-1); natalizumab-mediated disruption of VCAM-1 binding by these integrins may prevent the transmigration of leukocytes across the endothelium into inflamed parenchymal tissue.  Integrins are cellular adhesion molecules (CAMs) that are upregulated in various types of cancer and some autoimmune diseases; alpha4beta1 integrin (VLA4) has been implicated in the survival of myeloma cells, possibly by mediating their adhesion to stromal cells.",
+    "fdaUniiCode": "3JB47N2Q2P",
+    "identifier": "C77862",
+    "preferredName": "Natalizumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "AN100226",
+      "Antegren",
+      "Anti-VLA4",
+      "Anti-alph4 Integrin Monoclonal Antibody AN100226",
+      "NATALIZUMAB",
+      "Natalizumab",
+      "Tysabri"
+    ]
+  }
+}

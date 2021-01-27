@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Repotrectinib",
+  "nciThesaurus": {
+    "casRegistry": "1802220-02-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available inhibitor of multiple kinases, including the receptor tyrosine kinase anaplastic lymphoma kinase (ALK), c-ros oncogene 1 (ROS1), the neurotrophic tyrosine receptor kinase (NTRK) types 1, 2 and 3, the proto-oncogene SRC, and focal adhesion kinase (FAK), with potential antineoplastic activity. Upon oral administration, repotrectinib binds to and inhibits wild-type, point mutants and fusion proteins of ALK, ROS1, NTRK1-3, SRC, FAK and, to a lesser extent, other kinases. Inhibition of these kinases leads to the disruption of downstream signaling pathways and the inhibition of cell growth of tumors in which these kinases are overexpressed, rearranged or mutated.",
+    "fdaUniiCode": "08O3FQ4UNP",
+    "identifier": "C133821",
+    "preferredName": "Repotrectinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1404"
+    ],
+    "synonyms": [
+      "ALK/ROS1/NTRK/SRC/FAK Multikinase Inhibitor TPX-0005",
+      "Multi-kinase Inhibitor TPX-0005",
+      "Multikinase Inhibitor TPX-0005",
+      "REPOTRECTINIB",
+      "Repotrectinib",
+      "TPX-0005"
+    ]
+  }
+}

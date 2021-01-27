@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Resminostat",
+  "nciThesaurus": {
+    "casRegistry": "864814-88-0",
+    "chebiId": "",
+    "chemicalFormula": "C16H19N3O4S",
+    "definition": "An orally bioavailable inhibitor of histone deacetylases (HDACs) with potential antineoplastic activity. Resminostat binds to and inhibits HDACs leading to an accumulation of highly acetylated histones. This may result in an induction of chromatin remodeling, inhibition of the transcription of tumor suppressor genes, inhibition of tumor cell division and the induction of tumor cell apoptosis. HDACs, upregulated in many tumor types, are a class of enzymes that deacetylate chromatin histone proteins.",
+    "fdaUniiCode": "1578EUB98L",
+    "identifier": "C84856",
+    "preferredName": "Resminostat",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1946"
+    ],
+    "synonyms": [
+      "4SC-201",
+      "RESMINOSTAT",
+      "Resminostat"
+    ]
+  }
+}

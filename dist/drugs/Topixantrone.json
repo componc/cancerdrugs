@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Topixantrone",
+  "nciThesaurus": {
+    "casRegistry": "156090-18-5",
+    "chebiId": "",
+    "chemicalFormula": "C21H26N6O2",
+    "definition": "A 9-aza-anthrapyrazole antineoplastic antibiotic. Topixantrone intercalates into DNA and interacts with topoisomerase II, thereby inhibiting DNA replication and repair as well as RNA and protein synthesis. Compared to other DNA intercalators, this agent shows minimal cardiotoxicity.",
+    "fdaUniiCode": "R40RXC296C",
+    "identifier": "C75124",
+    "preferredName": "Topixantrone",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2107"
+    ],
+    "synonyms": [
+      "BBR 3576",
+      "Indazolo(4,3-gh)isoquinolin-6(2H)-one, 5-((2-(dimethylamino)ethyl)amino)-2-(2-((2-hydroxyethyl)amino)ethyl)-",
+      "TOPIXANTRONE",
+      "Topixantrone"
+    ]
+  }
+}

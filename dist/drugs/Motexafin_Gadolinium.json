@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Motexafin_Gadolinium",
+  "nciThesaurus": {
+    "casRegistry": "156436-89-4",
+    "chebiId": "CHEBI:50161",
+    "chemicalFormula": "C48H66N5O10.2C2H3O2.Gd",
+    "definition": "A synthetic metallotexaphyrin with radiosensitizing and chemosensitizing properties. Motexafin gadolinium accumulates in tumor cells preferentially due to their increased rates of metabolism, generating reactive oxygen species (ROS) intracellularly and lowering the tumor cell apoptotic threshold to ionizing radiation and chemotherapy.",
+    "fdaUniiCode": "6433A42F4F",
+    "identifier": "C1881",
+    "preferredName": "Motexafin Gadolinium",
+    "semanticType": "Indicator, Reagent, or Diagnostic Aid",
+    "subclassOf": [],
+    "synonyms": [
+      "API-GP3",
+      "Gadolinium Texaphyrin",
+      "Gd (III) Texaphryin",
+      "Gd-Tex",
+      "MOTEXAFIN GADOLINIUM",
+      "Motexafin Gadolinium",
+      "PCI-0120",
+      "Xcytrin",
+      "gadolinium texaphyrin",
+      "motexafin gadolinium"
+    ]
+  }
+}

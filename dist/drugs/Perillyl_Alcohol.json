@@ -1,0 +1,38 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Perillyl_Alcohol",
+  "nciThesaurus": {
+    "casRegistry": "18457-55-1",
+    "chebiId": "CHEBI:10782",
+    "chemicalFormula": "C10H16O",
+    "definition": "A naturally occurring monoterpene related to limonene with antineoplastic activity. Perillyl alcohol inhibits farnesyl transferase and geranylgeranyl transferase, thereby preventing post-translational protein farnesylation and isoprenylation and activation of oncoproteins such as p21-ras, and arresting tumor cells in the G1 phase of the cell cycle.",
+    "fdaUniiCode": "319R5C7293",
+    "identifier": "C1461",
+    "preferredName": "Perillyl Alcohol",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [],
+    "synonyms": [
+      "(S)-(-)-Perillyl Alcohol",
+      "(S)-(-)-Perillyl alcohol",
+      "(S)-4-Isopropenyl-1-cyclohexenylmethanol",
+      "1-Cyclohexene-1-methanol",
+      "4-(1-Methylethenyl)",
+      "4-(1-Methylethenyl)-1-cyclohexene-1-methanol",
+      "4-Isopropenylcyclohex-1-ene-1-methanol",
+      "Dihydrocuminyl Alcohol",
+      "NEO100",
+      "PERILLYL ALCOHOL",
+      "POH",
+      "Perilla Alcohol",
+      "Perilla alcohol",
+      "Perillic Alcohol",
+      "Perillic alcohol",
+      "Perillol",
+      "Perillyl Alcohol",
+      "[(4S)-4-prop-1-en-2-yl-1-cyclohexenyl]methanol",
+      "p-Mentha-1,8-dien-7-ol",
+      "perillyl alcohol"
+    ]
+  }
+}

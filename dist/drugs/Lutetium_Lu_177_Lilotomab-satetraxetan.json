@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Lutetium_Lu_177_Lilotomab-satetraxetan",
+  "nciThesaurus": {
+    "casRegistry": "1453362-90-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A radioconjugate consisting of lilotomab, a murine immunoglobulin G1 (IgG1) antibody directed against the CD37 antigen, conjugated via the chelating agent 2-(4-isothiocyanatobenzyl)-1,4,7,10-tetraazacyclododecane-tetraacetic acid (p-SCN-Bn-DOTA) with potential antineoplastic activities. Upon administration of lutetium Lu 177 lilotomab-satetraxetan, the lilotomab moiety binds to CD37 expressed on certain tumor cells. Upon binding, lutetium Lu 177 lilotomab-satetraxetan delivers a cytotoxic dose of beta radiation to CD37-expressing cells. CD37 is a transmembrane glycoprotein expressed at high-levels on B-cells and to a lesser extent on T-cells and myeloid cells, and is frequently overexpressed in certain B-cell lymphomas.",
+    "fdaUniiCode": "054ZP16K2Q",
+    "identifier": "C162565",
+    "preferredName": "Lutetium Lu 177 Lilotomab-satetraxetan",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129819",
+      "C1511"
+    ],
+    "synonyms": [
+      "177Lu Lilotomab Satetraxetan",
+      "177Lu-Lilotomab-satetraxetan",
+      "Betalutin",
+      "LILOTOMAB SATETRAXETAN LUTETIUM LU-177",
+      "Lutetium Lu 177 Lilotomab-satetraxetan",
+      "Lutetium Lu-177 Lilotomab Satetraxetan",
+      "Lutetium Lu-177 Lilotomab-satetraxetan"
+    ]
+  }
+}

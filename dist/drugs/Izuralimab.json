@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Izuralimab",
+  "nciThesaurus": {
+    "casRegistry": "2329669-80-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized, Fc-engineered bispecific monoclonal antibody directed against both the human negative immunoregulatory checkpoint receptor, programmed cell death protein 1 (PD-1; PCD-1; CD279), and inducible T-cell co-stimulator (ICOS; CD278), with potential immunomodulating and antineoplastic activities. Upon administration, izuralimab targets and binds to both PD-1 and ICOS expressed on certain T-cells, including tumor-infiltrating lymphocytes (TILs). This prevents the activation of PD-1 by its ligands, programmed cell death-1 ligand 1 (PD-L1) and PD-1 ligand 2 (PD-L2), and stimulates ICOS-mediated signaling, which promotes the activation of T-cells and enhances T-cell-mediated immune responses against tumor cells. Combined PD-1 blockade and ICOS stimulation may enhance T-cell activation and proliferation more than targeting each receptor individually. The engineered Fc domain increases the stability and half-life of the antibody.",
+    "fdaUniiCode": "9D2R4T39AY",
+    "identifier": "C157578",
+    "preferredName": "Izuralimab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C143250",
+      "C28227"
+    ],
+    "synonyms": [
+      "Anti-PD1/Anti-ICOS Bispecific Monoclonal Antibody XmAb23104",
+      "Anti-PD1/ICOS Bispecific Monoclonal Antibody XmAb23104",
+      "IZURALIMAB",
+      "Izuralimab",
+      "PD1 x ICOS Bispecific Monoclonal Antibody XmAb23104",
+      "XmAb 23104",
+      "XmAb-23104",
+      "XmAb23104"
+    ]
+  }
+}

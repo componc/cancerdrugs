@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Losatuxizumab_Vedotin",
+  "nciThesaurus": {
+    "casRegistry": "1685249-67-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) composed of an immunoglobulin G1 (IgG1) monoclonal antibody directed against the epidermal growth factor receptor (EGFR), conjugated, via a protease-cleavable peptide linker, to monomethyl auristatin E (MMAE), an auristatin derivative and a potent microtubule inhibitor, with potential antineoplastic activity.  Upon administration, the monoclonal antibody moiety of losatuxizumab vedotin selectively targets and binds to EGFR. Upon internalization and proteolytic cleavage, MMAE binds to tubulin and inhibits its polymerization, resulting in G2/M phase arrest and tumor cell apoptosis. EGFR, a receptor tyrosine kinase mutated in many tumor cell types, plays a key role in tumor cell proliferation and tumor vascularization.",
+    "fdaUniiCode": "17C83BVV62",
+    "identifier": "C120556",
+    "preferredName": "Losatuxizumab Vedotin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C163952"
+    ],
+    "synonyms": [
+      "ABBV-221",
+      "LOSATUXIZUMAB VEDOTIN",
+      "Losatuxizumab Vedotin"
+    ]
+  }
+}

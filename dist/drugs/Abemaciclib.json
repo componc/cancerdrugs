@@ -1,0 +1,44 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "abemaciclib",
+      "conditionIndication": "Verzenios is indicated for the treatment of women with hormone receptor (HR) positive, human epidermal growth factor receptor 2 (HER2) negative locally advanced or metastatic breast cancer in combination with an aromatase inhibitor or fulvestrant as initial endocrine-based therapy, or in women who have received prior endocrine therapy. In pre- or perimenopausal women, the endocrine therapy should be combined with a luteinising hormone-releasing hormone (LHRH) agonist.",
+      "inn": "abemaciclib",
+      "marketingAuthorisationDate": "2018-09-26 00:00:00",
+      "marketingAuthorisationHolder": "Eli Lilly Nederland B.V.",
+      "medicineName": "Verzenios",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/verzenios"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Verzenio",
+      "indication": "1 INDICATIONS AND USAGE VERZENIO \u00ae (abemaciclib) is indicated: in combination with an aromatase inhibitor as initial endocrine-based therapy for the treatment of postmenopausal women with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer. in combination with fulvestrant for the treatment of women with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer with disease progression following endocrine therapy. as monotherapy for the treatment of adult patients with HR-positive, HER2-negative advanced or metastatic breast cancer with disease progression following endocrine therapy and prior chemotherapy in the metastatic setting. VERZENIO \u00ae is a kinase inhibitor indicated: in combination with an aromatase inhibitor as initial endocrine-based therapy for the treatment of postmenopausal women with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer. ( 1 ) in combination with fulvestrant for the treatment of women with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer with disease progression following endocrine therapy. ( 1 ) as monotherapy for the treatment of adult patients with HR-positive, HER2-negative advanced or metastatic breast cancer with disease progression following endocrine therapy and prior chemotherapy in the metastatic setting. ( 1 )",
+      "manufacturer": "Eli Lilly and Company",
+      "splSetId": "be4bc0de-0fdc-4d46-8d25-be43c79e6a06"
+    }
+  ],
+  "id": "Abemaciclib",
+  "nciThesaurus": {
+    "casRegistry": "1231929-97-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available cyclin-dependent kinase (CDK) inhibitor that targets the CDK4 (cyclin D1) and CDK6 (cyclin D3) cell cycle pathway, with potential antineoplastic activity. Abemaciclib specifically inhibits CDK4 and 6, thereby inhibiting retinoblastoma (Rb) protein phosphorylation in early G1. Inhibition of Rb phosphorylation prevents CDK-mediated G1-S phase transition, thereby arresting the cell cycle in the G1 phase, suppressing DNA synthesis and inhibiting cancer cell growth. Overexpression of the serine/threonine kinases CDK4/6, as seen in certain types of cancer, causes cell cycle deregulation.",
+    "fdaUniiCode": "60UAB198HK",
+    "identifier": "C97660",
+    "preferredName": "Abemaciclib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2185"
+    ],
+    "synonyms": [
+      "2-Pyrimidinamine, N-(5-((4-ethyl-1-piperazinyl)methyl)-2-pyridinyl)-5-fluoro-4-(4-fluoro-2-methyl-1-(1-methylethyl)-1H-benzimidazol-6-yl)",
+      "ABEMACICLIB",
+      "Abemaciclib",
+      "LY-2835219",
+      "LY2835219",
+      "Verzenio"
+    ]
+  }
+}

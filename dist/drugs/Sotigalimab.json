@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Sotigalimab",
+  "nciThesaurus": {
+    "casRegistry": "2305607-45-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody agonist of the cell surface receptor CD40, with potential immunostimulatory and antineoplastic activities. Similar to the endogenous CD40 ligand (CD40L or CD154), sotigalimab binds to CD40 on a variety of immune cell types. This triggers the cellular proliferation and activation of antigen-presenting cells (APCs), and activates B-cells, and effector and memory T-cells. This results in an enhanced immune response against tumor cells. Sotigalimab also binds to and activates CD40 present on the surfaces of some solid tumor cells, leading to apoptosis and decreased tumor growth. CD40, a cell surface receptor and member of the tumor necrosis factor (TNF) receptor superfamily, is expressed on various immune cells and certain cancer cells; it mediates both indirect tumor cell killing through the activation of the immune system and direct tumor cell apoptosis.",
+    "fdaUniiCode": "JEA93WJ5DG",
+    "identifier": "C123734",
+    "preferredName": "Sotigalimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C133877"
+    ],
+    "synonyms": [
+      "APX 005",
+      "APX 005M",
+      "APX-005M",
+      "APX005M",
+      "CD40 Agonistic Monoclonal Antibody APX005M",
+      "EPI-0050",
+      "SOTIGALIMAB",
+      "Sotigalimab"
+    ]
+  }
+}

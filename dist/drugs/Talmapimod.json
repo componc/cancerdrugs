@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Talmapimod",
+  "nciThesaurus": {
+    "casRegistry": "309913-83-5",
+    "chebiId": "",
+    "chemicalFormula": "C27H30ClFN4O3",
+    "definition": "An orally bioavailable, small-molecule, p38 mitogen-activated protein kinase (MAPK) inhibitor with potential immunomodulating, anti-inflammatory, and antineoplastic activities. Talmapimod specifically binds to and inhibits the phosphorylation of p38 MAPK, which may result in the induction of tumor cell apoptosis, the inhibition of tumor cell proliferation, and the inhibition of tumor angiogenesis. This agent may also enhance proteasome inhibitor-induced apoptosis. p38 MAPK is a serine/threonine protein kinase involved in a MAPK signaling cascade that controls cellular responses to various environmental stresses, cytokines, and endotoxins.",
+    "fdaUniiCode": "B1E00KQ6NT",
+    "identifier": "C79841",
+    "preferredName": "Talmapimod",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2149"
+    ],
+    "synonyms": [
+      "1H-indole-3-acetamide, 6-Chloro-5-[[(2R,5S)-4-[(4-fluorophenyl)methyl]-2,5-dimethyl-1- piperazinyl]carbonyl]-N,N,1-trimethyl-alpha-oxo-",
+      "2-[6-Chloro-5-[[(2R,5S)-4-(4-fluorobenzyl)-2,5-dimethylpiperazin-1-yl]carbonyl]-1- methyl-1H-indol-3-yl]-N,N-dimethyl-2-oxoacetamide",
+      "SCIO 469",
+      "TALMAPIMOD",
+      "Talmapimod"
+    ]
+  }
+}

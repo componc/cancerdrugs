@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Digitoxin",
+  "nciThesaurus": {
+    "casRegistry": "71-63-6",
+    "chebiId": "CHEBI:28544",
+    "chemicalFormula": "C41H64O13",
+    "definition": "A lipid soluble cardiac glycoside that inhibits the plasma membrane sodium potassium ATPase, leading to increased intracellular sodium and calcium levels and decreased intracellular potassium levels.  In studies increased intracellular calcium precedes cell death and decreased intracellular potassium increase caspase activation and DNA fragmentation, causing apoptosis and inhibition of cancer cell growth. (NCI)",
+    "fdaUniiCode": "E90NZP2L9U",
+    "identifier": "C2634",
+    "preferredName": "Digitoxin",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C471",
+      "C78322"
+    ],
+    "synonyms": [
+      "(3beta,5beta)-3-[(O-2,6-Dideoxy-beta-D-ribo-hexopyranosyl-(1-4)-O-2,6-dideoxy-beta-D-ribo-hexopyranosyl-(1-4)-2,6-dideoxy-beta-D-ribo-hexopyranosyl)oxy]-14-hydroxycard-20(22)-enolide",
+      "CP4071",
+      "Cardidigin",
+      "Crystalline Digitalin",
+      "Crystodigin",
+      "DIGITOXIN",
+      "Digitoxin"
+    ]
+  }
+}

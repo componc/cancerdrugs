@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Roniciclib",
+  "nciThesaurus": {
+    "casRegistry": "1223498-69-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable cyclin dependent kinase (CDK) inhibitor with potential antineoplastic activity. Roniciclib selectively binds to and inhibits the activity of CDK1/Cyclin B, CDK2/Cyclin E, CDK4/Cyclin D1, and CDK9/Cyclin T1, serine/threonine kinases that play key roles in the regulation of the cell cycle progression and cellular proliferation. Inhibition of these kinases leads to cell cycle arrest during the G1/S transition, thereby leading to an induction of apoptosis, and inhibition of tumor cell proliferation. CDKs are often dysregulated in cancerous cells.",
+    "fdaUniiCode": "0W9Q8U337A",
+    "identifier": "C92579",
+    "preferredName": "Roniciclib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2185"
+    ],
+    "synonyms": [
+      "BAY1000394",
+      "RONICICLIB",
+      "Roniciclib"
+    ]
+  }
+}

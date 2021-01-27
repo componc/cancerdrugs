@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Uzansertib",
+  "nciThesaurus": {
+    "casRegistry": "1620012-39-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available, small molecule and selective ATP-competitive pan-inhibitor of proviral integration sites for Moloney murine leukemia virus (PIM) kinases, with potential antineoplastic activity. Upon oral administration, uzansertib binds to and inhibits the activities of the three PIM isoforms, PIM1, PIM2 and PIM3. This prevents phosphorylation of their downstream targets and inhibits proliferation in cells that overexpress PIMs. PIMs, constitutively active proto-oncogenic serine/threonine kinases upregulated in various types of cancers, play key roles in tumor cell proliferation and survival.",
+    "fdaUniiCode": "0237X8153Q",
+    "identifier": "C124226",
+    "preferredName": "Uzansertib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C61074"
+    ],
+    "synonyms": [
+      "INCB 053914",
+      "INCB053914",
+      "INCB53914",
+      "Pan-PIM Inhibitor INCB053914",
+      "Pan-PIM Kinase Inhibitor INCB053914",
+      "UZANSERTIB",
+      "Uzansertib"
+    ]
+  }
+}

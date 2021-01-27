@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Apomine",
+  "nciThesaurus": {
+    "casRegistry": "126411-13-0",
+    "chebiId": "",
+    "chemicalFormula": "C28H52O7P2",
+    "definition": "A 1,1-bisphosphonate ester with potential antineoplastic and hypocholesterolemic activities. SR-45023A binds to hydroxyapatite crystals in the bone matrix where it inhibits enzymatic activity of 3-hydroxy-3-methylglutaryl-coenzyme A (HMG-CoA) reductase, which is required for the formation of mevalonate, the precursor of cholesterol. Consequently, shortage of mevalonate impedes the synthesis of downstream isoprenoids that are essential for protein prenylation. This leads to the loss of activity of proteins involved in osteoclast function and cellular proliferation, such as Ras and Rho, leading to an inhibition of cellular proliferation, and induction of osteoclasts apoptosis. In addition, SR-45023A activates the farnesoid X activated receptor (FXR), a member of the nuclear hormone superfamily implicated in cholesterol metabolism and bile acid transport and may play a role in this agent's antineoplastic effect.",
+    "fdaUniiCode": "JQ95208805",
+    "identifier": "C1873",
+    "preferredName": "Apomine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C443",
+      "C67439"
+    ],
+    "synonyms": [
+      "Apomine",
+      "Phosphonic acid, (2-(3,5-bis(1,1-dimethylethyl)-4-hydroxyphenyl)ethylidene)bis-, tetrakis(1-methylethyl) Ester",
+      "SKF 99085",
+      "SR-45023A",
+      "SR-45023A (Apomine)",
+      "TETRAISOPROPYL 2-(3,5-DI-TERT-BUTYL-4-HYDROXYPHENYL)ETHYL-1,1-BIPHOSPHONATE",
+      "Tetraisopropyl-2-(3,5-di-tert-butyl-4-hydroxyphenyl)ethylidene-1,1-diphosphonate"
+    ]
+  }
+}

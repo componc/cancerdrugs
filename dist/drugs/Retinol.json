@@ -1,0 +1,41 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "M.V.I. Pediatric",
+      "indication": "1 INDICATIONS AND USAGE M.V.I. Pediatric is a combination of vitamins indicated for the prevention of vitamin deficiency in pediatric patients up to 11 years of age receiving parenteral nutrition. The physician should not await the development of clinical signs of vitamin deficiency before initiating vitamin therapy. M.V.I. Pediatric is a combination of vitamins indicated for the prevention of vitamin deficiency in pediatric patients up to 11 years of age receiving parenteral nutrition ( 1 )",
+      "manufacturer": "Hospira, Inc.",
+      "splSetId": "7589f8f3-e82a-43b0-868a-cbb991e2183f"
+    },
+    {
+      "brand": "ANTI AGE SKIN",
+      "indication": "Turn tube upside down and rotate cap to release pellets into cap. Unscrew cap and without touching pellets tip them into the mouth under the tongue. Allow to dissolve Take 15 minutes before meals.",
+      "manufacturer": "Guna spa",
+      "splSetId": "f0c53be7-01ac-40ed-b3cd-8911ba704346"
+    }
+  ],
+  "id": "Retinol",
+  "nciThesaurus": {
+    "casRegistry": "11103-57-4",
+    "chebiId": "CHEBI:17336",
+    "chemicalFormula": "C20H30O",
+    "definition": "The fat soluble vitamin retinol. Vitamin A binds to and activates retinoid receptors (RARs), thereby inducing cell differentiation and apoptosis of some cancer cell types and inhibiting carcinogenesis. Vitamin A plays an essential role in many physiologic processes, including proper functioning of the retina, growth and differentiation of target tissues, proper functioning of the reproductive organs, and modulation of immune function.",
+    "fdaUniiCode": "G2SH0XKK91",
+    "identifier": "C68302",
+    "preferredName": "Retinol",
+    "semanticType": "Vitamin",
+    "subclassOf": [
+      "C68299",
+      "C938"
+    ],
+    "synonyms": [
+      "3,7-Dimethyl-9-(2,6, 6-trimethyl-1-cyclohexen-1-yl)-2,4,6,8-nonatetraen-1-ol",
+      "3,7-Dimethyl-9-(2,6,6-trimethyl-1-cyclohexen-1-yl)-2,4,6,8-nonatetraen-1-ol",
+      "3,7-dimethyl-9-(2,6,6-trimethyl-1-cyclohexenyl)-nona-2,4,6,8-tetraen-1-ol",
+      "All Trans Retinol",
+      "RETINOL",
+      "Retinol",
+      "retinol"
+    ]
+  }
+}

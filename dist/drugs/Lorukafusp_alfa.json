@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Lorukafusp_alfa",
+  "nciThesaurus": {
+    "casRegistry": "2131168-99-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An immunocytokine comprised of a humanized immunoglobulin G1 (IgG1) chimeric monoclonal antibody directed against the surface disialoganglioside GD2, fused to two human interleukin (IL)-2 molecules with potential antineoplastic and immunomodulatory activities. Upon intravenous administration, the antibody moiety of lorukafusp alfa specifically targets and binds to GD2 expressed on certain tumor cells. This may stimulate the activation of immune effector cells including natural killer (NK) and T-cells, leading to tumor cell death via antibody-dependent cellular cytotoxicity (ADCC), complement-dependent cytotoxicity (CDC), and GD2-specifc T-cell responses. The glycosphingolipid GD2 is a tumor-associated antigen (TAA) overexpressed on the surface of many tumor cells.",
+    "fdaUniiCode": "PL21OR4LXE",
+    "identifier": "C162537",
+    "preferredName": "Lorukafusp alfa",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1512"
+    ],
+    "synonyms": [
+      "APN 301",
+      "APN-301",
+      "APN301",
+      "EMD 273063",
+      "EMD-273063",
+      "Hu14.18-IL2",
+      "LORUKAFUSP ALFA",
+      "Lorukafusp alfa"
+    ]
+  }
+}

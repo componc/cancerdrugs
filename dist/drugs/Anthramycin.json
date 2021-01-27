@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anthramycin",
+  "nciThesaurus": {
+    "casRegistry": "4803-27-4",
+    "chebiId": "",
+    "chemicalFormula": "C16H17N3O4",
+    "definition": "A pyrrolo(1,4)benzodiazepine antineoplastic antibiotic isolated from the bacterium Streptomyces refuineus var. thermotolerans.  Anthramycin binds covalently to guanine in the minor groove of DNA, thereby inhibiting DNA replication and RNA and protein synthesis.",
+    "fdaUniiCode": "0WZD9Y66WN",
+    "identifier": "C252",
+    "preferredName": "Anthramycin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C2115"
+    ],
+    "synonyms": [
+      "3-(5,10,11,11a-tetrahydro-9,11-dihydroxy-8-methyl-5-oxo-1h-pyrrolo(2,1-c)(1,4)benzodiazepin-2-yl)-2-propenamide",
+      "ANTHRAMYCIN",
+      "Anthramycin"
+    ]
+  }
+}

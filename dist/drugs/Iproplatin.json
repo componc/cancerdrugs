@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Iproplatin",
+  "nciThesaurus": {
+    "casRegistry": "62928-11-4",
+    "chebiId": "",
+    "chemicalFormula": "2C3H9N.2Cl.Pt.2HO",
+    "definition": "A synthetic second-generation platinum-containing compound related to cisplatin. Iproplatin binds to and forms DNA crosslinks and platinum-DNA adducts, resulting in DNA replication failure and cell death.  Although less prone to glutathione inactivation compared to cisplatin, resistance to this agent has been observed in vitro due to repair of platination damage by tumor cells.",
+    "fdaUniiCode": "5R9F9NE9Z2",
+    "identifier": "C1070",
+    "preferredName": "Iproplatin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1450"
+    ],
+    "synonyms": [
+      "(OC-6-33)-dichlorodihydroxybis(2-propanamine)platinum",
+      "CHIP",
+      "Diisopropylammine-trans-dihydroxymalonatoplatinum(IV)",
+      "IPROPLATIN",
+      "Iproplatin",
+      "JM-9",
+      "Platinum, dichlorodihydroxybis(2-propanamine)-, (oc-6-33)-"
+    ]
+  }
+}

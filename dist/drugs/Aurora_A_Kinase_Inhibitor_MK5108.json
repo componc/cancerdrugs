@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Aurora_A_Kinase_Inhibitor_MK5108",
+  "nciThesaurus": {
+    "casRegistry": "1010085-13-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, highly selective small molecule inhibitor of the serine/threonine protein kinase Aurora A, with potential antimitotic and antineoplastic activity. Aurora A kinase inhibitor MK5108 binds to and inhibits Aurora A kinase, which may result in disruption of the assembly of the mitotic spindle apparatus, disruption of chromosome segregation, and eventually inhibition of cell division, proliferation and an induction of apoptosis in cells overexpressing Aurora A kinase. Aurora A kinase localizes to the spindle poles and to spindle microtubules during mitosis, and is thought to regulate spindle assembly. Aurora kinases are overexpressed in a wide variety of cancers.",
+    "fdaUniiCode": "H8J407531S",
+    "identifier": "C90585",
+    "preferredName": "Aurora A Kinase Inhibitor MK5108",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C62556"
+    ],
+    "synonyms": [
+      "Aurora A Kinase Inhibitor MK5108",
+      "MK 5108",
+      "MK-5108",
+      "MK5108"
+    ]
+  }
+}

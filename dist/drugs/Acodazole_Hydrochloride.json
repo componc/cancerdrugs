@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Acodazole_Hydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "55435-65-9",
+    "chebiId": "",
+    "chemicalFormula": "C20H19N5O.ClH",
+    "definition": "The hydrochloride salt of acodazole, a synthetic imidazoquinoline with antineoplastic activity. Acodazole intercalates into DNA, resulting in disruption of DNA replication.  Use of this agent has been associated with significant cardiotoxicity.",
+    "fdaUniiCode": "6D7W9EAH22",
+    "identifier": "C71627",
+    "preferredName": "Acodazole Hydrochloride",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C582"
+    ],
+    "synonyms": [
+      "ACODAZOLE HYDROCHLORIDE",
+      "Acetamide, N-methyl-N-[4-[(7-methyl-1H-imidazo[4, 5-f]quinolin-9-yl)amino]phenyl]-, monohydrochloride (9CI)",
+      "Acodazole Hydrochloride",
+      "acetamide, N-methyl-N-[4-[(7-methyl-1H-imidazo[4, 5-f]quinolin-9-yl)amino]phenyl]-, monohydrochloride (9CI)"
+    ]
+  }
+}

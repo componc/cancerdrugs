@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Picoplatin",
+  "nciThesaurus": {
+    "casRegistry": "181630-15-9",
+    "chebiId": "",
+    "chemicalFormula": "C6H7N.2Cl.Pt.H3N",
+    "definition": "A new generation organic platinum analog with an extended spectrum of antineoplastic activity. Designed to overcome platinum drug resistance, picoplatin alkylates DNA, forming both inter- and intra-strand cross-linkages, resulting in inhibition of DNA replication and transcription, and the induction of apoptosis.",
+    "fdaUniiCode": "B5TAN0L720",
+    "identifier": "C48416",
+    "preferredName": "Picoplatin",
+    "semanticType": "Inorganic Chemical",
+    "subclassOf": [
+      "C1450"
+    ],
+    "synonyms": [
+      "AMD473",
+      "Cis-Amminedichloro (2-Methylpyridine) Platinum (II)",
+      "JM473",
+      "NX-473",
+      "PICOPLATIN",
+      "Picoplatin",
+      "Platinum, Amminedichloro(2-methylpyridine)-, (SP-4-3)-",
+      "ZD0473"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Porfiromycin",
+  "nciThesaurus": {
+    "casRegistry": "801-52-5",
+    "chebiId": "",
+    "chemicalFormula": "C16H20N4O5",
+    "definition": "An N-methyl derivative of the antineoplastic antibiotic mitomycin C isolated from the bacterium Streptomyces ardus and other Streptomyces bacterial species.  Bioreduced porfiromycin generates oxygen radicals and alkylates DNA, producing interstrand cross-links and single-strand breaks, thereby inhibiting DNA synthesis.  Porfiromycin is preferentially toxic to hypoxic cells.",
+    "fdaUniiCode": "H1WK901OA6",
+    "identifier": "C763",
+    "preferredName": "Porfiromycin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C663"
+    ],
+    "synonyms": [
+      "Azirino[2',3':3,4]pyrrolo[1, 2-a]indole-4,7-dione, 6-amino-1,1a,2,8,8a, 8b-hexahydro-8-(hydroxymethyl)-8a- methoxy-1,5-dimethyl-, carbamate (ester) (8CI)",
+      "Azirino[2',3':3,4]pyrrolo[1, 2-a]indole-4,7-dione, 6-amino-1,1a,2,8,8a, 8b-hexahydro-8-(hydroxymethyl)-8a- methoxy-1,5-dimethyl-, carbamate (ester)(8CI)",
+      "Azirino[2',3':3,4]pyrrolo[1,2-a]indole-4,7-dione, 6-amino-8-[[(aminocarbonyl)oxy]methyl]-1,1a,2,8,8a,8b- hexahydro-8a-methoxy-1,5-dimethyl-,[1aR-(1a.alpha.,8.beta., 8a.alpha.,8b.alpha.)]- (9CI)",
+      "Azirino[2',3':3,4]pyrrolo[1,2-a]indole-4,7-dione, 6-amino-8-[[(aminocarbonyl)oxy]methyl]-1,1a,2,8,8a,8b-hexahydro-8a-methoxy-1,5-dimethyl-,[1aR-(1a-alpha,8beta, 8a-alpha,8b-alpha)]- (9CI)",
+      "ENT-50825",
+      "MITOMYCIN, METHYL",
+      "Methyl Mitomycin",
+      "Methyl Mitomycin C",
+      "Methyl mitomycin C",
+      "Methylmitomycin",
+      "Mitomycin, methyl-",
+      "N-Methylmitomycin C",
+      "N-methylmitomycin C",
+      "PORFIROMYCIN",
+      "Porfiromycin",
+      "Porfiromycine",
+      "Porphyromycin",
+      "Promycin",
+      "U-14,743",
+      "U-14743",
+      "[1aS-(1a alpha,8beta,8a alpha,8b alpha)]-6-amino-8-[[(aminocarbonyl)oxy]methyl]-1,1a,2,8,8a,8b-hexahydro-8a-methoxy-1,5-dimethylazirino[2',3':3,4]pyrrolo[1,2-a]indole-4,7-dione",
+      "porfiromycin"
+    ]
+  }
+}

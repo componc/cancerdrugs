@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Codrituzumab",
+  "nciThesaurus": {
+    "casRegistry": "1365267-33-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody directed against the cell surface oncofetal protein glypican-3 (GPC3) with potential antineoplastic activity. Anti-GPC3 monoclonal antibody GC33 binds to GPC3 and triggers a host immune response against GPC3-expressing tumor cells, which may result in tumor cell death. GPC3, a heparin sulfate proteoglycan, is frequently upregulated in hepatocellular carcinoma and mesoderm-derived organs such as the liver, lungs, and kidney.",
+    "fdaUniiCode": "U9I0PLD4HT",
+    "identifier": "C80043",
+    "preferredName": "Codrituzumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-Glypican 3 Monoclonal Antibody GC33",
+      "CODRITUZUMAB",
+      "Codrituzumab",
+      "GC-33",
+      "GC33",
+      "RG 7686",
+      "RO 5137382",
+      "RO-5137382",
+      "RO5137382"
+    ]
+  }
+}

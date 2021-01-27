@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Rabusertib",
+  "nciThesaurus": {
+    "casRegistry": "911222-45-2",
+    "chebiId": "",
+    "chemicalFormula": "C18H22BrN5O3",
+    "definition": "An inhibitor of the cell cycle checkpoint kinase 2 (chk2) with potential chemopotentiating activity. Rabusertib binds to and inhibits the activity of chk2, which may prevent the repair of DNA caused by DNA-damaging agents, thus potentiating the antitumor efficacies of various chemotherapeutic agents. Chk2, an ATP-dependent serine-threonine kinase, is a key component in the DNA replication-monitoring checkpoint system and is activated by double-stranded breaks (DSBs); activated chk2 is overexpressed by a variety of cancer cell types.",
+    "fdaUniiCode": "3S9L1NU6U7",
+    "identifier": "C81937",
+    "preferredName": "Rabusertib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C61074"
+    ],
+    "synonyms": [
+      "1-[5-bromo-4-methyl-2-S-(morpholin-2-yl-methoxy)-phenyl]-3-(5-methyl-pyrazin-2-yl)-urea",
+      "Checkpoint Kinase 2 Inhibitor LY2603618",
+      "LY2603618",
+      "RABUSERTIB",
+      "Rabusertib"
+    ]
+  }
+}

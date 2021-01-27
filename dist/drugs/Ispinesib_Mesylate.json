@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ispinesib_Mesylate",
+  "nciThesaurus": {
+    "casRegistry": "514820-03-2",
+    "chebiId": "",
+    "chemicalFormula": "C30H33ClN4O2.CH4O3S",
+    "definition": "The mesylate salt form of ispinesib, a synthetic small molecule, derived from quinazolinone, and kinesin spindle protein (KSP) inhibitor, with antineoplastic activity. Ispinesib selectively inhibits KSP and prevents its binding to microtubules, resulting in inhibition of mitotic spindle assembly, induction of cell cycle arrest during the M-phase, and cell death in tumor cells that are actively dividing.",
+    "fdaUniiCode": "R6ZMD4UH3D",
+    "identifier": "C77518",
+    "preferredName": "Ispinesib Mesylate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C67440"
+    ],
+    "synonyms": [
+      "ISPINESIB MESYLATE",
+      "Ispinesib Mesylate"
+    ]
+  }
+}

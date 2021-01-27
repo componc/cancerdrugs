@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Utomilumab",
+  "nciThesaurus": {
+    "casRegistry": "1417318-27-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A human, agonistic immunoglobulin (Ig) G2 monoclonal antibody (mAb) targeting 4-1BB (CD137, TNFRSF9), with potential immunostimulating activity. Upon administration, utomilumab binds to and activates 4-1BB expressed on various immune cells, such as CD8-positive and CD4-positive T cells and natural killer (NK) cells. This enhances 4-1BB-mediated signaling, induces cytokine production and promotes anti-tumor immune responses. 4-1BB, a member of the tumor necrosis factor (TNF)/nerve growth factor (NGF) family of receptors, plays an important role in the regulation of immune responses.",
+    "fdaUniiCode": "6YY8O697VF",
+    "identifier": "C116619",
+    "preferredName": "Utomilumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C155745"
+    ],
+    "synonyms": [
+      "PF 05082566",
+      "PF 5082566",
+      "PF-05082566",
+      "PF-2566",
+      "UTOMILUMAB",
+      "Utomilumab"
+    ]
+  }
+}

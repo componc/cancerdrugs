@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "EZH2_Inhibitor_PF-06821497",
+  "nciThesaurus": {
+    "casRegistry": "1844849-10-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available selective inhibitor of the histone lysine methyltransferase (HMT) enhancer of zeste homolog 2 (EZH2), with potential antineoplastic activity. Upon oral administration, EZH2 inhibitor PF-06821497 selectively targets, binds to and inhibits the activity of EZH2. Inhibition of EZH2 specifically prevents the methylation of histone H3 on lysine 27 (H3K27). This decrease in histone methylation alters gene expression patterns associated with cancer pathways and results in decreased proliferation of EZH2-expressing cancer cells. EZH2, an HMT class enzyme and the catalytic subunit of the polycomb repressive complex 2 (PRC2), is overexpressed or mutated in a variety of cancer cells and plays a key role in tumor cell proliferation; its expression is correlated with tumor initiation, progression, stem cell self-renewal, migration and angiogenesis.",
+    "fdaUniiCode": "S4L4MM20B6",
+    "identifier": "C156743",
+    "preferredName": "EZH2 Inhibitor PF-06821497",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C156804"
+    ],
+    "synonyms": [
+      "1(2H)-Isoquinolinone, 5,8-Dichloro-2-((1,2-dihydro-4-methoxy-6-methyl-2-oxo-3-pyridinyl)methyl)-3,4-dihydro-7-((R)-methoxy-3-oxetanylmethyl)-",
+      "EZH2 Inhibitor PF-06821497",
+      "PF 06821497",
+      "PF-06821497",
+      "PF06821497"
+    ]
+  }
+}

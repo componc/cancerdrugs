@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Citarinostat",
+  "nciThesaurus": {
+    "casRegistry": "1316215-12-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available histone deacetylase (HDAC) inhibitor, with potential antineoplastic activity. Upon oral administration, citarinostat inhibits the activity of HDACs; this results in an accumulation of highly acetylated chromatin histones, the induction of chromatin remodeling and an altered pattern of gene expression. This leads to the inhibition of tumor oncogene transcription, and the selective transcription of tumor suppressor genes, which inhibit tumor cell division and induce tumor cell apoptosis. HDAC, an enzyme upregulated in many tumor types, deacetylates chromatin histone proteins.",
+    "fdaUniiCode": "441P620G3P",
+    "identifier": "C121641",
+    "preferredName": "Citarinostat",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1946"
+    ],
+    "synonyms": [
+      "2-((2-Chlorophenyl)phenylamino)-N-(7-(hydroxyamino)-7-oxoheptyl)-5-pyrimidinecarboxamide",
+      "5-Pyrimidinecarboxamide, 2-((2-Chlorophenyl)phenylamino)-N-(7-(hydroxyamino)-7-oxoheptyl)-",
+      "ACY-241",
+      "CC-96241",
+      "CITARINOSTAT",
+      "Citarinostat",
+      "HDAC-IN-2",
+      "Histone Deacetylase Inhibitor ACY-241"
+    ]
+  }
+}

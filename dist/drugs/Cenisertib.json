@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Cenisertib",
+  "nciThesaurus": {
+    "casRegistry": "871357-89-0",
+    "chebiId": "",
+    "chemicalFormula": "C24H30FN7O",
+    "definition": "A water-soluble, synthetic small molecule with potential antineoplastic activity. Cenisertib selectively binds to and inhibits aurora kinases (AKs), a family of serine-threonine kinases which are important regulators of cell division and proliferation, and which are overexpressed in certain types of cancer. Inhibition of aurora kinases inhibits cell division and proliferation and induces apoptosis in tumor cells overexpressing AKs.",
+    "fdaUniiCode": "5277GPA358",
+    "identifier": "C64540",
+    "preferredName": "Cenisertib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C62556"
+    ],
+    "synonyms": [
+      "AS703569",
+      "Aurora Kinase Inhibitor AS703569",
+      "CENISERTIB",
+      "Cenisertib",
+      "R763"
+    ]
+  }
+}

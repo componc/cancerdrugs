@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Siremadlin",
+  "nciThesaurus": {
+    "casRegistry": "1448867-41-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable human double minute 2 homolog (HDM2) inhibitor with potential antineoplastic activity. Siremadlin inhibits the binding of the HDM2 protein to the transcriptional activation domain of the tumor suppressor protein p53. By preventing this HDM2-p53 interaction, the proteasome-mediated enzymatic degradation of p53 is inhibited, which may result in the restoration of both p53 signaling and p53-mediated induction of tumor cell apoptosis. HDM2, a zinc finger protein and negative regulator of the p53 pathway, is often overexpressed in cancer cells and has been implicated in cancer cell proliferation and survival.",
+    "fdaUniiCode": "0282IF4JC8",
+    "identifier": "C116325",
+    "preferredName": "Siremadlin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C162996"
+    ],
+    "synonyms": [
+      "HDM201",
+      "NVP-HDM 201",
+      "SIREMADLIN",
+      "Siremadlin"
+    ]
+  }
+}

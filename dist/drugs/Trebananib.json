@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Trebananib",
+  "nciThesaurus": {
+    "casRegistry": "894356-79-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An angiopoietin (Ang) 1 and 2 neutralizing peptibody, with potential antiangiogenic activity. AMG 386 targets and binds to Ang1 and Ang2, thereby preventing the interaction of the angiopoietins with their target tie2 receptors. This may inhibit angiogenesis and may eventually lead to an inhibition of tumor cell proliferation.",
+    "fdaUniiCode": "X8Y5U6NC7E",
+    "identifier": "C91711",
+    "preferredName": "Trebananib",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1742"
+    ],
+    "synonyms": [
+      "AMG 386",
+      "AMG386",
+      "Angiopoietin 1/2-Neutralizing Peptibody AMG 386",
+      "TREBANANIB",
+      "Trebananib"
+    ]
+  }
+}

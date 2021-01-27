@@ -1,0 +1,37 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "ETOPOPHOS",
+      "indication": "1 INDICATIONS AND USAGE ETOPOPHOS is a topoisomerase inhibitor indicated for the treatment of patients with: Refractory testicular tumors, in combination with other chemotherapeutic drugs. ( 1 ) Small cell lung cancer, in combination with cisplatin, as first-line treatment. ( 1 ) 1.1 Refractory Testicular Tumors ETOPOPHOS is indicated, in combination with other chemotherapeutic drugs, for treatment of patients with refractory testicular tumors. 1.2 Small Cell Lung Cancer ETOPOPHOS is indicated, in combination with cisplatin, for first-line treatment of patients with small cell lung cancer.",
+      "manufacturer": "H2-Pharma, LLC",
+      "splSetId": "7499fc35-fae8-44ad-bbab-9a1a589bf3ee"
+    },
+    {
+      "brand": "ETOPOPHOS",
+      "indication": "1 INDICATIONS AND USAGE ETOPOPHOS is a topoisomerase inhibitor indicated for the treatment of patients with: Refractory testicular tumors, in combination with other chemotherapeutic drugs. ( 1 ) Small cell lung cancer, in combination with cisplatin, as first-line treatment. ( 1 ) 1.1 Refractory Testicular Tumors ETOPOPHOS is indicated, in combination with other chemotherapeutic drugs, for treatment of patients with refractory testicular tumors. 1.2 Small Cell Lung Cancer ETOPOPHOS is indicated, in combination with cisplatin, for first-line treatment of patients with small cell lung cancer.",
+      "manufacturer": "E.R. Squibb & Sons, L.L.C.",
+      "splSetId": "e28c05f0-081f-406d-8bfb-9160a6908307"
+    }
+  ],
+  "id": "Etoposide_Phosphate",
+  "nciThesaurus": {
+    "casRegistry": "117091-64-2",
+    "chebiId": "",
+    "chemicalFormula": "C29H33O16P",
+    "definition": "A phosphate salt of a semisynthetic derivative of podophyllotoxin. Etoposide binds to the enzyme topoisomerase II, inducing double-strand DNA breaks, inhibiting DNA repair, and resulting in decreased DNA synthesis and tumor cell proliferation. Cells in the S and G2 phases of the cell cycle are most sensitive to this agent.",
+    "fdaUniiCode": "528XYJ8L1N",
+    "identifier": "C1093",
+    "preferredName": "Etoposide Phosphate",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1331"
+    ],
+    "synonyms": [
+      "ETOPOSIDE PHOSPHATE",
+      "Etopophos",
+      "Etoposide Phosphate",
+      "etoposide phosphate"
+    ]
+  }
+}

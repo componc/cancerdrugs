@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tucotuzumab_Celmoleukin",
+  "nciThesaurus": {
+    "casRegistry": "339986-90-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant fusion protein comprised of a human monoclonal antibody directed against the epithelial cell adhesion molecule (EpCAM or KS) linked to an active interleukin-2 (IL2) molecule with potential antineoplastic activity. Tucotuzumab Celmoleukin recognizes and binds to EpCAM, a cell surface epithelial protein that is expressed on a wide variety of cancer cells, thereby concentrating IL2 in EpCAM-expressing tumor tissue. Subsequently, the localized IL2 moiety of the fusion protein may stimulate a cytotoxic T-cell antitumor immune response.",
+    "fdaUniiCode": "4ON7FF680U",
+    "identifier": "C2630",
+    "preferredName": "Tucotuzumab Celmoleukin",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1512"
+    ],
+    "synonyms": [
+      "EMD 273066",
+      "EMD-273066",
+      "KSA-IL-2",
+      "KSA-Interleukin-2 Fusion Protein",
+      "KSA-interleukin-2",
+      "TUCOTUZUMAB CELMOLEUKIN",
+      "Tucotuzumab Celmoleukin",
+      "huKS-IL2 Fusion Protein"
+    ]
+  }
+}

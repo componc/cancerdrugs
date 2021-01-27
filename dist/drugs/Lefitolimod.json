@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Lefitolimod",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic oligonucleotide based on a proprietary double stem-loop immunomodulator design with potential immunostimulating activity. Lefitolimod binds to and activates intracellular Toll-like receptor 9 (TLR9) in monocytes/macrophages, plasmacytoidal and myeloid dendritic cells (DCs), and natural killer (NK) cells, initiating immune signaling pathways and inducing T-helper 1 cell (Th1) production leading to the production of memory T cells and a Th1-mediated immune response. By activating the immune system, MGN1703 may attack tumor associated antigen (TAAs). TLR9 is a member of the TLR family, which plays a fundamental role in pathogen recognition and activation of innate immunity.",
+    "fdaUniiCode": "6SO72A12FN",
+    "identifier": "C94207",
+    "preferredName": "Lefitolimod",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C2139"
+    ],
+    "synonyms": [
+      "LEFITOLIMOD",
+      "Lefitolimod",
+      "MGN-1703",
+      "MGN1703",
+      "dSLIM-30L1"
+    ]
+  }
+}

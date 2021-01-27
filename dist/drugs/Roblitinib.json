@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Roblitinib",
+  "nciThesaurus": {
+    "casRegistry": "1708971-55-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An inhibitor of human fibroblast growth factor receptor 4 (FGFR4), with potential antineoplastic activity. Upon administration, roblitinib binds to and inhibits the activity of FGFR4, which leads to an inhibition of tumor cell proliferation in FGFR4-overexpressing cells. FGFR4 is a receptor tyrosine kinase upregulated in certain tumor cells and involved in tumor cell proliferation, differentiation, angiogenesis, and survival.",
+    "fdaUniiCode": "M64JF6WMSA",
+    "identifier": "C120102",
+    "preferredName": "Roblitinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C155727"
+    ],
+    "synonyms": [
+      "FGF401",
+      "FGFR4 Inhibitor FGF401",
+      "ROBLITINIB",
+      "Roblitinib"
+    ]
+  }
+}

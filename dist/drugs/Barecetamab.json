@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Barecetamab",
+  "nciThesaurus": {
+    "casRegistry": "2275727-74-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fully human antibody directed against the receptor tyrosine-protein kinase erbB-3 (ErbB3; HER3) with potential antineoplastic activity. Upon intravenous administration, barecetamab targets and binds to domain 3 and weakly interacts with domain 1 of ErbB3. This prevents heregulin (HRG) binding and blocks dimerization of ErbB3, thereby inactivating ErbB3 downstream signaling. ISU104 may also elicit the internalization of ErbB3 from the plasma membrane and downregulate ErbB3 expression. This inhibits cellular proliferation and survival of ErbB3-expressing tumor cells. ErbB3, a member of the epidermal growth factor receptor (EGFR) family of receptor tyrosine kinases, is frequently overexpressed in a variety of tumors and its overexpression generally correlates with poor prognosis and tumor resistance.",
+    "fdaUniiCode": "M9SE4M9U1V",
+    "identifier": "C158746",
+    "preferredName": "Barecetamab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-ErbB3 Antibody ISU104",
+      "Anti-HER3 Antibody ISU104",
+      "BARECETAMAB",
+      "Barecetamab",
+      "ISU 104",
+      "ISU-104",
+      "ISU104"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "TEPEZZA",
+      "indication": "1 INDICATIONS AND USAGE TEPEZZA is indicated for the treatment of Thyroid Eye Disease. TEPEZZA is an insulin-like growth factor-1 receptor inhibitor indicated for the treatment of Thyroid Eye Disease ( 1 )",
+      "manufacturer": "Horizon Therapeutics USA, Inc.",
+      "splSetId": "3e6c54a1-cefd-4a5b-a855-ab9f268b6cce"
+    }
+  ],
+  "id": "Teprotumumab",
+  "nciThesaurus": {
+    "casRegistry": "89957-37-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant, fully human monoclonal antibody directed against the insulin-like growth factor-1 receptor (IGF-1R) with potential antineoplastic activity. Teprotumumab binds to membrane-bound IGF-1R, preventing the binding of the natural ligand IGF-1 and the activation of PI3K/AKT signal transduction; downregulation of the PI3K/AKT survival pathway may result in the induction of apoptosis and decreased cellular proliferation. The activation of IGF-1R, a receptor tyrosine kinase of the insulin receptor superfamily, stimulates cell proliferation, enables oncogenic transformation, and suppresses apoptosis; IGF-1R signaling has been implicated in tumorigenesis and metastasis.",
+    "fdaUniiCode": "Y64GQ0KC0A",
+    "identifier": "C95797",
+    "preferredName": "Teprotumumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-IGF-1R Monoclonal Antibody R1507",
+      "Immunoglobulin G1, Anti-(Human Insulin-like Growth Factor I Receptor)(Human Monoclonal Heavy Chain), Disulfide with Human Monoclonal Light Chain, Dimer",
+      "R1507",
+      "RG1507",
+      "RO4858696-000",
+      "RV001",
+      "TEPROTUMUMAB",
+      "Teprotumumab"
+    ]
+  }
+}

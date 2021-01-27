@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Milciclib_Maleate",
+  "nciThesaurus": {
+    "casRegistry": "1253645-38-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The maleate salt form of milciclib, an orally bioavailable inhibitor of cyclin-dependent kinases (CDKs) and tropomyosin receptor kinase A (TRKA), with potential antineoplastic activity. CDK2/TRKA inhibitor PHA-848125 AC potently inhibits cyclin-dependent kinase 2 (CDK2) and exhibits activity against other CDKs including CDK1 and CDK4, in addition to TRKA. Inhibition of these kinases may result in cell cycle arrest and apoptosis of tumor cells that express these kinases. CDKs are serine/threonine kinases involved in regulation of the cell cycle and may be overexpressed in some cancer cell types. The neurotrophin receptor TRKA is mutated in a variety of cancer cell types.",
+    "fdaUniiCode": "82W826FL6S",
+    "identifier": "C88312",
+    "preferredName": "Milciclib Maleate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2185"
+    ],
+    "synonyms": [
+      "1H-Pyrazolo(4,3-H)quinazoline-3-carboxamide, 4,5-dihydro-N,1,4,4-tetramethyl-8-((4-(4-methyl-1-piperazinyl)phenyl)amino)-, (2Z)-2-Butenedioate (1:1)",
+      "MILCICLIB MALEATE",
+      "Milciclib Maleate",
+      "N,1,4,4-Tetramethyl-8-[[4-(4-methylpiperazin-1-yl)phenyl]amino]-4,5-dihydro-1H-pyrazolo[4,3-h]quinazoline-3-carboxamide",
+      "PHA-848125 AC"
+    ]
+  }
+}

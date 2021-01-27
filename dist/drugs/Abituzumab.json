@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Abituzumab",
+  "nciThesaurus": {
+    "casRegistry": "1105038-73-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody directed against the human alpha v integrin subunit with potential antiangiogenic and antineoplastic activities. Abituzumab, a chimeric antibody which includes the antigen binding sites of the anti-integrin mouse antibody 17E6, binds to and inhibits the activity of alphaVbeta3 integrin (vitronectin receptor); this may result in the inhibition of endothelial cell-cell interactions, endothelial cell-matrix interactions, and integrin-mediated tumor angiogenesis and metastasis in alphavbeta3-expressing tumor cells. AlphaVbeta3 integrin, a cell adhesion and signaling receptor, is expressed on the surface of tumor vessel endothelial cells and plays a crucial role in endothelial cell adhesion and migration.",
+    "fdaUniiCode": "724QD330RD",
+    "identifier": "C82422",
+    "preferredName": "Abituzumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C1742",
+      "C20401"
+    ],
+    "synonyms": [
+      "ABITUZUMAB",
+      "Abituzumab",
+      "EMD 525797"
+    ]
+  }
+}

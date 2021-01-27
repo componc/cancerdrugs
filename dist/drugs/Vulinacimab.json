@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Vulinacimab",
+  "nciThesaurus": {
+    "casRegistry": "2250342-36-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fully human monoclonal antibody directed against human vascular endothelial growth factor receptor 2 (VEGFR-2) with potential anti-angiogenesis and antineoplastic activities. Upon administration, vulinacimab specifically binds to and inhibits VEGFR-2, which may inhibit tumor angiogenesis and tumor cell proliferation. VEGFR-2, a tyrosine-protein kinase that plays an essential role in angiogenesis and the proliferation, survival, migration and differentiation of endothelial cells, is overexpressed in certain tumor types.",
+    "fdaUniiCode": "SA09JNQ24D",
+    "identifier": "C156172",
+    "preferredName": "Vulinacimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C93170"
+    ],
+    "synonyms": [
+      "Anti-VEGFR2 Monoclonal Antibody HLX06",
+      "HLX 06",
+      "HLX-06",
+      "HLX06",
+      "VULINACIMAB",
+      "Vulinacimab"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "MUC1-targeted_Peptide_GO-203-2C",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An optimized small peptide drug candidate targeting epithelial mucin (MUC1) with antineoplastic activity. MUC1-targeted peptide GO-203-2C interacts with oncoprotein MUC1 C-terminal subunit on the cell surface, thereby impeding cell-cell interactions, signaling, and metastasis. MUC1 antigen, a membrane bound glycoprotein expressed by most glandular and ductal epithelial cells, is over-expressed in many diverse human carcinomas including those of the breast, prostate, lung, colon, pancreas, and ovary, and has been associated with poor prognosis.",
+    "fdaUniiCode": "5YSY733NA3",
+    "identifier": "C95722",
+    "preferredName": "MUC1-targeted Peptide GO-203-2C",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1752"
+    ],
+    "synonyms": [
+      "GO-203-2C",
+      "MUC1-targeted Peptide GO-203-2C"
+    ]
+  }
+}

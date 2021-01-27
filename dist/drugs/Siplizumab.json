@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Siplizumab",
+  "nciThesaurus": {
+    "casRegistry": "288392-69-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal immunoglobulin G1 antibody with potential antineoplastic activity. Siplizumab binds to CD2, a specific receptor found in T cells and NK cells, thereby triggering a host immune response that results in lysis of CD2+ cells, selective suppression of the immune system, and control of activated T cell growth.",
+    "fdaUniiCode": "KUW1QG1ZM3",
+    "identifier": "C38685",
+    "preferredName": "Siplizumab",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C20401"
+    ],
+    "synonyms": [
+      "Immunoglobulin G1, Anti-(human CD2 (Antigen))(Human-rat Monoclonal MEDI-507 G1-chain), Disulfide with Human-rat Monoclonal MEDI-507 Light Chain, Dimer",
+      "MEDI-507",
+      "SIPLIZUMAB",
+      "Siplizumab",
+      "siplizumab"
+    ]
+  }
+}

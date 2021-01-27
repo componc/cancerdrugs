@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Girentuximab",
+  "nciThesaurus": {
+    "casRegistry": "916138-87-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A chimeric monoclonal antibody directed against G250, a cell surface antigen found in the majority of renal cell carcinomas. Following binding, monoclonal antibody G250 (mAb G250) may be internalized by G250 antigen-expressing renal carcinoma cells; mAb G250 may be useful as a carrier for radioisotopes and other antineoplastic therapeutic agents. (NCI05)",
+    "fdaUniiCode": "539B57DFJF",
+    "identifier": "C1960",
+    "preferredName": "Girentuximab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Chimeric Monoclonal Antibody cG250",
+      "GIRENTUXIMAB",
+      "Girentuximab",
+      "MoAb G250",
+      "Monoclonal Antibody G250",
+      "Rencarex",
+      "WX-G250",
+      "cG250"
+    ]
+  }
+}

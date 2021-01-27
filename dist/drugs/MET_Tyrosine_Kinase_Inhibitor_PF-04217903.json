@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "MET_Tyrosine_Kinase_Inhibitor_PF-04217903",
+  "nciThesaurus": {
+    "casRegistry": "956905-27-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailabe, small-molecule tyrosine kinase inhibitor with potential antineoplastic activity. MET tyrosine kinase inhibitor PF-04217903 selectively binds to and inhibits c-Met, disrupting the c-Met signaling pathway, which may result in the inhibition of tumor cell growth, migration and invasion of tumor cells, and the induction of death in tumor cells expressing c-Met. The receptor tyrosine kinase c-Met, also known as hepatocyte growth factor (HGF) receptor, is overexpressed or mutated in many tumor cell types, playing an important role in tumor cell proliferation, survival, invasion, and metastasis and angiogenesis.",
+    "fdaUniiCode": "CYJ9ATV1IJ",
+    "identifier": "C78483",
+    "preferredName": "MET Tyrosine Kinase Inhibitor PF-04217903",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C129825",
+      "C143099"
+    ],
+    "synonyms": [
+      "2-(4-(1-(Quinolin-6-ylmethyl)-1H-(1,2,3)triazolo(4,5-b)pyrazin-6-yl)-1H-pyrazol-1-yl)ethanol",
+      "MET Tyrosine Kinase Inhibitor PF-04217903",
+      "PF-04217903"
+    ]
+  }
+}

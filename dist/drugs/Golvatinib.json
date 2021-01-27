@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Golvatinib",
+  "nciThesaurus": {
+    "casRegistry": "928037-13-2",
+    "chebiId": "",
+    "chemicalFormula": "C33H37F2N7O4",
+    "definition": "An orally bioavailable dual kinase inhibitor of c-Met (hepatocyte growth factor receptor) and VEGFR-2 (vascular endothelial growth factor receptor-2) tyrosine kinases with potential antineoplastic activity. c-Met/VEGFR kinase inhibitor E7050 binds to and inhibits the activities of both c-Met and VEGFR-2, which may inhibit tumor cell growth and survival of tumor cells that overexpress these receptor tyrosine kinases. c-Met and VEGFR-2 are upregulated in a variety of tumor cell types and play important roles in tumor cell growth, migration and angiogenesis.",
+    "fdaUniiCode": "516Z3YP58E",
+    "identifier": "C82363",
+    "preferredName": "Golvatinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1404"
+    ],
+    "synonyms": [
+      "1,1-cyclopropanedicarboxamide, N-(2-fluoro-4-((2-(((4-(4-methyl-1-piperazinyl)-1-piperidinyl)carbonyl)amino)-4-pyridinyl)oxy)phenyl)-N'-(4-fluorophenyl)-",
+      "E7050",
+      "GOLVATINIB",
+      "Golvatinib",
+      "c-Met/VEGFR-2 Kinase Inhibitor E7050"
+    ]
+  }
+}

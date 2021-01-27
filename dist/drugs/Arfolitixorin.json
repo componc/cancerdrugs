@@ -1,0 +1,32 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Arfolitixorin",
+  "nciThesaurus": {
+    "casRegistry": "31690-11-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The R-isomer of folitixorin, a reduced folate-based biomodulator and active metabolite of folate drugs leucovorin (LV) and levoleucovorin (l-LV) that can be used to increase the efficacy of certain antimetabolites, such as the cytotoxic agent 5-fluorouracil (5-FU), and reduce as well as protect against certain antimetabolite-associated adverse effects, such as those seen with high-dose (HD) methotrexate. Upon administration of arfolitixorin, 5,10-methylenetetrahydrofolate (MTHF) is a reduced folate substrate for the enzyme thymidylate synthase (TS) and stabilizes, upon co-administration of 5-FU, the covalent binding of the 5-FU metabolite 5-fluoro-2'-deoxyuridine-5'-monophosphate (FdUMP), instead of deoxyuridine monophosphate (dUMP), to its target enzyme TS, which results in an inhibition of TS. This inhibits the synthesis of deoxythymidine monophosphate (dTMP) and leads to the depletion of thymidine triphosphate (TTP), which is a necessary constituent of DNA. This inhibits DNA synthesis, which leads to an inhibition of cellular proliferation and induces tumor cell death. As MTHF is able to stabilize and strengthen the ternary complex, co-administration of arfolitixorin enhances the inhibition of DNA synthesis and increases the cytotoxic effect of 5-FU. As MTHF is the active form of folate and the active metabolite of LV and l-LV, arfolitixorin does not need to be converted to an active metabolite to become activated. In DNA synthesis, a ternary complex is formed between the reduced folate substrate MTHF, the TS enzyme and dUMP in order to convert dUMP to the DNA building block dTMP, which is necessary for DNA synthesis.",
+    "fdaUniiCode": "Z8R4A37V9Q",
+    "identifier": "C157079",
+    "preferredName": "Arfolitixorin",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2078"
+    ],
+    "synonyms": [
+      "(6R)-5,10-Methylenetetrahydrofolate",
+      "6R-5,10-methyleneTHF",
+      "6R-5-10-Methylenetetrahydrofolate",
+      "6R-MTHF",
+      "6R-methylene THF",
+      "ARFOLITIXORIN",
+      "Arfolitixorin",
+      "Methylenetetrahydrofolic Acid, L-(+)-",
+      "Modufolin",
+      "Rescufolin",
+      "[6R] 5,10-methylenetetrahydrofolate",
+      "[6R]-5,10-methylene-tetrahydrofolate"
+    ]
+  }
+}

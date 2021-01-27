@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Sparfosate_Sodium",
+  "nciThesaurus": {
+    "casRegistry": "66569-27-5",
+    "chebiId": "",
+    "chemicalFormula": "C6H8NO8P.2Na",
+    "definition": "The disodium salt form of N-phosphonacetyl-L-aspartate (PALA), a pyrimidine antimetabolite with antineoplastic activity.  PALA inhibits pyrimidine biosynthesis and increases the extent to which fluorouracil is incorporated into RNA.",
+    "fdaUniiCode": "5R33Q73DYD",
+    "identifier": "C2353",
+    "preferredName": "Sparfosate Sodium",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C272",
+      "C471"
+    ],
+    "synonyms": [
+      "CI-882",
+      "L-Aspartic Acid, N-(phosphonoacetyl)-, Disodium Salt",
+      "N-Phosphonacetyl-L-aspartate Disodium",
+      "PALA Disodium",
+      "SPARFOSATE SODIUM",
+      "Sparfosate Sodium"
+    ]
+  }
+}

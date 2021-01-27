@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ublituximab",
+  "nciThesaurus": {
+    "casRegistry": "1174014-05-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A chimeric recombinant IgG1 monoclonal antibody directed against human CD20 with potential antineoplastic activity. Ublituximab specifically binds to the B cell-specific cell surface antigen CD20, thereby potentially inducing a B cell-directed complement dependent cytotoxicity (CDC) and antibody-dependent cell-mediated cytotoxicity (ADCC) against CD20-expressing B cells, leading to B cell apoptosis. CD20 is a non-glycosylated cell surface phosphoprotein that is exclusively expressed on B cells during most stages of B cell development and is often overexpressed in B-cell malignancies. Ublituximab has a specific glycosylation profile, with a low fucose content, that may enhance its ADCC response against malignant B cells.",
+    "fdaUniiCode": "U59UGK3IPC",
+    "identifier": "C91078",
+    "preferredName": "Ublituximab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C20401"
+    ],
+    "synonyms": [
+      "LFB-R603",
+      "TG-1101",
+      "TG-20",
+      "TGTX-1101",
+      "UBLITUXIMAB",
+      "Ublituximab"
+    ]
+  }
+}

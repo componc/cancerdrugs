@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pegvorhyaluronidase_Alfa",
+  "nciThesaurus": {
+    "casRegistry": "1620390-06-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A pegylated formulation of a recombinant form of human hyaluronidase with potential antitumor activity. Upon intravenous administration, pegvorhyaluronidase alfa degrades hyaluronic acid (HA) coating tumor cells, which may result in the inhibition of tumor cell growth. In addition, the degradation of HA may result in a lowering of the interstitial fluid pressure (IFP), allowing better penetration of chemotherapeutic agents into the tumor bed. HA is a glycosaminoglycan found in the extracellular matrix (ECM) that is frequently overproduced by various tumor cell types. The presence of HA in tumors correlates with increased tumor cell growth, metastatic potential, tumor progression, increased resistance to chemotherapeutic agents, and an elevation in tumor IFP.",
+    "fdaUniiCode": "P01I4980ZS",
+    "identifier": "C82659",
+    "preferredName": "Pegvorhyaluronidase Alfa",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2140"
+    ],
+    "synonyms": [
+      "PEGPH20",
+      "PEGVORHYALURONIDASE ALFA",
+      "PH20",
+      "Pegvorhyaluronidase Alfa",
+      "Pegylated Recombinant Human Hyaluronidase PH20",
+      "Pegylated Recombinant Human PH20",
+      "Pegylated rHuPH20"
+    ]
+  }
+}

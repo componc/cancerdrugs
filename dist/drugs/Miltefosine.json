@@ -1,0 +1,32 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Miltefosine",
+  "nciThesaurus": {
+    "casRegistry": "58066-85-6",
+    "chebiId": "",
+    "chemicalFormula": "C21H46NO4P",
+    "definition": "An orally- and topically-active alkyl-phosphocholine compound with potential antineoplastic activity.  Miltefosine targets cellular membranes, modulating cell membrane permeability, membrane lipid composition, phospholipid metabolism, and mitogenic signal transduction, resulting in cell differentiation and inhibition of cell growth.  This agent also inhibits the anti-apoptotic mitogen-activated protein kinase (MAPK) pathway and modulates the balance between the MAPK and pro-apoptotic stress-activated protein kinase (SAPK/JNK) pathways, thereby inducing apoptosis.  As an immunomodulator, miltefosine stimulates T-cells, macrophages and the expression of interleukin 3 (IL-3), granulocyte-macrophage colony stimulating factor (GM-CSF), and interferon gamma (INF-gamma).",
+    "fdaUniiCode": "53EY29W7EC",
+    "identifier": "C1170",
+    "preferredName": "Miltefosine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2188"
+    ],
+    "synonyms": [
+      "2-[[(Hexadecycloxy)hydroxyphosphinyl]oxy]-N,N,N-trimethylethanaminium Inner Salt",
+      "Choline Phosphate Hexadecyl Ester, Hydroxide, Inner Salt",
+      "D-18506",
+      "Hexadecyl 2-(N,N,N-trimethylamino)ethyl Phosphate",
+      "Hexadecylphosphocholine",
+      "MILTEFOSINE",
+      "Miltefosin",
+      "Miltefosina",
+      "Miltefosine",
+      "Miltefosinum",
+      "Miltex",
+      "n-Hexadecylphosphorylcholine"
+    ]
+  }
+}

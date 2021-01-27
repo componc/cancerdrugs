@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Fosgemcitabine_Palabenamide",
+  "nciThesaurus": {
+    "casRegistry": "1562406-27-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A pyrimidine analogue and a proprietary prodrug based on an aryloxy phosphoramidate derivative of gemcitabine with potential antineoplastic activity. Upon intravenous administration and cellular uptake, fosgemcitabine palabenamide is converted into the active metabolites difluorodeoxycytidine di- and triphosphate (dFdCDP, dFdCTP). dFdCDP inhibits ribonucleotide reductase, thereby decreasing the deoxynucleotide pool available for DNA replication; dFdCTP is incorporated into DNA, resulting in premature termination of DNA replication and eventually induction of apoptosis. With the phosphoramidate moiety on the gemcitabine monophosphate group, NUC-1031 has improved properties over its parent molecule: 1) is more lipophilic and accumulates in cancer cells by passive diffusion and does not require a nucleoside transporter, 2) as the agent is delivered in the monophosphate form, the first phosphorylation step by deoxycytidine kinase is not required, 3) this agent is not susceptible to deactivation by cytidine deaminase cleavage of the monophosphorylated form. Altogether, this may help overcome resistance to gemcitabine.",
+    "fdaUniiCode": "I17GWP65CE",
+    "identifier": "C102752",
+    "preferredName": "Fosgemcitabine Palabenamide",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1557",
+      "C2150"
+    ],
+    "synonyms": [
+      "Acelarin",
+      "FOSGEMCITABINE PALABENAMIDE",
+      "Fosgemcitabine Palabenamide",
+      "Gemictabine ProTide",
+      "NUC 1031",
+      "NUC-1031"
+    ]
+  }
+}

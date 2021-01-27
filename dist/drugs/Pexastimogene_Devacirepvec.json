@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pexastimogene_Devacirepvec",
+  "nciThesaurus": {
+    "casRegistry": "1058624-46-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An oncolytic thymidine kinase (TK)-deleted vaccinia poxvirus expressing human GM-CSF (hGM-CSF) with antineoplastic activity. Upon intratumoral or intravenous administration, pexastimogene devacirepvec selectively infects and lyses tumor cells. While vaccinia displays a natural tumor cell tropism, deletion of the TK gene increases the tumor selectivity of vaccinia by limiting viral replication to cells expressing high levels of TK, such as certain cancer cells. hGM-CSF expression by this agent helps recruit antigen presenting cells (APCs), such as dendritic cells (DCs) and macrophages, to virally infected tumor cells, thereby initiating an antitumoral immune response.",
+    "fdaUniiCode": "K82DG47I0G",
+    "identifier": "C71533",
+    "preferredName": "Pexastimogene Devacirepvec",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1962",
+      "C2674"
+    ],
+    "synonyms": [
+      "JX 594",
+      "JX-594",
+      "JX594",
+      "PEXASTIMOGENE DEVACIREPVEC",
+      "Pexa-vec",
+      "Pexastimogene Devacirepvec",
+      "TG-6006",
+      "Thymidine Kinase (-) Vaccinia-GM-CSF JX-594 Vaccine",
+      "Thymidine Kinase-deleted Vaccinia-hGM-CSF",
+      "VAC GM-CSF"
+    ]
+  }
+}

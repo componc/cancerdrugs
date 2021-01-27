@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Glufosfamide",
+  "nciThesaurus": {
+    "casRegistry": "132682-98-5",
+    "chebiId": "",
+    "chemicalFormula": "C10H21Cl2N2O7P",
+    "definition": "A compound consisting of the mustard agent ifosforamide conjugated to glucose, with potential alkylating activity. Glufosfamide is cleaved by glucosidases in tumor cells and forms ifosforamide. In turn, ifosforamide alkylates and forms DNA crosslinks, thereby inhibiting DNA replication and subsequent cell growth. The glucose moiety may enhance this agent's uptake by tumor cells.",
+    "fdaUniiCode": "1W5N8SZD9A",
+    "identifier": "C1612",
+    "preferredName": "Glufosfamide",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C697"
+    ],
+    "synonyms": [
+      "Beta-D-Glucosyl-Ifosfamide Mustard",
+      "D-19575",
+      "GLUFOSFAMIDE",
+      "Glufosfamide",
+      "glc-IPM",
+      "glufosfamide"
+    ]
+  }
+}

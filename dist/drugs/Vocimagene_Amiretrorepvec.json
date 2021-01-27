@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Vocimagene_Amiretrorepvec",
+  "nciThesaurus": {
+    "casRegistry": "1300724-82-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A replication competent retroviral vector, derived from the Moloney murine leukemia virus (MoMLV), encoding a modified form of the yeast suicide gene cytosine deaminase (CD) (Toca 511) used as an antineoplastic adjuvant. Upon transcranial injection, vocimagene amiretrorepvec preferentially enters and transfects tumor cells, and expresses cytosine deaminase, an enzyme that catalyzes the intracellular conversion of the prodrug flucytosine (5-FC) into the antineoplastic agent 5-fluorouracil (5-FU). After administration of 5-FC, the tumor can be eradicated upon activation of 5-FU.",
+    "fdaUniiCode": "DC4WO3WA4Q",
+    "identifier": "C91734",
+    "preferredName": "Vocimagene Amiretrorepvec",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129821",
+      "C1962",
+      "C61199"
+    ],
+    "synonyms": [
+      "DNA (Synthetic Toca 511-encoding Retroviral Vector AC3-yCD2(V))",
+      "Toca 511",
+      "VOCIMAGENE AMIRETROREPVEC",
+      "Vocimagene Amiretrorepvec"
+    ]
+  }
+}

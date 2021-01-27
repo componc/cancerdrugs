@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Leurubicin",
+  "nciThesaurus": {
+    "casRegistry": "70774-25-3",
+    "chebiId": "",
+    "chemicalFormula": "C33H40N2O12",
+    "definition": "An N-L-leucyl prodrug of the anthracycline doxorubicin, with antineoplastic activity. Leurubicin is converted to its active form doxorubicin in or on tumor cells by hydrolytic enzymes.",
+    "fdaUniiCode": "1Z20MGK851",
+    "identifier": "C81421",
+    "preferredName": "Leurubicin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1594"
+    ],
+    "synonyms": [
+      "LEURUBICIN",
+      "Leurubicin"
+    ]
+  }
+}

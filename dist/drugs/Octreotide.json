@@ -1,0 +1,34 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Mycapssa",
+      "indication": "1 INDICATIONS AND USAGE MYCAPSSA is indicated for long-term maintenance treatment in acromegaly patients who have responded to and tolerated treatment with octreotide or lanreotide. MYCAPSSA is a somatostatin analog indicated for long-term maintenance treatment in acromegaly patients who have responded to and tolerated treatment with octreotide or lanreotide (\u200e 1 ).",
+      "manufacturer": "Chiasma Inc.",
+      "splSetId": "62a5e1eb-b48e-4ea6-8781-f75e490b17e4"
+    }
+  ],
+  "id": "Octreotide",
+  "nciThesaurus": {
+    "casRegistry": "83150-76-9",
+    "chebiId": "CHEBI:7726",
+    "chemicalFormula": "C49H66N10O10S2",
+    "definition": "A synthetic long-acting cyclic octapeptide with pharmacologic properties mimicking those of the natural hormone somatostatin. Octreotide is a more potent inhibitor of growth hormone, glucagon, and insulin than somatostatin. Similar to somatostatin, this agent also suppresses the luteinizing hormone response to gonadotropin-releasing hormone, decreases splanchnic blood flow, and inhibits the release of serotonin, gastrin, vasoactive intestinal peptide (VIP), secretin, motilin, pancreatic polypeptide, and thyroid stimulating hormone.",
+    "fdaUniiCode": "RWM8CCW8GP",
+    "identifier": "C711",
+    "preferredName": "Octreotide",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C62799"
+    ],
+    "synonyms": [
+      "D-Phenylalanyl-L-cysteinyl-L-phenyl-alanyl-D-tryptophyl-L-lysyl-L-threonyl-N-[2-hydroxy-1-(hydroxymethyl)propyl]-L-cysteinamide Cyclic (2->7)-Disulfide",
+      "D-Phenylalanyl-L-cysteinyl-L-phenylalanyl-D-tryptophyl-L-lysyl-L-threonyl-L-cysteinyl-L-threoninol Cyclic (2->7)-Disulfide",
+      "D-Phenylalanyl-L-cysteinyl-L-phenylalanyl-D-tryptophyl-L-lysyl-L-threonyl-N-[(1R,2R)-2-hydroxy-1-(hyroxymethyl)propyl]-L-cysteinamide, Cyclic (2->7)-disulfide",
+      "OCTREOTIDE",
+      "Octreotide",
+      "SMS-201-995",
+      "octreotide"
+    ]
+  }
+}

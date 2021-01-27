@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Bleomycin_B2",
+  "nciThesaurus": {
+    "casRegistry": "9060-10-0",
+    "chebiId": "CHEBI:28641",
+    "chemicalFormula": "C55H84N20O21S2",
+    "definition": "One of the primary bleomycin species in bleomycin sulfate, a mixture of the sulfate salts of glycopeptide bleomycin A2 and B2 isolated from Streptomyces verticillus with potential antineoplastic activity. Bleomycin B2 forms complexes with iron that reduce molecular oxygen to superoxide and hydroxyl radicals which cause single- and double-stranded breaks in DNA; these reactive oxygen species also induce lipid peroxidation, carbohydrate oxidation, and alterations in prostaglandin synthesis and degradation.",
+    "fdaUniiCode": "M62KK37O40",
+    "identifier": "C81672",
+    "preferredName": "Bleomycin B2",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2311"
+    ],
+    "synonyms": [
+      "BLEOMYCIN B2",
+      "Bleomycin B2",
+      "Bleomycinamide, N1-(4-((aminoiminomethyl)amino)butyl)-",
+      "Dehydrophleomycin D1",
+      "N1-(4-((Aminoiminomethyl)amino)butyl)bleomycinamide",
+      "Phleomycin D2"
+    ]
+  }
+}

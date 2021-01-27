@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Bleomycin_A2",
+  "nciThesaurus": {
+    "casRegistry": "11116-31-7",
+    "chebiId": "CHEBI:3139",
+    "chemicalFormula": "C55H84N17O21S3",
+    "definition": "The primary bleomycin species in bleomycin sulfate, a mixture of the sulfate salts of several basic glycopeptide antineoplastic antibiotics isolated from Streptomyces verticillus.  Bleomycin A2 forms complexes with iron that reduce molecular oxygen to superoxide and hydroxyl radicals which cause single- and double-stranded breaks in DNA; these reactive oxygen species also induce lipid peroxidation, carbohydrate oxidation, and alterations in prostaglandin synthesis and degradation.",
+    "fdaUniiCode": "13M89UEA7W",
+    "identifier": "C311",
+    "preferredName": "Bleomycin A2",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C2311"
+    ],
+    "synonyms": [
+      "BLEOMYCIN A2",
+      "Bleomycin A2",
+      "N1-(3-(Dimethylsulfonio)propyl)bleomycinamide",
+      "Pingyangmycin A2",
+      "Zhengguangmycin A2"
+    ]
+  }
+}

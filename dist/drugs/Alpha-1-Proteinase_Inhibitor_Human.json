@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Alpha-1-Proteinase_Inhibitor_Human",
+  "nciThesaurus": {
+    "casRegistry": "9041-92-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "Human serum-derived alpha-1 proteinase inhibitor (alpha-1-antitrypsin or AAT) with immunomodulating and anti-inflammatory activity. Upon administration, AAT reduces the production of proinflammatory cytokines, such as tumor necrosis factor-alpha, interleukin (IL)-1 beta, IL-32, IL-6, and proteinase 3, and induces the production of anti-inflammatory cytokines, such as IL-10 and the IL-1 receptor antagonist IL-1RN. This agent also downregulates heparan sulfate and reduces the expansion of cytotoxic effector T cells, interferes with the maturation of dendritic cells and increases T regulatory cells. Altogether, AAT may attenuate acute graft-versus-host disease (GvHD) and may facilitate graft acceptance and survival. In addition, AAT enhances levels of cAMP and activation of cAMP-dependent protein kinase A. AAT, a 52kD protein and serine protease inhibitor, belongs to the serpin superfamily.",
+    "fdaUniiCode": "F43I396OIS",
+    "identifier": "C82258",
+    "preferredName": "Alpha-1-Proteinase Inhibitor Human",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C307",
+      "C308"
+    ],
+    "synonyms": [
+      ".ALPHA.1-PROTEINASE INHIBITOR HUMAN",
+      "A1AT",
+      "A1PI",
+      "AAT",
+      "Alpha 1 Antitrypsin",
+      "Alpha-1 Antitrypsin",
+      "Alpha-1-Antiproteinase",
+      "Alpha-1-Proteinase Inhibitor Human",
+      "Aralast",
+      "Prolastin-C"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pegargiminase",
+  "nciThesaurus": {
+    "casRegistry": "1394129-74-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An agent consisting of the arginine-degrading enzyme arginine deiminase combined with polyethylene glycol (20,000 MW) (ADI-PEG 20) with potential antineoplastic activity. Upon administration, pegargiminase breaks down the amino acid arginine into citrulline. Although arginine is a nonessential amino acid for normal human cells, certain cancer cells are autotrophic for arginine and need arginine in order to survive. Depletion of arginine may lead to an inhibition of cellular proliferation in those cancer cells. ADI is coupled to PEG in order to enhance this agent's half-life.",
+    "fdaUniiCode": "0B7PYQ9YRT",
+    "identifier": "C91702",
+    "preferredName": "Pegargiminase",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C29726"
+    ],
+    "synonyms": [
+      "ADI-PEG 20",
+      "PEGARGIMINASE",
+      "Pegargiminase",
+      "pegylated arginine deiminase"
+    ]
+  }
+}

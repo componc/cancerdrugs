@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Poziotinib",
+  "nciThesaurus": {
+    "casRegistry": "1092364-38-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, quinazoline-based, mall-molecular and irreversible pan-epidermal growth factor receptor (EGFR or HER) inhibitor with potential antineoplastic activity. Poziotinib inhibits EGFR (HER1 or ErbB1), HER2, HER4 and EGFR mutants, thereby inhibiting the proliferation of tumor cells that overexpress these receptors. EGFRs, cell surface receptor tyrosine kinases, are often upregulated in a variety of cancer cell types and play key roles in cellular proliferation and survival.",
+    "fdaUniiCode": "OEI6OOU6IK",
+    "identifier": "C98838",
+    "preferredName": "Poziotinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1742",
+      "C2167"
+    ],
+    "synonyms": [
+      "HM781-36B",
+      "NOV120101",
+      "POZIOTINIB",
+      "Poziotinib"
+    ]
+  }
+}

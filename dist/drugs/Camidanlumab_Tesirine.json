@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Camidanlumab_Tesirine",
+  "nciThesaurus": {
+    "casRegistry": "1853239-04-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An immunoconjugate consisting of a human immunoglobulin (Ig) G1 monoclonal antibody directed against the alpha subunit of the interleukin-2 receptor (IL-2R alpha or CD25) and conjugated, via a cleavable linker, to a synthetic, cross-linking agent pyrrolobenzodiazepine (PBD) dimer that targets DNA minor grooves, with potential antineoplastic activity. The monoclonal antibody portion of the anti-CD25 antibody-drug conjugate (ADC) ADCT-301 specifically binds to the cell surface antigen CD25. This causes the internalization of ADCT-301 and the subsequent release of the cytotoxic PBD moiety. The imine groups of the PBD moiety bind to the N2 positions of guanines on opposite strands of DNA. This induces interstrand cross-links in the minor groove of DNA and inhibits DNA replication, which inhibits the proliferation of CD25-overexpressing tumor cells. CD25, a transmembrane receptor and tumor-associated antigen (TAA), is expressed on certain cancer cells.",
+    "fdaUniiCode": "LYJ1AEJ9YH",
+    "identifier": "C121949",
+    "preferredName": "Camidanlumab Tesirine",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129823"
+    ],
+    "synonyms": [
+      "ADC ADCT-301",
+      "ADCT-301",
+      "CAMIDANLUMAB TESIRINE",
+      "Camidanlumab Tesirine"
+    ]
+  }
+}

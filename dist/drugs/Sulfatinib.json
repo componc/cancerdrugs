@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Sulfatinib",
+  "nciThesaurus": {
+    "casRegistry": "1308672-74-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, small molecule inhibitor of vascular endothelial growth factor receptors (VEGFR) 1, 2, and 3, and the fibroblast growth factor receptor type 1 (FGFR1), with potential antineoplastic and anti-angiogenic activities. Upon oral administration, sulfatinib binds to and inhibits VEGFRs and FGFR1 thereby inhibiting VEGFR- and FGFR1-mediated signal transduction pathways. This leads to a reduction of angiogenesis and tumor cell proliferation in VEGFR/FGFR1-overexpressing tumor cells. Expression of VEGFRs and FGFR1 may be upregulated in a variety of tumor cell types.",
+    "fdaUniiCode": "B2K5L1L8S9",
+    "identifier": "C116066",
+    "preferredName": "Sulfatinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C93259"
+    ],
+    "synonyms": [
+      "HMPL-012",
+      "SURUFATINIB",
+      "Sulfatinib",
+      "Surufatinib"
+    ]
+  }
+}

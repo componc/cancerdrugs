@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Custirsen_Sodium",
+  "nciThesaurus": {
+    "casRegistry": "685922-56-9",
+    "chebiId": "",
+    "chemicalFormula": "C231H292N78O119P20S20.20Na",
+    "definition": "The eicosasodium salt of a mixed-backbone antisense oligodeoxynucleotide with chemosensitizing properties. Custirsen inhibits testosterone-repressed prostate message-2 (TRPM-2). Administration of custirsen abrogates the anti-apoptotic effect of TRPM-2, thereby sensitizing cells to chemotherapy and resulting in tumor cell death. TRPM-2 is an anti-apoptotic clusterin that is overexpressed by prostate cancer cells and is associated with chemoresistance.",
+    "fdaUniiCode": "ILE26V76EB",
+    "identifier": "C1055",
+    "preferredName": "Custirsen Sodium",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1291"
+    ],
+    "synonyms": [
+      "(3'-5')d(P-thio)([2'-O-(2-methoxyethyl)]m5rC-[2'-O-(2-methoxyethyl)]rA-[2'-O-(2- methoxyethyl)]rG-[2'-O-(2-methoxyethyl)]m5rC-A-G-C-A-G-A-G-T-C-T-T-C-A-[2'-O-(2- methoxyethyl)]m5rU-[2'-O-(2-methoxyethyl)]m5rC-[2'-O-(2-methoxyethyl)]rA-[2'-O-(2- methoxyethyl)]m5rU), Eicosasodium Salt",
+      "Antisense TRPM-2",
+      "Antisense Testosterone-Repressed Prostate Message 2",
+      "CUSTIRSEN SODIUM",
+      "Clusterin Antisense Oligonucleotide",
+      "Custirsen Sodium",
+      "ISIS 112989",
+      "OGX-011",
+      "TRPM-2 Antisense",
+      "custirsen sodium"
+    ]
+  }
+}

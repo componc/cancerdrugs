@@ -1,0 +1,92 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Mitomycin",
+      "indication": "INDICATIONS AND USAGE Mitomycin for Injection is not recommended as single-agent, primary therapy. It has been shown to be useful in the therapy of disseminated adenocarcinoma of the stomach or pancreas in proven combinations with other approved chemotherapeutic agents and as palliative treatment when other modalities have failed. Mitomycin is not recommended to replace appropriate surgery and/or radiotherapy.",
+      "manufacturer": "Accord Healthcare Inc",
+      "splSetId": "3a1300e9-ca6e-4713-b41a-bb913aed3287"
+    },
+    {
+      "brand": "Mitomycin",
+      "indication": "INDICATIONS AND USAGE Mitomycin for Injection, USP is not recommended as single-agent, primary therapy. It has been shown to be useful in the therapy of disseminated adenocarcinoma of the stomach or pancreas in proven combinations with other approved chemotherapeutic agents and as palliative treatment when other modalities have failed. Mitomycin is not recommended to replace appropriate surgery and/or radiotherapy.",
+      "manufacturer": "West-Ward Pharmaceuticals Corp",
+      "splSetId": "5917f7a7-cd20-407b-8dda-9fd58c5f47a6"
+    },
+    {
+      "brand": "Mitomycin",
+      "indication": "INDICATIONS AND USAGE Mitomycin for Injection, USP is not recommended as single-agent, primary therapy. It has been shown to be useful in the therapy of disseminated adenocarcinoma of the stomach or pancreas in proven combinations with other approved chemotherapeutic agents and as palliative treatment when other modalities have failed. Mitomycin is not recommended to replace appropriate surgery and/or radiotherapy.",
+      "manufacturer": "Mylan Institutional LLC",
+      "splSetId": "880f1e05-3ac1-436d-b261-9b059291b471"
+    },
+    {
+      "brand": "Mitomycin",
+      "indication": "INDICATIONS AND USAGE Mitomycin for Injection, USP is not recommended as single-agent, primary therapy. It has been shown to be useful in the therapy of disseminated adenocarcinoma of the stomach or pancreas in proven combinations with other approved chemotherapeutic agents and as palliative treatment when other modalities have failed. Mitomycin is not recommended to replace appropriate surgery and/or radiotherapy.",
+      "manufacturer": "Mylan Institutional LLC",
+      "splSetId": "96d60181-8337-4bac-99ff-811b836b0112"
+    },
+    {
+      "brand": "Mitomycin",
+      "indication": "INDICATIONS AND USAGE Mitomycin for Injection is not recommended as single-agent, primary therapy. It has been shown to be useful in the therapy of disseminated adenocarcinoma of the stomach or pancreas in proven combinations with other approved chemotherapeutic agents and as palliative treatment when other modalities have failed. Mitomycin is not recommended to replace appropriate surgery and/or radiotherapy.",
+      "manufacturer": "BluePoint Laboratories",
+      "splSetId": "aad9a9a0-7204-452a-8b9b-6d625c4ee021"
+    },
+    {
+      "brand": "MUTAMYCIN",
+      "indication": "INDICATIONS AND USAGE MUTAMYCIN \u00ae (Mitomycin) for Injection is not recommended as single-agent, primary therapy. It has been shown to be useful in the therapy of disseminated adenocarcinoma of the stomach or pancreas in proven combinations with other approved chemotherapeutic agents and as palliative treatment when other modalities have failed. Mitomycin is not recommended to replace appropriate surgery and/or radiotherapy.",
+      "manufacturer": "Accord BioPharma Inc.",
+      "splSetId": "cbf0f6ba-3a53-4791-9a85-5c6b271eeb8e"
+    },
+    {
+      "brand": "Mitomycin",
+      "indication": "INDICATIONS AND USAGE Mitomycin for Injection is not recommended as single-agent, primary therapy. It has been shown to be useful in the therapy of disseminated adenocarcinoma of the stomach or pancreas in proven combinations with other approved chemotherapeutic agents and as palliative treatment when other modalities have failed. Mitomycin is not recommended to replace appropriate surgery and/or radiotherapy.",
+      "manufacturer": "Accord Healthcare Inc",
+      "splSetId": "d80c6dc0-5f26-4d7a-a0f7-7698ab4f249a"
+    },
+    {
+      "brand": "Mitomycin",
+      "indication": "INDICATIONS AND USAGE Mitomycin for Injection is not recommended as single-agent, primary therapy. It has been shown to be useful in the therapy of disseminated adenocarcinoma of the stomach or pancreas in proven combinations with other approved chemotherapeutic agents and as palliative treatment when other modalities have failed. Mitomycin is not recommended to replace appropriate surgery and/or radiotherapy.",
+      "manufacturer": "Accord Healthcare Inc",
+      "splSetId": "ff676355-313d-4575-8f2f-e4a1e9527477"
+    }
+  ],
+  "id": "Mitomycin",
+  "nciThesaurus": {
+    "casRegistry": "50-07-7",
+    "chebiId": "CHEBI:27504",
+    "chemicalFormula": "C15H18N4O5",
+    "definition": "A methylazirinopyrroloindoledione antineoplastic antibiotic isolated from the bacterium Streptomyces caespitosus and other Streptomyces bacterial species.  Bioreduced mitomycin C generates oxygen radicals, alkylates DNA, and produces interstrand DNA cross-links, thereby inhibiting DNA synthesis.  Preferentially toxic to hypoxic cells, mitomycin C also inhibits RNA and protein synthesis at high concentrations.",
+    "fdaUniiCode": "50SG953SK6",
+    "identifier": "C1820",
+    "preferredName": "Mitomycin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C663"
+    ],
+    "synonyms": [
+      "(1aS,8S,8aR,8bS)-6-Amino-8-[[(aminocarbonyl)oxy]methyl]-1,1a,2,8,8a,8b-hexahydro-8a-methoxy-5-methylazirino[2',3':3,4]pyrrolo[1,2-a]indole-4,7-dione",
+      "Ametycine",
+      "Jelmyto",
+      "MITO",
+      "MITO-C",
+      "MITOMYCIN",
+      "MITOMYCIN C",
+      "Mito-C",
+      "Mito-Medac",
+      "Mitocin",
+      "Mitocin-C",
+      "Mitolem",
+      "Mitomycin",
+      "Mitomycin C",
+      "Mitomycin-C",
+      "Mitomycin-X",
+      "Mitomycine C",
+      "Mitosol",
+      "Mitozytrex",
+      "Mutamycin",
+      "Mutamycine",
+      "NCI-C04706",
+      "[1aS-(1a alpha,8beta,8a alpha,8b alpha)]-6-amino-8-[[(aminocarbonyl)oxy]methyl]-1,1a,2,8,8a,8b-hexahydro-8a-methoxy-5-methylazirino[2',3':3,4]pyrrolo[1,2-a]indole-4,7-dione"
+    ]
+  }
+}

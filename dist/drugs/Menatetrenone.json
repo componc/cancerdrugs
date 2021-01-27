@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Menatetrenone",
+  "nciThesaurus": {
+    "casRegistry": "863-61-6",
+    "chebiId": "",
+    "chemicalFormula": "C31H40O2",
+    "definition": "A menaquinone compound and form of vitamin K2 with potential antineoplastic activity. Menatetrenone may act by modulating the signalling of certain tyrosine kinases, thereby affecting several transcription factors including c-myc and c-fos. This agent inhibits tumor cell growth by inducing apoptosis and cell cycle arrest.",
+    "fdaUniiCode": "27Y876D139",
+    "identifier": "C52194",
+    "preferredName": "Menatetrenone",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C26017"
+    ],
+    "synonyms": [
+      "2-Methyl-3-trans-tetraprenyl-1,4-naphthoquinone",
+      "E0167",
+      "MENATETRENONE",
+      "Menaquinone K4",
+      "Menaquinone-4",
+      "Menatetrenone",
+      "Vitamin MK 4"
+    ]
+  }
+}

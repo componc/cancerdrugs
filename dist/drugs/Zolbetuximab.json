@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Zolbetuximab",
+  "nciThesaurus": {
+    "casRegistry": "1496553-00-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A chimeric monoclonal antibody directed against the antigen GC182 with potential immunostimulatory and antineoplastic activities. Upon administration, zolbetuximab specifically binds to GC128, which may stimulate the immune system to mount a cytotoxic T-lymphocyte (CTL) response against GC182-expressing tumor cells, resulting in decreased tumor cell proliferation. The CD20-like antigen GC182, a gastric differentiation protein, is often overexpressed on the cell surfaces of a variety of tumor cells, including gastric, pancreatic, esophageal cancer and non-small cell lung cancer (NSCLC) cells.",
+    "fdaUniiCode": "TF5MPQ8WGY",
+    "identifier": "C85475",
+    "preferredName": "Zolbetuximab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Claudiximab",
+      "IMAB 362",
+      "IMAB-362",
+      "IMAB362",
+      "ZOLBETUXIMAB",
+      "Zolbetuximab"
+    ]
+  }
+}

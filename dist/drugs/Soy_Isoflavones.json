@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Soy_Isoflavones",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A dietary supplement isolated from soybeans containing phytoestrogen isoflavones. Although the mechanism of action is unclear, soy isoflavones mimic estrogen action mediated through estrogen receptors. In addition, this agent also modulates estrogen metabolism. As a result, soy isoflavones have been shown to reduce tumor cell proliferation and induce tumor cell apoptosis, as well as to be able to regulate hormone balance and reduce the risks of breast cancer, heart disease, and osteoporosis.",
+    "fdaUniiCode": "71B37NR06D",
+    "identifier": "C65152",
+    "preferredName": "Soy Isoflavones",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1505"
+    ],
+    "synonyms": [
+      "NovaSoy",
+      "SOY ISOFLAVONES",
+      "Solgen 40",
+      "Soy Isoflavone",
+      "Soy Isoflavones",
+      "Soybean Isoflavone Mixture"
+    ]
+  }
+}

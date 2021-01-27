@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "N-Methylformamide",
+  "nciThesaurus": {
+    "casRegistry": "123-39-7",
+    "chebiId": "CHEBI:7438",
+    "chemicalFormula": "C2H5NO",
+    "definition": "A water-soluble organic solvent.  As an adjuvant antineoplastic agent, N-methylformamide depletes cellular glutathione, a key molecule involved in the antioxidation of reactive oxygen species (ROS) and other free radicals, thereby enhancing ionizing radiation-induced DNA cross-linking in and terminal differentiation of tumor cells.",
+    "fdaUniiCode": "XPE4G7Y986",
+    "identifier": "C1163",
+    "preferredName": "N-Methylformamide",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1934",
+      "C798"
+    ],
+    "synonyms": [
+      "EK 7011",
+      "Formamide, N-methyl",
+      "Monomethylformamide",
+      "N-METHYLFORMAMIDE",
+      "N-Methylformamide",
+      "NMF",
+      "X 188",
+      "formylmethylamine",
+      "monomethylformamide"
+    ]
+  }
+}

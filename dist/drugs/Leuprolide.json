@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Leuprolide",
+  "nciThesaurus": {
+    "casRegistry": "53714-56-0",
+    "chebiId": "CHEBI:6427",
+    "chemicalFormula": "C59H84N16O12",
+    "definition": "A synthetic nonapeptide analogue of gonadotropin-releasing hormone. Leuprolide binds to and activates gonadotropin-releasing hormone (GnRH) receptors. Continuous, prolonged administration of leuprolide in males results in pituitary GnRH receptor desensitization and inhibition of pituitary secretion of follicle stimulating hormone (FSH) and luteinizing hormone (LH), leading to a significant decline in testosterone production; in females, prolonged administration results in a decrease in estradiol production. This agent reduces testosterone production to castration levels and may inhibit androgen receptor-positive tumor progression.",
+    "fdaUniiCode": "EFY6W0M8TG",
+    "identifier": "C62042",
+    "preferredName": "Leuprolide",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1910"
+    ],
+    "synonyms": [
+      "6-D-Leucine-9-(N-ethyl-L-prolinamide)-1-9-luteinizing Hormone-releasing Factor (Pig)",
+      "6-D-Leucine-9-(N-ethyl-L-prolinamide)-10-deglycinamide Luteinizing Hormone-Releasing Factor (Pig)",
+      "LEUPROLIDE",
+      "Leuprolide",
+      "Leuprorelin",
+      "leuprolide"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Bemarituzumab",
+  "nciThesaurus": {
+    "casRegistry": "1952272-74-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A glycoengineered, humanized monoclonal antibody directed against the fibroblast growth factor receptor type 2b (FGFR2b), with potential antineoplastic activity. Upon administration, bemarituzumab specifically binds to and inhibits FGFR2b on tumor cell surfaces, which prevents FGFR2 from binding to its ligands, FGFR2b activation and the activation of FGFR2b-mediated signal transduction pathways. The binding of FPA144 to FGFR2b protein also induces antibody-dependent cell-mediated cytotoxicity (ADCC) against FGFR2b-expressing tumor cells. This results in the inhibition of cell proliferation and the induction of cell death of FGFR2-expressing tumor cells. FGFR2b, a specific isoform of the receptor tyrosine kinase FGFR2 upregulated in many tumor cell types, is essential to tumor proliferation, differentiation and survival. Glycoengineering enhances the FPA144-mediated ADCC.",
+    "fdaUniiCode": "RJW23BQ0KW",
+    "identifier": "C120040",
+    "preferredName": "Bemarituzumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C133879"
+    ],
+    "synonyms": [
+      "BEMARITUZUMAB",
+      "Bemarituzumab",
+      "FPA144"
+    ]
+  }
+}

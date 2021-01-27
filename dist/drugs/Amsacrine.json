@@ -1,0 +1,38 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Amsacrine",
+  "nciThesaurus": {
+    "casRegistry": "51264-14-3",
+    "chebiId": "CHEBI:2687",
+    "chemicalFormula": "C21H19N3O3S",
+    "definition": "An aminoacridine derivative with potential antineoplastic activity. Although its mechanism of action is incompletely defined, amsacrine may intercalate into DNA and inhibit topoisomerase II, resulting in DNA double-strand breaks, arrest of the S/G2 phase of the cell cycle, and cell death. This agent's cytotoxicity is maximal during the S phase of the cell cycle when topoisomerase levels are greatest. In addition, amsacrine may induce transcription of tumor promoter p53 protein and block p53 ubiquitination and proteasomal degradation, resulting in p53-dependent tumor cell apoptosis.",
+    "fdaUniiCode": "00DPD30SOY",
+    "identifier": "C240",
+    "preferredName": "Amsacrine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C582"
+    ],
+    "synonyms": [
+      "4'-(9-Acridinylamino)methane-sulfon-m-anisidide",
+      "AMSA",
+      "AMSACRINE",
+      "Acridinyl Anisidide",
+      "Amekrin",
+      "Amsa P-D",
+      "Amsacrine",
+      "Amsidine",
+      "Amsidyl",
+      "CI-880",
+      "Cain's Acridine",
+      "Lamasine",
+      "N-[4-(9-Acridinylamino)-3-methoxyphenyl]methanesulfonamide",
+      "SN 11841",
+      "SN-11841",
+      "SN-21429",
+      "amsacrine",
+      "m-AMSA"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Triptorelin",
+  "nciThesaurus": {
+    "casRegistry": "57773-63-4",
+    "chebiId": "CHEBI:63633",
+    "chemicalFormula": "C64H82N18O13",
+    "definition": "A synthetic decapeptide agonist analog of luteinizing hormone releasing hormone (LHRH).  Possessing greater potency than endogenous LHRH, triptorelin reversibly represses gonadotropin secretion. After chronic, continuous administration, this agent effects sustained decreases in LH and FSH production and testicular and ovarian steroidogenesis. Serum testosterone concentrations may fall to levels typically observed in surgically castrated men.",
+    "fdaUniiCode": "9081Y98W2V",
+    "identifier": "C1267",
+    "preferredName": "Triptorelin",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1910"
+    ],
+    "synonyms": [
+      "6-D-Tryptophan-LH-RH",
+      "6-D-Tryptophanluteinizing Hormone-releasing Factor",
+      "AY-25650",
+      "CL-118,532",
+      "Detryptoreline",
+      "TRIPTORELIN",
+      "Triptorelin",
+      "triptorelin"
+    ]
+  }
+}

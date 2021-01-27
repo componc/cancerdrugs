@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Cilengitide",
+  "nciThesaurus": {
+    "casRegistry": "188968-51-6",
+    "chebiId": "",
+    "chemicalFormula": "C27H40N8O7",
+    "definition": "A cyclic Arg-Gly-Asp peptide with potential antineoplastic activity.  Cilengitide binds to and inhibits the activities of the alpha(v)beta(3) and alpha(v)beta(5) integrins, thereby inhibiting endothelial cell-cell interactions, endothelial cell-matrix interactions, and angiogenesis.",
+    "fdaUniiCode": "4EDF46E4GI",
+    "identifier": "C1834",
+    "preferredName": "Cilengitide",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [],
+    "synonyms": [
+      "CILENGITIDE",
+      "Cilengitide",
+      "EMD 121974",
+      "EMD-121974",
+      "cilengitide",
+      "cyclo(L-arginylglycyl-L-a-aspartyl-D-phenylalanyl-N-methyl-L-valyl)"
+    ]
+  }
+}

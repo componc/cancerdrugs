@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Semaxanib",
+  "nciThesaurus": {
+    "casRegistry": "194413-58-6",
+    "chebiId": "",
+    "chemicalFormula": "C15H14N2O",
+    "definition": "A quinolone derivative with potential antineoplastic activity. Semaxanib reversibly inhibits ATP binding to the tyrosine kinase domain of vascular endothelial growth factor receptor 2 (VEGFR2), which may inhibit VEGF-stimulated endothelial cell migration and proliferation and reduce the tumor microvasculature. This agent also inhibits the phosphorylation of the stem cell factor receptor tyrosine kinase c-kit, often expressed in acute myelogenous leukemia cells.",
+    "fdaUniiCode": "71IA9S35AJ",
+    "identifier": "C1831",
+    "preferredName": "Semaxanib",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [],
+    "synonyms": [
+      "H-Indol-2-one, 3-((3,5-dimethyl-1H-pyrrol-2-yl)methylene)-1,3-dihydro-",
+      "SEMAXANIB",
+      "SU 5416",
+      "SU5416",
+      "Semaxanib",
+      "Semoxind",
+      "Sugen 5416",
+      "semaxanib"
+    ]
+  }
+}

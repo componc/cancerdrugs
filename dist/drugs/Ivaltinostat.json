@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ivaltinostat",
+  "nciThesaurus": {
+    "casRegistry": "936221-33-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A histone deacetylase (HDAC) inhibitor with potential antineoplastic activity. Ivaltinosta tinhibits the catalytic activity of HDAC, resulting in an accumulation of highly acetylated chromatin histones, followed by the induction of chromatin remodeling and an altered pattern of gene expression. In particular, this agent enhances the histone acetylation of the tumor suppressor gene p53. This results in an accumulation of p53, p53-dependent transactivation and apoptosis in tumor cells. HDAC, an enzyme upregulated in many tumor types, deacetylates chromatin histone proteins.",
+    "fdaUniiCode": "4I8MLM7L2H",
+    "identifier": "C94225",
+    "preferredName": "Ivaltinostat",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1946"
+    ],
+    "synonyms": [
+      "(E)-N(1)-(3-(dimethylamino)propyl)-N(8)-hydroxy-2-((naphthalene-1-loxy)methyl)oct-2-enediamide",
+      "CG200745",
+      "HDAC inhibitor CG200745",
+      "IVALTINOSTAT",
+      "Ivaltinostat"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Aranose",
+  "nciThesaurus": {
+    "casRegistry": "CAS 167396-23-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A nitrosourea derivative with potential antineoplastic activity. Upon administration, aranose alkylates and crosslinks DNA during all phases of the cell cycle, resulting in disruption of DNA function, cell cycle arrest and apoptosis.",
+    "fdaUniiCode": "7149VX7891",
+    "identifier": "C162540",
+    "preferredName": "Aranose",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C699"
+    ],
+    "synonyms": [
+      "3-(alpha-L-Arabinopyranosyl)-1-methyl-1-nitrosourea",
+      "ARANOSE",
+      "Aranose",
+      "Aranoza",
+      "CRC 0510375",
+      "CRC-0510375"
+    ]
+  }
+}

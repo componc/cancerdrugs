@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tomaralimab",
+  "nciThesaurus": {
+    "casRegistry": "1449294-76-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized immunoglobulin (Ig) G4 monoclonal antibody directed against toll-like receptor type 2 (TLR2), with potential anti-inflammatory and antineoplastic activities. Upon intravenous administration, tomaralimab binds to the ligand-binding site on the TLR2 receptor and blocks the activation of TLR2-mediated innate immunity signaling. This prevents the TLR2-mediated production of pro-inflammatory mediators and prevents inflammation. TLR2, a member of the TLR family primarily found on leukocytes, plays a key role in the activation of innate immunity; it is overexpressed in various inflammatory diseases and in certain types of cancer.",
+    "fdaUniiCode": "P45C2W27DU",
+    "identifier": "C120554",
+    "preferredName": "Tomaralimab",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-TLR2 Monoclonal Antibody OPN-305",
+      "OPN-305",
+      "TOMARALIMAB",
+      "Tomaralimab"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Razoxane",
+  "nciThesaurus": {
+    "casRegistry": "21416-67-1",
+    "chebiId": "CHEBI:50225",
+    "chemicalFormula": "C11H16N4O4",
+    "definition": "An orally bioavailable bis-dioxopiperazine and a derivative of the chelating agent ethylenediaminetetraacetic acid (EDTA) with antineoplastic, antiangiogenic, and antimetastatic activities. Razoxane specifically inhibits the enzyme topoisomerase II without inducing DNA strand breaks, which may result in the inhibition of DNA synthesis and cell division in the premitotic and early mitotic phases of the cell cycle. This agent may also exhibit antiangiogenic and antimetastatic activities although the precise molecular mechanisms of these actions are unknown.",
+    "fdaUniiCode": "5AR83PR647",
+    "identifier": "C801",
+    "preferredName": "Razoxane",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C360"
+    ],
+    "synonyms": [
+      "ICI 59118",
+      "ICRF 159",
+      "ICRF-159",
+      "ICRF159",
+      "RAZOXANE",
+      "Razoxane",
+      "Razoxin"
+    ]
+  }
+}

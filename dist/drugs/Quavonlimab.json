@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Quavonlimab",
+  "nciThesaurus": {
+    "casRegistry": "2254059-25-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A monoclonal antibody directed against the human T-cell-expressed receptor cytotoxic T-lymphocyte-associated antigen 4 (CTLA4; CTLA-4), with potential immune checkpoint inhibitory and antineoplastic activities. Upon administration, quavonlimab targets and binds to CTLA4 expressed on T-cells and inhibits the CTLA4-mediated downregulation of T-cell activation. This leads to a cytotoxic T-lymphocyte (CTL)-mediated immune response against cancer cells. CTLA4, an inhibitory receptor and member of the immunoglobulin superfamily, plays a key role in the downregulation of the immune system.",
+    "fdaUniiCode": "GG0AN49Y59",
+    "identifier": "C150679",
+    "preferredName": "Quavonlimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C128036",
+      "C129822"
+    ],
+    "synonyms": [
+      "Anti-CTLA-4 Monoclonal Antibody MK-1308",
+      "MK 1308",
+      "MK-1308",
+      "MK1308",
+      "QUAVONLIMAB",
+      "Quavonlimab"
+    ]
+  }
+}

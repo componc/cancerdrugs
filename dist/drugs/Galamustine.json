@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Galamustine",
+  "nciThesaurus": {
+    "casRegistry": "105618-02-8",
+    "chebiId": "",
+    "chemicalFormula": "C10H19Cl2NO5",
+    "definition": "A galactose mustard compound, an alkylating agent, with antineoplastic activity.",
+    "fdaUniiCode": "P771FDQ1WJ",
+    "identifier": "C76791",
+    "preferredName": "Galamustine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C697"
+    ],
+    "synonyms": [
+      "GALAMUSTINE",
+      "Galamustine"
+    ]
+  }
+}

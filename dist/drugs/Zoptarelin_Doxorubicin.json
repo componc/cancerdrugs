@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Zoptarelin_Doxorubicin",
+  "nciThesaurus": {
+    "casRegistry": "139570-93-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A peptide agonist of the gonadotropin releasing hormone-1 receptor (GnRH-1R) that is conjugated to the anthracycline antibiotic doxorubicin with potential antineoplastic activity. Zoptarelin doxorubicin binds to GnRH-1Rs, which may be highly expressed on endometrial and ovarian tumor cell membrane surfaces, and is internalized. Once inside the cell, the doxorubicin moiety of this agent intercalates into DNA and inhibits the topoisomerase II activity, which may result in the inhibition of tumor cell DNA replication and tumor cell proliferation.",
+    "fdaUniiCode": "27844X2J29",
+    "identifier": "C74025",
+    "preferredName": "Zoptarelin Doxorubicin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C67502"
+    ],
+    "synonyms": [
+      "AEZS-108",
+      "AEZS108",
+      "AN 152",
+      "AN-152",
+      "Doxorubicin-GNRH Agonist Conjugate AEZS-108",
+      "ZEN-008",
+      "ZOPTARELIN DOXORUBICIN",
+      "Zoptarelin Doxorubicin"
+    ]
+  }
+}

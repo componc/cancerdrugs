@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Axatilimab",
+  "nciThesaurus": {
+    "casRegistry": "2155851-88-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized immunoglobulin (Ig) G4 monoclonal antibody directed against colony-stimulating factor 1 receptor (CSF-1R), with potential antineoplastic activity. Upon intravenous administration, axatilimab binds to the ligand binding domain of CSF-1R, preventing binding and consequent activation by its natural ligands, IL-34 and colony-stimulating factor 1 (CSF-1). Inhibition of CSF-1R activation may disrupt the activity of tumor-associated macrophages (TAMs), which promote initiation and metastasis of tumor cells, inhibit T-cell responses, and stimulate tumor angiogenesis and disease progression. CSF-1R, also known as macrophage colony-stimulating factor receptor (M-CSFR) and cluster of differentiation 115 (CD115), is a tyrosine-protein kinase that plays an essential role in the regulation, proliferation, survival and differentiation of tissue macrophages as well as TAMs.",
+    "fdaUniiCode": "R96Z451BMC",
+    "identifier": "C155813",
+    "preferredName": "Axatilimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "AXATILIMAB",
+      "Anti-M-CSFR Monoclonal Antibody SNDX-6352",
+      "Axatilimab",
+      "SNDX 6352",
+      "SNDX-6352",
+      "SNDX6352",
+      "UCB6352"
+    ]
+  }
+}

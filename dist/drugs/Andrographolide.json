@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Andrographolide",
+  "nciThesaurus": {
+    "casRegistry": "5508-58-7",
+    "chebiId": "CHEBI:65408",
+    "chemicalFormula": "C20H30O5",
+    "definition": "A labdane diterpenoid that is produced by the Andrographis paniculata plant, which has a broad range of therapeutic applications including anti-inflammatory and anti-platelet aggregation activities and potential antineoplastic properties. Since andrographolide has multiple therapeutic activities there are several proposed mechanisms of action for this agent. The anti-inflammatory effects of this agent appear to be related to the inhibition of nitric oxide (NO) production by macrophages. This agent may activate the NO/cyclic GMP pathway and inhibit both the phospholipase C gamma 2 (PLC gamma2)/protein kinase C (PKC) and PI3K/AKT-MAPK signaling pathways in activated platelets to inhibit platelet aggregation. In activated platelets, these three signaling pathways are downstream of integrin activation mediated by collagen binding and influence the association of fibrinogen with its receptors. Additionally, andrographolide may exert its anti-cancer activity through the induction of cell cycle arrest at G0/G1 phase and the stimulation of lymphocyte proliferation and activation. These processes could result in decreased proliferation of and increased immunocytotoxicity against tumor cells.",
+    "fdaUniiCode": "410105JHGR",
+    "identifier": "C61637",
+    "preferredName": "Andrographolide",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1327"
+    ],
+    "synonyms": [
+      "(1R-(1-alpha(E(S)),4a-beta,5alpha,6alpha,8a-alpha))-3-(2-(decahydro-6-hydroxy-5-(hydroxymethyl)-5,8a-dimethyl-2-methylene-1-naphthalenyl)ethylidene)dihydro-4-hydroxy-2(3H)-furanone",
+      "(3E,4S)-3-[2-[(1R,4aS,5R,6R,8aS)-6-hydroxy-5-(hydroxymethyl)-5,8a-dimethyl-2-methylidene-3,4,4a,6,7,8-hexahydro-1H-naphthalen-1-yl]ethylidene]-4-hydroxyoxolan-2-one",
+      "(3E,4S)-4-hydroxy-3-{2-[(1R,4aS,5R,6R,8aS)-6-hydroxy-5-(hydroxymethyl)-5,8a-dimethyl-2-methylidenedecahydronaphthalen-1-yl]ethylidene}dihydrofuran-2(3H)-one",
+      "2(3H)-Furanone, 3-(2-(decahydro-6-hydroxy-5-(hydroxymethyl)-5,8a-dimethyl-2-methylene-1-naphthalenyl)ethylidene)dihydro-4-hydroxy-, (1R-(1-alpha(E(S*)),4a-beta,5-alpha,6-alpha,8a-alpha))-",
+      "3-(2-(decahydro-6-hydroxy-5-(hydroxymethyl)-5,8a-dimethyl-2-methylenenaphthyl)ethylidene)dihydro-4-hydroxyfuran-2(3H)-one",
+      "3alpha,14,15,18-tetrahydroxy-5b,9bH,10a-labda-8(20),12-dien-16-oic acid gamma-Lactone",
+      "ANDROGRAPHOLIDE",
+      "Andrographis",
+      "Andrographolide"
+    ]
+  }
+}

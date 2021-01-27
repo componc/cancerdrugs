@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Sitravatinib",
+  "nciThesaurus": {
+    "casRegistry": "1123837-84-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, receptor tyrosine kinase (RTK) inhibitor with potential antineoplastic activity. Upon administration, sitravatinib binds to and inhibits the activity of several RTKs including hepatocyte growth factor receptor (HGFR; c-Met; MET), tyrosine-protein kinase receptor UFO (AXL receptor tyrosine kinase; AXL), mast/stem cell growth factor receptor (SCFR; c-kit; KIT), the receptor tyrosine kinase MER, discoidin domain receptor 2 (DDR2), vascular endothelial growth factor receptor (VEGFR) types 1 (VEGFR-1; FLT1), 2 (VEGFR-2; KDR; Flk-1) and 3 (VEGFR-3), members of the platelet-derived growth factor receptor (PDGFR) family, RET (rearranged during transfection), tropomyosin-related kinases (TRK) and members of the ephrin (Eph) family of receptor tyrosine kinases. This may result in both the inhibition of signal transduction pathways mediated by these RTKs and the reduction of tumor cell proliferation in cancer cell types that overexpress these RTKs.",
+    "fdaUniiCode": "CWG62Q1VTB",
+    "identifier": "C117734",
+    "preferredName": "Sitravatinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1742",
+      "C1967"
+    ],
+    "synonyms": [
+      "1,1-Cyclopropanedicarboxamide, N-(3-Fluoro-4-((2-(5-(((2-methoxyethyl)amino)methyl)-2-pyridinyl)thieno(3,2-b)pyridin-7-yl)oxy)phenyl)-N'-(4-fluorophenyl)-",
+      "MGCD516",
+      "SITRAVATINIB",
+      "Sitravatinib"
+    ]
+  }
+}

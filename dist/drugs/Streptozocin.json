@@ -1,0 +1,38 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Zanosar",
+      "indication": "INDICATIONS AND USAGE ZANOSAR is indicated in the treatment of metastatic islet cell carcinoma of the pancreas. Responses have been obtained with both functional and nonfunctional carcinomas. Because of its inherent renal toxicity, therapy with this drug should be limited to patients with symptomatic or progressive metastatic disease.",
+      "manufacturer": "Teva Parenteral Medicines, Inc.",
+      "splSetId": "15d161ed-9e7b-4c92-ba45-0556d2423e67"
+    }
+  ],
+  "id": "Streptozocin",
+  "nciThesaurus": {
+    "casRegistry": "18883-66-4",
+    "chebiId": "CHEBI:9288",
+    "chemicalFormula": "C8H15N3O7",
+    "definition": "A methylnitrosourea antineoplastic antibiotic isolated from the bacterium Streptomyces achromogenes.  Streptozocin alkylates DNA, forming inter-strand DNA cross-links and inhibiting DNA synthesis.  Due to its glucose moiety, this agent is readily taken up by pancreatic beta cells, inducing diabetes mellitus at high concentrations.  Unlike other nitrosoureas, streptozocin causes little myelosuppression.",
+    "fdaUniiCode": "5W494URQ81",
+    "identifier": "C845",
+    "preferredName": "Streptozocin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C699"
+    ],
+    "synonyms": [
+      "2-Deoxy-2-(3-methyl-3-nitrosoureido)-D-glucopyranose",
+      "2-deoxy-2-(3-methyl-3-nitrosoureido)-D-glucopyranose",
+      "2-deoxy-2-[[(methylnitrosamino)-carbonyl]amino]-D-glucopyranose",
+      "STREPTOZOCIN",
+      "STZ",
+      "Streptozocin",
+      "Streptozotocin",
+      "U 9889",
+      "U-9889",
+      "Zanosar",
+      "streptozocin"
+    ]
+  }
+}

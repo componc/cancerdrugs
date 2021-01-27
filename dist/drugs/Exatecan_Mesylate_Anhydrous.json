@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Exatecan_Mesylate_Anhydrous",
+  "nciThesaurus": {
+    "casRegistry": "169869-90-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The anhydrous, mesylate salt form of exatecan, a semisynthetic, water-soluble derivative of camptothecin, with antineoplastic activity. Upon administration, exatecan mesylate inhibits topoisomerase I activity by stabilizing the cleavable complex between topoisomerase I and DNA and inhibiting re-ligation of DNA breaks, thereby inhibiting DNA replication and triggering apoptotic cell death.",
+    "fdaUniiCode": "Y76278R9RJ",
+    "identifier": "C162348",
+    "preferredName": "Exatecan Mesylate Anhydrous",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2843"
+    ],
+    "synonyms": [
+      "10H,13H-Benzo(de)pyrano(3',4':6,7)indolizino(1,2-b)quinoline-10,13-dione, 1-Amino-9-ethyl-5-fluoro-1,2,3,9,12,15-hexahydro-9-hydroxy-4-methyl-, (1S,9S)-, Methanesulfonate (1:1)",
+      "EXATECAN MESYLATE ANHYDROUS",
+      "Exatecan Mesylate Anhydrous"
+    ]
+  }
+}

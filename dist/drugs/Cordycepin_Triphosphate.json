@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Cordycepin_Triphosphate",
+  "nciThesaurus": {
+    "casRegistry": "73-04-1",
+    "chebiId": "CHEBI:52316",
+    "chemicalFormula": "",
+    "definition": "The triphosphate salt of cordycepin, a purine nucleoside antimetabolite and antibiotic isolated from the fungus Cordyceps militaris with potential antineoplastic, antioxidant, and anti-inflammatory activities. Cordycepin is an inhibitor of polyadenylation, activates AMP-activated protein kinase (AMPK), and reduces mammalian target of rapamycin (mTOR) signaling, which may result in both the induction of tumor cell apoptosis and a decrease in tumor cell proliferation. mTOR, a serine/threonine kinase belonging to the phosphatidylinositol 3-kinase (PI3K)-related kinase (PIKK) family, plays an important role in the PI3K/AKT/mTOR signaling pathway that regulates cell growth and proliferation, and its expression or activity is frequently dysregulated in human cancers.",
+    "fdaUniiCode": "59P84ZU54H",
+    "identifier": "C967",
+    "preferredName": "Cordycepin Triphosphate",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C1556"
+    ],
+    "synonyms": [
+      "3'-Deoxyadenosine-5'-(tetrahydrogen triphosphate)",
+      "CORDYCEPIN TRIPHOSPHATE",
+      "Cordycepin Triphosphate",
+      "Cordycepin-5'-triphosphate"
+    ]
+  }
+}

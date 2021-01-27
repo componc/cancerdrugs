@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Upamostat",
+  "nciThesaurus": {
+    "casRegistry": "1191101-18-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, 3-amidinophenylalanine-derived, second generation serine protease inhibitor prodrug targeting the human urokinase plasminogen activator (uPA) system with potential antineoplastic and antimetastatic activities. After oral administration, upamostat is converted to the active N alpha-(2,4,6-triisopropylphenylsulfonyl)-3-amidino-(L)-phenylalanine-4-ethoxycarbonylpiperazide (WX-UK1), which inhibits several serine proteases, particularly uPA; inhibition of uPA may result in the inhibition of tumor growth and metastasis. uPA is a serine protease involved in degradation of the extracellular matrix and tumor cell migration and proliferation.",
+    "fdaUniiCode": "S5M7KW6U17",
+    "identifier": "C73985",
+    "preferredName": "Upamostat",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C783"
+    ],
+    "synonyms": [
+      "1-Piperazinecarboxylic Acid, 4-((2S)-3-(3-((E)-Amino(hydroxyimino)methyl)phenyl)-1-oxo-2-(((2,4,6-tris(1-methylethyl)phenyl)sulfonyl)amino)propyl)-, Ethyl Ester",
+      "UPAMOSTAT",
+      "Upamostat",
+      "WX-671"
+    ]
+  }
+}
