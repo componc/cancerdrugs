@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Eganelisib",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, highly selective small molecule inhibitor of the gamma isoform of phosphoinositide-3 kinase (PI3K-gamma) with potential immunomodulating and antineoplastic activities. Upon administration, eganelisib prevents the activation of the PI3K-gamma-mediated signaling pathways, which may lead to a reduction in cellular proliferation in PI3K-gamma-expressing tumor cells. In addition, this agent is able to modulate anti-tumor immune responses and inhibit tumor-mediated immunosuppression. Unlike other isoforms of PI3K, the gamma isoform is overexpressed in certain tumor cell types and immune cells; its expression increases tumor cell proliferation and survival. By selectively targeting the gamma isoform, PI3K signaling in normal, non-neoplastic cells is minimally or not affected, which results in a reduced side effect profile.",
+    "fdaUniiCode": "FOF5155FMZ",
+    "identifier": "C125471",
+    "preferredName": "Eganelisib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2152"
+    ],
+    "synonyms": [
+      "EGANELISIB",
+      "Eganelisib",
+      "IPI 549",
+      "IPI-549"
+    ]
+  }
+}

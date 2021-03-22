@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Kanglaite",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An injectable microemulsion of a purified oil extracted from the seeds of the traditional Chinese medicinal herb Coix lacryma-jobi (Job's tears), with potential antineoplastic activity. Although the exact mechanism of action is unknown, kanglaite exhibits an antineoplastic effect, potentially via interfering with the cell cycle and halting tumor cells in the G2/M phase, which may eventually inhibit mitosis and proliferation of cancer cells.",
+    "fdaUniiCode": "YCB6D9ELEQ",
+    "identifier": "C91705",
+    "preferredName": "Kanglaite",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129986",
+      "C273"
+    ],
+    "synonyms": [
+      "COIX LACRYMA-JOBI VAR. MA-YUEN SEED OIL",
+      "Coicis Semen Oil",
+      "KLT",
+      "Kanglaite"
+    ]
+  }
+}

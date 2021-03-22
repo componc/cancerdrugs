@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "BMS-188797",
+  "nciThesaurus": {
+    "casRegistry": "427896-23-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An analog of paclitaxel with antineoplastic activity.  BMS-188797 binds to and stabilizes the resulting microtubules, thereby inhibiting microtubule disassembly which results in cell- cycle arrest at the G2/M phase and apoptosis. (NCI)",
+    "fdaUniiCode": "0HG7S0S581",
+    "identifier": "C1859",
+    "preferredName": "BMS-188797",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1490",
+      "C67437"
+    ],
+    "synonyms": [
+      "BMS-188797"
+    ]
+  }
+}

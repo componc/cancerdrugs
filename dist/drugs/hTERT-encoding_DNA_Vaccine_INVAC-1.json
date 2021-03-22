@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "hTERT-encoding_DNA_Vaccine_INVAC-1",
+  "nciThesaurus": {
+    "casRegistry": "1708137-44-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A DNA vaccine consisting of a plasmid encoding a modified, inactive form of the human telomerase reverse transcriptase (hTERT), the catalytic subunit of human telomerase which synthesizes telomeric DNA at the chromosome ends, fused to ubiquitin, with potential immunostimulating and antineoplastic activities. Upon intradermal vaccination of the hTERT encoding DNA vaccine INVAC-1 in combination with electroporation, hTERT protein is expressed and activates the immune system to mount a cytotoxic T-cell (CTL) response against telomerase-expressing tumor cells, which may result in tumor cell death. Telomerase prolongs the functional lifespan of cells via the restoration and maintenance of telomere length. Abnormally activated in tumorigenesis, telomerase is expressed in the majority of human cancer cells, but its expression is low or non-existent in normal cells. hTERT conjugation to ubiquitin, a 76 amino-acid peptide involved in the regulation of normal protein intracellular turnover in the cytoplasm, enhances proteasome-dependent degradation of the hTERT protein, increases hTERT presentation by major histocompatibility complex (MHC) class I molecules and results in an increased immune response against hTERT.",
+    "fdaUniiCode": "S8GQZ8LF0D",
+    "identifier": "C119737",
+    "preferredName": "hTERT-encoding DNA Vaccine INVAC-1",
+    "semanticType": "Gene or Genome",
+    "subclassOf": [
+      "C1663",
+      "C39619"
+    ],
+    "synonyms": [
+      "INVAC-1",
+      "INVAC-1, A DOUBLE STRANDED DNA PLASMID VACCINE CONSTRUCT ENCODING UBIQUITIN-HUMAN TELOMERASE REVERSE TRANSCRIPTASE (HTERT) FUSION PROTEIN",
+      "hTERT-encoding DNA Vaccine INVAC-1"
+    ]
+  }
+}

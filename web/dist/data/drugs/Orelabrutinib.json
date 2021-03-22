@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Orelabrutinib",
+  "nciThesaurus": {
+    "casRegistry": "1655504-04-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A small molecule inhibitor of Bruton's tyrosine kinase (BTK; Bruton agammaglobulinemia tyrosine kinase) with potential antineoplastic activity. Upon administration, orelabrutinib binds to and inhibits the activity of BTK. This prevents both the activation of the B-cell antigen receptor (BCR) signaling pathway and BTK-mediated activation of downstream survival pathways, inhibiting the growth of malignant B-cells that overexpress BTK. BTK, a member of the Src-related BTK/Tec family of cytoplasmic tyrosine kinases, is overexpressed or mutated in B-cell malignancies; it plays an important role in the development, activation, signaling, proliferation and survival of B-lymphocytes.",
+    "fdaUniiCode": "WJA5UO9E10",
+    "identifier": "C156173",
+    "preferredName": "Orelabrutinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C124801",
+      "C129825"
+    ],
+    "synonyms": [
+      "BTK Inhibitor ICP-022",
+      "ICP 022",
+      "ICP-022",
+      "ICP022",
+      "ORELABRUTINIB",
+      "Orelabrutinib"
+    ]
+  }
+}

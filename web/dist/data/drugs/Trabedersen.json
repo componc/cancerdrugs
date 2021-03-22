@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Trabedersen",
+  "nciThesaurus": {
+    "casRegistry": "925681-61-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A transforming growth factor (TGF)-beta2 specific phosphorothioate antisense oligodeoxynucleotide with the sequence 5'-CGGCATGTCTATTTTGTA-3', with potential antineoplastic activity. Trebedersen binds to TGF-beta2 mRNA causing inhibition of protein translation, thereby decreasing TGF-beta2 protein levels; decreasing intratumoral TGF-beta2 levels may result in the inhibition of tumor cell growth and migration, and tumor angiogenesis. TGF-beta2, a cytokine often over-expressed in various malignancies, may play an important role in promoting the growth, progression, and migration of tumor cells.",
+    "fdaUniiCode": "98OYR854NY",
+    "identifier": "C80066",
+    "preferredName": "Trabedersen",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1291"
+    ],
+    "synonyms": [
+      "AP 12009",
+      "TRABEDERSEN",
+      "Trabedersen"
+    ]
+  }
+}

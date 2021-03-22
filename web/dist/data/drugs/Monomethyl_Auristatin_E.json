@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Monomethyl_Auristatin_E",
+  "nciThesaurus": {
+    "casRegistry": "474645-27-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A dolastatin-10 peptide derivative with potent antimitotic activity and potential antineoplastic activity as part of an antibody-drug conjugate (ADC). Monomethyl auristatin E (MMAE) binds to tubulin, blocks tubulin polymerization, and inhibits microtubule formation, which results in both disruption of mitotic spindle assembly and arrest of tumor cells in the M phase of the cell cycle. To minimize toxicity and maximize efficacy, MMAE is conjugated, via a cleavable peptide linker, to a monoclonal antibody that specifically targets a patient's tumor. The linker is stable in the extracellular milieu but is readily cleaved to release MMAE following binding and internalization of the ADC by the target cells.",
+    "fdaUniiCode": "V7I58RC5EJ",
+    "identifier": "C122637",
+    "preferredName": "Monomethyl Auristatin E",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C67422"
+    ],
+    "synonyms": [
+      "(S)-N-((3R,4S,5S)-1-((S)-2-((1R,2R)-3-(((1S,2R)-1-hydroxy-1-phenylpropan-2-yl)amino)-1-methoxy-2-methyl-3-oxopropyl)pyrrolidin-1-yl)-3-methoxy-5-methyl-1-oxoheptan-4-yl)-N,3-dimethyl-2-((S)-3-methyl-2-(methylamino)butanamido)butanamide",
+      "L-Valinamide, N-methyl-L-valyl-N-((1S,2R)-4-((2S)-2-((1R,2R)-3-(((1R,2S)-2-hydroxy-1- methyl-2-phenylethyl)amino)-1-methoxy-2-methyl-3-oxopropyl)-1-pyrrolidinyl)-2- methoxy-1-((1S)-1-methylpropyl)-4-oxobutyl)-N-methyl-",
+      "MMAE",
+      "MONOMETHYL AURISTATIN E",
+      "Monomethyl Auristatin E",
+      "Monomethylauristatin E",
+      "N(sup 2)-(N-methyl-L-valyl)-N(sup 1)-((1S,2R)-4-((2S)-2-((1R,2R)-3-(((1R,2S)-2-hydroxy-1-methyl-2- phenylethyl)amino)-1-methoxy-2-methyl-3-oxopropyl)pyrrolidin-1-yl)-2-methoxy-1-((1S)-1-methylpropyl)-4-oxobutyl)-N(sup 1)-methyl-L-valinamide"
+    ]
+  }
+}

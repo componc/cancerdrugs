@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Becatecarin",
+  "nciThesaurus": {
+    "casRegistry": "119673-08-4",
+    "chebiId": "",
+    "chemicalFormula": "C33H34Cl2N4O7",
+    "definition": "A synthetic diethylaminoethyl analogue of the indolocarbazole glycoside antineoplastic antibiotic rebeccamycin.  Becatecarin intercalates into DNA and stabilizes the DNA-topoisomerase I complex, thereby interfering with the topoisomerase I-catalyzed DNA breakage-reunion reaction and initiating DNA cleavage and apoptosis. ",
+    "fdaUniiCode": "A60X6MBU6G",
+    "identifier": "C1620",
+    "preferredName": "Becatecarin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [],
+    "synonyms": [
+      "1,11-Dichloro-6-[2-(diethylamino)ethyl]-12,13-dihydro-12-(4-O-methyl-beta-D-glucopyranosyl)-5H-indolo[2,3-a]pyrrolo[3,4-c]carbazole-5,7(6H)-dione",
+      "5H-Indolo(2,3-a)pyrrolo(3,4-c)carbazole-5,7(6H)-dione, 1,11-dichloro-6-(2-(diethylamino)ethyl)-12,13-dihydro-12-(4-O-methyl-beta-D-glucopyranosyl)-",
+      "BECATECARIN",
+      "BMS-181176",
+      "BMY-27557-14",
+      "Becatecarin",
+      "DEAE-Rebeccamycin",
+      "NSC 655649",
+      "Rebeccamycin Analogue",
+      "Rebeccamycin Analogue, Tartrate Salt",
+      "Rebeccamycin analog",
+      "XL119",
+      "rebeccamycin analog"
+    ]
+  }
+}

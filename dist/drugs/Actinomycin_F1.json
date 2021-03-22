@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Actinomycin_F1",
+  "nciThesaurus": {
+    "casRegistry": "1402-44-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A chromopeptide antineoplastic antibiotic isolated from the bacterium Streptomyces chrysomallus.  Actinomycin F1 intercalates into the minor groove of DNA and binds to topoisomerase II, leading to the inhibition of DNA replication and RNA and protein synthesis.",
+    "fdaUniiCode": "D8HJS52NSZ",
+    "identifier": "C2844",
+    "preferredName": "Actinomycin F1",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C204"
+    ],
+    "synonyms": [
+      "ACTINOMYCIN F1",
+      "Actinomycin F1",
+      "Actinomycin KS4",
+      "KS4"
+    ]
+  }
+}

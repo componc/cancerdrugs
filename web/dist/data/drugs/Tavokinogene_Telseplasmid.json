@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tavokinogene_Telseplasmid",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A DNA plasmid that encodes genes for both the p35 and p40 subunits of the heterodimeric human interleukin 12 (hIL-12) protein that are separated by an internal ribosome entry site (IRES) and under the control of a single cytomegalovirus (CMV) promoter, with potential immunomodulatory and antineoplastic activities. Upon administration via intratumoral injection and electroporation, the plasmid is introduced into human cells resulting in expression and highly-localized secretion of a functional IL-12 p70 protein into the tumor microenvironment (TME). IL-12 is a pro-inflammatory cytokine that plays a significant role in priming and maintaining T-helper (Th) cells, activating natural killer (NK) cells, and regulating the reactivation and survival of memory T-cells (Tm). Increased levels of IL-12 in the TME may augment host immune response against tumor cells by inhibiting regulatory T-cells (Tregs), T-helper 2 (Th2) responses, and myeloid-derived suppressor cells (MDSCs).",
+    "fdaUniiCode": "MF4P7VQ2K8",
+    "identifier": "C156363",
+    "preferredName": "Tavokinogene Telseplasmid",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1663",
+      "C1962",
+      "C39619"
+    ],
+    "synonyms": [
+      "IT-Tavo-EP",
+      "Plasmid IL-12 pUMVC3-hIL-12-NGVL3",
+      "TAVOKINOGENE TELSEPLASMID",
+      "Tavo",
+      "Tavokinogene Telseplasmid"
+    ]
+  }
+}

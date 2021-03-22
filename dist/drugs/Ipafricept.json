@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ipafricept",
+  "nciThesaurus": {
+    "casRegistry": "1391727-24-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A proprietary fusion protein comprised of the cysteine-rich domain of frizzled family receptor 8 (Fzd8) fused to the human immunoglobulin Fc domain with potential antineoplastic activity. Upon intravenous administration, ipafricept competes with the membrane-bound Fzd8 receptor for its ligand, Wnt proteins, thereby antagonizing Wnt signaling. This may result in the inhibition of Wnt-driven tumor growth. Fzd8, a member of the Frizzled family of G protein-coupled receptors, is one of the components in the Wnt/beta-catenin signaling pathway that plays key roles in embryogenesis and cancer growth.",
+    "fdaUniiCode": "2N71QUE3NL",
+    "identifier": "C102565",
+    "preferredName": "Ipafricept",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1512"
+    ],
+    "synonyms": [
+      "Fusion Protein For Immune Applications (fpia) Comprising Homo Sapiens FZD8 (Frizzled Family Receptor 8, Frizzled-8) Extracellular Domain, Fused With Homo Sapiens Immunoglobulin G1 Fc Fragment",
+      "Fzd8-Fc",
+      "IPAFRICEPT",
+      "Ipafricept",
+      "OMP 54F28",
+      "OMP-54F28"
+    ]
+  }
+}

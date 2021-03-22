@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "MVA-BN-Brachyury-TRICOM_Vaccine",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A cancer priming vaccine consisting of a proprietary version of the recombinant vaccinia viral vector, modified vaccinia Ankara-Bavarian Nordic (MVA-BN), encoding the human transcription factor and tumor-associated antigen (TAA) brachyury, and a triad of T-cell co-stimulatory molecules (TRICOM), which is comprised of the three human immune-enhancing co-stimulatory molecules B7-1, ICAM-1 and LFA-3, with potential immunostimulatory and antineoplastic activities. Upon subcutaneous administration of MVA-BN-brachyury vaccine, the vector expresses the brachyury protein. The expressed brachyury protein may induce a cytotoxic T-lymphocyte (CTL)-mediated immune response against tumor cells expressing brachyury. The MVA-BN-brachyury vaccine, which is a priming vaccine, is followed by multiple boosting doses of the fowlpox virus (FPV)-brachyury vaccine. The expression of brachyury, a member of the T-box family of transcription factors that is overexpressed in numerous cancer cell types, is correlated with increased epithelial-mesenchymal transition (EMT), cancer resistance, cancer progression and metastasis. TRICOM enhances antigen-specific T-cell activation.",
+    "fdaUniiCode": "GD1ZWN2I2Y",
+    "identifier": "C148400",
+    "preferredName": "MVA-BN-Brachyury-TRICOM Vaccine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2685"
+    ],
+    "synonyms": [
+      "MVA-BN-BRACHYURY-TRICOM VACCINE",
+      "MVA-BN-Brachyury",
+      "MVA-BN-Brachyury Prime Vaccine",
+      "MVA-BN-Brachyury-TRICOM Vaccine"
+    ]
+  }
+}

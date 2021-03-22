@@ -1,0 +1,154 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "paclitaxel",
+      "conditionIndication": "Abraxane monotherapy is indicated for the treatment of metastatic breast cancer in adult patients who have failed first-line treatment for metastatic disease and for whom standard, anthracycline containing therapy is not indicated., , Abraxane in combination with gemcitabine is indicated for the first-line treatment of adult patients with metastatic adenocarcinoma of the pancreas., , Abraxane in combination with carboplatin is indicated for the first-line treatment of non-small cell lung cancer in adult patients who are not candidates for potentially curative surgery and/or radiation therapy., ",
+      "inn": "paclitaxel",
+      "marketingAuthorisationDate": "2008-01-11 01:00:00",
+      "marketingAuthorisationHolder": "Celgene Europe B.V.\u00a0",
+      "medicineName": "Abraxane",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abraxane"
+    },
+    {
+      "activeSubstance": "paclitaxel",
+      "conditionIndication": "Pazenir monotherapy is indicated for the treatment of metastatic breast cancer in adult patients who have failed first-line treatment for metastatic disease and for whom standard, anthracycline containing therapy is not indicated.Pazenir in combination with carboplatin is indicated for the first-line treatment of non-small cell lung cancer in adult patients who are not candidates for potentially curative surgery and/or radiation therapy.",
+      "inn": "paclitaxel",
+      "marketingAuthorisationDate": "2019-05-06 00:00:00",
+      "marketingAuthorisationHolder": "ratiopharm GmbH",
+      "medicineName": "Pazenir",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pazenir"
+    },
+    {
+      "activeSubstance": "paclitaxel",
+      "conditionIndication": "Apealea in combination with carboplatin is indicated for the treatment of adult patients with first relapse of platinum\u2011sensitive epithelial ovarian cancer, primary peritoneal cancer and fallopian tube cancer.",
+      "inn": "paclitaxel",
+      "marketingAuthorisationDate": "2018-11-20 01:00:00",
+      "marketingAuthorisationHolder": "Oasmia Pharmaceutical AB",
+      "medicineName": "Apealea",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/apealea"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "ABRAXANE",
+      "indication": "1 INDICATIONS AND USAGE ABRAXANE is a microtubule inhibitor indicated for the treatment of: Metastatic breast cancer, after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. ( 1.1 ) Locally advanced or metastatic non-small cell lung cancer (NSCLC), as first-line treatment in combination with carboplatin, in patients who are not candidates for curative surgery or radiation therapy. ( 1.2 ) Metastatic adenocarcinoma of the pancreas as first-line treatment, in combination with gemcitabine. ( 1.3 ) 1.1 Metastatic Breast Cancer ABRAXANE is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. 1.2 Non-Small Cell Lung Cancer ABRAXANE is indicated for the first-line treatment of locally advanced or metastatic non-small cell lung cancer, in combination with carboplatin, in patients who are not candidates for curative surgery or radiation therapy. 1.3 Adenocarcinoma of the Pancreas ABRAXANE is indicated for the first-line treatment of patients with metastatic adenocarcinoma of the pancreas, in combination with gemcitabine.",
+      "manufacturer": "Abraxis BioScience, LLC",
+      "splSetId": "24d10449-2936-4cd3-b7db-a7683db721e4"
+    },
+    {
+      "brand": "Paclitaxel",
+      "indication": "INDICATIONS AND USAGE Paclitaxel Injection, USP is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, Paclitaxel Injection, USP is indicated in combination with cisplatin. Paclitaxel Injection, USP is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptor-negative tumors ( see CLINICAL STUDIES: Breast Carcinoma ). Paclitaxel Injection, USP is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel Injection, USP, in combination with cisplatin, is indicated for the first-line treatment of non-small cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel Injection, USP is indicated for the second-line treatment of AIDS-related Kaposi's sarcoma.",
+      "manufacturer": "MSN LABORATORIES PRIVATE LIMITED",
+      "splSetId": "2ca3c0d4-e629-4d89-a969-3515a62886c6"
+    },
+    {
+      "brand": "Paclitaxel",
+      "indication": "INDICATIONS AND USAGE Paclitaxel Injection, USP is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, paclitaxel is indicated in combination with cisplatin. Paclitaxel is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptornegative tumors (see CLINICAL STUDIES, Breast Carcinoma ). Paclitaxel Injection, USP is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel, in combination with cisplatin, is indicated for the first-line treatment of nonsmall cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel is indicated for the second-line treatment of AIDS-related Kaposi's sarcoma.",
+      "manufacturer": "Athenex Pharmaceutical Division, LLC.",
+      "splSetId": "31dea098-40f7-4785-844c-5030c6c3f12d"
+    },
+    {
+      "brand": "Paclitaxel",
+      "indication": "INDICATIONS AND USAGE Paclitaxel Injection, USP is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, paclitaxel is indicated in combination with cisplatin. Paclitaxel is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptornegative tumors (see CLINICAL STUDIES, Breast Carcinoma ). Paclitaxel Injection, USP is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel, in combination with cisplatin, is indicated for the first-line treatment of nonsmall cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel is indicated for the second-line treatment of AIDS-related Kaposi's sarcoma.",
+      "manufacturer": "Alvogen Inc.",
+      "splSetId": "40c0abf0-06ad-8658-a784-6554a540a768"
+    },
+    {
+      "brand": "Paclitaxel",
+      "indication": "INDICATIONS AND USAGE Paclitaxel Injection, USP is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, Paclitaxel Injection, USP is indicated in combination with cisplatin. Paclitaxel Injection, USP is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptor-negative tumors (see CLINICAL STUDIES, Breast Carcinoma ). Paclitaxel Injection, USP is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel Injection, USP, in combination with cisplatin, is indicated for the first-line treatment of non-small cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel Injection, USP is indicated for the second-line treatment of AIDS-related Kaposi\u2019s sarcoma.",
+      "manufacturer": "WG Critical Care, LLC",
+      "splSetId": "4dbbb7c8-a4b5-484d-a2a4-4d925010fc44"
+    },
+    {
+      "brand": "Paclitaxel",
+      "indication": "INDICATIONS AND USAGE Paclitaxel Injection, USP is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, paclitaxel is indicated in combination with cisplatin. Paclitaxel is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptornegative tumors (see CLINICAL STUDIES, Breast Carcinoma ). Paclitaxel Injection, USP is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel, in combination with cisplatin, is indicated for the first-line treatment of nonsmall cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel is indicated for the second-line treatment of AIDS-related Kaposi's sarcoma.",
+      "manufacturer": "Athenex Pharmaceutical Division, LLC.",
+      "splSetId": "4f09e84b-0bca-4e2f-a753-7bf9973a885a"
+    },
+    {
+      "brand": "Paclitaxel",
+      "indication": "INDICATIONS AND USAGE Paclitaxel Injection, USP is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, Paclitaxel Injection, USP is indicated in combination with cisplatin. Paclitaxel Injection, USP is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptor-negative tumors (see CLINICAL STUDIES, Breast Carcinoma ). Paclitaxel Injection, USP is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel Injection USP, in combination with cisplatin, is indicated for the first-line treatment of non-small cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel Injection, USP is indicated for the second-line treatment of AIDS-related Kaposi\u2019s sarcoma.",
+      "manufacturer": "Actavis Pharma, Inc.",
+      "splSetId": "6cefbdb9-1141-4a53-9d05-f6fcc2746834"
+    },
+    {
+      "brand": "Paclitaxel",
+      "indication": "INDICATIONS AND USAGE Paclitaxel injection is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, Paclitaxel injection is indicated in combination with cisplatin. Paclitaxel injection is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptor-negative tumors (see CLINICAL STUDIES, Breast Carcinoma ). Paclitaxel injection is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel injection, in combination with cisplatin, is indicated for the first-line treatment of non-small cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel injection is indicated for the second-line treatment of AIDS-related Kaposi\u2019s sarcoma.",
+      "manufacturer": "Mylan Institutional LLC",
+      "splSetId": "9ffd3e34-537f-4f65-b00e-57c25bab3b01"
+    },
+    {
+      "brand": "Paclitaxel",
+      "indication": "INDICATIONS AND USAGE Paclitaxel Injection, USP is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, Paclitaxel Injection, USP is indicated in combination with cisplatin. Paclitaxel Injection, USP is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptor-negative tumors (see CLINICAL STUDIES, Breast Carcinoma ). Paclitaxel Injection, USP is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel Injection, USP, in combination with cisplatin, is indicated for the first-line treatment of non-small cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel Injection, USP is indicated for the second-line treatment of AIDS-related Kaposi's sarcoma.",
+      "manufacturer": "Fresenius Kabi USA, LLC",
+      "splSetId": "a6c24189-293f-42ca-b969-75870bb55af0"
+    },
+    {
+      "brand": "Paclitaxel",
+      "indication": "INDICATIONS AND USAGE Paclitaxel Injection, USP is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, Paclitaxel Injection, USP is indicated in combination with cisplatin. Paclitaxel Injection, USP is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptor-negative tumors (see CLINICAL STUDIES, Breast Carcinoma). Paclitaxel Injection, USP is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel Injection USP, in combination with cisplatin, is indicated for the first-line treatment of non-small cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel Injection, USP is indicated for the second-line treatment of AIDS-related Kaposi\u2019s sarcoma.",
+      "manufacturer": "Actavis Pharma, Inc.",
+      "splSetId": "b553d77a-448f-45bd-aacf-c73397e06fc4"
+    },
+    {
+      "brand": "Paclitaxel",
+      "indication": "INDICATIONS AND USAGE Paclitaxel Injection is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, Paclitaxel Injection is indicated in combination with cisplatin. Paclitaxel Injection is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptor-negative tumors (see CLINICAL STUDIES, Breast Carcinoma ). Paclitaxel Injection is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel Injection, in combination with cisplatin, is indicated for the first-line treatment of non-small cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel Injection is indicated for the second-line treatment of AIDS-related Kaposi\u2019s sarcoma.",
+      "manufacturer": "Teva Parenteral Medicines, Inc.",
+      "splSetId": "e1703128-7921-411d-b3bb-7c937865d599"
+    },
+    {
+      "brand": "Paclitaxel",
+      "indication": "INDICATIONS AND USAGE Paclitaxel Injection, USP is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, Paclitaxel Injection, USP is indicated in combination with cisplatin. Paclitaxel Injection, USP is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptor-negative tumors ( see CLINICAL STUDIES: Breast Carcinoma ). Paclitaxel Injection, USP is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel Injection, USP, in combination with cisplatin, is indicated for the first-line treatment of non-small cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel Injection, USP is indicated for the second-line treatment of AIDS-related Kaposi's sarcoma.",
+      "manufacturer": "Northstar Rx LLC",
+      "splSetId": "e47c2c34-0466-4219-be6f-97e4231ed55f"
+    },
+    {
+      "brand": "Paclitaxel",
+      "indication": "INDICATIONS AND USAGE Paclitaxel Injection USP is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, paclitaxel injection is indicated in combination with cisplatin. Paclitaxel Injection USP is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptor-negative tumors (see CLINICAL STUDIES, Breast Carcinoma ). Paclitaxel Injection USP is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel Injection USP, in combination with cisplatin, is indicated for the first-line treatment of non-small cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel Injection USP is indicated for the second-line treatment of AIDS-related Kaposi\u2019s sarcoma.",
+      "manufacturer": "Teva Parenteral Medicines, Inc.",
+      "splSetId": "e4be6cbf-72b9-4f7f-9b1b-459b2d35961a"
+    },
+    {
+      "brand": "Paclitaxel",
+      "indication": "INDICATIONS AND USAGE Paclitaxel Injection, USP is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, paclitaxel is indicated in combination with cisplatin. Paclitaxel is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptornegative tumors. (See CLINICAL STUDIES: Breast Carcinoma .) Paclitaxel Injection, USP is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel, in combination with cisplatin, is indicated for the first-line treatment of nonsmall cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel is indicated for the second-line treatment of AIDS-related Kaposi\u2019s sarcoma.",
+      "manufacturer": "Hospira, Inc.",
+      "splSetId": "ea28753a-8631-460a-bfdc-b101eb8ac84a"
+    },
+    {
+      "brand": "Paclitaxel",
+      "indication": "INDICATIONS AND USAGE Paclitaxel Injection USP is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, paclitaxel injection is indicated in combination with cisplatin. Paclitaxel Injection USP is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptor-negative tumors (see CLINICAL STUDIES, Breast Carcinoma ). Paclitaxel Injection USP is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel Injection USP, in combination with cisplatin, is indicated for the first-line treatment of non-small cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel Injection USP is indicated for the second-line treatment of AIDS-related Kaposi\u2019s sarcoma.",
+      "manufacturer": "Teva Parenteral Medicines, Inc.",
+      "splSetId": "fbd32bd2-9685-41cb-bee2-730a45526b65"
+    },
+    {
+      "brand": "PACLITAXEL PACLITAXEL",
+      "indication": "INDICATIONS & USAGE Paclitaxel Injection, USP is indicated as subsequent therapy for the treatment of advanced carcinoma of the ovary. As first-line therapy, paclitaxel is indicated in combination with cisplatin. Paclitaxel is indicated for the adjuvant treatment of node-positive breast cancer administered sequentially to standard doxorubicin-containing combination chemotherapy. In the clinical trial, there was an overall favorable effect on disease-free and overall survival in the total population of patients with receptor-positive and receptor-negative tumors, but the benefit has been specifically demonstrated by available data (median follow-up 30 months) only in the patients with estrogen and progesterone receptornegative tumors. (See CLINICAL STUDIES: Breast Carcinoma. ) Paclitaxel Injection, USP is indicated for the treatment of breast cancer after failure of combination chemotherapy for metastatic disease or relapse within 6 months of adjuvant chemotherapy. Prior therapy should have included an anthracycline unless clinically contraindicated. Paclitaxel, in combination with cisplatin, is indicated for the first-line treatment of nonsmall cell lung cancer in patients who are not candidates for potentially curative surgery and/or radiation therapy. Paclitaxel is indicated for the second-line treatment of AIDS-related Kaposi\u2019s sarcoma.",
+      "manufacturer": "Gland Pharma Limited",
+      "splSetId": "fec9ddee-53a9-4a61-ad0a-be6b604de084"
+    }
+  ],
+  "id": "Paclitaxel",
+  "nciThesaurus": {
+    "casRegistry": "33069-62-4",
+    "chebiId": "CHEBI:45863",
+    "chemicalFormula": "C47H51NO14",
+    "definition": "A compound extracted from the Pacific yew tree Taxus brevifolia with antineoplastic activity.  Paclitaxel binds to tubulin and inhibits the disassembly of microtubules, thereby resulting in the inhibition of cell division.  This agent also induces apoptosis by binding to and blocking the function of the apoptosis inhibitor protein Bcl-2 (B-cell Leukemia 2).",
+    "fdaUniiCode": "P88XT4IS4D",
+    "identifier": "C1411",
+    "preferredName": "Paclitaxel",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [],
+    "synonyms": [
+      "5Beta,20-epoxy-1,2alpha,4,7beta,10beta,13alpha-hexahydroxytax-11-en-9-one, 4,10-Diacetate 2-Benzoate 13-Ester with (2R,3S)-N-Benzoyl-3-phenylisoserine",
+      "Anzatax",
+      "Asotax",
+      "Bristaxol",
+      "PACLITAXEL",
+      "Paclitaxel",
+      "Praxel",
+      "Taxol",
+      "Taxol Konzentrat",
+      "[2aR-[2a Alpha,4beta,4a beta,6beta,9alpha(alphaR*,betaS*),-11alpha,12alpha,12a alpha,12b alpha]]-beta-(benzoylamino)-alpha-hydroxybenzene-propanoic acid 6,12b-bis(acetyloxy)-12-(benzoyloxy)-1a,33,4,-41,5,6,9,10,11,12,12a,12b-dodecahydro-4,11-dihydroxy-41,8,-12,13-tetramethyl-5-oxo-7,11-methano-1H-cyclodeca[3,4]benz[1,2-b]oxet-9-yl Ester",
+      "paclitaxel"
+    ]
+  }
+}

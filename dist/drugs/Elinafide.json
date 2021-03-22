@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Elinafide",
+  "nciThesaurus": {
+    "casRegistry": "162706-37-8",
+    "chebiId": "",
+    "chemicalFormula": "C31H28N4O4",
+    "definition": "A symmetrical dimeric bis-naphthalimide compound and a topoisomerase II inhibitor with antineoplastic activity. Elinafide contains two neutral chromophores joined by a cationic linker and is capable of bis-intercalation at the TpG and CpA steps of the DNA hexanucleotide. Intercalation inhibits topoisomerase II activity and causing DNA stand breakage, thereby leads to inhibition of DNA, RNA, and protein synthesis.",
+    "fdaUniiCode": "HL580335SI",
+    "identifier": "C1615",
+    "preferredName": "Elinafide",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C582"
+    ],
+    "synonyms": [
+      "ELINAFIDE",
+      "Elinafide",
+      "LU 79553",
+      "LU-79553",
+      "N,N'-(Trimethylenebis(iminoethylene))dinaphthalimide"
+    ]
+  }
+}

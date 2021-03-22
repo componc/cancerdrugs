@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Camptothecin_Sodium",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The sodium salt of camptothecin, an alkaloid isolated from the Chinese tree Camptotheca acuminata, with antineoplastic activity.  During the S phase of the cell cycle, camptothecin selectively stabilizes topoisomerase I-DNA covalent complexes, thereby inhibiting religation of topoisomerase I-mediated single-strand DNA breaks and producing potentially lethal double-strand DNA breaks when encountered by the DNA replication machinery. The sodium salt of camptothecin is more water-soluble than the parent molecule.",
+    "fdaUniiCode": "3L6CT9UWOM",
+    "identifier": "C2344",
+    "preferredName": "Camptothecin Sodium",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1904"
+    ],
+    "synonyms": [
+      "CAMPTOTHECIN SODIUM",
+      "Camptothecin Sodium",
+      "Camptothecin Sodium Salt",
+      "Camptothecin sodium",
+      "Camptothecin, sodium salt",
+      "Sodium camptothecin"
+    ]
+  }
+}

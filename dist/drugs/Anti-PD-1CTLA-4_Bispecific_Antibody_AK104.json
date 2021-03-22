@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-PD-1CTLA-4_Bispecific_Antibody_AK104",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A bispecific antibody directed against the human negative immunoregulatory checkpoint receptors programmed cell death protein 1 (PD-1; PDCD1; CD279) and cytotoxic T-lymphocyte-associated antigen 4 (CTLA4; CTLA-4), with potential immune checkpoint inhibitory and antineoplastic activities. Upon administration, anti-PD1/CTLA4 bispecific antibody AK104 targets and binds to both PD-1 and CTLA4 expressed on tumor-infiltrating T lymphocytes (TILs), and inhibits the PD-1- and CTLA4-mediated downregulation of T-cell activation and proliferation. This restores immune function and activates a sustained cytotoxic T-lymphocyte (CTL)-mediated immune response against tumor cells. Both PD-1 and CTLA4 are selectively expressed on TILs in the tumor microenvironment (TME) and negatively regulate the activation and effector functions of T-cells. They play key roles in the downregulation of the immune system and tumor evasion from host immunity. Dual checkpoint blockade of PD1 and CTLA4 with AK104 may enhance T-cell activation and proliferation more than the blockade of either immune checkpoint receptor alone.",
+    "fdaUniiCode": "6FYG1DS4NW",
+    "identifier": "C153379",
+    "preferredName": "Anti-PD-1/CTLA-4 Bispecific Antibody AK104",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C143250",
+      "C28227"
+    ],
+    "synonyms": [
+      "AK 104",
+      "AK-104",
+      "AK104",
+      "Anti-PD-1 x CTLA-4 Bispecific Antibody AK104",
+      "Anti-PD-1/CTLA-4 Bispecific Antibody AK104",
+      "Anti-PD1/Anti-CTLA4 Bispecific Antibody AK104",
+      "PD-1 x CTLA-4 Dual Checkpoint Inhibitor AK104"
+    ]
+  }
+}

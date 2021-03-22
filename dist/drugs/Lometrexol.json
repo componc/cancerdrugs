@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Lometrexol",
+  "nciThesaurus": {
+    "casRegistry": "106400-81-1",
+    "chebiId": "",
+    "chemicalFormula": "C21H25N5O6",
+    "definition": "A folate analog antimetabolite with antineoplastic activity. As the 6R diastereomer of 5,10-dideazatetrahydrofolate, lometrexol inhibits glycinamide ribonucleotide formyltransferase (GARFT), the enzyme that catalyzes the first step in the de novo purine biosynthetic pathway, thereby inhibiting DNA synthesis, arresting cells in the S phase of the cell cycle, and inhibiting tumor cell proliferation.  The agent has been shown to be active against tumors that are resistant to the folate antagonist methotrexate.",
+    "fdaUniiCode": "6P3AVY8A7Q",
+    "identifier": "C979",
+    "preferredName": "Lometrexol",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2692",
+      "C511"
+    ],
+    "synonyms": [
+      "(6R)-DDATHF",
+      "6R-5,10-Dideazatetrahydrofolate",
+      "L-Glutamic acid, N-(4-(2-((6R)-2-amino-1,4,5,6,7,8-hexahydro-4-oxopyrido(2,3-d)pyrimidin-6-yl)ethyl)benzoyl)-",
+      "L-Glutamic acid, N-(4-(2-(2-amino-1,4,5,6,7,8-hexahydro-4-oxopyrido(2,3-d)pyrimidin-6-yl)ethyl)benzoyl)-, (R)-",
+      "LOMETREXOL",
+      "Lometrexol",
+      "Pyrido[2,3-d]pyrimidine, L-glutamic acid derivative (9CI)",
+      "lometrexol"
+    ]
+  }
+}

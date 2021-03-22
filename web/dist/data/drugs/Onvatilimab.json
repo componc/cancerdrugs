@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Onvatilimab",
+  "nciThesaurus": {
+    "casRegistry": "1969313-51-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A human monoclonal antibody against the protein V-domain immunoglobulin (Ig) suppressor of T-cell activation (VISTA; programmed death 1 homolog; PD1H; PD-1H), with potential negative checkpoint regulatory and antineoplastic activities. Upon administration, onvatilimab targets and binds to VISTA. This inhibits VISTA signaling, abrogates the VISTA-induced suppression of T-lymphocyte-mediated immune responses, enhances cytotoxic T-cell responses against tumor cells and inhibits tumor cell growth. VISTA, mainly expressed on hematopoietic cells, plays a key role in immunosuppression.",
+    "fdaUniiCode": "1UI8F5IIZ4",
+    "identifier": "C127124",
+    "preferredName": "Onvatilimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Immunoglobulin G1, Anti-(Human Protein Vista (v-domain Immunoglobulin Suppressor of T Cell Activation)) (Human Clone JNJ 61610588 gamma1-chain), Disulfide with Human Clone JNJ",
+      "JNJ 61610588",
+      "JNJ-61610588",
+      "ONVATILIMAB",
+      "Onvatilimab",
+      "WHO 10758"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "SIRPa-IgG4-Fc_Fusion_Protein_TTI-622",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A soluble recombinant antibody-like fusion protein composed of the N-terminal CD47 binding domain of human signal-regulatory protein alpha (SIRPa; CD172a) linked to an Fc domain derived from human immunoglobulin G subtype 4 (IgG4), with potential immune checkpoint inhibitory, phagocytosis-inducing and antineoplastic activities. Upon administration, the SIRPa-IgG4-Fc fusion protein TTI-622 selectively targets and binds to CD47 expressed on tumor cells and blocks the interaction of CD47 with endogenous SIRPa, a cell surface protein expressed on macrophages. This prevents CD47/SIRPa-mediated signaling and abrogates the CD47/SIRPa-mediated inhibition of macrophage activation. This induces pro-phagocytic signaling resulting from the binding of calreticulin (CRT), which is specifically expressed on the surface of tumor cells, to low-density lipoprotein (LDL) receptor-related protein-1 (LRP-1) expressed on macrophages, and results in macrophage activation and the specific phagocytosis of tumor cells. CD47, also called integrin-associated protein (IAP), is a tumor-associated antigen (TAA) expressed on normal, healthy hematopoietic stem cells (HSC) and overexpressed on the surface of a variety of cancer cells. Expression of CD47, and its interaction with SIRPa, leads to the inhibition of macrophage activation and protects tumor cells from phagocytosis, thereby allowing these cells to proliferate and survive.",
+    "fdaUniiCode": "44D51T6SZH",
+    "identifier": "C150756",
+    "preferredName": "SIRPa-IgG4-Fc Fusion Protein TTI-622",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C129820",
+      "C141144",
+      "C307"
+    ],
+    "synonyms": [
+      "SIRPa-IgG4 Fc",
+      "SIRPa-IgG4 Fc TTI-622",
+      "SIRPa-IgG4-Fc Fusion Protein TTI-622",
+      "TTI 622",
+      "TTI-622",
+      "TTI622"
+    ]
+  }
+}

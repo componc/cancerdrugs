@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tolnidamine",
+  "nciThesaurus": {
+    "casRegistry": "50454-68-7",
+    "chebiId": "",
+    "chemicalFormula": "C16H13ClN2O2",
+    "definition": "An indazole carboxylic acid derivative with antispermatogenic and potential antineoplastic activity. As a male contraceptive, tolnidamine may irreversibly inhibit sperm production. This agent is less nephrotoxic than ionidamide, but it is just as effective in antispermatogenic action to ionidamide.",
+    "fdaUniiCode": "Z5M7SC6D5P",
+    "identifier": "C75293",
+    "preferredName": "Tolnidamine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129818"
+    ],
+    "synonyms": [
+      "1b Indozadole",
+      "TOLNIDAMINE",
+      "Tolnidamine"
+    ]
+  }
+}

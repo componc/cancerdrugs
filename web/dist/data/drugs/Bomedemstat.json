@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Bomedemstat",
+  "nciThesaurus": {
+    "casRegistry": "1990504-34-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available, irreversible inhibitor of lysine-specific demethylase 1 (LSD1), with potential antineoplastic activity. Upon administration, bomedemstat binds to and inhibits LSD1, a demethylase that suppresses the expression of target genes by converting the di- and mono-methylated forms of lysine at position 4 of histone H3 (H3K4) to mono- and unmethylated H3K4. LSD1 inhibition enhances H3K4 methylation and increases the expression of tumor suppressor genes. In addition, LSD1 demethylates mono- or di-methylated H3K9 which increases gene expression of tumor promoting genes; thus, inhibition of LSD1 also promotes H3K9 methylation and decreases transcription of these genes. Altogether, this may lead to an inhibition of cell growth in LSD1-overexpressing tumor cells. LSD1, an enzyme belonging to the flavin adenine dinucleotide (FAD)-dependent amine oxidase family is overexpressed in certain tumor cells and plays a key role in the regulation of gene expression, tumor cell growth and survival.",
+    "fdaUniiCode": "Y2T4ALDEAT",
+    "identifier": "C131827",
+    "preferredName": "Bomedemstat",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825"
+    ],
+    "synonyms": [
+      "BOMEDEMSTAT",
+      "Bomedemstat",
+      "IMG 7289",
+      "IMG-7289",
+      "LSD-1 Inhibitor IMG-7289",
+      "Lysine-specific Demethylase 1 Inhibitor IMG-7289"
+    ]
+  }
+}

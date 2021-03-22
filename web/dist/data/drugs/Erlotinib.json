@@ -1,0 +1,47 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "erlotinib",
+      "conditionIndication": "Non-small cell lung cancer (NSCLC)Tarceva is also indicated for switch maintenance treatment in patients with locally advanced or metastatic non-small cell lung cancer with EGFR activating mutations and stable disease after first-line chemotherapy.Tarceva is also indicated for the treatment of patients with locally advanced or metastatic non-small cell lung cancer after failure of at least one prior chemotherapy regimen.In patients with tumours without EGFR activating mutations, Tarceva is indicated when other treatment options are not considered suitable.When prescribing Tarceva, factors associated with prolonged survival should be taken into account.No survival benefit or other clinically relevant effects of the treatment have been demonstrated in patients with Epidermal Growth Factor Receptor (EGFR)-IHC - negative tumours.Pancreatic cancerTarceva in combination with gemcitabine is indicated for the treatment of patients with metastatic pancreatic cancer.When prescribing Tarceva, factors associated with prolonged survival should be taken into account.",
+      "inn": "erlotinib",
+      "marketingAuthorisationDate": "2005-09-19 00:00:00",
+      "marketingAuthorisationHolder": "Roche Registration GmbH",
+      "medicineName": "Tarceva",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tarceva"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Erlotinib Hydrochloride",
+      "indication": "1 INDICATIONS AND USAGE Erlotinib tablets are a kinase inhibitor indicated for: \u2022 The treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) substitution mutations as detected by an FDA-approved test receiving first-line, maintenance, or second or greater line treatment after progression following at least one prior chemotherapy regimen. ( 1.1 ) \u2022 First-line treatment of patients with locally advanced, unresectable or metastatic pancreatic cancer, in combination with gemcitabine. ( 1.2 ) Limitations of Use: \u2022 Safety and efficacy of erlotinib tablets have not been established in patients with NSCLC whose tumors have other EGFR mutations. ( 1.1 ) \u2022 Erlotinib tablets are not recommended for use in combination with platinum-based chemotherapy. ( 1.1 ) 1.1 Non-Small Cell Lung Cancer (NSCLC) Erlotinib tablets are indicated for: \u2022 The treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) substitution mutations as detected by an FDA-approved test receiving first-line, maintenance, or second or greater line treatment after progression following at least one prior chemotherapy regimen [see Clinical Studies (14.1 , 14.3) ] . Limitations of Use \u2022 Safety and efficacy of erlotinib tablets have not been established in patients with NSCLC whose tumors have other EGFR mutations [see Clinical Studies (14.1 , 14.2) ] . \u2022 Erlotinib tablets are not recommended for use in combination with platinum-based chemotherapy [see Clinical Studies (14.4) ] . 1.2 Pancreatic Cancer Erlotinib tablets in combination with gemcitabine is indicated for the first-line treatment of patients with locally advanced, unresectable or metastatic pancreatic cancer [see Clinical Studies (14.5) ] .",
+      "manufacturer": "Mylan Pharmaceuticals Inc.",
+      "splSetId": "a0582690-5b89-4f2f-bb9e-7591466c24d1"
+    },
+    {
+      "brand": "Erlotinib",
+      "indication": "1 INDICATIONS AND USAGE Erlotinib tablets are kinase inhibitors indicated for: \u2022 The treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) substitution mutations as detected by an FDA-approved test receiving first-line, maintenance, or second or greater line treatment after progression following at least one prior chemotherapy regimen. (1.1) \u2022 First-line treatment of patients with locally advanced, unresectable or metastatic pancreatic cancer, in combination with gemcitabine. (1.2) Limitations of Use : \u2022 Safety and efficacy of erlotinib tablets have not been established in patients with NSCLC whose tumors have other EGFR mutations. (1.1) \u2022 Erlotinib tablets are not recommended for use in combination with platinum-based chemotherapy. (1.1) 1.1 Non-Small Cell Lung Cancer (NSCLC) Erlotinib tablets are indicated for: \u2022 The treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) substitution mutations as detected by an FDA-approved test receiving first-line, maintenance, or second or greater line treatment after progression following at least one prior chemotherapy regimen [see Clinical Studies (14.1, 14.3)] . Limitations of use: \u2022 Safety and efficacy of erlotinib tablets have not been established in patients with NSCLC whose tumors have other EGFR mutations [see Clinical Studies (14.1, 14.2)] . \u2022 Erlotinib tablets are not recommended for use in combination with platinum-based chemotherapy [see ClinicalStudies (14.4)] . 1.2 Pancreatic Cancer Erlotinib tablets in combination with gemcitabine are indicated for the first-line treatment of patients with locally advanced, unresectable or metastatic pancreatic cancer [see Clinical Studies (14.5)] .",
+      "manufacturer": "Sun Pharmaceutical Industries, Inc.",
+      "splSetId": "e36fa076-e23b-437f-bbd2-0433ce333175"
+    }
+  ],
+  "id": "Erlotinib",
+  "nciThesaurus": {
+    "casRegistry": "183321-74-6",
+    "chebiId": "CHEBI:114785",
+    "chemicalFormula": "C22H23N3O4",
+    "definition": "A quinazoline derivative with antineoplastic properties.  Competing with adenosine triphosphate, erlotinib reversibly binds to the intracellular catalytic domain of epidermal growth factor receptor (EGFR) tyrosine kinase, thereby reversibly inhibiting EGFR phosphorylation and blocking the signal transduction events and tumorigenic effects associated with EGFR activation.",
+    "fdaUniiCode": "J4T82NDH7E",
+    "identifier": "C65530",
+    "preferredName": "Erlotinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2167"
+    ],
+    "synonyms": [
+      "ERLOTINIB",
+      "Erlotinib",
+      "erlotinib"
+    ]
+  }
+}

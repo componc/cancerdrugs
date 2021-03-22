@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-TIM-3_Antibody_BMS-986258",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody against the inhibitory T-cell receptor T-cell immunoglobulin and mucin domain-containing protein 3 (TIM-3; TIM3; hepatitis A virus cellular receptor 2; HAVCR2), with potential immune checkpoint inhibitory and antineoplastic activities. Following administration, anti-TIM-3 antibody BMS-986258 binds to TIM-3 that is expressed on certain T-cells, including tumor infiltrating lymphocytes (TILs). This abrogates T-cell inhibition, activates antigen-specific T-lymphocytes and enhances cytotoxic T-cell-mediated tumor cell lysis, which together result in decreased tumor growth. TIM-3, a transmembrane protein and immune checkpoint receptor, is associated with tumor-mediated immune suppression.",
+    "fdaUniiCode": "P339Q7RL7K",
+    "identifier": "C148042",
+    "preferredName": "Anti-TIM-3 Antibody BMS-986258",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C141146"
+    ],
+    "synonyms": [
+      "Anti-TIM-3 Antibody BMS-986258",
+      "Anti-TIM3 Antibody BMS-986258",
+      "BMS 986258",
+      "BMS-986258"
+    ]
+  }
+}

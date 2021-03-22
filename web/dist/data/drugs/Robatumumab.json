@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Robatumumab",
+  "nciThesaurus": {
+    "casRegistry": "934235-44-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant, fully human monoclonal antibody directed against the insulin-like growth factor 1 receptor (IGF-1R) with potential antineoplastic activity. Anti-IGF-1R fully human monoclonal antibody SCH 717454 binds to membrane-bound IGF-1R, preventing binding of the ligand IGF-1 and the subsequent triggering of the PI3K/Akt signaling pathway; downregulation of this survival pathway may result in the induction of apoptosis and decreased cellular proliferation. The activation of IGF-1R, a tyrosine kinase and a member of the insulin receptor family, stimulates cell proliferation, enables oncogenic transformation, and suppresses apoptosis; IGF-1R signaling has been highly implicated in tumorigenesis and metastasis.",
+    "fdaUniiCode": "V983921H3B",
+    "identifier": "C71527",
+    "preferredName": "Robatumumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-IGF-1R Recombinant Monoclonal Antibody SCH 717454",
+      "Immunoglobulin G1, Anti-(Human Insulin-Like Growth Factor I Receptor) (Human Monoclonal SCH 717454 Heavy Chain), Disulfide with Human Monoclonal SCH 717454 Light Chain, Dimer",
+      "ROBATUMUMAB",
+      "Robatumumab",
+      "Sch717454"
+    ]
+  }
+}

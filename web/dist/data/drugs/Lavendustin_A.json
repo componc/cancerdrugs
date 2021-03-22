@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Lavendustin_A",
+  "nciThesaurus": {
+    "casRegistry": "125697-92-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A compound isolated from strains of Streptomyces griseolavendus that may exert antitumor activity by inhibition of protein tyrosine kinase and tubulin polymerization. (NCI)",
+    "fdaUniiCode": "3Y0G32G2RV",
+    "identifier": "C1142",
+    "preferredName": "Lavendustin A",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1967"
+    ],
+    "synonyms": [
+      "5-(((2,5-Dihydroxyphenyl)methyl)((2-hydroxyphenyl)methyl)amino)-2-hydroxy Benzoic Acid",
+      "Benzoic acid, 5-[[(2, 5-dihydroxyphenyl)methyl][(2-hydroxyphenyl)methyl]amino]-2-hydroxy -",
+      "LAVENDUSTIN A",
+      "Lavendustin A"
+    ]
+  }
+}

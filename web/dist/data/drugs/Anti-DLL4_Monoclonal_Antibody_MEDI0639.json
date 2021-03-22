@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-DLL4_Monoclonal_Antibody_MEDI0639",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An immunoglobulin G1 lambda monoclonal antibody directed against the Notch ligand delta-like 4 (DLL4) with potential antineoplastic activity. Anti-DLL4 monoclonal antibody MEDI0639 specifically binds to DLL4 and prevents its interaction with Notch receptors, thereby inhibiting Notch-mediated signaling and gene transcription, which may block tumor angiogenesis and eventually the inhibition of tumor cell growth. Activation of Notch receptors by DLL4 stimulates proteolytic cleavage of the Notch intracellular domain (NICD); after cleavage, NICD is translocated to the nucleus and mediates the transcriptional regulation of a variety of genes involved in vascular development. The expression of DLL4 is highly restricted to the vascular endothelium; DLL4/Notch signaling is required for the development of functional tumor blood vessels.",
+    "fdaUniiCode": "LPT9GX4OUB",
+    "identifier": "C101521",
+    "preferredName": "Anti-DLL4 Monoclonal Antibody MEDI0639",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-DLL4 Monoclonal Antibody MEDI0639",
+      "MEDI-0639",
+      "MEDI0639"
+    ]
+  }
+}

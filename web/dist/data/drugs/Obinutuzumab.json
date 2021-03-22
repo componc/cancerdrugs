@@ -1,0 +1,50 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "Obinutuzumab",
+      "conditionIndication": "Chronic Lymphocytic Leukaemia (CLL)Gazyvaro in combination with chlorambucil is indicated for the treatment of adult patients with previously untreated chronic lymphocytic leukaemia (CLL) and with comorbidities making them unsuitable for full-dose fludarabine based therapy (see section 5.1).Follicular Lymphoma (FL)Gazyvaro in combination with chemotherapy, followed by Gazyvaro maintenance therapy in patients achieving a response, is indicated for the treatment of patients with previously untreated advanced follicular lymphoma.Gazyvaro in combination with bendamustine followed by Gazyvaro maintenance is indicated for the treatment of patients with follicular lymphoma (FL) who did not respond or who progressed during or up to 6 months after treatment with rituximab or a rituximab-containing regimen.",
+      "inn": "obinutuzumab",
+      "marketingAuthorisationDate": "2014-07-22 00:00:00",
+      "marketingAuthorisationHolder": "Roche Registration GmbH",
+      "medicineName": "Gazyvaro",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/gazyvaro"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Gazyva",
+      "indication": "1 INDICATIONS AND USAGE GAZYVA (obinutuzumab) is a CD20-directed cytolytic antibody indicated: in combination with chlorambucil, for the treatment of patients with previously untreated chronic lymphocytic leukemia. ( 1 , 14 ) in combination with bendamustine followed by GAZYVA monotherapy, for the treatment of patients with follicular lymphoma who relapsed after, or are refractory to, a rituximab-containing regimen. ( 1 , 14 ) in combination with chemotherapy followed by GAZYVA monotherapy in patients achieving at least a partial remission, for the treatment of adult patients with previously untreated stage II bulky, III or IV follicular lymphoma. ( 1 , 14 ) 1.1 Chronic Lymphocytic Leukemia (CLL) GAZYVA, in combination with chlorambucil, is indicated for the treatment of patients with previously untreated chronic lymphocytic leukemia. 1.2 Follicular Lymphoma (FL) GAZYVA, in combination with bendamustine followed by GAZYVA monotherapy, is indicated for the treatment of patients with follicular lymphoma who relapsed after, or are refractory to, a rituximab-containing regimen . GAZYVA, in combination with chemotherapy followed by GAZYVA monotherapy in patients achieving at least a partial remission, is indicated for the treatment of adult patients with previously untreated stage II bulky, III or IV follicular lymphoma .",
+      "manufacturer": "Genentech, Inc.",
+      "splSetId": "df12ceb2-5b4b-4ab5-a317-2a36bf2a3cda"
+    }
+  ],
+  "id": "Obinutuzumab",
+  "nciThesaurus": {
+    "casRegistry": "949142-50-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A glycoengineered, humanized IgG1 monoclonal antibody with potential antineoplastic activity. Obinutuzumab, a third generation type II anti-CD20 antibody, selectivity binds to the extracellular domain of the human CD20 antigen on malignant human B cells. The Fc region carbohydrates of the antibody, enriched in bisected non-fucosylated glycosylation variants, contribute to its higher binding affinity for human FcgammaRIII receptors compared to non-glycoengineered antibodies, resulting in enhanced antibody-dependent cellular cytotoxicity (ADCC) and caspase-independent apoptosis. In addition, modification of elbow hinge sequences within the antibody variable framework regions may account for the strong apoptosis-inducing activity of R7159 upon binding to CD20 on target cells.",
+    "fdaUniiCode": "O43472U9X8",
+    "identifier": "C70741",
+    "preferredName": "Obinutuzumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C141215"
+    ],
+    "synonyms": [
+      "Afutuzumab",
+      "Anti-CD20 Monoclonal Antibody R7159",
+      "GA-101",
+      "GA101",
+      "Gazyva",
+      "OBINUTUZUMAB",
+      "Obinutuzumab",
+      "R7159",
+      "RO 5072759",
+      "RO-5072759",
+      "RO5072759",
+      "huMAB(CD20)"
+    ]
+  }
+}

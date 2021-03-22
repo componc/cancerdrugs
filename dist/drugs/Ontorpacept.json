@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ontorpacept",
+  "nciThesaurus": {
+    "casRegistry": "2131089-46-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A soluble recombinant antibody-like fusion protein composed of the N-terminal CD47 binding domain of human signal-regulatory protein alpha (SIRPa) linked to the Fc domain of human immunoglobulin G1 (IgG1), with potential immune checkpoint inhibitory and antineoplastic activities. Upon administration, ontorpacept selectively targets and binds to CD47 expressed on tumor cells and blocks the interaction of CD47 with endogenous SIRPa, a cell surface protein expressed on macrophages. This prevents CD47/SIRPa-mediated signaling and abrogates the CD47/SIRPa-mediated inhibition of macrophage activation and phagocytosis of cancer cells. This induces pro-phagocytic signaling mediated by the binding of calreticulin (CRT), which is specifically expressed on the surface of tumor cells, to low-density lipoprotein (LDL) receptor-related protein-1 (LRP-1), expressed on macrophages, and results in macrophage activation and the specific phagocytosis of tumor cells. CD47, also called integrin-associated protein (IAP), is a tumor-associated antigen (TAA) expressed on normal, healthy hematopoietic stem cells (HSC) and overexpressed on the surface of a variety of cancer cells. Expression of CD47, and its interaction with SIRPa, leads to the inhibition of macrophage activation and protects cancer cells from phagocytosis, thereby allowing cancer cells to proliferate.",
+    "fdaUniiCode": "Q8A4U1Z9N2",
+    "identifier": "C125718",
+    "preferredName": "Ontorpacept",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C129820",
+      "C141144",
+      "C307"
+    ],
+    "synonyms": [
+      "ONTORPACEPT",
+      "Ontorpacept",
+      "SIRPa-Fc Fusion Protein TTI-621",
+      "SIRPaFc",
+      "TTI 621",
+      "TTI-621"
+    ]
+  }
+}

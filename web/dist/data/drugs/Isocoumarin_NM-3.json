@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Isocoumarin_NM-3",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable antiangiogenic isocoumarin with potential antineoplastic activity.  NM-3 inhibits vascular endothelial growth factor (VEGF), a pro-angiogenic growth factor, thereby inhibiting endothelial cell proliferation.  This agent also induces apoptosis by a mechanism involving reactive oxygen species.",
+    "fdaUniiCode": "5797K23F95",
+    "identifier": "C1888",
+    "preferredName": "Isocoumarin NM-3",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1971"
+    ],
+    "synonyms": [
+      "Isocoumarin NM-3",
+      "NM-3"
+    ]
+  }
+}

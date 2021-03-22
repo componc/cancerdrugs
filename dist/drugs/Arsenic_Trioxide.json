@@ -1,0 +1,553 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "Arsenic trioxide",
+      "conditionIndication": "Arsenic trioxide medac is indicated for induction of remission, and consolidation in adult patients with:Newly diagnosed low-to-intermediate risk acute promyelocytic leukaemia (APL) (white blood cell count, \u2264 10 x 10\u00b3/\u03bcl) in combination with all-trans-retinoic acid (ATRA)Relapsed/refractory APL (previous treatment should have included a retinoid and chemotherapy) characterised by the presence of the t(15;17) translocation and/or the presence of the pro-myelocytic leukaemia/retinoic-acid-receptor-alpha (PML/RAR\u03b1) gene.The response rate of other acute myelogenous leukaemia subtypes to arsenic trioxide has not been examined.",
+      "inn": "arsenic trioxide",
+      "marketingAuthorisationDate": "2020-09-17 00:00:00",
+      "marketingAuthorisationHolder": "medac Gesellschaft f\u00fcr klinische Spezialpr\u00e4parate mbH",
+      "medicineName": "Arsenic trioxide medac",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/arsenic-trioxide-medac"
+    },
+    {
+      "activeSubstance": "Arsenic trioxide",
+      "conditionIndication": "Arsenic trioxide is indicated for induction of remission, and consolidation in adult patients with:, , Newly diagnosed low-to-intermediate risk acute promyelocytic leukaemia (APL) (white blood cell count, \u2264 10 x 103/\u03bcl) in combination with all-trans-retinoic acid (ATRA), \tRelapsed/refractory acute promyelocytic leukaemia (APL)(Previous treatment should have included a retinoid and chemotherapy) characterised by the presence of the t(15;17) translocation and/or the presence of the promyelocytic leukaemia/retinoic-acid-receptor-alpha (PML/RAR-alpha) gene., \tThe response rate of other acute myelogenous leukaemia subtypes to arsenic trioxide has not been examined., ",
+      "inn": "arsenic trioxide",
+      "marketingAuthorisationDate": "2019-11-14 01:00:00",
+      "marketingAuthorisationHolder": "Accord Healthcare S.L.U.",
+      "medicineName": "Arsenic trioxide Accord",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/arsenic-trioxide-accord"
+    },
+    {
+      "activeSubstance": "Arsenic trioxide",
+      "conditionIndication": "Arsenic trioxide Mylan is indicated for induction of remission, and consolidation in adult patients with:- Newly diagnosed low to intermediate risk acute promyelocytic leukaemia (APL) (white blood cell count, \u2264 10 x 103/\u03bcl) in combination with all trans retinoic acid (ATRA)- Relapsed/refractory acute promyelocytic leukaemia (APL) (Previous treatment should have included a retinoid and chemotherapy)characterised by the presence of the t(15;17) translocation and/or the presence of the promyelocytic leukaemia/retinoic acid receptor alpha (PML/RAR alpha) gene.The response rate of other acute myelogenous leukaemia subtypes to arsenic trioxide has not beenexamined.",
+      "inn": "arsenic trioxide",
+      "marketingAuthorisationDate": "2020-04-01 00:00:00",
+      "marketingAuthorisationHolder": "Mylan Ireland Limited",
+      "medicineName": "Arsenic trioxide Mylan",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/arsenic-trioxide-mylan"
+    },
+    {
+      "activeSubstance": "Arsenic trioxide",
+      "conditionIndication": "Trisenox is indicated for induction of remission, and consolidation in adult patients with:Newly diagnosed low-to-intermediate risk acute promyelocytic leukaemia (APL) (white blood cell count, \u2264 10 x 103/\u00b5l) in combination with all\u2011trans\u2011retinoic acid (ATRA)Relapsed/refractory acute promyelocytic leukaemia (APL) (previous treatment should have included a retinoid and chemotherapy)characterised by the presence of the t(15;17) translocation and/or the presence of the Pro-Myelocytic Leukaemia/Retinoic-Acid-Receptor-alpha (PML/RAR-alpha) gene.The response rate of other acute myelogenous leukaemia subtypes to arsenic trioxide has not been examined.",
+      "inn": "arsenic trioxide",
+      "marketingAuthorisationDate": "2002-03-05 01:00:00",
+      "marketingAuthorisationHolder": "Teva B.V.",
+      "medicineName": "Trisenox",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/trisenox"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Cuprum aceticum Nicotiana",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "0002a6ef-6e5e-4a34-95d5-ebaab222496f"
+    },
+    {
+      "brand": "Focus",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to attention deficit including hyperactivity and poor concentration.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "0012578b-66ff-49a8-8415-693c68ab9c16"
+    },
+    {
+      "brand": "Sciatic Nerve Formula",
+      "indication": "Uses for temporary relief of symptoms: \u2588 leg, back, hip and joint discomfort \u2588 numbness and tingling \u2588 tightness and stiffness \u2588 muscular fatigue.",
+      "manufacturer": "King Bio Inc.",
+      "splSetId": "00734376-119f-4d32-a94b-417a52ea5612"
+    },
+    {
+      "brand": "Nausea Vomitting HP",
+      "indication": "INDICATIONS: May temporarily relieve nausea and vomiting. **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "017cd24a-9949-41ca-a671-c399d31e4245"
+    },
+    {
+      "brand": "ALLERSTAT II",
+      "indication": "INDICATIONS: May temporarily relieve sinus congestion due to hay fever and allergic rhinitis.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "019d2cdf-db38-4533-b1e1-94f06d0f7b21"
+    },
+    {
+      "brand": "Stomach Spleen Meridian Opener",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of vomiting, stomach pain, loss of appetite, abdominal bloating, loose stools, and fluid retention.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Desert Biologicals, Inc.",
+      "splSetId": "01cd1127-9404-4296-9ae9-2c21b4642e9f"
+    },
+    {
+      "brand": "2 Gallbladder",
+      "indication": "INDICATIONS: For temporary relief of resentment.",
+      "manufacturer": "The Wellness Center for Research and Education, Inc.",
+      "splSetId": "01ce3eaf-dd73-4416-b38e-cb416db0dbc1"
+    },
+    {
+      "brand": "Hevert Detox Lymph",
+      "indication": "Uses For temporary relief of discomfort associated with lymphatic swelling and edema. Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Hevert Pharmaceuticals LLC",
+      "splSetId": "02661e24-1270-4b5b-9a62-ca156015f33c"
+    },
+    {
+      "brand": "Animal Antigens",
+      "indication": "INDICATIONS: For temporary relief to allergies due to animals.",
+      "manufacturer": "BioActive Nutritional",
+      "splSetId": "02c31f51-99c6-4373-bce9-1c93a54f74d4"
+    },
+    {
+      "brand": "Arsenicum Album Kit Refill",
+      "indication": "INDICATIONS Indications: ARSENICUM ALBUM Food poisoning",
+      "manufacturer": "Washington Homeopathic Products",
+      "splSetId": "02f647a3-fad5-4c59-b6a0-93abbae291ca"
+    },
+    {
+      "brand": "ANXIETY II HP",
+      "indication": "\u200bUSES: \u200bTemporarly relieves simple nervous tension.**",
+      "manufacturer": "Natural Creations, Inc.",
+      "splSetId": "02fa45a5-08e1-41ad-acd4-0f85db07e89e"
+    },
+    {
+      "brand": "Emvita 26",
+      "indication": "\u200bUses: \u200b(\u2020) Homeopathic remedy for feelings of a materialistic nature.",
+      "manufacturer": "RUBIMED AG",
+      "splSetId": "03ed4af2-5306-4757-a9be-4712428cfe24"
+    },
+    {
+      "brand": "Eczema HP",
+      "indication": "INDICATIONS: For temporary relief of symptoms due to skin irritations and chronic eczema.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "042bbc47-f327-4078-b737-c61ea59079bc"
+    },
+    {
+      "brand": "PTS/Stress Remedy",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms of stress such as terror, horror, post traumatic stress, fight or flight response, recurring nightmares, difficulty sleeping, difficulty concentrating, restlessness, and easy irritability.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "05341147-789a-4844-9412-6a3044e5eb18"
+    },
+    {
+      "brand": "GI Distress",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms related to occasional watery diarrhea, irritation of stomach, indigestion, abdominal bloating, stomach cramps, and loss of appetite.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "056ac695-82d3-4164-9123-79520b5deecc"
+    },
+    {
+      "brand": "Pericardium Triple Warmer Meridian Opener",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of pain under the arm, back pain, irritability, fever, headache, generalized pain, hearing loss, sweating and coldness.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "060ecfed-5d31-49ca-82d8-9b05355da59d"
+    },
+    {
+      "brand": "Endopar",
+      "indication": "INDICATIONS: May temporarily relieve nervous exhaustion, mental sluggishness, weak pulse, cold hands and feet, muscular exhaustion, and may help those easily fatigued.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "06375c3e-cc05-4450-9117-1d3dc72636eb"
+    },
+    {
+      "brand": "Bactestat",
+      "indication": "INDICATIONS: For temporary relief of fever, irritated throat, and acute irritation of the bladder.** **These statements are based upon traditional homeopathic practice. The have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "064a90cf-e978-42b3-a048-bb7041dcdfba"
+    },
+    {
+      "brand": "Emvita 21",
+      "indication": "\u200bUses: \u200b(\u2020) Homeopathic remedy for feelings of physical overexertion.",
+      "manufacturer": "RUBIMED AG",
+      "splSetId": "066313a8-b026-4579-888b-90f6edc9b3ee"
+    },
+    {
+      "brand": "Syphilitic Miasm",
+      "indication": "INDICATIONS: May temporarily relieve tiredness, weakness in the morning, irritability, sluggish functions, heaviness, numbness, and staggering.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "07459e64-f973-4220-a723-7aad305e09a6"
+    },
+    {
+      "brand": "Weed and Grass Antigen",
+      "indication": "INDICATIONS: For temporary relief of allergies due to weeds and grasses.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "0784ad15-4abc-4071-a982-95cb104369c5"
+    },
+    {
+      "brand": "Asthma Therapy",
+      "indication": "Uses According to homeopathic indications, these ingredients provide temporary relief of Asthma and COPD like symptoms such as: \u2022 Difficulty Breathing \u2022 Inflammation in the airways \u2022 Coughing \u2022 Wheezing \u2022 Shortness of breath \u2022 Sensation of tightness of the chest \u2022 Congestion after a diagnosis of Asthma or COPD by a physician.",
+      "manufacturer": "TRP Company",
+      "splSetId": "07d2988b-5012-481c-9b48-a709c33d2979"
+    },
+    {
+      "brand": "Insecticides/Pest/Food Additives Detox",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to food additives, herbicides and insecticides including muscle weakness, skin irritation, poor muscle coordination, headache, cough, diarrhea, dizziness, fatigue, fever, stomach pain and vomiting.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Dr. Donna Restivo DC",
+      "splSetId": "08c310fb-d0d6-4396-9982-55c348809433"
+    },
+    {
+      "brand": "BAC HP",
+      "indication": "INDICATIONS: For temporary relief of symptoms of chronic swelling and inflammation of lymph nodes. ** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "092b0721-f9c5-426a-9935-538acd3b0ddd"
+    },
+    {
+      "brand": "Histapoll HP",
+      "indication": "INDICATIONS: May temporarily relieve symptoms of inhalant allergens.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "09a75182-6939-4e2b-a61a-9c58c9e9284e"
+    },
+    {
+      "brand": "Bio-Immune",
+      "indication": "INDICATIONS: For temporary relief of bacterial and viral conditions.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "0b2249a0-9657-451b-a6d1-383fc168a7b6"
+    },
+    {
+      "brand": "Skin Infections",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to skin infections including inflammation, rash, fever and swelling.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologials, Inc.",
+      "splSetId": "0bb82ed9-584d-44d4-bcac-7e16b168f48a"
+    },
+    {
+      "brand": "TOTAL FLU CLD 1",
+      "indication": "INDICATIONS: For temporary relief of flu-like discomforts: fever, chills, night sweats, nausea, vomiting, headache, runny nose, congestion, sore throat, cough, diarrhea and tired achy feeling. (**)",
+      "manufacturer": "White Manufacturing Inc. DBA Micro-West",
+      "splSetId": "0c4756c5-1de7-4de9-ad46-b42bc5102c52"
+    },
+    {
+      "brand": "Cough HP",
+      "indication": "INDICATIONS: May temporarily relieve symptoms associated with chronic chest congestion: irritation, tickling, thick mucus, and cough with smarting in the chest.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "0c622637-22ce-4124-9440-c10ec42713ff"
+    },
+    {
+      "brand": "Multiple Miasm",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to miasmic conditions including skin rashes, itching, dry coughs, and warts.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "0cf54ec3-d731-4f27-89fd-4571d991a615"
+    },
+    {
+      "brand": "Governing Vessel Conception Vessel Meridian Opener",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms such as poor digestion, bloating and stress.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "0d1ef705-94b1-433d-887e-c0731140f1ea"
+    },
+    {
+      "brand": "Perfect Sleep",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of the symptoms of sleeplessness such as tiredness, fatigue, and lack of energy.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "0d91cfa4-6533-4a86-9aad-b9b6b9bd7040"
+    },
+    {
+      "brand": "ARSENICUM ALBUM",
+      "indication": "Indications For the temporary relief of symptoms associated with flu and indigestion Directions Adults: Take five granules three times daily or as recommended by your healthcare practitioner. Children: Take three granules and follow adult directions.",
+      "manufacturer": "Seroyal USA",
+      "splSetId": "0d93edc4-ae6e-1e16-e054-00144ff8d46c"
+    },
+    {
+      "brand": "CL-N",
+      "indication": "CL-N For the temporory relief of depression, drowsiness, vertigo, general systemic malaise, headaches and confusion.",
+      "manufacturer": "Vitality Works, Inc.",
+      "splSetId": "0de1e383-f721-4d2c-a1e1-946371234b88"
+    },
+    {
+      "brand": "Candida Ease",
+      "indication": "INDICATIONS: For temporary relief of acute and chronic vaginal inflammation, vaginal discharge, abdominal distention, edema in legs, extreme tiredness, indigestion with tiredness, insomnia from tiredness, vaginal itching, mental exhaustion, rheumatic nodules and stiffness, running or congested nose, swelling in the joints.",
+      "manufacturer": "The Wellness Center for Research and Education, Inc.",
+      "splSetId": "0e0633c0-fd2a-46d9-9de6-325977a484fa"
+    },
+    {
+      "brand": "Homeopathic Moon drops",
+      "indication": "Indication Helps relieve occasional sleeplessness by soothing the mind, and easing you into a natural sleep. These uses are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Historical Remedies LLP",
+      "splSetId": "0e7972a5-a930-4a52-8896-02ce810fa90b"
+    },
+    {
+      "brand": "Weed Grass Antigens",
+      "indication": "INDICATIONS: May temporarily relieve symptoms associated with weed and grass allergies, such as hay fever and runny nose and sneezing.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "0ec09d62-07ca-4bbe-9019-1025f5713211"
+    },
+    {
+      "brand": "9 Spleen Pancreas",
+      "indication": "INDICATIONS: For the temporary relief of low self-esteem.",
+      "manufacturer": "The Wellness Center for Research and Education, Inc.",
+      "splSetId": "0fa05fd5-3ac1-4746-a9a4-0ecb435fdebb"
+    },
+    {
+      "brand": "NHS Flu Nausea",
+      "indication": "Indications Indications: To be used for acute self-limiting conditions according to standard homeopathic indications",
+      "manufacturer": "Natural Health Supply",
+      "splSetId": "1010fb88-6436-456a-a147-8d01c8381b26"
+    },
+    {
+      "brand": "Trisenox",
+      "indication": "1. INDICATIONS AND USAGE TRISENOX is an arsenical indicated: In combination with tretinoin for treatment of adults with newly-diagnosed low-risk acute promyelocytic leukemia (APL) whose APL is characterized by the presence of the t(15;17) translocation or PML/RAR-alpha gene expression. ( 1.1 ) For induction of remission and consolidation in patients with APL who are refractory to, or have relapsed from, retinoid and anthracycline chemotherapy, and whose APL is characterized by the presence of the t(15;17) translocation or PML/RAR-alpha gene expression. ( 1.2 ) 1.1 Newly-Diagnosed Low-Risk APL TRISENOX is indicated in combination with tretinoin for treatment of adults with newly-diagnosed low-risk acute promyelocytic leukemia (APL) whose APL is characterized by the presence of the t(15;17) translocation or PML/RAR-alpha gene expression. 1.2 Relapsed or Refractory APL TRISENOX is indicated for induction of remission and consolidation in patients with APL who are refractory to, or have relapsed from, retinoid and anthracycline chemotherapy, and whose APL is characterized by the presence of the t(15;17) translocation or PML/RAR-alpha gene expression.",
+      "manufacturer": "Cephalon, Inc.",
+      "splSetId": "101fc347-d0ad-4aee-8b06-9feb187fd741"
+    },
+    {
+      "brand": "Herpes Zoster Plus",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms of Herpes Zoster such as burning pain, tickling, numbness, swelling and tenderness and extreme sensitivity to touch.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "10c1050b-ea09-44e1-baac-a1c6394c3eb2"
+    },
+    {
+      "brand": "Herpes Simplex Plus",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms of Herpes Simplex such as painful eruptions of lips, genitals, vesicular/blister of lips and genitals, tingling of lips, fatigue, irritability, fever, body aches and burning during urination.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals,Inc.",
+      "splSetId": "119803cd-22be-4eea-8f65-d2f6cbadbf5b"
+    },
+    {
+      "brand": "Metalstat",
+      "indication": "INDICATIONS: May temporarily relieve vomiting, exhaustion and metallic taste.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "1201d72d-6623-4254-8596-6aa50a2c6868"
+    },
+    {
+      "brand": "AnXious",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of the symptoms related to stress including mild anxiousness, worry, overwhelm, and mild fear.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "12254535-3b2a-4419-bb81-5af004cc6e3c"
+    },
+    {
+      "brand": "Lymestat",
+      "indication": "INDICATIONS: May temporarily relieve symptoms associated with infections such as aches and pains of joints and muscles.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "124640de-3d79-4203-8c0a-f00eede8bff2"
+    },
+    {
+      "brand": "Neurotox",
+      "indication": "INDICATIONS: For temporary relief of symptoms due to numbness, tingling, muscle cramps, and nerve pain.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "125ac19b-0769-4a7a-aae1-1f251dd23a0e"
+    },
+    {
+      "brand": "Bladdertone",
+      "indication": "INDICATIONS: May temporarily relieve intolerable urging, pressure in the area of the bladder, and having to urinate often.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "125d7369-f384-4bc1-a1a3-40e8d6a9ea8c"
+    },
+    {
+      "brand": "Vertitone",
+      "indication": "INDICATIONS: May temporarily relieve dizziness and motion sickness with nausea.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "12f1c465-b64a-446c-a28c-e96dabe03580"
+    },
+    {
+      "brand": "Immune Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to infection, such as cough, fever, headache, fatigue, cold, muscle pain, sore throat, ear, nose and throat congestion.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "141d45e7-1fc7-48c6-b9e3-f65b82a3d710"
+    },
+    {
+      "brand": "Unda 3",
+      "indication": "Uses For the temporary relief of symptoms associated with abdominal cramping, bloating and gas following meals. Directions Adults and adolescents (12 years and older) Take 5 drops three times daily or as recommended by your healthcare practitioner. Children (under 12 years) Take under the direction of your healthcare practitioner.",
+      "manufacturer": "Seroyal USA",
+      "splSetId": "1583cf73-c22c-0fa8-e054-00144ff8d46c"
+    },
+    {
+      "brand": "GERM HP",
+      "indication": "Uses : Temporarily relieves fever, chilliness with fever, headache.**",
+      "manufacturer": "Natural Creations, Inc.",
+      "splSetId": "15dc5391-0e6e-45d9-8ac7-142333a90716"
+    },
+    {
+      "brand": "Allerpoll HP",
+      "indication": "INDICATIONS: May temporarily relieve symptoms of inhalant allergens.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "15e98e21-4d9b-4c91-bf91-2e1038b043ca"
+    },
+    {
+      "brand": "Arsenicum Cerebrum",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "16233e32-7d99-4ce3-8abf-80264a627882"
+    },
+    {
+      "brand": "UNDA 15",
+      "indication": "Uses For the temporary relief of mild fever. Directions Adults and adolescents (12 years and older) Take 5 drops three times daily or as recommended by your healthcare practitioner. Children (under 12 years) Take under the direction of your healthcare practitioner.",
+      "manufacturer": "Seroyal USA",
+      "splSetId": "16ee1833-db7c-46fe-e054-00144ff88e88"
+    },
+    {
+      "brand": "Bio-Immune",
+      "indication": "INDICATIONS: May temporarily relieve symptoms associated with bacterial and viral conditions, such as fever and chills, and cough.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "17b5ee2c-20e6-47d1-96f3-aedc5328d2ba"
+    },
+    {
+      "brand": "Grain and Seed Antigens",
+      "indication": "INDICATIONS: For temporary relief of allergies due to grains and seeds.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "180fe8bd-f9cc-44a6-9b5a-9e9e4fd437af"
+    },
+    {
+      "brand": "Kids Relief",
+      "indication": "Uses : This homeopathic medicine to help relieve sore throat symptoms: \u2022 burning pain \u2022 inflammation \u2022 difficulty to swallow \u2022 hoarseness \u2022 irritation",
+      "manufacturer": "Homeolab International (Canada) inc",
+      "splSetId": "18a6f6d4-cdfd-4bf7-8cb2-831033c1d965"
+    },
+    {
+      "brand": "Joette Calabrese Survivalist Kit",
+      "indication": "ACTIVE INGREDIENTS (HPUS*) PURPOSE**: ABROTANUM 6C (intestines), ACONITUM NAPELLUS 1M (shock), AETHUSA CYNAPIUM 200C (dairy intolerance), AGNUS CASTUS 200C (impotence/absentmindedness), AILANTHUS GLANDULOSUS 30C (fever/glands), AMBRA GRISEA 30C (confusion/memory), AMBROSIA ARTEMISIAEFOLIA 30C (itchy eyelids), AMMONIUM CARBONICUM 30C (breathing), ANTIMONIUM CRUDUM 6C, 200C (rash), APIS MELLIFICA 1M (swellings), ARNICA MONTANA 3C, 1M (injury), ARSENICUM ALBUM 3C (gastrointestinal), AURUM ARSENICOSUM 200C (infection), AURUM METALLICUM 200C (depression/fatigue), BAPTISIA TINCTORIA 200C (fever/soreness), BARYTA CARBONICA 30C (memory loss), BELLADONNA 3C (pain/fever), BORRELIA BURGDORFERI 200C (tick), BOTHROPS LANCEOLATUS 30C (heart), BOVISTA 30C (suffocation), BROMIUM 30C (radiation), CADMIUM SULPHURICUM 30C (vomiting), CALADIUM SEGUINUM 30C (insect bites), CALCAREA CARBONICA 1M (immunity), CAMPHORA 200C (collapse/antidoting), CARBOLICUM ACIDUM 6C, 30C (infection/swelling), CARDUUS MARIANUS 30C (liver), CEANOTHUS AMERICANUS 30C (radiation/spleen), CHELIDONIUM MAJUS 6C (gastrointestinal), CHININUM SULPHURICUM 3X (fever) CINA 3X, 200C (parasites), CINCHONA (CHINA) OFFICINALIS 3C (fluid loss), CICUTA VIROSA 30C (head injury), COBALTUM METALLICUM 30C (radiation), COLCHICUM AUTUMNALE 30C (dysentery), CONIUM MACULATUM 3C (weakness/growths), CROTALUS HORRIDUS 6C, 30C (hemorrhage), CROTON TIGLIUM 30C (skin eruptions/diarrhea), CUPRUM METALLICUM 6C, 200C (spasms/cramps), DULCAMARA 30C (throat/ringworm), ELAPS CORALLINUS 30C (bleeding), EUPATORIUM PERFOLIATUM 200C (fever), GALPHIMIA GLAUCA 30C (hay fever), GRAPHITES 200C (skin eruptions), GUNPOWDER 30C (infection), HAMAMELIS VIRGINIANA 200C (circulation), HEKLA LAVA 30C (abscessed tooth), HELLEBORUS NIGER 30C (concentration), HEPAR SULPHURIS CALCAREUM 6C (infection), HYDROCYANICUM ACIDUM 30C (rigidity), HYDROFLUORICUM ACIDUM 30C (PTSD, abscess, sleep), HYOSCYAMUS NIGER 6C, 30C (delirium), HYPERICUM PERFORATUM 1M (extreme pain/nerve pain), KALI BROMATUM 30C (staggering), KALI CARBONICUM 200C (respiration), KALI IODATUM 6C (wheezy), LATHYRUS SATIVUS 30C (weakness), LAUROCERASUS 30C (breathlessness/collapse), LEDUM PALUSTRE 1M (puncture injury), LOBELIA INFLATA 30C (breathing difficulty), MERCURIUS CYANATUS 200C (throat), MERCURIUS SOLUBILIS 6C, 200C (throat), MEZEREUM 200C (bones), MOSCHUS 30C (fainting/vertigo), MURIATICUM ACIDUM 30C (weakness/exhaustion), NAJA TRIPUDIANS 30C (heart), NATRUM CARBONICUM 30C (weakness/heat stroke), NITRICUM ACIDUM 30C (anger), NUX MOSCHATA 30C (faintness), PYROGENIUM 200C (infections), PHOSPHORICUM ACIDUM 6C, 200C (exhaustion), PICRICUM ACIDUM 200C (headache/exhaustion), PLUMBUM METALLICUM 30C (weakness/constipation), RHUS TOX 1M (joints), RUTA GRAVEOLENS 6C (tendons), SAMBUCUS NIGRA 30C (breathing/cough), SANGUINARIA CANADENSIS 200C (sinus), SARRACENIA PURPUREA 30C (pustules), SECALE CORNUTUM 6C (internal bleeding), SEPIA 6C (menstrual/headache), STRAMONIUM 30C, 200C (rage), SULPHURICUM ACIDUM 30C (dyspnea), TABACUM 30C, 200C (nausea), TARENTULA HISPANA 30C (restlessness), TEREBINTHINA 6C (urinary problems), TEUCRIUM MARUM 200C (gastrointestinal/nasal), VERATRUM ALBUM 200C (diarrhea/weakness), VERATRUM VIRIDE 30C (infection/pustules), VIPERA BERUS 30C (severe nose bleed).",
+      "manufacturer": "OHM PHARMA INC.",
+      "splSetId": "1ac2a2c4-704e-4efa-aa44-acc71d300f70"
+    },
+    {
+      "brand": "Metox",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to heavy metal toxicity including cough, poor concentration, nausea, vomiting, occasional diarrhea, stomach pain, headache, sweating, and a metallic taste in the mouth.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "1b0fb230-3305-4d2a-b40f-9c8b54e26978"
+    },
+    {
+      "brand": "Gastrotone",
+      "indication": "INDICATIONS: For temporary relief of indigestion, flatulence, nausea, retching, vomitting after eating or drinking; minor burning pain in the stomach, and stomach irritable.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "1ba810f2-ee90-400c-81d7-d066c5eebe59"
+    },
+    {
+      "brand": "Eczema Relief",
+      "indication": "Indications & Usage: Turn tube upside down, twist cap to break seal & release pellets. Using clear cap, place 3 pellets to dissolve under your tongue 3 times a day or as needed. Take apart from food or drinks. To preserve purity avoid touching pellets with fingers.",
+      "manufacturer": "Homeocare Laboratories",
+      "splSetId": "1bfea3be-5909-4aa3-9ec3-05b4db2dd69b"
+    },
+    {
+      "brand": "6 Liver",
+      "indication": "INDICATIONS: For temporary relief of anger and rage.",
+      "manufacturer": "The Wellness Center for Research and Education, Inc.",
+      "splSetId": "1da232fc-4ec8-4ccd-81c7-e290f4f721c4"
+    },
+    {
+      "brand": "Cough HP",
+      "indication": "INDICATIONS: For temporary relief of symptoms of chronic cough.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "1e65f5de-3735-4ac7-b2ef-a91a68ffa683"
+    },
+    {
+      "brand": "LYM D",
+      "indication": "INDICATIONS: For temporary relief of aches and pains of joints and muscles as a consequence of infection.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "1e8607d9-1af5-4e6e-aad0-795238de3fc8"
+    },
+    {
+      "brand": "Thyreoidea Melissa",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "1f798508-bd8e-44af-b430-42f41fdaa7a3"
+    },
+    {
+      "brand": "Viracomp",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of the symptoms of viral infections such as congestion, coughing, fever, fatigue, ongoing muscle or joint pain, lesions, lack of appetite, and GI discomfort.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "1fa5bb94-f497-4490-bdc0-f6b89ea14f7c"
+    },
+    {
+      "brand": "Viracomp",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of the symptoms of viral infections such as congestion, coughing, fever, fatigue, ongoing muscle or joint pain, lesions, lack of appetite, and GI discomfort.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "2039884c-6203-4b49-878e-8cc4d3c6338b"
+    },
+    {
+      "brand": "Chemstat",
+      "indication": "INDICATIONS: May temporarily relieve weakness and exhaustion, minor abdominal cramps, bloating, and vomiting.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "205f7924-35e3-422c-9996-a13a07f3b9b7"
+    },
+    {
+      "brand": "ImmunoBooster",
+      "indication": "INDICATIONS: Supports the body's own capacity to fight illness and helps to temporarily relieve symptoms associated with weak immune function, including: \u00b0 tendency to develop colds & flu \u00b0 sluggish recovery from colds & flu \u00b0 tendency to get sore throats \u00b0 natural \u00b0 gluten & lactose free \u00b0 no artificial flavors or colors \u00b0 no known negative side effects \u00b0 no known negative drug interactions",
+      "manufacturer": "Eight and Company L.L.C",
+      "splSetId": "2124365e-2f93-4019-bad2-2bf58f2db52e"
+    },
+    {
+      "brand": "Allergen II",
+      "indication": "INDICATIONS: For temporary relief of sinus congestion, symptoms due to hay fever & allergic rhinitis.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "2140b105-60d6-4b52-82f5-407211fd6933"
+    },
+    {
+      "brand": "Weed Grass Antigens",
+      "indication": "INDICATIONS: May temporarily relieve symptoms associated with allergies due to weeds and grass allergies, such as hay fever and runny nose and sneezing.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "21fdd260-7536-4133-baa5-9181805034c7"
+    },
+    {
+      "brand": "Septastat",
+      "indication": "INDICATIONS: For temporary relief of septic states, venomous infection, blood poisoning/blood disorders, fever, muscular soreness, burning/stinging pain, convulsions, inflammation, gangrene and/or paralysis.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "22085b76-6872-4894-8680-91f0c89bb217"
+    },
+    {
+      "brand": "Lymphastat B",
+      "indication": "INDICATIONS: May temporarily relieve fever, irritated throat, and acute irritation of the bladder.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "225ac62c-4174-4d4f-b010-5d297e6434e9"
+    },
+    {
+      "brand": "DysBio Plus",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to gastroenteritis including occasional diarrhea, stomach cramps, nausea, vomiting, flatulence and bloating.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "238eb1dd-ce62-4a2b-90e5-181e868b6f43"
+    },
+    {
+      "brand": "Intestipar",
+      "indication": "INDICATIONS: May temporarily relieve weak digestion, bloating, abdominal, pain and diarrhea.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "23d5328e-ee8d-48d9-811f-7aa7be59d19e"
+    },
+    {
+      "brand": "Diathesis II",
+      "indication": "INDICATIONS: For temporary relief of inflammation of bones or joints, with nightly digging pains, general soreness & aching, spasmodic states such as intestinal colic, cramps of calf muscles, & spasmodic coughing.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "240a5573-0603-4201-ab11-39b894b8794e"
+    },
+    {
+      "brand": "Allerstat I",
+      "indication": "INDICATIONS: May temporarily relieve digestive symptoms such as indigestion with flatulence and bloating and loss of weight, associated with problem foods.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "248958f1-2533-409b-ad1b-8f7726d95385"
+    },
+    {
+      "brand": "Respiro-Pro T016",
+      "indication": "INDICATIONS: May temporarily relieve symptoms due to chronic lung disorders, lung inflammation.",
+      "manufacturer": "Guangzhou Renuma Medical Systems Co., Ltd",
+      "splSetId": "24f5b6f1-a35a-402d-a100-1fb51a5e5a74"
+    },
+    {
+      "brand": "WHP Be gone Diarrhea TM",
+      "indication": "INDICATIONS Indications: Arsenicum alb 6c \u2013small, offensive stool* Cuprum ars 6c \u2013watery stool* Veratrum alb 6c \u2013large stool* \u25a0 Cramps* \u25a0 Vomiting* \u25a0 Spasmodic pains* *These statements have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Washington Homeopathic Products",
+      "splSetId": "24f85823-7068-4686-a16b-f537bf20d654"
+    },
+    {
+      "brand": "Relaxatone",
+      "indication": "INDICATIONS: May temporarily relieve anxiety and stress. **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "2547b712-9190-4b25-ad8c-61f74cd4cb6e"
+    },
+    {
+      "brand": "HTYP",
+      "indication": "Uses Helps promote and maintain healthy immune system function and overall health. Directions To be taken 20 minutes away from food. Place drops directly under the tongue or into \u00bc oz of water. Adults and adolescents (12 years and older): Take 10 drops two to three times daily or as recommended by your healthcare practitioner. Children (under 12 years): Take under the direction of your healthcare practitioner.",
+      "manufacturer": "Seroyal USA",
+      "splSetId": "25c9982b-2bc9-4b75-e054-00144ff8d46c"
+    }
+  ],
+  "id": "Arsenic_Trioxide",
+  "nciThesaurus": {
+    "casRegistry": "1327-53-3",
+    "chebiId": "CHEBI:30621",
+    "chemicalFormula": "As2O3",
+    "definition": "A small-molecule arsenic compound with antineoplastic activity.  The mechanism of action of arsenic trioxide is not completely understood. This agent causes damage to or degradation of the promyelocytic leukemia protein/retinoic acid receptor-alpha (PML/RARa) fusion protein; induces apoptosis in acute promyelocytic leukemia (APL) cells and in many other tumor cell types; promotes cell differentiation and suppresses cell proliferation in many different tumor cell types; and is pro-angiogenic.",
+    "fdaUniiCode": "S7V92P67HO",
+    "identifier": "C1005",
+    "preferredName": "Arsenic Trioxide",
+    "semanticType": "Inorganic Chemical",
+    "subclassOf": [],
+    "synonyms": [
+      "ARSENIC TRIOXIDE",
+      "ATO",
+      "Arsenic (III) Oxide",
+      "Arsenic Sesquioxide",
+      "Arsenic Trioxide",
+      "Arsenous Acid",
+      "Arsenous Acid Anhydride",
+      "Arsenous Oxide",
+      "Trisenox",
+      "White Arsenic",
+      "arsenic trioxide"
+    ]
+  }
+}

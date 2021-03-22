@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Nilotinib_Hydrochloride_Monohydrate",
+  "nciThesaurus": {
+    "casRegistry": "923288-90-8",
+    "chebiId": "",
+    "chemicalFormula": "C28H22F3N7O.HCl.H2O",
+    "definition": "The monohydrate monohydrochloride form of nilotinib, an orally bioavailable aminopyrimidine-derivative Bcr-Abl tyrosine kinase inhibitor with antineoplastic activity. Designed to overcome imatinib resistance resulting from Bcr-Abl kinase mutations, upon administration, nilotinib binds to and stabilizes the inactive conformation of the kinase domain of the Abl portion of the Bcr-Abl fusion protein, resulting in the inhibition of the constitutive kinase activity of Bcr-Abl protein. This inhibits the Bcr-Abl-mediated proliferation of Philadelphia chromosome-positive (Ph+) chronic myeloid leukemia (CML) cells. Nilotinib also inhibits the receptor tyrosine kinases platelet-derived growth factor receptor (PDGF-R; PDGFR), mast/stem cell growth factor receptor Kit (c-Kit), and, to a lesser extent, colony-stimulating factor 1 receptor (CSF-1R; CSF1R), and discoidin domain-containing receptor 1 (DDR1).",
+    "fdaUniiCode": "5JHU0N1R6K",
+    "identifier": "C95229",
+    "preferredName": "Nilotinib Hydrochloride Monohydrate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C155700",
+      "C159198",
+      "C159199"
+    ],
+    "synonyms": [
+      "4-methyl-N-[3-(4-methyl-1H-imidazol-1-yl)-5-(trifluoromethyl)phenyl]-3-[[4-(3-pyridinyl)-2-pyrimidinyl]amino]-benzamide, Monohydrochloride",
+      "AMN107",
+      "NILOTINIB HYDROCHLORIDE MONOHYDRATE",
+      "Nilotinib Hydrochloride Monohydrate",
+      "Nilotinib Monohydrochloride Monohydrate",
+      "Tasigna"
+    ]
+  }
+}

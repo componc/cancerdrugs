@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Elacytarabine",
+  "nciThesaurus": {
+    "casRegistry": "188181-42-2",
+    "chebiId": "",
+    "chemicalFormula": "C27H45N3O6",
+    "definition": "The lipophilic 5'-elaidic acid ester of the deoxycytidine analog cytosine arabinoside (cytarabine; Ara-C) with potential antineoplastic activity. As a prodrug, elacytarabine is converted intracellularly into cytarabine triphosphate by deoxycytidine kinase and subsequently competes with cytidine for incorporation into DNA, thereby inhibiting DNA synthesis. Compared to cytarabine, elacytarabine shows increased cellular uptake and retention, resulting in increased activation by deoxycytidine kinase to cytarabine triphosphate, decreased deamination and deactivation by deoxycytidine deaminase, and increased inhibition of DNA synthesis. This agent also inhibits RNA synthesis, an effect not seen with cytarabine.",
+    "fdaUniiCode": "TA7WJG93AR",
+    "identifier": "C53401",
+    "preferredName": "Elacytarabine",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1557"
+    ],
+    "synonyms": [
+      "4-amino-1-[5-O-[(9E)-octadec-9-enoyl]-beta-D-arabinofuranosyl]pyrimidin-2(1H)-one",
+      "CP-4055",
+      "ELACYTARABINE",
+      "Elacyt",
+      "Elacytarabine"
+    ]
+  }
+}

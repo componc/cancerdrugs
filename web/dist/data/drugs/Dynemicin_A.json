@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Dynemicin_A",
+  "nciThesaurus": {
+    "casRegistry": "124412-57-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An enediyne antineoplastic antibiotic hybrid containing an anthraquinone moiety isolated from the bacterium Micromonospora chersina.  The anthraquinone moiety intercalates into DNA and the benzene diradical intermediate of the enediyne core binds to the minor groove of DNA, resulting in double-strand breaks in DNA, inhibition of DNA replication and apoptosis.",
+    "fdaUniiCode": "D3G8N2863A",
+    "identifier": "C1079",
+    "preferredName": "Dynemicin A",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1927"
+    ],
+    "synonyms": [
+      "DYNEMICIN A",
+      "Dynemicin A"
+    ]
+  }
+}

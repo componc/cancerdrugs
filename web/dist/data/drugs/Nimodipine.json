@@ -1,0 +1,80 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Nimodipine",
+      "indication": "INDICATIONS AND USAGE Nimodipine is indicated for the improvement of neurological outcome by reducing the incidence and severity of ischemic deficits in patients with subarachnoid hemorrhage from ruptured intracranial berry aneurysms regardless of their post-ictus neurological condition (i.e., Hunt and Hess Grades I-V).",
+      "manufacturer": "McKesson Corporation dba SKY Packaging",
+      "splSetId": "18855589-5063-484f-a064-cb1110833302"
+    },
+    {
+      "brand": "Nimodipine",
+      "indication": "INDICATIONS AND USAGE Nimodipine is indicated for the improvement of neurological outcome by reducing the incidence and severity of ischemic deficits in patients with subarachnoid hemorrhage from ruptured intracranial berry aneurysms regardless of their post-ictus neurological condition (i.e., Hunt and Hess Grades I-V).",
+      "manufacturer": "Ascend Laboratories, LLC",
+      "splSetId": "2f4813da-931d-448d-bbe1-f0b90724af22"
+    },
+    {
+      "brand": "Nimodipine",
+      "indication": "INDICATIONS AND USAGE Nimodipine is indicated for the improvement of neurological outcome by reducing the incidence and severity of ischemic deficits in patients with subarachnoid hemorrhage from ruptured intracranial berry aneurysms regardless of their post-ictus neurological condition (i.e., Hunt and Hess Grades I-V).",
+      "manufacturer": "American Health Packaging",
+      "splSetId": "5a2bedd7-3d9a-4f42-800b-14c814628089"
+    },
+    {
+      "brand": "Nimodipine",
+      "indication": "INDICATIONS AND USAGE Nimodipine is indicated for the improvement of neurological outcome by reducing the incidence and severity of ischemic deficits in patients with subarachnoid hemorrhage from ruptured intracranial berry aneurysms regardless of their post-ictus neurological condition (i.e., Hunt and Hess Grades I-V).",
+      "manufacturer": "ANI Pharmaceuticals, Inc.",
+      "splSetId": "83e0df20-c3b1-4139-9679-f7c7661f5caa"
+    },
+    {
+      "brand": "Nymalize",
+      "indication": "1 INDICATIONS AND USAGE NYMALIZE is indicated for the improvement of neurological outcome by reducing the incidence and severity of ischemic deficits in adult patients with subarachnoid hemorrhage (SAH) from ruptured intracranial berry aneurysms regardless of their post-ictus neurological condition (i.e., Hunt and Hess Grades I-V). NYMALIZE is a dihydropyridine calcium channel blocker indicated for the improvement of neurological outcome by reducing the incidence and severity of ischemic deficits in adult patients with subarachnoid hemorrhage (SAH) from ruptured intracranial berry aneurysms regardless of their post-ictus neurological condition (i.e., Hunt and Hess Grades I-V). ( 1 )",
+      "manufacturer": "Arbor Pharmaceuticals",
+      "splSetId": "9e48dba7-c706-44fc-b04b-0fdcb2d72bc4"
+    },
+    {
+      "brand": "Nimodipine",
+      "indication": "INDICATIONS AND USAGE Nimodipine is indicated for the improvement of neurological outcome by reducing the incidence and severity of ischemic deficits in patients with subarachnoid hemorrhage from ruptured intracranial berry aneurysms regardless of their post-ictus neurological condition (i.e., Hunt and Hess Grades I-V).",
+      "manufacturer": "Heritage Pharmaceuticals Inc.",
+      "splSetId": "a0a13a26-b9dc-4ed1-b2c4-46e14fb60bfc"
+    },
+    {
+      "brand": "Nimodipine",
+      "indication": "INDICATIONS AND USAGE Nimodipine is indicated for the improvement of neurological outcome by reducing the incidence and severity of ischemic deficits in patients with subarachnoid hemorrhage from ruptured intracranial berry aneurysms regardless of their post-ictus neurological condition (i.e., Hunt and Hess Grades I to V).",
+      "manufacturer": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
+      "splSetId": "a323ebd8-ef1b-439b-93d1-ba73a5b0127d"
+    },
+    {
+      "brand": "Nimodipine",
+      "indication": "INDICATIONS AND USAGE Nimodipine is indicated for the improvement of neurological outcome by reducing the incidence and severity of ischemic deficits in patients with subarachnoid hemorrhage from ruptured intracranial berry aneurysms regardless of their post-ictus neurological condition (i.e., Hunt and Hess Grades I-V).",
+      "manufacturer": "BIONPHARMA INC.",
+      "splSetId": "e65d5108-22a2-4d87-a78d-15606f3cc9e2"
+    },
+    {
+      "brand": "Nymalize",
+      "indication": "1 INDICATIONS AND USAGE NYMALIZE is indicated for the improvement of neurological outcome by reducing the incidence and severity of ischemic deficits in adult patients with subarachnoid hemorrhage (SAH) from ruptured intracranial berry aneurysms regardless of their post-ictus neurological condition (i.e., Hunt and Hess Grades I-V). NYMALIZE is a dihydropyridine calcium channel blocker indicated for the improvement of neurological outcome by reducing the incidence and severity of ischemic deficits in adult patients with subarachnoid hemorrhage (SAH) from ruptured intracranial berry aneurysms regardless of their post-ictus neurological condition (i.e., Hunt and Hess Grades I-V). ( 1 )",
+      "manufacturer": "Arbor Pharmaceuticals",
+      "splSetId": "e660fa26-b5c4-4d6d-8887-9e22b6666a10"
+    }
+  ],
+  "id": "Nimodipine",
+  "nciThesaurus": {
+    "casRegistry": "66085-59-4",
+    "chebiId": "CHEBI:7575",
+    "chemicalFormula": "C21H26N2O7",
+    "definition": "A dihydropyridine derivative and an analogue of the calcium channel blocker nifedipine, with antihypertensive activity. Nimodipine inhibits the transmembrane influx of calcium ions in response to depolarization in smooth muscle cells, thereby inhibiting vascular smooth muscle contraction and inducing vasodilatation. Nimodipine has a greater effect on cerebral arteries than on peripheral smooth muscle cells and myocardial cells, probably because this agent can cross the blood brain barrier due to its lipophilic nature. Furthermore, this agent also inhibits the drug efflux pump P-glycoprotein, which is overexpressed in some multi-drug resistant tumors, and may improve the efficacy of some antineoplastic agents.",
+    "fdaUniiCode": "57WA9QZ5WH",
+    "identifier": "C692",
+    "preferredName": "Nimodipine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C333"
+    ],
+    "synonyms": [
+      "NIMO",
+      "NIMODIPINE",
+      "Nimodipine",
+      "Nimotop",
+      "nimodipine"
+    ]
+  }
+}

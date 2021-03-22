@@ -1,0 +1,33 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Stress Away Anxiety Relief",
+      "indication": "Uses* Uses*: Temporarily relieves minor anxiousness and nervousness.",
+      "manufacturer": "Silver Star Brands",
+      "splSetId": "9d75666e-3214-2bab-e053-2a95a90af719"
+    }
+  ],
+  "id": "Phosphorus_P-32",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "CHEBI:37972",
+    "chemicalFormula": "P",
+    "definition": "A radioactive isotope of phosphorus with beta particle-emitting radiocytotoxic activity. Emitted by phosphorus P32, beta particles directly damage cellular DNA and, by ionizing intracellular water to produce several types of cytotoxic free radicals and superoxides, indirectly damage intracellular biological macromolecules, resulting in tumor cell death.",
+    "fdaUniiCode": "690284A407",
+    "identifier": "C1698",
+    "preferredName": "Phosphorus P-32",
+    "semanticType": "Indicator, Reagent, or Diagnostic Aid",
+    "subclassOf": [
+      "C799"
+    ],
+    "synonyms": [
+      "P-32",
+      "P32",
+      "PHOSPHORUS P-32",
+      "Phosphorus P 32",
+      "Phosphorus P-32",
+      "phosphorus-32"
+    ]
+  }
+}

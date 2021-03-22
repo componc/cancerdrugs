@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "PI3K_Inhibitor_ZSTK474",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available, s-triazine derivative, ATP-competitive phosphatidylinositol 3-kinase (PI3K) inhibitor with potential antineoplastic activity. PI3K inhibitor ZSTK474 inhibits all four PI3K isoforms. Inhibiting the activation of the PI3K/AKT kinase (or protein kinase B) signaling pathway results in inhibition of tumor cell growth and survival in susceptible tumor cell populations. Dysregulated PI3K signaling may contribute to tumor resistance to a variety of antineoplastic agents. This agent does not induce apoptosis but rather induces strong G(0)/G(1) arrest, which might contribute to its favorable efficacy in tumor cells.",
+    "fdaUniiCode": "K0068GK39A",
+    "identifier": "C95723",
+    "preferredName": "PI3K Inhibitor ZSTK474",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2152"
+    ],
+    "synonyms": [
+      "PI3K Inhibitor ZSTK474",
+      "Phosphatidylinositol 3-kinase Inhibitor ZSTK474",
+      "ZSTK-474",
+      "ZSTK474"
+    ]
+  }
+}

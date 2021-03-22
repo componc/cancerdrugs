@@ -1,0 +1,34 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Vitespen",
+  "nciThesaurus": {
+    "casRegistry": "492448-75-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An autologous cancer vaccine derived from tumor-specific gp96 heat shock proteins.  Heat shock proteins chaperone peptides through the endoplasmic reticulum, are key regulators of dendritic cell maturation, migration and antigen processing, and are involved in T-cell activation.",
+    "fdaUniiCode": "H3598Y1TLJ",
+    "identifier": "C2432",
+    "preferredName": "Vitespen",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C1663",
+      "C2139"
+    ],
+    "synonyms": [
+      "Autologous gp96 Heat Shock Protein Peptide Complex Vaccine",
+      "HSP gp96-Peptide Complex",
+      "HSPPC-96",
+      "Heat Shock Protein Peptide Complex-96",
+      "Oncophage",
+      "Recombinant Human Tumor Rejection Antigen 1",
+      "VITESPEN",
+      "Vitespen",
+      "gp96 HSP-Peptide Complex",
+      "gp96 HSP-peptide complex",
+      "gp96 Heat Shock Protein-Peptide Complex",
+      "gp96 heat shock protein-peptide complex vaccine",
+      "vitespen"
+    ]
+  }
+}

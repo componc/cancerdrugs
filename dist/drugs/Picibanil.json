@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Picibanil",
+  "nciThesaurus": {
+    "casRegistry": "39325-01-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A lyophilized formulation containing cultures of a low-virulent strain of Streptococcus pyogenes, treated and killed with penicillin G, with potential sclerosing, immunostimulating and antineoplastic activity. Besides from picibanil's direct damaging effect as a sclerosing agent, it seems to have multiple effects on the immune system as a non-specific immunostimulant.  Picibanil activates the host immune system by stimulating the activity of natural killer cells, macrophages and lymphocytes, and by enhancing the production of several key immune mediators, including interleukins and tumor necrosis factor.",
+    "fdaUniiCode": "2F42BH7X2L",
+    "identifier": "C745",
+    "preferredName": "Picibanil",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2141"
+    ],
+    "synonyms": [
+      "OK-432",
+      "Picibanil"
+    ]
+  }
+}

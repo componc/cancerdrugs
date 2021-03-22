@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Zanidatamab",
+  "nciThesaurus": {
+    "casRegistry": "2169946-15-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An engineered immunoglobulin G1 (IgG1) bi-specific monoclonal antibody that targets two different non-overlapping epitopes of the human tumor-associated antigen (TAA) epidermal growth factor receptor 2 (HER2), ECD2 and ECD4, with potential immunomodulating and antineoplastic activities. Upon administration, zanidatamab targets and binds to the two distinct HER2 domains on the tumor cell surface. This results in dual HER2 signal blockade, HER2 clustering, receptor internalization and downregulation. This also induces a cytotoxic T-lymphocyte (CTL) response and antibody-dependent cell-mediated cytotoxicity (ADCC) against tumor cells that overexpress HER2. Antibody-dependent cellular phagocytosis (ADCP) is also induced and further stimulates the immune system to kill HER2-overexpressing tumor cells. The HER2 receptor internalization also further inhibits HER2 activation, HER2-mediated signaling and HER2-mediated tumor cell growth. HER2, a tyrosine kinase receptor, is overexpressed by many cancer cell types.",
+    "fdaUniiCode": "Z20OC92TDI",
+    "identifier": "C130010",
+    "preferredName": "Zanidatamab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C155711",
+      "C28227"
+    ],
+    "synonyms": [
+      "Anti-HER2/HER2 Bispecific Antibody ZW25",
+      "HER2 x HER2 Bispecific Antibody ZW25",
+      "ZANIDATAMAB",
+      "ZW-25",
+      "ZW25",
+      "Zanidatamab"
+    ]
+  }
+}

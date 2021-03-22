@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Berzosertib",
+  "nciThesaurus": {
+    "casRegistry": "1232416-25-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An inhibitor of ataxia telangiectasia and rad3-related (ATR) kinase, a DNA damage response kinase, with potential antineoplastic activity. Upon administration, berzosertib selectively binds to and inhibits ATR kinase activity and prevents ATR-mediated signaling in the ATR-checkpoint kinase 1 (Chk1) signaling pathway. This prevents DNA damage checkpoint activation, disrupts DNA damage repair, and induces tumor cell apoptosis. ATR, a serine/threonine protein kinase upregulated in a variety of cancer cell types, plays a key role in DNA repair, cell cycle progression, and survival; it is activated by DNA damage caused during DNA replication-associated stress.",
+    "fdaUniiCode": "L423PRV3V3",
+    "identifier": "C116355",
+    "preferredName": "Berzosertib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C155926"
+    ],
+    "synonyms": [
+      "2-Pyrazinamine, 3-(3-(4-((Methylamino)methyl)phenyl)-5-isoxazolyl)-5-(4-((1-methylethyl)sulfonyl)phenyl)-",
+      "BERZOSERTIB",
+      "Berzosertib",
+      "M 6620",
+      "M6620",
+      "VX 970",
+      "VX-970",
+      "VX970"
+    ]
+  }
+}

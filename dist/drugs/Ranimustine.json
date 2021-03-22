@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ranimustine",
+  "nciThesaurus": {
+    "casRegistry": "58994-96-0",
+    "chebiId": "",
+    "chemicalFormula": "C10H18ClN3O7",
+    "definition": "A chloroethylnitrosourea derivative that inhibits proliferation and growth of tumor cells by alkylation and cross-linkage of DNA strands of tumor cells. (NCI)",
+    "fdaUniiCode": "RYH2T97J77",
+    "identifier": "C1515",
+    "preferredName": "Ranimustine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C699"
+    ],
+    "synonyms": [
+      "Cymer",
+      "Cymerin",
+      "MCNU",
+      "RANIMUSTINE",
+      "Ranimustine",
+      "Ranomustine",
+      "alpha-D-glucopyranoside, methyl 6-((((2-chloroethyl)nitrosoamino)carbonyl)amino)-6-deoxy-",
+      "methyl 6-((((2-chloroethyl)nitrosoamino)carbonyl) amino)-6-deoxy-alpha-D-glucopyranoside",
+      "methyl 6-(3-(2-chloroethyl)-3-nitrosoiureido)-6-deoxy-alpha-D-glucopyranoside",
+      "methyl 6-(3-(2-chloroethyl)-3-nitrosoureido)-6-deoxy-alpha-D-glucopyranoside"
+    ]
+  }
+}

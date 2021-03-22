@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Dicycloplatin",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A third-generation, supramolecular platinum-based compound composed of carboplatin linked, by a strong hydrogen bond, to 1,1-cyclobutane dicarboxylate (CBDCA), with potential antineoplastic activity. Although the exact mechanism of action has yet to be fully elucidated, dicycloplatin appears to have a mechanism of action similar to that of other platinum-based compounds, which involves both DNA binding and the formation of DNA crosslinks. This mechanism results in the induction of apoptosis and cell growth inhibition. Compared to carboplatin alone, dicycloplatin shows enhanced solubility and stability in aqueous solution and appears to have a more favorable toxicity profile.",
+    "fdaUniiCode": "0KC57I4UNB",
+    "identifier": "C107676",
+    "preferredName": "Dicycloplatin",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1450"
+    ],
+    "synonyms": [
+      "DCP",
+      "DICYCLOPLATIN",
+      "Dicycloplatin"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Rivoceranib_Mesylate",
+  "nciThesaurus": {
+    "casRegistry": "1218779-75-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The mesylate salt of rivoceranib, an orally bioavailable, small-molecule receptor tyrosine kinase inhibitor with potential antiangiogenic and antineoplastic activities. Rivoceranib selectively binds to and inhibits vascular endothelial growth factor receptor 2, which may inhibit VEGF-stimulated endothelial cell migration and proliferation and decrease tumor microvessel density. In addition, this agent mildly inhibits c-Kit and c-SRC tyrosine kinases.",
+    "fdaUniiCode": "TK02X14ASJ",
+    "identifier": "C74012",
+    "preferredName": "Rivoceranib Mesylate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1742",
+      "C1967"
+    ],
+    "synonyms": [
+      "Apatinib Mesylate",
+      "RIVOCERANIB MESYLATE",
+      "Rivoceranib Mesylate",
+      "YN-968D1",
+      "YN968D1"
+    ]
+  }
+}

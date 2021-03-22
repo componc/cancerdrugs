@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-GITR_Monoclonal_Antibody_GWN_323",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An anti-human glucocorticoid-induced tumor necrosis factor receptor (tumor necrosis factor superfamily, member 18; TNFRSF18; GITR; CD357) agonistic monoclonal antibody, with potential immune checkpoint modulating activity. Anti-GITR antibody GWN 323 binds to and activates GITRs found on multiple types of T-cells. This stimulates the immune system, induces both the activation and proliferation of tumor-antigen-specific T effector cells (Teff), and suppresses the function of activated T regulatory cells (Tregs). This leads to tumor cell eradication. GITR, a member of the TNF receptor superfamily and T-cell receptor co-stimulator, is expressed on the surface of multiple immune cell types, including Tregs, Teffs, B-cells, and natural killer (NK) cells. Inappropriately activated Tregs suppress both Teffs and T-cell receptor (TCR) signaling.",
+    "fdaUniiCode": "WYJ05POC5C",
+    "identifier": "C128028",
+    "preferredName": "Anti-GITR Monoclonal Antibody GWN 323",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C128058",
+      "C129822"
+    ],
+    "synonyms": [
+      "Anti-GITR Monoclonal Antibody GWN 323",
+      "GWN 323",
+      "GWN-323",
+      "GWN323"
+    ]
+  }
+}

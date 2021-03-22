@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Icatolimab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant humanized immunoglobulin G4 kappa (IgG4k) monoclonal antibody directed against B- and T-lymphocyte attenuator (BTLA), with potential immunomodulating and antineoplastic activities. Upon intravenous infusion administration, icatolimab targets and binds to BTLA. This prevents BTLA-mediated inhibition of T-cell activation leading to antigen specific T-cell proliferation and activation of a cytotoxic T-lymphocyte (CTL)-mediated immune response against tumor cells. BTLA, an immunoglobulin (Ig) receptor family member expressed on activated T- and B- lymphocytes, subsets of dendritic cells (DCs), macrophages, and nature killer (NK) cells, is an immune checkpoint involved in suppressing immune responses. It mediates inhibition of human tumor-specific CTLs upon engagement by tumor expressed herpesvirus-entry mediator (HVEM).",
+    "fdaUniiCode": "D40H7X1YZ0",
+    "identifier": "C168617",
+    "preferredName": "Icatolimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-B- and T-lymphocyte Attenuator Monoclonal Antibody TAB004",
+      "Anti-BTLA Monoclonal Antibody TAB004",
+      "ICATOLIMAB",
+      "Icatolimab",
+      "JS 004",
+      "JS-004",
+      "JS004",
+      "TAB 004",
+      "TAB-004",
+      "TAB004"
+    ]
+  }
+}

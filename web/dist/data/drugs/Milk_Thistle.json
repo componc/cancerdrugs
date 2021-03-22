@@ -1,0 +1,619 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Stomach Spleen Meridian Opener",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of vomiting, stomach pain, loss of appetite, abdominal bloating, loose stools, and fluid retention.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Desert Biologicals, Inc.",
+      "splSetId": "01cd1127-9404-4296-9ae9-2c21b4642e9f"
+    },
+    {
+      "brand": "Detox I",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms related to digestive issues, such as, bloating, gas, occasional diarrhea, occasional constipation, fatigue, and stomach upset.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "023d5133-6ba8-48cb-b4de-b51b5b583f41"
+    },
+    {
+      "brand": "Chelidonium Plex",
+      "indication": "Uses Helps promote and maintain healthy liver and kidney function. Temporarily alleviates symptoms associated with overindulgence of food and alcohol. Directions To be taken ten minutes away from food. Invert bottle and shake lightly allowing for drops to fall directly under the tongue or into 1/4 oz. of water. Hold contents for about 20 seconds and swallow. To promote drop flow, invert bottle and shake before each use. Adults and adolescents (12 years and older) Take 10 drops three times daily or as recommended by your healthcare practitioner. Children (under 12 years) Take under the direction of your healthcare practitioner.",
+      "manufacturer": "Seroyal USA",
+      "splSetId": "0a704022-57a4-1122-e054-00144ff8d46c"
+    },
+    {
+      "brand": "Bio-Immune",
+      "indication": "INDICATIONS: For temporary relief of bacterial and viral conditions.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "0b2249a0-9657-451b-a6d1-383fc168a7b6"
+    },
+    {
+      "brand": "HCB-Res",
+      "indication": "HCB-Res For the temporary relief of dizziness, weakness, and shortness of breath associated with heart irregularity and angina.",
+      "manufacturer": "Vitality Works, Inc.",
+      "splSetId": "0bad44e7-1bdb-4a60-b967-c13e32dcddb4"
+    },
+    {
+      "brand": "OHM HEPATIC TERRAIN",
+      "indication": "USES: Temporarily relieves primary and secondary functional hepatic disorders.** **This statement has not been evaluated by the FDA. It is based on documented Homeopathic Materia Medica.",
+      "manufacturer": "OHM PHARMA INC.",
+      "splSetId": "0db13721-38ef-4a12-982c-3c45532de8de"
+    },
+    {
+      "brand": "Livergen",
+      "indication": "\u200bUSES: \u200bRelieves symptoms of aging or a rundown condition, including: Relief for feelings of fatigue that may be caused by an over-worked liver or by liver toxixity; supports proper sugar metabolism; stimulates proper liver function; protects against the ill-effects of excessive alcohol consumption.* *Claims based on traditional homeopathic practice, not accepted by medical evidence. Not FDA evaluated.",
+      "manufacturer": "Sunway Biotech LLC",
+      "splSetId": "0e72f898-9685-47c9-b617-00145254bf8c"
+    },
+    {
+      "brand": "Enviroclenz",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to toxicity caused by environmental substances including neck pain, hives, occasional constipation, cough, and headache.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "0f155326-e70c-4570-b8fe-cfdc091b42bb"
+    },
+    {
+      "brand": "Sprayology TravelEase",
+      "indication": "For use during and after jet travel to temporarily relieve the symptoms commonly known as \"jet lag\", including: \u00b0 tiredness \u00b0 dehydration \u00b0 feeling of disorientation \u00b0 sleeplessness -natural -gluten & lactose free -no artificial flavors or colors -no known negative side effects -no known negative drug interactions",
+      "manufacturer": "Eight and Company L.L.C",
+      "splSetId": "104c72b0-2892-4262-81b8-7f7f0184615a"
+    },
+    {
+      "brand": "Liver comp.",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "12be23b0-b3d0-4644-bd2a-17c69a577efb"
+    },
+    {
+      "brand": "UNDA 4",
+      "indication": "Uses For the temporary relief of symptoms associated with stomach acidity, gas, belching and lack of appetite. Directions Adults and adolescents (12 years and older) Take 5 drops three times daily or as recommended by your healthcare practitioner. Children (under 12 years) Take under the direction of your healthcare practitioner.",
+      "manufacturer": "Seroyal USA",
+      "splSetId": "1777c76b-5329-3c7b-e054-00144ff88e88"
+    },
+    {
+      "brand": "Bio-Immune",
+      "indication": "INDICATIONS: May temporarily relieve symptoms associated with bacterial and viral conditions, such as fever and chills, and cough.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "17b5ee2c-20e6-47d1-96f3-aedc5328d2ba"
+    },
+    {
+      "brand": "CARDUUS MARIANUS",
+      "indication": "Indications Helps to relieve overindulgence in food and alcohol Directions Adults: Take five granules three times daily or as recommended by your healthcare practitioner. Children: Take three granules and follow adult directions.",
+      "manufacturer": "Seroyal USA",
+      "splSetId": "18444bf1-2cc9-27f0-e054-00144ff88e88"
+    },
+    {
+      "brand": "Joette Calabrese Survivalist Kit",
+      "indication": "ACTIVE INGREDIENTS (HPUS*) PURPOSE**: ABROTANUM 6C (intestines), ACONITUM NAPELLUS 1M (shock), AETHUSA CYNAPIUM 200C (dairy intolerance), AGNUS CASTUS 200C (impotence/absentmindedness), AILANTHUS GLANDULOSUS 30C (fever/glands), AMBRA GRISEA 30C (confusion/memory), AMBROSIA ARTEMISIAEFOLIA 30C (itchy eyelids), AMMONIUM CARBONICUM 30C (breathing), ANTIMONIUM CRUDUM 6C, 200C (rash), APIS MELLIFICA 1M (swellings), ARNICA MONTANA 3C, 1M (injury), ARSENICUM ALBUM 3C (gastrointestinal), AURUM ARSENICOSUM 200C (infection), AURUM METALLICUM 200C (depression/fatigue), BAPTISIA TINCTORIA 200C (fever/soreness), BARYTA CARBONICA 30C (memory loss), BELLADONNA 3C (pain/fever), BORRELIA BURGDORFERI 200C (tick), BOTHROPS LANCEOLATUS 30C (heart), BOVISTA 30C (suffocation), BROMIUM 30C (radiation), CADMIUM SULPHURICUM 30C (vomiting), CALADIUM SEGUINUM 30C (insect bites), CALCAREA CARBONICA 1M (immunity), CAMPHORA 200C (collapse/antidoting), CARBOLICUM ACIDUM 6C, 30C (infection/swelling), CARDUUS MARIANUS 30C (liver), CEANOTHUS AMERICANUS 30C (radiation/spleen), CHELIDONIUM MAJUS 6C (gastrointestinal), CHININUM SULPHURICUM 3X (fever) CINA 3X, 200C (parasites), CINCHONA (CHINA) OFFICINALIS 3C (fluid loss), CICUTA VIROSA 30C (head injury), COBALTUM METALLICUM 30C (radiation), COLCHICUM AUTUMNALE 30C (dysentery), CONIUM MACULATUM 3C (weakness/growths), CROTALUS HORRIDUS 6C, 30C (hemorrhage), CROTON TIGLIUM 30C (skin eruptions/diarrhea), CUPRUM METALLICUM 6C, 200C (spasms/cramps), DULCAMARA 30C (throat/ringworm), ELAPS CORALLINUS 30C (bleeding), EUPATORIUM PERFOLIATUM 200C (fever), GALPHIMIA GLAUCA 30C (hay fever), GRAPHITES 200C (skin eruptions), GUNPOWDER 30C (infection), HAMAMELIS VIRGINIANA 200C (circulation), HEKLA LAVA 30C (abscessed tooth), HELLEBORUS NIGER 30C (concentration), HEPAR SULPHURIS CALCAREUM 6C (infection), HYDROCYANICUM ACIDUM 30C (rigidity), HYDROFLUORICUM ACIDUM 30C (PTSD, abscess, sleep), HYOSCYAMUS NIGER 6C, 30C (delirium), HYPERICUM PERFORATUM 1M (extreme pain/nerve pain), KALI BROMATUM 30C (staggering), KALI CARBONICUM 200C (respiration), KALI IODATUM 6C (wheezy), LATHYRUS SATIVUS 30C (weakness), LAUROCERASUS 30C (breathlessness/collapse), LEDUM PALUSTRE 1M (puncture injury), LOBELIA INFLATA 30C (breathing difficulty), MERCURIUS CYANATUS 200C (throat), MERCURIUS SOLUBILIS 6C, 200C (throat), MEZEREUM 200C (bones), MOSCHUS 30C (fainting/vertigo), MURIATICUM ACIDUM 30C (weakness/exhaustion), NAJA TRIPUDIANS 30C (heart), NATRUM CARBONICUM 30C (weakness/heat stroke), NITRICUM ACIDUM 30C (anger), NUX MOSCHATA 30C (faintness), PYROGENIUM 200C (infections), PHOSPHORICUM ACIDUM 6C, 200C (exhaustion), PICRICUM ACIDUM 200C (headache/exhaustion), PLUMBUM METALLICUM 30C (weakness/constipation), RHUS TOX 1M (joints), RUTA GRAVEOLENS 6C (tendons), SAMBUCUS NIGRA 30C (breathing/cough), SANGUINARIA CANADENSIS 200C (sinus), SARRACENIA PURPUREA 30C (pustules), SECALE CORNUTUM 6C (internal bleeding), SEPIA 6C (menstrual/headache), STRAMONIUM 30C, 200C (rage), SULPHURICUM ACIDUM 30C (dyspnea), TABACUM 30C, 200C (nausea), TARENTULA HISPANA 30C (restlessness), TEREBINTHINA 6C (urinary problems), TEUCRIUM MARUM 200C (gastrointestinal/nasal), VERATRUM ALBUM 200C (diarrhea/weakness), VERATRUM VIRIDE 30C (infection/pustules), VIPERA BERUS 30C (severe nose bleed).",
+      "manufacturer": "OHM PHARMA INC.",
+      "splSetId": "1ac2a2c4-704e-4efa-aa44-acc71d300f70"
+    },
+    {
+      "brand": "Carduus marianus e fruct. 6 Special Order",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "1bf1a38e-3378-4f7e-99a4-b8dbb969519a"
+    },
+    {
+      "brand": "EBV/CFS Plus",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to viral infections such as fever, fatigue, lack of appetite, rash, sore throat, weakness of muscles, sore muscles, swelling of tonsils, chills, headaches.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "1c744874-554e-4039-b72c-24bb59e5021f"
+    },
+    {
+      "brand": "GB-Tone",
+      "indication": "Uses Temporary relief of abdominal discomfort, indigestion, headache.",
+      "manufacturer": "Energetix Corporation",
+      "splSetId": "1d857ae7-ad24-4f3b-8c33-f52851fa1ce6"
+    },
+    {
+      "brand": "Cholestop",
+      "indication": "Indications & Usage: Turn tube upside down, twist cap to break seal & release pellets. Using clear cap, place 3 pellets to dissolve under your tongue 3 times a day or as needed. Take apart from food or drinks. To preserve purity avoid touching pellets with fingers.",
+      "manufacturer": "Homeocare Laboratories",
+      "splSetId": "1eb44103-03d3-442e-bcf0-3d360ff3096a"
+    },
+    {
+      "brand": "Carduus Oxalis",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "211684ac-eb66-4d7c-9c44-b74ec2e45074"
+    },
+    {
+      "brand": "HAD",
+      "indication": "Uses Helps promote and maintain natural resistance to stress and normal energy levels. Directions To be taken 20 minutes away from food. Place drops directly under the tongue or into \u00bc oz of water. Adults and adolescents (12 years and older): Take 10 drops two to three times daily or as recommended by your healthcare practitioner. Children (under 12 years): Take under the direction of your healthcare practitioner.",
+      "manufacturer": "Seroyal USA",
+      "splSetId": "25665b4f-82ec-11be-e054-00144ff88e88"
+    },
+    {
+      "brand": "Carduus marianus",
+      "indication": "INDICATIONS Indications: CARDUUS MAR Nausea",
+      "manufacturer": "Washington Homeopathic Products",
+      "splSetId": "26646b06-c33e-4d46-bd3b-5ba9beffb403"
+    },
+    {
+      "brand": "Liver Tonic III",
+      "indication": "INDICATIONS: For temporary relief of sour, bitter taste after eating, fullness and soreness over the liver, coated tongue, flatulence, and diarrhea alternating with constipation.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "2a8d1506-04ed-45a7-805e-d08cdab010ee"
+    },
+    {
+      "brand": "Viatrexx-GI",
+      "indication": "Uses To support healthy GI tract/ Bowel function and elimination.",
+      "manufacturer": "VIATREXX BIO INCORPORATED",
+      "splSetId": "2e8c2a20-69f0-4705-a722-9e40870c8e5b"
+    },
+    {
+      "brand": "Hevert Detox Liver",
+      "indication": "Uses For temporary relief of liver and gallbladder driven symptoms of indigestion, such as: bloating pressure and pain in upper abdomen constipation Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Hevert Pharmaceuticals LLC",
+      "splSetId": "2fbc2fd0-6038-4e4d-8af3-ddf78dc91f3b"
+    },
+    {
+      "brand": "D1 Organ Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to improper breakdown and excretion of allergenic substances, including gastrointestinal, skin rashes, bowel disturbance and muscle cramping.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Dr. Donna Restivo DC",
+      "splSetId": "3248edc8-7768-41c7-a2af-30bb2aa7c563"
+    },
+    {
+      "brand": "CARDUUS PLEX",
+      "indication": "Uses Helps promote and maintain overall digestive health. For the temporary relief of symptoms associated with poor digestion. Directions To be taken ten minutes away from food. Invert bottle and shake lightly allowing drops to fall directly under the tongue or into \u00bc oz of water. Hold contents for about 20 seconds and swallow. To promote drop flow, invert bottle and shake before each use. Adults and adolescents (12 years and older) Take 10 drops three times daily or as recommended by your healthcare practitioner. Children (under 12 years) Take under the direction of your healthcare practitioner.",
+      "manufacturer": "Seroyal USA",
+      "splSetId": "330fa208-69c2-6c37-e054-00144ff88e88"
+    },
+    {
+      "brand": "Natural Fit",
+      "indication": "INDICATIONS: Supports metabolism.",
+      "manufacturer": "Advanced Healthcare Solutions",
+      "splSetId": "3863d416-3f1f-4084-b5e4-180242120d9d"
+    },
+    {
+      "brand": "H7 Complex",
+      "indication": "INDICATIONS: May relieve some of the symptoms of aging or a run-down condition. Benefits may include: \u2022 decreased body fat \u2022 increased muscle tone \u2022 improved skin texture, tone & elasticity \u2022 enhanced sex drive and performance \u2022 improved strength \u2022 more energy \u2022 better sleep",
+      "manufacturer": "Maximum Results Solution, Inc.",
+      "splSetId": "386fba2d-1523-4e4b-b0ab-7981523c65ab"
+    },
+    {
+      "brand": "Lycopodium Berberis",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "3a69cc5f-1bd8-462d-8754-8b1cc5d621ba"
+    },
+    {
+      "brand": "ADRENOPLEX",
+      "indication": "INDICATIONS: For temporary relief of nervous exhaustion, fatigue and forgetfulness.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "3c53c23e-7654-4e46-acf1-edb0d605ff3b"
+    },
+    {
+      "brand": "Liver Drainage",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms related to the cleansing and detoxifying of the liver, such as poor digestion, irregularity and low energy levels.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "3f8db86f-6324-42fa-8da1-74a9e9503aba"
+    },
+    {
+      "brand": "Detox Complex",
+      "indication": "INDICATIONS: Formulated for symptoms associated with liver, kidney and colon funtions and for symptoms associated with toxic conditions.",
+      "manufacturer": "True Weight Loss Solutions",
+      "splSetId": "41501b36-c954-4534-ad02-98c3481e11f7"
+    },
+    {
+      "brand": "HLIP",
+      "indication": "Uses Helps promote and maintain a healthy digestive tract and general liver and gall bladder functions. Directions To be taken 20 minutes away from food. Place drops directly under the tongue or into \u00bc oz of water. Adults and adolescents (12 years and older): Take 10 drops two to three times daily or as recommended by your healthcare practitioner. Children (under 12 years): Take under the direction of your healthcare practitioner.",
+      "manufacturer": "Seroyal USA",
+      "splSetId": "430169f3-890b-61bc-e054-00144ff8d46c"
+    },
+    {
+      "brand": "Gallbladder Liver Meridian Formula",
+      "indication": "HOMEOPATHIC INDICATIONS: Temporary relief of symptoms related to indigestion, anxiety, pain.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals",
+      "splSetId": "433814cc-9f6f-4a3e-b1d8-af5d06f95b2e"
+    },
+    {
+      "brand": "Adrenal and DHEA",
+      "indication": "INDICATIONS: Temporarily supports the body to rebalance Adrenal and DHEA output. Symptoms of imbalanced Adrenal and DHEA may include: low energy, depression, anxiety, dry eyes, skin, and hair, loss of head hair.",
+      "manufacturer": "ProBLEN",
+      "splSetId": "44991952-c440-4a33-9423-a9369c8bab70"
+    },
+    {
+      "brand": "Cholenest",
+      "indication": "Suggested use Adults: 30-40 drops in tepid water 3 times daily before meals. Children, 10 drops in tepid water 3 times daily before meals.",
+      "manufacturer": "Marco Pharma International LLC.",
+      "splSetId": "4b89ffcb-318b-416d-b13c-19fb94c2af70"
+    },
+    {
+      "brand": "AILGENO",
+      "indication": "Indications Restorative drops for use following minor infections. Application of this homeopathic remedy for the designated usage is exclusively based on homeopathic experience. With severe forms of this disease, a clinically proven therapy is indicated.",
+      "manufacturer": "PEKANA Naturheilmittel GmbH",
+      "splSetId": "4e24f727-4c83-46b6-9549-8f66bd135647"
+    },
+    {
+      "brand": "Hepatone",
+      "indication": "INDICATIONS: May temporarily relieve flatulence, constipation, and salty or bitter taste in mouth.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "51064a35-bf55-4905-a305-7b80a29417e9"
+    },
+    {
+      "brand": "Bio-Immune",
+      "indication": "INDICATIONS: May temporarily relieve symptoms associated with bacterial and viral conditions, such as fever and chills, and cough.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "51b14135-623e-455c-92a4-5dd49ec986f9"
+    },
+    {
+      "brand": "GB-Tone",
+      "indication": "USES: Temporary relief of abdominal discomfort, indigestion, headaches.",
+      "manufacturer": "Energetix Corp",
+      "splSetId": "5620a1dc-b59c-4489-a548-20f3e488287f"
+    },
+    {
+      "brand": "Stomach Spleen Meridian Formula",
+      "indication": "HOMEOPATHIC INDICATIONS: Temporary relief of symptoms related to blocked energy in the region of the mid abdomen including indigestion, fatigue, bloating, cramping and abdominal anxiety.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "56fcd061-7586-4d78-9310-9c304a96f5c6"
+    },
+    {
+      "brand": "Taraxacum comp.",
+      "indication": "Use For digestive discomfort",
+      "manufacturer": "Phytodyne Inc.",
+      "splSetId": "586ac15e-530d-4df0-81c1-c55f1c8dbf4b"
+    },
+    {
+      "brand": "Gallbladder Liver Meridian Opener",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of abnormal menses, headaches, leg pain, bloating, vomiting, occasional diarrhea and abdominal pain; shoulder pain.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "5dbbcf9d-df8c-48f4-91c2-42949ef19239"
+    },
+    {
+      "brand": "Enviroclenz",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to toxicity caused by environmental substances including neck pain, hives, constipation, cough, and headache.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "608a5ad5-0260-4403-bed8-9f8d81b5a362"
+    },
+    {
+      "brand": "SCIATICA RHEUMATISM",
+      "indication": "Indications Indications: To be used for acute self-limiting conditions according to standard homeopathic indications",
+      "manufacturer": "Natural Health Supply",
+      "splSetId": "60ba39a0-9e1e-4953-a8b3-ab9effb740ab"
+    },
+    {
+      "brand": "Hepapar",
+      "indication": "INDICATIONS: May temporarily relieve abdominal bloating and soreness, constipation alternating with diarrhea. **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "60c8c744-d18f-4838-9cb2-75eec86c1b14"
+    },
+    {
+      "brand": "Vital Immune Booster",
+      "indication": "INDICATIONS: May help support the body's natural defense mechanisms and may temporarily relieve symptoms such as: \u2022 tendency towards colds or flu \u2022 intermittent joint pain \u2022 minor allergic reactions \u2022 occasional sleeplessness** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Liddell Laboratories, Inc.",
+      "splSetId": "62c67ef6-9d7c-4ae9-beec-3c7ca00fb81d"
+    },
+    {
+      "brand": "Hepata-Chord",
+      "indication": "Uses Temporary relief of skin rash, right-side abdominal discomfort, headache",
+      "manufacturer": "Energetix Corp",
+      "splSetId": "64655edd-9f91-4278-af1e-01a8461daf0f"
+    },
+    {
+      "brand": "Carduus Marianus",
+      "indication": "USE: To be used according to standard homeopathic indications.",
+      "manufacturer": "OHM PHARMA INC.",
+      "splSetId": "66f9b3c3-64e4-4693-b839-6b9a242cc96e"
+    },
+    {
+      "brand": "Hevert Hepar comp.",
+      "indication": "1 Indications and Usage 1.1 Hevert \u00ae Hepar comp. is a homeopathic drug indicated for the treatment of liver and biliary system disorders.",
+      "manufacturer": "Hevert Pharmaceuticals LLC",
+      "splSetId": "6850fd73-f915-49e3-ad16-6e11899246a1"
+    },
+    {
+      "brand": "Carduus Marianus",
+      "indication": "Hemorrhoids*",
+      "manufacturer": "Boiron",
+      "splSetId": "6854569b-e0ec-8487-e053-2991aa0aa4f0"
+    },
+    {
+      "brand": "Liver",
+      "indication": "Uses To help support the structure & function of the liver",
+      "manufacturer": "VIATREXX BIO INCORPORATED",
+      "splSetId": "692849e3-6679-f337-e8d2-2be584767802"
+    },
+    {
+      "brand": "GH Flex",
+      "indication": "USES: Provides scientifically proven support for temporary relief from many issues experienced by those who want to increase muscle mass and enhance recuperation. Benefits may include: - Decreased Bodyfat - More Energy - Increased Muscle Tone - Better Sleep - Improved Strength - Improved Circulation - Enhanced Sex Drive & Performance - Improved Skin Texture, Tone & Elasticity",
+      "manufacturer": "Safe Anabolic Sciences",
+      "splSetId": "69d679b0-c292-48b8-9306-2f4c798eb5c3"
+    },
+    {
+      "brand": "Natural Fit",
+      "indication": "INDICATIONS: Supports metabolism.",
+      "manufacturer": "Advanced Healthcare Solutions",
+      "splSetId": "6b480f87-18b4-444b-8905-5fb046135688"
+    },
+    {
+      "brand": "Carduus Marianus e fruct. 1% Special Order",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6b630d95-490e-44c6-e053-2991aa0ace75"
+    },
+    {
+      "brand": "GH Flex",
+      "indication": "INDICATIONS: May relieve some of the symptoms of aging or a run-down condition. Benefits may include: \u2022 Decreased Bodyfat \u2022 Increased Muscle Tone \u2022 Improved Strength \u2022 Enhanced Sex Drive & Performance \u2022 Improved Skin Texture, Tone & Elasticity \u2022 More Energy \u2022 Better Sleep",
+      "manufacturer": "Safe Anabolic Sciences",
+      "splSetId": "6cbc6606-af67-443d-bc9d-faae1c59c5ee"
+    },
+    {
+      "brand": "Venoforce II",
+      "indication": "INDICATIONS: For temporary relief of achiness and minor swelling of the lower extremities, aching and soreness in limbs and tired feeling in legs and tenderness, and achiness from distended veins.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "74faacac-c9d1-4c45-a084-02bb52f2108c"
+    },
+    {
+      "brand": "GUNA-BOWEL",
+      "indication": "Take 15 minutes before meals",
+      "manufacturer": "Guna spa",
+      "splSetId": "75465821-a889-4697-b470-e9588a523205"
+    },
+    {
+      "brand": "Detox I",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms related to digestive issues, such as bloating, gas, occasional diarrhea, occasional constipation, fatigue, and stomach upset.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "759c7688-0104-41fe-be1e-4809c9be8686"
+    },
+    {
+      "brand": "Carduus Mar",
+      "indication": "INDICATIONS Indications: CARDUUS MAR Nausea",
+      "manufacturer": "Washington Homeopathic Products",
+      "splSetId": "789e3926-2341-4377-840b-b57ddd142445"
+    },
+    {
+      "brand": "Gallbladder Liver Meridian Opener",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of abnormal menses, headaches, leg pain, bloating, vomiting, diarrhea and abdominal pain, shoulder pain, blurred vision, nasal obstruction, nasal obstruction.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "79ad3d81-726a-491b-a213-9977afed0b0a"
+    },
+    {
+      "brand": "Carduus Oxalis Special Order",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "7ce58dbb-8d17-47d9-821d-2f30dd969759"
+    },
+    {
+      "brand": "EUBIOFLOR",
+      "indication": "Take 15 minutes before meals",
+      "manufacturer": "Guna spa",
+      "splSetId": "7dacc28a-2185-4566-8e83-c7a70338797f"
+    },
+    {
+      "brand": "Quercus Borago",
+      "indication": "Directions: FOR TOPICAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "8243228b-89ec-2b53-e053-2a91aa0a0f38"
+    },
+    {
+      "brand": "Lycopodium Berberis",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "8312ff6b-4d20-41d4-b736-b50c081c64b6"
+    },
+    {
+      "brand": "Carduus marianus",
+      "indication": "Hemorrhoids*",
+      "manufacturer": "Boiron",
+      "splSetId": "84a10bf8-ff0f-7108-e053-2a91aa0a9ebb"
+    },
+    {
+      "brand": "Carduus marianus",
+      "indication": "Hemorrhoids*",
+      "manufacturer": "Boiron",
+      "splSetId": "84a15b6d-dae3-4db9-e053-2991aa0adce2"
+    },
+    {
+      "brand": "Enviroclenz",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to toxicity caused by environmental substances including neck pain, hives, constipation, cough, and headache.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "84dfcda8-1bfa-4a92-b53f-bc6b63f16a64"
+    },
+    {
+      "brand": "Body Balance",
+      "indication": "INDICATIONS: Our adrenal glands can become exhausted from chronic stress, worry, overwork or poor nutrition. Temporarily relieves signs of adrenal exhaustion, including: \u00b0 dizziness fatigue & weakness \u00b0 mental stress \u00b0 loss of our sense of well being \u00b0 natural \u00b0 gluten & lactose free \u00b0 no artificial flavors or colors \u00b0 no known negative side effects \u00b0 no known negative drug interactions",
+      "manufacturer": "Eight and Company L.L.C",
+      "splSetId": "876cc0cf-c7a7-4656-adf9-1eff9bb62687"
+    },
+    {
+      "brand": "Liver Drainage",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms related to the cleansing and detoxifying of the liver, such as poor digestion, irregularity and low energy levels.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "877aa3c4-34d3-4384-bcf5-5cd6f498ee37"
+    },
+    {
+      "brand": "Vac-Chord",
+      "indication": "Uses Temporary relief of agitation, fever, muscle pain.",
+      "manufacturer": "Energetix Corporation",
+      "splSetId": "880ea1e6-8d4d-486e-9a8f-9d3158a99667"
+    },
+    {
+      "brand": "Basic Detox Core Formula",
+      "indication": "INDICATIONS: Temporary relief of symptoms related to improper breakdown and excretion of allergenic substances, including gastrointestinal, skin rashes, bowel disturbance and muscle cramping.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "8a35487d-8cc9-4eb2-998e-5931f6fdcaa8"
+    },
+    {
+      "brand": "Air Pollution Detox",
+      "indication": "USES: Detoxifies the lungs from inhaled indoor and outdoor pollutants and temporarily relieves associated symptoms: Shortness of breath Wheezing Coughing Lack of energy** **The statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Liddell Laboratoriess, Inc.",
+      "splSetId": "8da754ca-bd30-476d-9345-7bdc1db8ab63"
+    },
+    {
+      "brand": "Hypericum Bryophyllum",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "8f738913-2de0-4daf-80dd-f4e6c8b058e3"
+    },
+    {
+      "brand": "Varicose Veins",
+      "indication": "INDICATIONS & USAGE SECTION Formulated for associated symptoms such as enlarged veins, swelling, discoloration, pain, stinging and heaviness in the extremities.",
+      "manufacturer": "Newton Laboratories, Inc.",
+      "splSetId": "91e8e37c-c654-6df9-e053-2995a90aafe1"
+    },
+    {
+      "brand": "Enviroclenz",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to toxicity caused by environmental substances including neck pain, hives, occasional constipation, cough, and headache.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "92816bbe-96d6-45fc-9929-d3e6df394a33"
+    },
+    {
+      "brand": "Detoxifier",
+      "indication": "INDICATIONS & USAGE SECTION Formulated for symptoms associated with toxicity such as fatigue, headaches and sluggish elimination.",
+      "manufacturer": "Newton Laboratories, Inc.",
+      "splSetId": "92ad49e0-2cfe-7d51-e053-2995a90a16f5"
+    },
+    {
+      "brand": "Artalgia",
+      "indication": "INDICATIONS AND USAGE: For temporary relief of numbness, tingling, discoloration, coldness, and burning of the lower extremities.",
+      "manufacturer": "Todd Horton DPM",
+      "splSetId": "9404b908-5b1c-44b0-a9ff-35f3768b8ed7"
+    },
+    {
+      "brand": "Brain Energy",
+      "indication": "USES: For temporary relief of some symptoms of mental fatigue, including: *lapses in ability to remember facts, names, people, words, etc. *feelings of confusion or difficulty in collecting one's thoughts.",
+      "manufacturer": "Liddell Laboratories",
+      "splSetId": "942f47b0-cd70-438e-badc-704e77a947e0"
+    },
+    {
+      "brand": "Wood",
+      "indication": "\u200bINDICATIONS FOR USE: \u200bFor temporary relief of the neuro-emotional (autonomic nervous system - non phychiatric) disorders of anger, resentment and related emotions. Temporary relief of headache symptoms. Billousness, eye - minor eye irritation, tears, muscle, neck, weak spine and lower extremity disorders.**",
+      "manufacturer": "NET Remedies",
+      "splSetId": "95b44ad8-8091-420c-bf18-6e071bd6073b"
+    },
+    {
+      "brand": "Advance Plus",
+      "indication": "INDICATIONS: Formulated for liver, kidney and colon functions and for symptoms associated with toxic conditions.* *These statements have not been evaluated by the Food and Drug Administration. This product is not intended to diagnose, treat, cure, or prevent any disease.",
+      "manufacturer": "VitaminMed, LLC",
+      "splSetId": "97824fb3-e2b4-4807-943b-88e26b211bf1"
+    },
+    {
+      "brand": "Hepataplex",
+      "indication": "INDICATIONS: For temporary relief of abdominal bloating and soreness, constipation alternating with diarrhea.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "98f62400-190d-4f7f-aedc-c7e28d98a21a"
+    },
+    {
+      "brand": "Varicose Veins",
+      "indication": "INDICATIONS & USAGE SECTION Formulated for symptoms such as swelling, discoloration, aching and heaviness in legs.",
+      "manufacturer": "Newton Laboratories, Inc.",
+      "splSetId": "999b04b4-ffee-3532-e053-2a95a90a0662"
+    },
+    {
+      "brand": "Vital Brain Energy",
+      "indication": "INDICTATIONS: May temporarily relieve some symptoms of mental fatigue, including: \u2022 lapses in ability to remember facts, names, people, words, etc. \u2022 feelings of confusion or difficulty in collecting one's thoughts** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Liddell Laboratories, Inc.",
+      "splSetId": "99b97c11-fde8-4c8c-8cb5-d8cfb9c576d6"
+    },
+    {
+      "brand": "Heavy Metal-Amalga Detox",
+      "indication": "INDICATIONS & USAGE SECTION Formulated for associated symptoms such as fatigue, headaches, oversensitivity and sluggish elimination.",
+      "manufacturer": "Newton Laboratories, Inc.",
+      "splSetId": "99d7d83b-85f8-a4bf-e053-2995a90a703f"
+    },
+    {
+      "brand": "Drainer",
+      "indication": "INDICATIONS & USAGE SECTION Formulated for symptoms associated with toxicity such as fatigue, headaches and sluggish elimination..",
+      "manufacturer": "Newton Laboratories, Inc.",
+      "splSetId": "99ff92f5-91bc-120b-e053-2995a90a8d8a"
+    },
+    {
+      "brand": "Drainer",
+      "indication": "INDICATIONS & USAGE SECTION Formulated for symptoms associated with toxicity such as fatigue, headaches and sluggish elimination..",
+      "manufacturer": "Newton Laboratories, Inc.",
+      "splSetId": "9a008b9f-5db5-fac0-e053-2995a90a17c6"
+    },
+    {
+      "brand": "Connec-T",
+      "indication": "INDICATIONS & USAGE SECTION Formulated for symptoms such as muscle pain, nerve pain, inflammation, joint pain and dry, shriveled skin.",
+      "manufacturer": "Newton Laboratories, Inc.",
+      "splSetId": "9a630923-1497-1fc8-e053-2995a90ad001"
+    },
+    {
+      "brand": "Lymphatic Drainer",
+      "indication": "INDICATIONS & USAGE SECTION Formulated for symptoms such as swollen glands and sluggish elimination.",
+      "manufacturer": "Newton Laboratories, Inc.",
+      "splSetId": "9a633bfa-188c-dd42-e053-2995a90ad3aa"
+    },
+    {
+      "brand": "I-Waker",
+      "indication": "INDICATIONS & USAGE SECTION Formulated for symptoms such as hypersensitivity, debility, glandular swellings, infections and inflammation.",
+      "manufacturer": "Newton Laboratories, Inc.",
+      "splSetId": "9aa07f0c-a2ac-2178-e053-2a95a90aa5d8"
+    },
+    {
+      "brand": "Immune Booster",
+      "indication": "\u200bUSES: \u200bSupports the body's natural defense mechanisms, temporarily relieves: tendency towards flu & cold; joint pain; minor allergy. Helps balance the body's level of Human Growth Hormone, supporting healthy immune response. Stimulates the endocrine glands* *Claims based on traditional homeopathic practice, not accepted by medical evidence. Not FDA evaluated.",
+      "manufacturer": "Sunway Biotech LLC",
+      "splSetId": "9ae14a66-9f6b-4ca8-b335-f6f75ddb8d93"
+    },
+    {
+      "brand": "Detoxifier",
+      "indication": "INDICATIONS & USAGE SECTION Formulated for symptoms associated with toxicity such as fatigue, headaches and sluggish elimination.",
+      "manufacturer": "Newton Laboratories, Inc.",
+      "splSetId": "9af2f55c-f5b5-6fe9-e053-2a95a90ace0c"
+    },
+    {
+      "brand": "Alcohol Safeguard",
+      "indication": "INDICATIONS: May temporarily relieve alcohol cravings and symptoms of alcohol withdrawal: tremors, weakness, pains and hyperreflexia.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Liddell Laboratories, Inc.",
+      "splSetId": "9b9c81fe-e345-40b3-be52-296af9cde246"
+    },
+    {
+      "brand": "Detoxifier",
+      "indication": "INDICATIONS & USAGE SECTION Formulated for symptoms associated with toxicity such as hypersensitivity, sluggish elimination and other related symptoms.",
+      "manufacturer": "Newton Laboratories, Inc.",
+      "splSetId": "9d720ba6-294f-4c9b-e053-2a95a90ac2d9"
+    },
+    {
+      "brand": "Detoxifier",
+      "indication": "INDICATIONS & USAGE SECTION Formulated for symptoms associated with toxicity such as hypersensitivity, sluggish elimination and other related symptoms.",
+      "manufacturer": "Newton Laboratories, Inc.",
+      "splSetId": "9d72d9ec-c7c3-7b45-e053-2a95a90afe96"
+    },
+    {
+      "brand": "Stomach Spleen Meridian Opener",
+      "indication": "INDICATIONS: For temporary relief of vomiting, stomach pain, loss of appetite, abdominal bloating, loose stools, and fluid retention.",
+      "manufacturer": "Desert Biologicals, Inc.",
+      "splSetId": "9d947e47-5b49-4ee0-a14f-b6094d5fa59e"
+    },
+    {
+      "brand": "Carduus Viscum Special Order",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "9dcd270a-c25b-4974-921f-1dd297f4be90"
+    },
+    {
+      "brand": "HGH Complex",
+      "indication": "INDICATIONS: May relieve some of the symptoms of aging or a run-down condition. Benefits may include: \u2022decreased body fat \u2022increased muscle tone \u2022improved skin texture, tone & elasticity \u2022enhanced sex drive and performance \u2022improved strength \u2022more energy \u2022better sleep",
+      "manufacturer": "Maximum Results Solution, Inc.",
+      "splSetId": "9ecf4c0a-d43c-4928-8e5c-ee21011e15d0"
+    },
+    {
+      "brand": "Anagallis Taraxacum",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "9f4e4d86-0b71-4f38-9512-7848e100a357"
+    }
+  ],
+  "id": "Milk_Thistle",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A substance derived from any of several Old World coarse prickly-leaved shrubs and subshrubs including the plant Silybum marianum.  Milk thistle's active chemical component is silymarin, which is a combination of flavonoids such as silibinin, dehydrosilibinin, silychristin and silydianin.  These compounds are antioxidants and may alter the membrane structure of the liver cell, thereby blocking the absorption of toxins; they may also stimulate the production of new liver cells. In addition, milk thistle may increase cellular adenosine triphosphate (ATP) levels, exhibiting dose-dependent cardiac myocyte cytoprotection against doxorubicin.  The silibinin component of milk thistle has been shown to inhibit growth factor receptor-mediated mitogenic and cell survival signaling, thereby inhibiting tumor growth.",
+    "fdaUniiCode": "U946SH95EE",
+    "identifier": "C29261",
+    "preferredName": "Milk Thistle",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C106104",
+      "C275"
+    ],
+    "synonyms": [
+      "MILK THISTLE",
+      "Milk Thistle",
+      "milk thistle"
+    ]
+  }
+}

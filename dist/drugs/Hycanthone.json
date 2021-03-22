@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Hycanthone",
+  "nciThesaurus": {
+    "casRegistry": "3105-97-3",
+    "chebiId": "CHEBI:52768",
+    "chemicalFormula": "C20H24N2O2S",
+    "definition": "A thioxanthene derivative of lucanthone with anti-schistosomal activity and potential antineoplastic activity. Hycanthone interferes with parasite nerve function, resulting in parasite paralysis and death.  This agent also intercalates into DNA and inhibits RNA synthesis in vitro.",
+    "fdaUniiCode": "2BXX5EVN2A",
+    "identifier": "C550",
+    "preferredName": "Hycanthone",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C250"
+    ],
+    "synonyms": [
+      "Etrenol",
+      "HYC",
+      "HYCANTHONE",
+      "Hycanthone",
+      "Hycanthone Mesylate",
+      "Hycanthone mesylate"
+    ]
+  }
+}

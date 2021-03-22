@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-gpA33CD3_Monoclonal_Antibody_MGD007",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An anti-glycoprotein A33 (gpA33)/anti-CD3 bispecific humanized monoclonal antibody with potential immunostimulatory and antineoplastic activities. Anti-gpA33/CD3 monoclonal antibody MGD007 possesses two antigen-recognition sites, one for the CD3 complex, a group of T-cell surface glycoproteins that complex with the T-cell receptor (TCR), and one for gpA33, a tumor-associated antigen (TAA) overexpressed on the surface of certain tumor cells. Upon administration of MGD007, this bispecific antibody simultaneously binds to both CD3-expressing T-cells and gpA33-expressing cancer cells, thereby crosslinking cytotoxic T-lymphocytes (CTLs) to gpA33-expressing tumor cells. This may result in CTL-mediated cell lysis of the crosslinked tumor cells. The gpA33 antigen, a member of the immunoglobulin superfamily, is expressed in certain malignancies, including colon and gastrointestinal cancers.",
+    "fdaUniiCode": "OZ8N9U6CEH",
+    "identifier": "C118442",
+    "preferredName": "Anti-gpA33/CD3 Monoclonal Antibody MGD007",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C28227"
+    ],
+    "synonyms": [
+      "Anti-gpA33/CD3 Monoclonal Antibody MGD007",
+      "Humanized gpA33 x CD3 DART (TM) Protein MGD007",
+      "MGD-007",
+      "MGD007"
+    ]
+  }
+}

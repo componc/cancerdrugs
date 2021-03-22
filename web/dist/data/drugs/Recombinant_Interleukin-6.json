@@ -1,0 +1,32 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Recombinant_Interleukin-6",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant therapeutic agent which is chemically identical to or similar to the endogenous cytokine interleukin-6 (IL-6) with antiapoptotic, proinflammatory, antiinflammatory, proproliferative and proangiogenic activities. IL-6 binds to its receptor (IL-6R), activating a receptor-CD130 receptor complex; the CD130 portion of the complex is a signal transduction protein that activates JAK kinases and Ras-mediated signaling pathways, which in turn activate downstream signaling pathways, resulting in the activation of various transcription factors (STAT, ELK-1, NF-IL-6, etc.) and gene transcription. The physiological effects of IL-6 are complex and varied and include hematopoietic, pyrogenic and thermogenic, proinflammatory, antiinflammatory, proproliferative (anti-apoptotic), and angiogenic effects.",
+    "fdaUniiCode": "4O4QWG0B3C",
+    "identifier": "C591",
+    "preferredName": "Recombinant Interleukin-6",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [],
+    "synonyms": [
+      "B Cell Differentiation Factor 2",
+      "B-Cell Stimulatory Factor-2",
+      "HPGF",
+      "HSF",
+      "HUMAN INTERLEUKIN-6",
+      "Hepatocyte Stimulating Factor",
+      "Hybridoma Growth Factor",
+      "IFN Beta 2",
+      "IL-6",
+      "Interleukin-6",
+      "Myeloid Differentiation Inducing Protein",
+      "Plasmacytoma Growth Factor",
+      "Recombinant Interleukin-6",
+      "Sigosix"
+    ]
+  }
+}

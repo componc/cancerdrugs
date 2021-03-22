@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tasisulam_Sodium",
+  "nciThesaurus": {
+    "casRegistry": "519055-63-1",
+    "chebiId": "",
+    "chemicalFormula": "C11H5BrCl2NO3S2.Na",
+    "definition": "The sodium salt of an acyl-sulfonamide with potential antineoplastic activity. Selectively toxic towards tumor cells, tasisulam appears to induce tumor cell apoptosis by a mitochondrial-targeted mechanism involving the loss of mitochondrial membrane potential and induction of reactive oxygen species (ROS). In combination with an angiogenesis inhibitor, this agent may exhibit synergistic antiangiogenic activity.",
+    "fdaUniiCode": "O3955SHR9J",
+    "identifier": "C88304",
+    "preferredName": "Tasisulam Sodium",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C177298"
+    ],
+    "synonyms": [
+      "Benzamide, N-[(5-Bromo-2-thienyl)sulfonyl]-2,4-dichloro-, Sodium Salt",
+      "LY-573636.Na",
+      "LY573636-Sodium",
+      "TASISULAM SODIUM",
+      "Tasisulam Sodium"
+    ]
+  }
+}

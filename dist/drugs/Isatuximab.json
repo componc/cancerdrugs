@@ -1,0 +1,45 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "Isatuximab",
+      "conditionIndication": "Sarclisa is indicated, in combination with pomalidomide and dexamethasone, for the treatment of adult patients with relapsed and refractory multiple myeloma (MM) who have received at least two prior therapies including lenalidomide and a proteasome inhibitor (PI) and have demonstrated disease progression on the last therapy.",
+      "inn": "isatuximab",
+      "marketingAuthorisationDate": "2020-05-30 00:00:00",
+      "marketingAuthorisationHolder": "sanofi-aventis groupe\u00a0",
+      "medicineName": "Sarclisa",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sarclisa"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Sarclisa",
+      "indication": "1 INDICATIONS AND USAGE SARCLISA is indicated, in combination with pomalidomide and dexamethasone, for the treatment of adult patients with multiple myeloma who have received at least two prior therapies including lenalidomide and a proteasome inhibitor. SARCLISA is a CD38-directed cytolytic antibody indicated, in combination with pomalidomide and dexamethasone, for the treatment of adult patients with multiple myeloma who have received at least two prior therapies including lenalidomide and a proteasome inhibitor. ( 1 )",
+      "manufacturer": "sanof-aventis U.S. LLC",
+      "splSetId": "a0473462-6f9d-4eca-a5bf-8620aea68e8a"
+    }
+  ],
+  "id": "Isatuximab",
+  "nciThesaurus": {
+    "casRegistry": "1461640-62-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized IgG1 monoclonal antibody directed against the cell surface glycoprotein CD-38 with potential antineoplastic activity. Isatuximab specifically binds to CD38 on CD38-positive tumor cells. This may trigger antitumoral antibody-dependent cellular cytotoxicity (ADCC), complement-dependent cytotoxicity (CDC) and apoptosis eventually leading to cell lysis in CD38-expressing tumor cells. CD38, a type II transmembrane glycoprotein, is present on various immune cells and hematologic malignancies, and its expression has been correlated with poor prognosis.",
+    "fdaUniiCode": "R30772KCU0",
+    "identifier": "C90578",
+    "preferredName": "Isatuximab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C155321"
+    ],
+    "synonyms": [
+      "Hu 38SB19",
+      "ISATUXIMAB",
+      "Immunoglobulin G1, Anti-(Human CD38 Antigen) (Human-mus musculus Monoclonal HU38SB19 Heavy Chain), Disulfide with Human-mus musculus Monoclonal HU38SB19 Light Chain, Dimer",
+      "Isatuximab",
+      "Isatuximab-irfc",
+      "SAR 650984",
+      "SAR650984",
+      "Sarclisa"
+    ]
+  }
+}

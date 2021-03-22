@@ -1,0 +1,21 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "KRN5500",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A semisynthetic derivative of the nucleoside-like antineoplastic antibiotic spicamycin, originally isolated from the bacterium Streptomyces alanosinicus.  KRN 5500 inhibits protein synthesis by interfering with endoplasmic reticulum and Golgi apparatus functions.  This agent also induces cell differentiation and caspase-dependent apoptosis.",
+    "fdaUniiCode": "8VH13L5K20",
+    "identifier": "C1614",
+    "preferredName": "KRN5500",
+    "semanticType": "Antibiotic",
+    "subclassOf": [],
+    "synonyms": [
+      "6-[4-Deoxy-4-[(2E,4E)-tetradecadienoylglycyl]amino-L-glycero-beta-L-mannohepto-pyranosyl]amino-9H-purine",
+      "KRN-5500",
+      "KRN5500"
+    ]
+  }
+}

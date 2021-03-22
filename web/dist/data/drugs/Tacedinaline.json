@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tacedinaline",
+  "nciThesaurus": {
+    "casRegistry": "112522-64-2",
+    "chebiId": "",
+    "chemicalFormula": "C15H15N3O2",
+    "definition": "An orally bioavailable substituted benzamide derivative with potential antineoplastic activity. Tacedinaline inhibits histone deacetylation, which may result in histone hyperacetylation, followed by the induction of differentiation, the inhibition of cell proliferation, and apoptosis in susceptible tumor cell populations.",
+    "fdaUniiCode": "UMF554N5FG",
+    "identifier": "C2202",
+    "preferredName": "Tacedinaline",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1946"
+    ],
+    "synonyms": [
+      "4-(Acetylamino)-N-(2-aminophenyl)benzamide",
+      "Acetyldinaline",
+      "CI-994",
+      "GOE5549",
+      "N-acetyl Dinaline",
+      "N-acetyldinaline",
+      "PD 123654",
+      "TACEDINALINE",
+      "Tacedinaline"
+    ]
+  }
+}

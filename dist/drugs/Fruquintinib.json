@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Fruquintinib",
+  "nciThesaurus": {
+    "casRegistry": "1194506-26-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available, small molecule inhibitor of vascular endothelial growth factor receptors (VEGFRs), with potential anti-angiogenic and antineoplastic activities. Upon oral administration, fruquintinib inhibits VEGF-induced phosphorylation of VEGFRs 1, 2, and 3 which may result in the inhibition of migration, proliferation and survival of endothelial cells, microvessel formation, the inhibition of tumor cell proliferation, and tumor cell death. Expression of VEGFRs may be upregulated in a variety of tumor cell types.",
+    "fdaUniiCode": "49DXG3M5ZW",
+    "identifier": "C102852",
+    "preferredName": "Fruquintinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C93259"
+    ],
+    "synonyms": [
+      "6-(6,7-Dimethoxyquinazolin-4-yl)oxy-N,2-dimethyl-1-benzofuran-3-carboxamide",
+      "Elunate",
+      "FRUQUINTINIB",
+      "Fruquintinib",
+      "HMPL-013",
+      "VEGFR-1/2/3 Inhibitor HMPL-013"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Cixutumumab",
+  "nciThesaurus": {
+    "casRegistry": "947687-12-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fully human IgG1 monoclonal antibody directed against the human insulin-like growth factor-1 receptor (IGF-1R) with potential antineoplastic activity. Cixutumumab selectively binds to membrane-bound IGF-1R, thereby preventing the binding of the natural ligand IGF-1 and the subsequent activation of PI3K/AKT signaling pathway. Downregulation of the PI3K/AKT survival pathway may result in the induction of cancer cell apoptosis and may decrease cancer cellular proliferation. IGF-1R, a receptor tyrosine kinase of the insulin receptor superfamily overexpressed by many cancer cell types, stimulates cell proliferation, enables oncogenic transformation, and suppresses apoptosis; IGF-1R signaling has been implicated in tumorigenesis and metastasis.",
+    "fdaUniiCode": "2285XW22DR",
+    "identifier": "C79828",
+    "preferredName": "Cixutumumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-IGF-1R Recombinant Monoclonal Antibody IMC-A12",
+      "CIXUTUMUMAB",
+      "Cixutumumab",
+      "IMC-A12",
+      "cixutumumab"
+    ]
+  }
+}

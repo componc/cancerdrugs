@@ -1,0 +1,43 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "vismodegib",
+      "conditionIndication": "Erivedge is indicated for the treatment of adult patients with:- symptomatic metastatic basal cell carcinoma- locally advanced basal cell carcinoma inappropriate for surgery or radiotherapy",
+      "inn": "vismodegib",
+      "marketingAuthorisationDate": "2013-07-12 00:00:00",
+      "marketingAuthorisationHolder": "Roche Registration GmbH",
+      "medicineName": "Erivedge",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/erivedge"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "ERIVEDGE",
+      "indication": "1 INDICATIONS AND USAGE ERIVEDGE is indicated for the treatment of adults with metastatic basal cell carcinoma, or with locally advanced basal cell carcinoma that has recurred following surgery or who are not candidates for surgery and who are not candidates for radiation. ERIVEDGE \u00ae (vismodegib) is a hedgehog pathway inhibitor indicated for the treatment of adults with metastatic basal cell carcinoma, or with locally advanced basal cell carcinoma that has recurred following surgery or who are not candidates for surgery and who are not candidates for radiation. ( 1 )",
+      "manufacturer": "Genentech, Inc.",
+      "splSetId": "eb368bb6-80e3-4df9-8a85-91df0a2ada6a"
+    }
+  ],
+  "id": "Vismodegib",
+  "nciThesaurus": {
+    "casRegistry": "879085-55-9",
+    "chebiId": "",
+    "chemicalFormula": "C19H14Cl2N2O3S",
+    "definition": "An orally bioavailable small molecule with potential antineoplastic activity. Hedgehog antagonist GDC-0449 targets the Hedgehog signaling pathway, blocking the activities of the Hedgehog-ligand cell surface receptors PTCH and/or SMO and suppressing Hedgehog signaling. The Hedgehog signaling pathway plays an important role in tissue growth and repair; aberrant constitutive activation of Hedgehog pathway signaling and uncontrolled cellular proliferation may be associated with mutations in the Hedgehog-ligand cell surface receptors PTCH and SMO.",
+    "fdaUniiCode": "25X868M3DS",
+    "identifier": "C74038",
+    "preferredName": "Vismodegib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2189"
+    ],
+    "synonyms": [
+      "2-chloro-N-[4-chloro-3-(pyridin-2-yl)phenyl]-4-(methylsulfonyl)benzamide",
+      "Erivedge",
+      "GDC-0449",
+      "Hedgehog Antagonist GDC-0449",
+      "VISMODEGIB",
+      "Vismodegib"
+    ]
+  }
+}

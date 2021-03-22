@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Retaspimycin_Hydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "857402-63-2",
+    "chebiId": "",
+    "chemicalFormula": "C31H45N3O8.HCl",
+    "definition": "The hydrochloride salt of a small-molecule inhibitor of heat shock protein 90 (HSP90) with antiproliferative and antineoplastic activities. Retaspimycin binds to and inhibits the cytosolic chaperone functions of HSP90, which maintains the stability and functional shape of many oncogenic signaling proteins and may be overexpressed or overactive in tumor cells. Retaspimycin-mediated inhibition of HSP90 promotes the proteasomal degradation of oncogenic signaling proteins in susceptible tumor cell populations, which may result in the induction of apoptosis.",
+    "fdaUniiCode": "928Q33Q049",
+    "identifier": "C48401",
+    "preferredName": "Retaspimycin Hydrochloride",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2516"
+    ],
+    "synonyms": [
+      "17-Allylamino-17-demethoxygeldanamycin hydroquinone hydrochloride",
+      "Geldanamycin, 18,21-didehydro-17-demethoxy-18,21-dideoxo-18,21-dihydroxy-17-(2-propenylamino)-, monohydrochloride",
+      "IPI-504",
+      "RETASPIMYCIN HYDROCHLORIDE",
+      "Retaspimycin Hydrochloride"
+    ]
+  }
+}

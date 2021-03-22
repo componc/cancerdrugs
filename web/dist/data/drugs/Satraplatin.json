@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Satraplatin",
+  "nciThesaurus": {
+    "casRegistry": "129580-63-8",
+    "chebiId": "",
+    "chemicalFormula": "C6H13N.2C2H3O2.2Cl.Pt.H3N",
+    "definition": "An orally administered third generation platinum compound with potential antineoplastic activity. Satraplatin forms highly reactive, charged, platinum complexes which bind to nucleophilic groups in DNA, inducing intrastrand and interstrand DNA cross-links, as well as DNA-protein cross-links. These cross-links result in cell growth inhibition and apoptosis.",
+    "fdaUniiCode": "8D7B37T28G",
+    "identifier": "C1493",
+    "preferredName": "Satraplatin",
+    "semanticType": "Inorganic Chemical",
+    "subclassOf": [
+      "C1450"
+    ],
+    "synonyms": [
+      "(OC-6-43)-bis(acetato)amminedichloro(cyclohexylamine)platinum",
+      "(OC-6-43)-bis(acetato-O)amminedichloro(cyclohexanamine)platinum",
+      "BMS-182751",
+      "BMY-45594",
+      "JM 216",
+      "JM-216",
+      "Orplatna",
+      "SATRAPLATIN",
+      "Satraplatin",
+      "platinum,bis(acetato-O)amminedichloro(cyclohexanamine)-,(OC-6-43)",
+      "satraplatin"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Subasumstat",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A small molecule inhibitor of sumoylation, with potential immune-activating and antineoplastic activities. Upon intravenous administration, subasumstat targets and covalently binds to the small ubiquitin-like modifier (SUMO; small ubiquitin-related modifier) protein, forming an adduct with SUMO protein (subasumstat-SUMO adduct). This prevents the transfer of SUMO from the SUMO-activating enzyme (SAE) to SUMO-conjugating enzyme UBC9. This prevents SUMO conjugation to lysine residues on target proteins and abrogates many sumoylated protein-mediated cellular processes that play key roles in tumor cells, including proliferation, DNA repair, metastasis and survival. In addition, by preventing sumoylation, subasumstat is able to increase the production of type 1 interferon (IFN), thereby increasing type 1 IFN-mediated signaling, activating innate effector cells and enhancing the antitumor innate immune responses. This may further increase tumor cell killing. Sumoylation, a post-translational modification that attaches the SUMO protein to target proteins, plays a key role in regulating their activity, function, subcellular localization and stability.  Sumoylation also plays a key role in inhibiting innate immune responses, specifically by inhibiting the pattern recognition receptor (PRR) pathway and preventing type 1 IFN expression. Abnormal sumoylation of target proteins is associated with many cancers.",
+    "fdaUniiCode": "XQ43H3V6M1",
+    "identifier": "C156270",
+    "preferredName": "Subasumstat",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129820"
+    ],
+    "synonyms": [
+      "SUBASUMSTAT",
+      "Subasumstat",
+      "TAK 981",
+      "TAK-981",
+      "TAK981"
+    ]
+  }
+}

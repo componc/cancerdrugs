@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-OX40_Antibody_BMS_986178",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An agonistic monoclonal antibody against the co-stimulatory receptor OX40 (CD134; TNFRSF4), with potential immunostimulatory activity. Upon administration, anti-OX40 monoclonal antibody BMS 986178 selectively binds to and activates the OX40 receptor, by mimicking the action of the endogenous OX40 ligand (OX40L). OX40 receptor activation induces proliferation of memory and effector T-lymphocytes. In the presence of tumor-associated antigens (TAAs), this may promote an immune response against the TAA-expressing tumor cells. OX40, a cell surface glycoprotein and member of the tumor necrosis factor receptor family (TNFRSF), is expressed on T-lymphocytes and provides a co-stimulatory signal for the proliferation and survival of activated T-cells.",
+    "fdaUniiCode": "P9XVH8H2HF",
+    "identifier": "C128026",
+    "preferredName": "Anti-OX40 Antibody BMS 986178",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C96040"
+    ],
+    "synonyms": [
+      "Anti-OX40 Antibody BMS 986178",
+      "BMS 986178",
+      "BMS-986178"
+    ]
+  }
+}

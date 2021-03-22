@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Beauvericin",
+  "nciThesaurus": {
+    "casRegistry": "26048-05-5",
+    "chebiId": "CHEBI:3000",
+    "chemicalFormula": "",
+    "definition": "A cyclic hexadepsipeptide antibiotic and mycotoxin isolated from the fungus Beauveria bassiana and various Fusarium fungal species.  As a potassium-specific ionophore, beauvericin A increases intracellular calcium concentrations and triggers DNA fragmentation and apoptosis through a calcium dependent caspase 3-sensitive pathway.  This agent has been studied as a potential antineoplastic agent.",
+    "fdaUniiCode": "26S048LS2R",
+    "identifier": "C1011",
+    "preferredName": "Beauvericin",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1976"
+    ],
+    "synonyms": [
+      "BEAUVERICIN",
+      "Beauvericin"
+    ]
+  }
+}

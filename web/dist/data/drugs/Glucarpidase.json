@@ -1,0 +1,35 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Voraxaze",
+      "indication": "1 INDICATIONS AND USAGE VORAXAZE is indicated to reduce toxic plasma methotrexate concentration (greater than 1 micromole per liter) in adult and pediatric patients with delayed methotrexate clearance (plasma methotrexate concentrations greater than 2 standard deviations of the mean methotrexate excretion curve specific for the dose of methotrexate administered) due to impaired renal function. Limitations of Use: VORAXAZE is not recommended for use in patients who exhibit the expected clearance and expected plasma methotrexate concentration. Reducing plasma methotrexate concentration in these patients may result in subtherapeutic exposure to methotrexate [see Clinical Studies ( 14 )] . VORAXAZE is a carboxypeptidase indicated to reduce toxic plasma methotrexate concentration (greater than 1 micromole per liter) in adult and pediatric patients with delayed methotrexate clearance (plasma methotrexate concentrations greater than 2 standard deviations of the mean methotrexate excretion curve specific for the dose of methotrexate administered) due to impaired renal function. ( 1 ) Limitations of Use: VORAXAZE is not recommended for use in patients who exhibit the expected clearance and expected plasma methotrexate concentration. Reducing plasma methotrexate concentration in these patients may result in subtherapeutic exposure to methotrexate. ( 1 )",
+      "manufacturer": "BTG International Inc.",
+      "splSetId": "acaef5a6-b740-40e3-8ffe-74a75c74745c"
+    }
+  ],
+  "id": "Glucarpidase",
+  "nciThesaurus": {
+    "casRegistry": "9074-87-7",
+    "chebiId": "",
+    "chemicalFormula": "C20H20O4",
+    "definition": "A zinc-dependent enzyme isolated from a strain of the bacterium Pseudomonas. Because glucarpidase rapidly hydrolyzes methotrexate into inactive metabolites, it may be useful as a rescue agent for methotrexate-induced nephrotoxicity. In antibody-directed enzyme prodrug therapy (ADEPT), this agent is conjugated with an antibody that binds to a specific tumor cell type, allowing for glucarpidase-catalyzed activation of a co-administered prodrug at the site of the tumor.",
+    "fdaUniiCode": "2GFP9BJD79",
+    "identifier": "C346",
+    "preferredName": "Glucarpidase",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [],
+    "synonyms": [
+      "Acetylaspartylglutamate Dipeptidase",
+      "CPDG2",
+      "CPG2",
+      "Carboxypeptidase G2",
+      "GLUCARPIDASE",
+      "Glucarpidase",
+      "Poly(gamma-glutamic Acid) Endohydrolase",
+      "Pteroylpolygammaglutamyl Hydrolase",
+      "Voraxaze",
+      "carboxypeptidase-G2"
+    ]
+  }
+}

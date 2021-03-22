@@ -1,0 +1,35 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "bazedoxifene",
+      "conditionIndication": "Conbriza is indicated for the treatment of postmenopausal osteoporosis in women at increased risk of fracture. A significant reduction in the incidence of vertebral fractures has been demonstrated; efficacy on hip fractures has not been established.When determining the choice of Conbriza or other therapies, including oestrogens, for an individual postmenopausal woman, consideration should be given to menopausal symptoms, effects on uterine and breast tissues, and cardiovascular risks and benefits.",
+      "inn": "bazedoxifene",
+      "marketingAuthorisationDate": "2009-04-17 00:00:00",
+      "marketingAuthorisationHolder": "Pfizer Europe MA EEIG",
+      "medicineName": "Conbriza",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/conbriza"
+    }
+  ],
+  "fdaDrugLabel": [],
+  "id": "Bazedoxifene",
+  "nciThesaurus": {
+    "casRegistry": "198481-32-2",
+    "chebiId": "",
+    "chemicalFormula": "C30H34N2O3",
+    "definition": "An indole derivative and third-generation selective estrogen receptor modulator (SERM) with potential antineoplastic activity. Upon administration, bazedoxifene specifically binds to estrogen receptors in responsive tissues, including liver, bone, breast, and endometrium. The resulting ligand-receptor complex is translocated to the nucleus where, depending on the tissue type, it either promotes or suppresses the transcription of estrogen-regulated genes. Bazedoxifene acts as an estrogen antagonist in uterine and breast tissue, thereby blocking the proliferative effects of estrogen-binding to ER-positive cells in these tissues. Bazedoxifene functions as an estrogen agonist in lipid metabolism, thereby decreasing total and LDL cholesterol levels. In bone, it decreases bone resorption and bone turnover and increases bone mineral density.",
+    "fdaUniiCode": "Q16TT9C5BK",
+    "identifier": "C73598",
+    "preferredName": "Bazedoxifene",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1821"
+    ],
+    "synonyms": [
+      "1H-Indol-5-ol, 1-((4-(2-(hexahydro-1H-azepin-1-yl)ethoxy)phenyl)methyl)-2-(4-hydroxyphenyl)-3-methyl-",
+      "BAZEDOXIFENE",
+      "Bazedoxifene",
+      "TSE-424",
+      "WAY 140424"
+    ]
+  }
+}

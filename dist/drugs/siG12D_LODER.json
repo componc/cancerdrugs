@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "siG12D_LODER",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A proprietary, miniature biodegradable polymeric matrix containing small-interfering RNAs for the mutated KRAS oncogene, KRASG12D, (siG12D), with potential antitumor activity. Upon intratumoral injection, this siG12D is released locally, thereby preventing translation of KRAS proteins and potentially inhibiting growth of tumor cells overexpressing KRAS. KRAS, a member of the small GTPase superfamily, is mutated in over 90% of human pancreatic ductal adenocarcinomas (PDAC) and is associated with tumor cell proliferation and reduced survival.",
+    "fdaUniiCode": "NNQ0PKZ9EV",
+    "identifier": "C95772",
+    "preferredName": "siG12D LODER",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129821"
+    ],
+    "synonyms": [
+      "SIG12D LODER",
+      "siG12D LODER"
+    ]
+  }
+}

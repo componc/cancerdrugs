@@ -1,0 +1,45 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "avapritinib",
+      "conditionIndication": "Ayvakyt\u00a0is indicated as monotherapy for the treatment of adult patients with unresectable or metastatic gastrointestinal stromal tumours (GIST) harbouring the platelet-derived growth factor receptor alpha (PDGFRA) D842V mutation.",
+      "inn": "avapritinib",
+      "marketingAuthorisationDate": "2020-09-24 00:00:00",
+      "marketingAuthorisationHolder": "Blueprint Medicines (Netherlands) B.V.",
+      "medicineName": "Ayvakyt",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ayvakyt"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Ayvakit",
+      "indication": "1 INDICATIONS AND USAGE AYVAKIT is a kinase inhibitor indicated for the treatment of adults with unresectable or metastatic gastrointestinal stromal tumor (GIST) harboring a platelet-derived growth factor receptor alpha (PDGFRA) exon 18 mutation, including PDGFRA D842V mutations. 1.1 PDGFRA Exon 18 Mutation-Positive Unresectable or Metastatic Gastrointestinal Stromal Tumor (GIST) AYVAKIT is indicated for the treatment of adults with unresectable or metastatic GIST harboring a platelet-derived growth factor receptor alpha (PDGFRA) exon 18 mutation, including PDGFRA D842V mutations [see Dosage and Administration (2.1) ] .",
+      "manufacturer": "Blueprint Medicines Corporation",
+      "splSetId": "645c887c-8cd4-4623-8da9-ac223d71a8b9"
+    }
+  ],
+  "id": "Avapritinib",
+  "nciThesaurus": {
+    "casRegistry": "1703793-34-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable inhibitor of specific mutated forms of platelet-derived growth factor receptor alpha (PDGFR alpha; PDGFRa) and mast/stem cell factor receptor c-Kit (SCFR), with potential antineoplastic activity. Upon oral administration, avapritinib specifically binds to and inhibits specific mutant forms of PDGFRa and c-Kit, including the PDGFRa D842V mutant and various KIT exon 17 mutants. This results in the inhibition of PDGFRa- and c-Kit-mediated signal transduction pathways and the inhibition of proliferation in tumor cells that express these PDGFRa and c-Kit mutants. PDGFRa and c-Kit, protein tyrosine kinases and tumor-associated antigens (TAAs), are mutated in various tumor cell types; they play key roles in the regulation of cellular proliferation.",
+    "fdaUniiCode": "513P80B4YJ",
+    "identifier": "C123827",
+    "preferredName": "Avapritinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C159198",
+      "C159199"
+    ],
+    "synonyms": [
+      "(S)-1-(4-fluorophenyl)-1-(2-(4-(6-(1-methyl-1Hpyrazol-4-yl)pyrrolo[2,1-f][1,2,4]triazin-4-yl)piperazin-yl)pyrimidin-5-yl)ethan-1-amine",
+      "AVAPRITINIB",
+      "AYVAKIT",
+      "Avapritinib",
+      "BLU-285",
+      "CS3007",
+      "PDGFR alpha/KIT Mutant-specific Inhibitor BLU-285"
+    ]
+  }
+}

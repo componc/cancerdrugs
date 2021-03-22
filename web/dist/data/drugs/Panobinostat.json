@@ -1,0 +1,36 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "panobinostat lactate anhydrous",
+      "conditionIndication": "Farydak, in combination with bortezomib and dexamethasone, is indicated for the treatment of adult patients with relapsed and/or refractory multiple myeloma who have received at least two prior regimens including bortezomib and an immunomodulatory agent.",
+      "inn": "panobinostat",
+      "marketingAuthorisationDate": "2015-08-28 00:00:00",
+      "marketingAuthorisationHolder": "Secura Bio Limited",
+      "medicineName": "Farydak",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/farydak"
+    }
+  ],
+  "fdaDrugLabel": [],
+  "id": "Panobinostat",
+  "nciThesaurus": {
+    "casRegistry": "404950-80-7",
+    "chebiId": "",
+    "chemicalFormula": "C21H23N3O2",
+    "definition": "A cinnamic hydroxamic acid analogue with potential antineoplastic activity. Panobinostat selectively inhibits histone deacetylase (HDAC), inducing hyperacetylation of core histone proteins, which may result in modulation of cell cycle protein expression, cell cycle arrest in the G2/M phase and apoptosis. In addition, this agent appears to modulate the expression of angiogenesis-related genes, such as hypoxia-inducible factor-1alpha (HIF-1a) and vascular endothelial growth factor (VEGF), thus impairing endothelial cell chemotaxis and invasion. HDAC is an enzyme that deacetylates chromatin histone proteins.",
+    "fdaUniiCode": "9647FM7Y3Z",
+    "identifier": "C66948",
+    "preferredName": "Panobinostat",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1946"
+    ],
+    "synonyms": [
+      "(2E)-N-hydroxy-3-(4-(((2-(2-methyl-1h-indol-3-yl)ethyl)amino)methyl)phenyl)prop-2-enamide",
+      "Faridak",
+      "LBH589",
+      "PANOBINOSTAT",
+      "Panobinostat",
+      "panobinostat"
+    ]
+  }
+}

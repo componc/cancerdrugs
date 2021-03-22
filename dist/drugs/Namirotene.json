@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Namirotene",
+  "nciThesaurus": {
+    "casRegistry": "101506-83-6",
+    "chebiId": "",
+    "chemicalFormula": "C17H18O2S",
+    "definition": "A synthetic analogue of retinoic acid with differentiation inducing and potential antineoplastic activities. Like other retinoic acid agents, namirotene binds to and activates retinoic acid receptors (RARs), thereby altering the expression of certain genes leading to cell differentiation and decreased cell proliferation in susceptible cells.",
+    "fdaUniiCode": "1FG8FGL0YI",
+    "identifier": "C83981",
+    "preferredName": "Namirotene",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C804"
+    ],
+    "synonyms": [
+      "NAMIROTENE",
+      "Namirotene"
+    ]
+  }
+}

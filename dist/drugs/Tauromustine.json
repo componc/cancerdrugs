@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tauromustine",
+  "nciThesaurus": {
+    "casRegistry": "85977-49-7",
+    "chebiId": "",
+    "chemicalFormula": "C7H15ClN4O4S",
+    "definition": "A water-soluble taurine-based nitrosourea with potential antineoplastic activity. Tauromustine alkylates DNA and causes DNA cross links independent of cell cycle, thereby resulting in disruption of DNA function and induction of apoptosis.",
+    "fdaUniiCode": "511F69K76Y",
+    "identifier": "C954",
+    "preferredName": "Tauromustine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C699"
+    ],
+    "synonyms": [
+      "1-(2-Chloroethyl)-3-(2-(dimethylaminosulfonyl)ethyl)-1-nitrosourea",
+      "LS-2667",
+      "TAUROMUSTINE",
+      "TCNU",
+      "Tauromustine"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Seclidemstat",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available, reversible, noncompetitive inhibitor of lysine-specific demethylase 1 (LSD1, or KDM1A), with potential antineoplastic activity. Upon oral administration, seclidemstat reversibly inhibits LSD1, a demethylase that suppresses the expression of target genes by converting the di- and mono-methylated forms of lysine at position 4 of histone 3 (H3K4) to mono- and unmethylated H3K4, respectively. LSD1 inhibition enhances H3K4 methylation and increases the expression of tumor suppressor genes. This may lead to an inhibition of cell growth in LSD1-overexpressing tumor cells. In addition, LSD1 demethylates mono- or di-methylated H3K9 which increases gene expression of tumor promoting genes; inhibition of LSD1 promotes H3K9 methylation and decreases transcription of these genes.",
+    "fdaUniiCode": "TYH386V3WJ",
+    "identifier": "C154328",
+    "preferredName": "Seclidemstat",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825"
+    ],
+    "synonyms": [
+      "LSD1 Inhibitor SP-2577",
+      "SECLIDEMSTAT",
+      "SP 2577",
+      "SP-2577",
+      "SP2577",
+      "Seclidemstat"
+    ]
+  }
+}

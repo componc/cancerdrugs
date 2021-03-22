@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Aminocamptothecin",
+  "nciThesaurus": {
+    "casRegistry": "86639-63-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A water-insoluble camptothecin derivative.  Aminocamptothecin binds to the nuclear enzyme topoisomerase I, thereby inhibiting repair of single-strand DNA breakages.  Because the terminal lactone ring of aminocamptothecin required for the agent's antitumor activity spontaneously opens under physiological conditions to an inactive carboxy form, the drug must be administered over an extended period of time to achieve effective cytotoxicity.",
+    "fdaUniiCode": "5MB77ICE2Q",
+    "identifier": "C1488",
+    "preferredName": "Aminocamptothecin",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2843"
+    ],
+    "synonyms": [
+      "9-AC",
+      "9-AMINOCAMPTOTHECIN",
+      "9-Amino-20-(S)-camptothecin",
+      "9-amino-20(S)-camptothecin",
+      "9-amino-20-camptothecin",
+      "9-amino-CPT",
+      "9-amino-camptothecin",
+      "9-aminocamptothecin",
+      "Aminocamptothecin",
+      "aminocamptothecin"
+    ]
+  }
+}

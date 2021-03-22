@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tariquidar",
+  "nciThesaurus": {
+    "casRegistry": "206873-63-4",
+    "chebiId": "",
+    "chemicalFormula": "C38H38N4O6",
+    "definition": "An anthranilamide derivative with multidrug resistance properties.  Tariquidar non-competitively binds to the p-glycoprotein transporter, thereby inhibiting transmembrane transport of anticancer drugs.  Inhibition of transmembrane transport may result in increased intracellular concentrations of an anticancer drug, thereby augmenting its cytotoxicity.",
+    "fdaUniiCode": "J58862DTVD",
+    "identifier": "C2246",
+    "preferredName": "Tariquidar",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1744"
+    ],
+    "synonyms": [
+      "TARIQUIDAR",
+      "Tariquidar",
+      "XR9576",
+      "tariquidar"
+    ]
+  }
+}

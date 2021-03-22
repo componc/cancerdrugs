@@ -1,0 +1,32 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Genistein",
+  "nciThesaurus": {
+    "casRegistry": "446-72-0",
+    "chebiId": "CHEBI:28088",
+    "chemicalFormula": "C15H10O5",
+    "definition": "A soy-derived isoflavone and phytoestrogen with antineoplastic activity. Genistein binds to and inhibits protein-tyrosine kinase, thereby disrupting signal transduction and inducing cell differentiation.  This agent also inhibits topoisomerase-II, leading to DNA fragmentation and apoptosis, and induces G2/M cell cycle arrest.  Genistein exhibits antioxidant, antiangiogenic, and immunosuppressive activities.",
+    "fdaUniiCode": "DH2M523P0H",
+    "identifier": "C1113",
+    "preferredName": "Genistein",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1742",
+      "C1821",
+      "C1967",
+      "C599"
+    ],
+    "synonyms": [
+      "4',5, 7-Trihydroxyisoflavone",
+      "4',5,7-Trihydroxyisoflavone",
+      "5,7-Dihydroxy-3-(4-hydroxyphenyl)-4H-1-benzopyran-4-one",
+      "GENISTEIN",
+      "Genestein",
+      "Genistein",
+      "Genisteol",
+      "Prunetol",
+      "genistein"
+    ]
+  }
+}

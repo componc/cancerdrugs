@@ -1,0 +1,34 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "abiraterone acetate",
+      "conditionIndication": "Zytiga is indicated with prednisone or prednisolone for:the treatment of metastatic castration resistant prostate cancer in adult men who are asymptomatic or mildly symptomatic after failure of androgen deprivation therapy in whom chemotherapy is not yet clinically indicatedthe treatment of metastatic castration resistant prostate cancer in adult men whose disease has progressed on or after a docetaxel based chemotherapy regimen.",
+      "inn": "abiraterone",
+      "marketingAuthorisationDate": "2011-09-05 00:00:00",
+      "marketingAuthorisationHolder": "Janssen-Cilag International N.V.",
+      "medicineName": "Zytiga",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zytiga"
+    }
+  ],
+  "fdaDrugLabel": [],
+  "id": "Abiraterone",
+  "nciThesaurus": {
+    "casRegistry": "154229-19-3",
+    "chebiId": "",
+    "chemicalFormula": "C24H31NO",
+    "definition": "A steroidal compound with antiandrogen activity. Abiraterone inhibits the enzymatic activity of steroid 17alpha-monooxygenase (17alpha-hydrolase/C17,20 lyase complex; CYP17A1), a member of the cytochrome p450 family that catalyzes the 17alpha-hydroxylation of steroid intermediates involved in testosterone synthesis. Administration of this agent may suppress testosterone production by both the testes and the adrenals to castrate-range levels.",
+    "fdaUniiCode": "G819A456D0",
+    "identifier": "C77333",
+    "preferredName": "Abiraterone",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C147923"
+    ],
+    "synonyms": [
+      "17-(3-Pyridyl)androsta-5,16-dien-3beta-ol",
+      "ABIRATERONE",
+      "Abiraterone",
+      "CB 7598"
+    ]
+  }
+}

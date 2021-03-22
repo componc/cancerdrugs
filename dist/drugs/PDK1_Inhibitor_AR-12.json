@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "PDK1_Inhibitor_AR-12",
+  "nciThesaurus": {
+    "casRegistry": "742112-33-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, small-molecule, celecoxib-derived inhibitor of phosphoinositide-dependent kinase-1 (PDK1) with potential antineoplastic activity. Devoid of any COX inhibiting activity, PDK1 inhibitor AR-12 binds to and inhibits the phosphorylation of 3-phosphoinositide-dependent kinase-1 (PDK-1).; subsequently, the phosphorylation and activation of the serine/threonine protein kinase Akt (protein kinase B or PKB) is inhibited, which may result in inhibition of the PI3K/Akt signaling pathway, inhibition of tumor cell proliferation, and the induction of tumor cell apoptosis.  In addition, this agent appears to induce the activity of protein kinase R-like endoplasmic reticulum kinase (PERK), which plays a key role in the endoplasmic reticulum stress pathway. Activation and dysregulation of the PI3K/Akt signaling pathway is frequently associated with tumorigenesis and dysregulated PI3K/Akt signaling may contribute to tumor resistance to a variety of antineoplastic agents.",
+    "fdaUniiCode": "EX3O2Q61UV",
+    "identifier": "C88271",
+    "preferredName": "PDK1 Inhibitor AR-12",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1404"
+    ],
+    "synonyms": [
+      "AR-12",
+      "PDK1 Inhibitor AR-12"
+    ]
+  }
+}

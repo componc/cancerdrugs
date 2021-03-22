@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "FGFFGFR_Pathway_Inhibitor_E7090",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An inhibitor of the fibroblast growth factor (FGF)/fibroblast growth factor receptor (FGFR) pathway, with potential antineoplastic activity. Upon administration, the FGF/FGFR pathway inhibitor E7090 selectively interferes with the binding of FGF to FGFR through an as of yet not fully elucidated mechanism. This inhibits FGFR-mediated signaling and leads to both cell proliferation inhibition and cell death in FGFR-overexpressing tumor cells. FGFR is a receptor tyrosine kinase essential to tumor cell proliferation, differentiation, and survival; its expression is upregulated in many tumor cell types.",
+    "fdaUniiCode": "TN7CUD1NGA",
+    "identifier": "C118672",
+    "preferredName": "FGF/FGFR Pathway Inhibitor E7090",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1967"
+    ],
+    "synonyms": [
+      "E-7090",
+      "E7090",
+      "FGF/FGFR Pathway Inhibitor E7090"
+    ]
+  }
+}

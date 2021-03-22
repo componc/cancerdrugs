@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tumor-Cells_Apoptosis_Factor_Hormone-Peptide",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic 14-amino acid peptide derived from a novel human peptide hormone, Tumor-Cells Apoptosis Factor (TCApF), with potential antineoplastic activity. Upon intravenous administration, tumor-cells apoptosis factor hormone-peptide binds to the T1/ST2 receptor (IL1RL1) and activates both caspase 8 and Bcl-2 mediated apoptosis, in addition to the activation of p38 MAPK and JNK signaling cascades in tumor cells. Furthermore, this agent inhibits angiogenesis by suppressing the expressions of vascular endothelial growth factor A (VEGFA) and fms-related tyrosine kinase 1 (VEGFR1).  Tumor-cells apoptosis factor hormone-peptide also modulates immune system responses via increasing the expressions of interleukin-10 and anti-angiogenic interleukin. T1/ST2 receptor, a member of the toll/interleukin-1 receptor superfamily, is overexpressed in certain cancer cells.",
+    "fdaUniiCode": "SR717JCM7M",
+    "identifier": "C103193",
+    "preferredName": "Tumor-Cells Apoptosis Factor Hormone-Peptide",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129821",
+      "C1742"
+    ],
+    "synonyms": [
+      "NEROFE",
+      "Nerofe",
+      "Tumor-Cells Apoptosis Factor Hormone-Peptide"
+    ]
+  }
+}

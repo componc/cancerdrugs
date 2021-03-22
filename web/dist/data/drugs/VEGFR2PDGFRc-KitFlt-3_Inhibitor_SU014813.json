@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "VEGFR2PDGFRc-KitFlt-3_Inhibitor_SU014813",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally-active, tyrosine kinase receptor inhibitor with potential antitumor activity. SU014813 binds to and inhibits the phosphorylation of vascular endothelial growth factor receptor 2 (VEGFR2), platelet-derived growth factor receptor (PDGFR) alpha and beta, c-Kit and Fms-related tyrosine kinase 3 (Flt-3). This leads to an inhibition of cellular proliferation and angiogenesis and an induction of apoptosis.",
+    "fdaUniiCode": "ZZ6VH5MZ17",
+    "identifier": "C61507",
+    "preferredName": "VEGFR2/PDGFR/c-Kit/Flt-3 Inhibitor SU014813",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1967",
+      "C1971"
+    ],
+    "synonyms": [
+      "SU-14813",
+      "VEGFR2/PDGFR/c-Kit/Flt-3 Inhibitor SU014813"
+    ]
+  }
+}

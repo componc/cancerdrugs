@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Chloroquine",
+  "nciThesaurus": {
+    "casRegistry": "54-05-7",
+    "chebiId": "CHEBI:3638",
+    "chemicalFormula": "C18H26ClN3",
+    "definition": "A 4-aminoquinoline with antimalarial, anti-inflammatory, and potential chemosensitization and radiosensitization activities. Although the mechanism is not well understood, chloroquine is shown to inhibit the parasitic enzyme heme polymerase that converts the toxic heme into non-toxic hemazoin, thereby resulting in the accumulation of toxic heme within the parasite. This agent may also interfere with the biosynthesis of nucleic acids. Chloroquine's potential chemosensitizing and radiosensitizing activities in cancer may be related to its inhibition of autophagy, a cellular mechanism involving lysosomal degradation that minimizes the production of reactive oxygen species (ROS) related to tumor reoxygenation and tumor exposure to chemotherapeutic agents and radiation.",
+    "fdaUniiCode": "886U3H6UFF",
+    "identifier": "C61671",
+    "preferredName": "Chloroquine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C271"
+    ],
+    "synonyms": [
+      "CHLOROQUINE",
+      "Chloroquine"
+    ]
+  }
+}

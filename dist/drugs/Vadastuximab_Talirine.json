@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Vadastuximab_Talirine",
+  "nciThesaurus": {
+    "casRegistry": "1436390-64-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An immunoconjugate consisting of a humanized monoclonal antibody that is engineered to contain cysteine residues that are conjugated to the synthetic, DNA cross-linking, pyrrolobenzodiazepine dimer SGD-1882, via the protease-cleavable linker maleimidocaproyl-valine-alanine dipeptide, with potential antineoplastic activity. The monoclonal antibody portion of vadastuximab talirine specifically binds to the cell surface antigen CD33. This causes the internalization of SGN-CD33A, and the release of the cytotoxic moiety SGD-1882. SGD-1882 binds to and crosslinks DNA, which results in both cell cycle arrest and the induction of apoptosis in CD33-expressing tumor cells. CD33, a transmembrane receptor, is expressed on myeloid leukemia cells.",
+    "fdaUniiCode": "T13V17U431",
+    "identifier": "C111039",
+    "preferredName": "Vadastuximab Talirine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "SGN-CD33A",
+      "VADASTUXIMAB TALIRINE",
+      "Vadastuximab Talirine"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ioflubenzamide_I-131",
+  "nciThesaurus": {
+    "casRegistry": "1214283-52-9",
+    "chebiId": "",
+    "chemicalFormula": "C21H25FIN3O3",
+    "definition": "An iodine 131-radiolabeled small-molecule benzamide compound with potential antineoplastic activity. The benzamide moiety of 131-I-MIP-1145 binds to melanin, selectively delivering a cyotoxic dose of gamma and beta radiation to melanin-expressing tumor cells. Melanin pigments, polymer derivatives of the amino acid tyrosine, are over-expressed in approximately 40% of melanomas.",
+    "fdaUniiCode": "65O1D58Z6V",
+    "identifier": "C80056",
+    "preferredName": "Ioflubenzamide I-131",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2124"
+    ],
+    "synonyms": [
+      "IOFLUBENZAMIDE I-131",
+      "Ioflubenzamide (131I)",
+      "Ioflubenzamide I-131",
+      "MIP-1145",
+      "N-(2-(diethylamino)ethyl)-4-((4-fluorobenzoyl)amino)-5-((sup 131)I)iodo-2-methoxybenzamide"
+    ]
+  }
+}

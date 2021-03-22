@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Upifitamab_Rilsodotin",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A proprietary antibody-drug conjugate (ADC) composed of XMT-1535, a proprietary, humanized monoclonal antibody against human sodium-dependent phosphate transport protein 2B (SLC34A2; NaPi2b), site-specifically linked, via a protease cleavable linker, to the proprietary cytotoxic aurastatin derivative auristatin F-HPA (AF-HPA; auristatin F-hydroxypropylamide), with potential antineoplastic activity. Upifitamab rilsodotin is produced via the proprietary dolaflexin ADC conjugation platform, which promotes the conjugation of between 10 and 15 AF-HPA payload molecules to each XMT-1535 antibody. Upon administration of upifitamab rilsodotin, the antibody moiety targets and binds to NaPi2b expressed on tumor cells. Upon binding, internalization by endosomes/lysosomes, and enzymatic cleavage, the AF-HPA binds to tubulin and inhibits microtubule polymerization, which results in G2/M phase arrest and apoptosis of NaPi2b-expressing tumor cells. NaPi2b, a tumor-associated antigen (TAA), is overexpressed on a variety of cancer cells and plays a key role in the transport of inorganic phosphate (Pi) and the maintenance of phosphate homeostasis.",
+    "fdaUniiCode": "Q4MDA7821L",
+    "identifier": "C147577",
+    "preferredName": "Upifitamab Rilsodotin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "ADC XMT-1536",
+      "Anti-NaPi2b ADC XMT-1536",
+      "Anti-NaPi2b/Auristatin F-HPA ADC XMT-1536",
+      "UPIFITAMAB RILSODOTIN",
+      "Upifitamab Rilsodotin",
+      "XMT 1536",
+      "XMT-1536",
+      "XMT1536"
+    ]
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Floxuridine",
+      "indication": "INDICATIONS AND USAGE: Floxuridine for Injection, USP is effective in the palliative management of gastrointestinal adenocarcinoma metastatic to the liver, when given by continuous regional intra-arterial infusion in carefully selected patients who are considered incurable by surgery or other means. Patients with known disease extending beyond an area capable of infusion via a single artery should, except in unusual circumstances, be considered for systemic therapy with other chemotherapeutic agents.",
+      "manufacturer": "Fresenius Kabi USA, LLC",
+      "splSetId": "c8edabc1-67cd-421b-a147-7c1f19f05b8e"
+    },
+    {
+      "brand": "Floxuridine",
+      "indication": "INDICATIONS AND USAGE Floxuridine for Injection, USP is effective in the palliative management of gastrointestinal adenocarcinoma metastatic to the liver, when given by continuous regional intra-arterial infusion in carefully selected patients who are considered incurable by surgery or other means. Patients with known disease extending beyond an area capable of infusion via a single artery should, except in unusual circumstances, be considered for systemic therapy with other chemotherapeutic agents.",
+      "manufacturer": "Hikma Pharmaceuticals USA Inc.",
+      "splSetId": "e3c2e3e7-bc83-465d-b615-3ad56580b3a7"
+    }
+  ],
+  "id": "Floxuridine",
+  "nciThesaurus": {
+    "casRegistry": "50-91-9",
+    "chebiId": "CHEBI:60761",
+    "chemicalFormula": "C9H11FN2O5",
+    "definition": "A fluorinated pyrimidine monophosphate analogue of 5-fluoro-2'-deoxyuridine-5'-phosphate (FUDR-MP) with antineoplastic activity. As an antimetabolite, floxuridine inhibits thymidylate synthase, resulting in disruption of DNA synthesis and cytotoxicity. This agent is also metabolized to fluorouracil and other metabolites that can be incorporated into RNA and inhibit the utilization of preformed uracil in RNA synthesis.",
+    "fdaUniiCode": "039LU44I5M",
+    "identifier": "C504",
+    "preferredName": "Floxuridine",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1557"
+    ],
+    "synonyms": [
+      "1-(2-Deoxy-beta-D-ribofuranosyl)-5-fluorouracil",
+      "2'-Deoxy-5-fluorouridine",
+      "2-Deoxy-5-fluorouridine",
+      "5-FUDR",
+      "5-FUdR",
+      "5-Fluoro-2'-deoxy-beta-uridine",
+      "5-Fluoro-2'-deoxyuridine",
+      "5-Fluorodeoxyuridine",
+      "5-Fluorouracil Deoxyriboside",
+      "5-Fluorouracil deoxyriboside",
+      "5-Fluorouridine Deoxyribose",
+      "FDUR",
+      "FLOXURIDINE",
+      "FUDR",
+      "FUdR",
+      "Floxuridin",
+      "Floxuridine",
+      "Fluorodeoxyuridine",
+      "Fluorouridine Deoxyribose",
+      "Fluoruridine Deoxyribose",
+      "Fluoruridine deoxyribose",
+      "WR-138720",
+      "floxuridine"
+    ]
+  }
+}

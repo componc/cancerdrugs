@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Veliparib",
+  "nciThesaurus": {
+    "casRegistry": "912444-00-9",
+    "chebiId": "CHEBI:62880",
+    "chemicalFormula": "C13H16N4O",
+    "definition": "A poly(ADP-ribose) polymerase (PARP) -1 and -2 inhibitor with chemosensitizing and antitumor activities. With no antiproliferative effects as a single agent at therapeutic concentrations, ABT-888 inhibits PARPs, thereby inhibiting DNA repair and potentiating the cytotoxicity of DNA-damaging agents. PARP nuclear enzymes are activated by DNA single or double strand breaks, resulting in the poly(ADP-ribosyl)ation of other nuclear DNA binding proteins involved in DNA repair; poly(ADP-ribosyl)ation contributes to efficient DNA repair and to survival of proliferating cells exposed to mild genotoxic stresses as induced by as oxidants, alkylating agents or ionizing radiation.",
+    "fdaUniiCode": "01O4K0631N",
+    "identifier": "C60768",
+    "preferredName": "Veliparib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C62554"
+    ],
+    "synonyms": [
+      "2-((R)-2-Methylpyrrolidin-2-yl)-1H-benzimidazole-4-carboxamide",
+      "ABT-888",
+      "PARP-1 inhibitor ABT-888",
+      "VELIPARIB",
+      "Veliparib",
+      "veliparib"
+    ]
+  }
+}

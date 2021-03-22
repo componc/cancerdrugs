@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Elesclomol",
+  "nciThesaurus": {
+    "casRegistry": "488832-69-5",
+    "chebiId": "",
+    "chemicalFormula": "C19H20N4O2S2",
+    "definition": "A small-molecule bis(thio-hydrazide amide) with oxidative stress induction, pro-apoptotic, and potential antineoplastic activities. Elesclomol induces oxidative stress, creating high levels of reactive oxygen species (ROS), such as hydrogen peroxide, in both cancer cells and normal cells. Because tumor cells have elevated levels of ROS compared to normal cells, the increase in oxidative stress beyond baseline levels elevates ROS beyond sustainable levels, exhausting tumor cell antioxidant capacity, which may result in the induction of the mitochondrial apoptosis pathway. Normal cells are spared because the increase in the level of oxidative stress induced by this agent is below the threshold at which apoptosis is induced.",
+    "fdaUniiCode": "6UK191M53P",
+    "identifier": "C75291",
+    "preferredName": "Elesclomol",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C177298"
+    ],
+    "synonyms": [
+      "1-N'-benzenecarbothioyl-3-(2-benzenecarbothioyl-2-methylhydrazinyl)-N'-methyl- oxopropanehydrazidide",
+      "ELESCLOMOL",
+      "Elesclomol",
+      "Propanedioic Acid, Bis[2-methyl-2-(phenylthioxomethyl)hydrazide]"
+    ]
+  }
+}

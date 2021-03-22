@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pibrozelesin_Hydrobromide",
+  "nciThesaurus": {
+    "casRegistry": "148778-32-9",
+    "chebiId": "",
+    "chemicalFormula": "C32H36BrN5O8.BrH",
+    "definition": "The hydrobromide salt form of pibrozelesin, a semisynthetic water-soluble derivative of the antineoplastic antibiotic duocarmycin B2, with antineoplastic activity. Activated by carboxyl esterase, pibrozelesin alkylates DNA by binding to adenine-thymine (A-T)-rich sequences in the minor groove of DNA, thereby inhibiting DNA replication and inducing apoptosis.",
+    "fdaUniiCode": "0481JCC90T",
+    "identifier": "C73816",
+    "preferredName": "Pibrozelesin Hydrobromide",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2156"
+    ],
+    "synonyms": [
+      "PIBROZELESIN HYDROBROMIDE",
+      "Pibrozelesin Hydrobromide"
+    ]
+  }
+}

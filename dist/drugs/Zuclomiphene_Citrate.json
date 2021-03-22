@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Zuclomiphene_Citrate",
+  "nciThesaurus": {
+    "casRegistry": "7619-53-6",
+    "chebiId": "",
+    "chemicalFormula": "C26H28ClNO.C6H8O7",
+    "definition": "The cis isomer of clomiphene which exhibits weak estrogen agonist activity evaluated for antineoplastic activity against breast cancer.",
+    "fdaUniiCode": "UY5X264QZV",
+    "identifier": "C28322",
+    "preferredName": "Zuclomiphene Citrate",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1821"
+    ],
+    "synonyms": [
+      "Cis-Clomiphene Citrate",
+      "Cisclomiphene Citrate",
+      "Clomiphene citrate, cis-",
+      "ZUCLOMIPHENE CITRATE",
+      "Zuclomiphene Citrate",
+      "cis-Clomiphene citrate"
+    ]
+  }
+}

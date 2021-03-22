@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Aminopterin",
+  "nciThesaurus": {
+    "casRegistry": "54-62-6",
+    "chebiId": "CHEBI:22526",
+    "chemicalFormula": "C19H20N8O5",
+    "definition": "A synthetic derivative of pterins with antineoplastic and immunosuppressive properties.  As a folate analogue, aminopterin competes for the folate binding site of the enzyme dihydrofolate reductase, thereby blocking tetrahydrofolate synthesis, and resulting in depletion of nucleotide precursors and inhibition of DNA, RNA and protein synthesis.",
+    "fdaUniiCode": "JYB41CTM2Q",
+    "identifier": "C235",
+    "preferredName": "Aminopterin",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C2153",
+      "C511"
+    ],
+    "synonyms": [
+      "4-Amino-PGA",
+      "4-Aminofolic Acid",
+      "4-Aminofolic acid",
+      "4-Aminopteroylglutamic Acid",
+      "4-Aminopteroylglutamic acid",
+      "AMINOPTERIN",
+      "APGA",
+      "Aminopterin",
+      "Aminopteroylglutamic Acid",
+      "aminopterin"
+    ]
+  }
+}

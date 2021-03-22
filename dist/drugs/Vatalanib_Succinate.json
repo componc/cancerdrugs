@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Vatalanib_Succinate",
+  "nciThesaurus": {
+    "casRegistry": "212142-18-2",
+    "chebiId": "",
+    "chemicalFormula": "C20H15ClN4.C4H6O4",
+    "definition": "The succinate salt of vatalanib, an anilinophthalazine derivative, with antineoplastic activity.  Vatalanib binds to and inhibits the protein kinase domain of vascular endothelial growth factor receptors 1 and 2; both receptor tyrosine kinases are involved in angiogenesis.  This agent also binds to and inhibits related receptor tyrosine kinases, including platelet-derived growth factor (PDGF) receptor, c-Kit, and c-Fms.",
+    "fdaUniiCode": "V5FUB77031",
+    "identifier": "C74945",
+    "preferredName": "Vatalanib Succinate",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1742",
+      "C1967"
+    ],
+    "synonyms": [
+      "1-[4-Chloroanilino]-4-[4-pyridylmethyl]phthalazine Succinate",
+      "Butanedioic Acid, Compd. with N-(4-Chlorophenyl)-4-(4-pyridinylmethyl)-1-phthalazinamine (1:1)",
+      "CGP 79787D",
+      "PTK 787",
+      "PTK-787",
+      "PTK787",
+      "VATALANIB SUCCINATE",
+      "Vatalanib Succinate",
+      "ZK 222584"
+    ]
+  }
+}

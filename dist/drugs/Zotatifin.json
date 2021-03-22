@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Zotatifin",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A selective inhibitor of the eukaryotic translation initiation factor 4A (eIF4A), with potential antineoplastic activity. Upon administration of zotatifin, this agent targets and binds to elF4A, and promotes eIF4A binding to mRNA with specific polypurine motifs within their 5'-untranslated region (5'-UTR), leading to the formation of a stable sequence-specific ternary complex with eIF4A and mRNA (elF4A- zotatifin-mRNA). This results in the translational repression of key oncogenes and anti-apoptotic proteins involved in tumor cell proliferation, survival and metastasis, such as KRAS, Myc, myeloid cell leukemia-1 (Mcl-1), B-cell lymphoma 2 (Bcl-2), cyclin-dependent kinase (CDK) 4 and 6, cyclin D, fibroblast growth factor receptor (FGFR) 1 and 2, human epidermal growth factor receptor 2 (HER2; ERBB2), and beta-catenin. The inhibition of the expression of these oncogenes leads to the inhibition of various oncogenic signal transduction pathways. This inhibits proliferation and induces apoptosis in tumor cells. eIF4A, a RNA helicase and the rate-limiting component of the eukaryotic translation initiation complex, catalyzes the ATP-dependent unwinding of RNA duplexes and facilitates 43S ribosome scanning within the 5'-UTR. elF4A is activated by various oncogenic signaling pathways, including RAS/mitogen-activated protein kinase (MAPK) and phosphatidylinositide 3-kinase (PI3K)/AKT pathways, and regulates the translation of oncogenes and tumor survival factors with complex secondary structures within the 5'-UTRs that are required for tumor cell proliferation, survival and metastasis.",
+    "fdaUniiCode": "2EWN8Z05CN",
+    "identifier": "C165746",
+    "preferredName": "Zotatifin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129839",
+      "C2189"
+    ],
+    "synonyms": [
+      "4-((5aR,6S,7S,8R,8aS)-7-((Dimethylamino)methyl)-8,8a-dihydroxy-1,3-dimethoxy-6-phenyl-6,7,8,8a-tetrahydro-5aH-cyclopenta(4,5)furo(3,2-C)pyridin-5a-yl)benzonitrile",
+      "ZOTATIFIN",
+      "Zotatifin",
+      "eFT 226",
+      "eFT-226"
+    ]
+  }
+}

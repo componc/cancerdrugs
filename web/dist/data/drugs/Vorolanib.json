@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Vorolanib",
+  "nciThesaurus": {
+    "casRegistry": "1013920-15-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available small molecule dual inhibitor targeting human vascular endothelial growth factor receptors (VEGFRs) and platelet-derived growth factor receptors (PDGFRs) with antiangiogenic and antineoplastic activities. Vorolanib inhibits all isoforms of VEGFR and PDGFR, which may result in the inhibition of tumor angiogenesis and tumor cell proliferation, and the induction of tumor cell death. Both VEGFRs and PDGFRs are receptor tyrosine kinases that may be upregulated in various tumor cell types. Vorolanib has been shown to reduce tissue toxicity by 95 percent compared with first-generation kinase inhibitors.",
+    "fdaUniiCode": "YP8G3I74EL",
+    "identifier": "C95896",
+    "preferredName": "Vorolanib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C93259"
+    ],
+    "synonyms": [
+      "(S,Z)-N-(1-(dimethylcarbamoyl)pyrrolidin-3-yl)-5-((5-fluoro-2-oxoindolin-3-ylidene)methyl)-2,4-dimethyl-1H-pyrrole-3-carboxamide",
+      "CM 082",
+      "CM-082",
+      "CM082",
+      "VOROLANIB",
+      "Vorolanib",
+      "X 82",
+      "X-82"
+    ]
+  }
+}

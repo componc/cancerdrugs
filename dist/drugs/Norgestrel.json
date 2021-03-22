@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Norgestrel",
+  "nciThesaurus": {
+    "casRegistry": "6533-00-2",
+    "chebiId": "CHEBI:50901",
+    "chemicalFormula": "C21H28O2",
+    "definition": "A synthetic progestin commonly used alone or in combination with an estrogen for contraception.  Norgestrel suppresses the secretion of luteinizing and follicle-stimulating hormones (LH and FSH), thickens cervical mucus, and slows the transit of ova through the fallopian tubes.  This agent also exhibits antiproliferative activity in endometrial tissue and may exhibit chemopreventive and antineoplastic activities in endometrial carcinoma.",
+    "fdaUniiCode": "3J8Q1747Z2",
+    "identifier": "C703",
+    "preferredName": "Norgestrel",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C776"
+    ],
+    "synonyms": [
+      "(+/-)-13-Ethyl-17alpha-hydroxy-18,19-dinorpregn-4-en-20-yne-3-one",
+      "(17alpha)-(+/-)-13-Ethyl-17-hydroxy-18,19-dinorpregn-4-en-20-yne-3-one",
+      "NORGESTREL",
+      "Neogest",
+      "Norgestrel",
+      "Ovrette",
+      "Wy-3707"
+    ]
+  }
+}

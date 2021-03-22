@@ -1,0 +1,47 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "Ramucirumab",
+      "conditionIndication": "Gastric cancerCyramza in combination with paclitaxel is indicated for the treatment of adult patients with advanced gastric cancer or gastro-oesophageal junction adenocarcinoma with disease progression after prior platinum and fluoropyrimidine chemotherapy.Cyramza monotherapy is indicated for the treatment of adult patients with advanced gastric cancer or gastro-oesophageal junction adenocarcinoma with disease progression after prior platinum or fluoropyrimidine chemotherapy, for whom treatment in combination with paclitaxel is not appropriate.Colorectal cancerCyramza, in combination with FOLFIRI (irinotecan, folinic acid, and 5\u2011fluorouracil), is indicated for the treatment of adult patients with metastatic colorectal cancer (mCRC) with disease progression on or after prior therapy with bevacizumab, oxaliplatin and a fluoropyrimidine.Non-small cell lung cancerCyramza in combination with docetaxel is indicated for the treatment of adult patients with locally advanced or metastatic non-small cell lung cancer with disease progression after platinum-based chemotherapy.Hepatocellular carcinomaCyramza monotherapy is indicated for the treatment of adult patients with advanced or unresectable hepatocellular carcinoma who have a serum alpha fetoprotein (AFP) of \u2265\u00a0400\u00a0ng/ml and who have been previously treated with sorafenib.",
+      "inn": "ramucirumab",
+      "marketingAuthorisationDate": "2014-12-19 01:00:00",
+      "marketingAuthorisationHolder": "Eli Lilly Nederland B.V.",
+      "medicineName": "Cyramza",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cyramza"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "CYRAMZA",
+      "indication": "1 INDICATIONS AND USAGE CYRAMZA \u00ae is a human vascular endothelial growth factor receptor 2 (VEGFR2) antagonist indicated: as a single agent or in combination with paclitaxel, for treatment of advanced or metastatic gastric or gastro-esophageal junction adenocarcinoma with disease progression on or after prior fluoropyrimidine- or platinum-containing chemotherapy. ( 1.1 ) in combination with erlotinib, for first-line treatment of metastatic non-small cell lung cancer with epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) mutations. ( 1.2 ) in combination with docetaxel, for treatment of metastatic non-small cell lung cancer with disease progression on or after platinum-based chemotherapy. Patients with EGFR or ALK genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving CYRAMZA. ( 1.2 ) in combination with FOLFIRI, for the treatment of metastatic colorectal cancer with disease progression on or after prior therapy with bevacizumab, oxaliplatin, and a fluoropyrimidine. ( 1.3 ) as a single agent, for the treatment of hepatocellular carcinoma in patients who have an alpha fetoprotein of \u2265400 ng/mL and have been treated with sorafenib. ( 1.4 ) 1.1 Gastric Cancer CYRAMZA \u00ae , as a single agent or in combination with paclitaxel, is indicated for the treatment of patients with advanced or metastatic, gastric or gastro-esophageal junction (GEJ) adenocarcinoma with disease progression on or after prior fluoropyrimidine- or platinum-containing chemotherapy. 1.2 Non-Small Cell Lung Cancer CYRAMZA, in combination with erlotinib, is indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have epidermal growth factor receptor (EGFR) exon 19 deletions or exon 21 (L858R) substitution mutations. CYRAMZA, in combination with docetaxel, is indicated for the treatment of patients with metastatic non-small cell lung cancer (NSCLC) with disease progression on or after platinum-based chemotherapy. Patients with epidermal growth factor receptor (EGFR) or anaplastic lymphoma kinase (ALK) genomic tumor aberrations should have disease progression on FDA-approved therapy for these aberrations prior to receiving CYRAMZA. 1.3 Colorectal Cancer CYRAMZA, in combination with FOLFIRI (irinotecan, folinic acid, and fluorouracil), is indicated for the treatment of patients with metastatic colorectal cancer (mCRC) with disease progression on or after prior therapy with bevacizumab, oxaliplatin, and a fluoropyrimidine. 1.4 Hepatocellular Carcinoma CYRAMZA, as a single agent, is indicated for the treatment of patients with hepatocellular carcinoma (HCC) who have an alpha fetoprotein (AFP) of \u2265400 ng/mL and have been treated with sorafenib.",
+      "manufacturer": "Eli Lilly and Company",
+      "splSetId": "c6080942-dee6-423e-b688-1272c2ae90d4"
+    }
+  ],
+  "id": "Ramucirumab",
+  "nciThesaurus": {
+    "casRegistry": "947687-13-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant, fully human monoclonal antibody directed against human vascular endothelial growth factor receptor 2 (VEGFR-2) with antiangiogenesis activity. Ramucirumab specifically binds to and inhibits VEGFR-2, which may result in an inhibition of tumor angiogenesis and a decrease in tumor nutrient supply. VEGFR-2 is a pro-angiogenic growth factor receptor tyrosine kinase expressed by endothelial cells.",
+    "fdaUniiCode": "D99YVK4L0X",
+    "identifier": "C70792",
+    "preferredName": "Ramucirumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C93170"
+    ],
+    "synonyms": [
+      "Anti-VEGFR-2 Fully Human Monoclonal Antibody IMC-1121B",
+      "Cyramza",
+      "IMC-1121B",
+      "LY3009806",
+      "Monoclonal Antibody HGS-ETR2",
+      "RAMUCIRUMAB",
+      "Ramucirumab",
+      "anti-VEGFR-2 fully human monoclonal antibody IMC-1121B",
+      "ramucirumab"
+    ]
+  }
+}

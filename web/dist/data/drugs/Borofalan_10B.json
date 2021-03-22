@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Borofalan_10B",
+  "nciThesaurus": {
+    "casRegistry": "80994-59-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A boronated phenylalanine and boron (boron-10) carrier that may be used in boron neutron capture therapy (BNCT), with potential antineoplastic activity. Upon administration, borofalan (10B) is absorbed mostly by tumor cells. When exposed to neutron irradiation, borofalan (10B) absorbs neutrons and self-destructs releasing short-range alpha radiation and 'recoil' lithium in tumor cells, resulting in alpha radiation-induced tumor cell death. This highly selective, localized radiotargeting of tumor cells spares adjacent normal tissues.",
+    "fdaUniiCode": "963AI80S1B",
+    "identifier": "C171879",
+    "preferredName": "Borofalan (10B)",
+    "semanticType": "Indicator, Reagent, or Diagnostic Aid",
+    "subclassOf": [
+      "C2124"
+    ],
+    "synonyms": [
+      "BOROFALAN B-10",
+      "Borofalan (10B)",
+      "Boron B 10 BPA",
+      "Boron B 10 Boronophenylalanine",
+      "Boron B 10-condensed Boronophenylalanine",
+      "Boronophenylalanine B-10",
+      "SPM 011",
+      "SPM-011",
+      "SPM011"
+    ]
+  }
+}

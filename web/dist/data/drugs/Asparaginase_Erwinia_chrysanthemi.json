@@ -1,0 +1,34 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "ERWINAZE",
+      "indication": "1 INDICATIONS AND USAGE ERWINAZE is indicated as a component of a multi-agent chemotherapeutic regimen for the treatment of patients with acute lymphoblastic leukemia (ALL) who have developed hypersensitivity to E. coli -derived asparaginase. ERWINAZE is an asparagine specific enzyme indicated as a component of a multi-agent chemotherapeutic regimen for the treatment of patients with acute lymphoblastic leukemia (ALL) who have developed hypersensitivity to E. coli -derived asparaginase. ( 1 )",
+      "manufacturer": "Jazz Pharmaceuticals, Inc.",
+      "splSetId": "30bdf2ea-008b-4cbb-81e4-c3474f2ad286"
+    }
+  ],
+  "id": "Asparaginase_Erwinia_chrysanthemi",
+  "nciThesaurus": {
+    "casRegistry": "9015-68-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An enzyme isolated from the bacterium Erwinia chrysanthemi (E. carotovora). Asparagine is critical to protein synthesis in leukemic cells, which cannot synthesize this amino acid due to the absence of the enzyme asparagine synthase. Asparaginase hydrolyzes L-asparagine to L-aspartic acid and ammonia, thereby depleting leukemic cells of asparagine and blocking protein synthesis and tumor cell proliferation, especially in the G1 phase of the cell cycle.  This agent also induces apoptosis in tumor cells. The Erwinia-derived product is often used for those patients who have experienced a hypersensitivity reaction to the E. Coli formulation.",
+    "fdaUniiCode": "D733ET3F9O",
+    "identifier": "C64260",
+    "preferredName": "Asparaginase Erwinia chrysanthemi",
+    "semanticType": "Enzyme",
+    "subclassOf": [
+      "C177280"
+    ],
+    "synonyms": [
+      "ASPARAGINASE ERWINIA CHRYSANTHEMI",
+      "Asparaginase Erwinia chrysanthemi",
+      "Crisantaspase",
+      "Crisantaspasum",
+      "Erwinase",
+      "Erwinaze",
+      "L-asparginase (Erwinia )"
+    ]
+  }
+}

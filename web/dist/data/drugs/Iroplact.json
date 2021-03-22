@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Iroplact",
+  "nciThesaurus": {
+    "casRegistry": "37270-94-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant form of the endogenous chemokine platelet factor 4 with potential antiangiogenesis and antineoplastic activities. As a heparin-binding tetramer, iroplact inhibits growth factor-stimulated endothelial cell proliferation, migration, and angiogenesis; it has been shown that this agent inhibits fibroblast growth factor 2 (FGF2) angiogenic activity downstream from the FGF2 receptor. Its activity is antagonized by heparin. Recombinant platelet factor 4 may also directly inhibit the proliferation of some tumor cell types.",
+    "fdaUniiCode": "T381WW8L8Y",
+    "identifier": "C2251",
+    "preferredName": "Iroplact",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1592",
+      "C1742"
+    ],
+    "synonyms": [
+      "IROPLACT",
+      "Iroplact",
+      "Recombinant CXCL4",
+      "Recombinant Platelet Factor 4",
+      "rPF4",
+      "rhPF4"
+    ]
+  }
+}

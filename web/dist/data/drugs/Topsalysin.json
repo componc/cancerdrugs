@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Topsalysin",
+  "nciThesaurus": {
+    "casRegistry": "917121-25-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A targeted prodrug consisting of a recombinant modified form of the Aeromonas protoxin, proaerolysin (PA), bearing a prostate-specific protease cleavage site, with potential antineoplastic activity. When injected directly into the prostate, topsalysin is hydrolyzed to the active toxin aerolysin by the serine protease prostate specific antigen (PSA), a protein overexpressed by prostate cancers and prostate cells in hyperplastic prostatic tissue. Aerolysin molecules then oligomerize to form ring-like heptamers that are incorporated into the lipid bilayers of cell membranes, forming large membrane channels and resulting in the leakage of cellular contents and lysis of PSA-expressing prostate cells.",
+    "fdaUniiCode": "LSA9D0A43Q",
+    "identifier": "C64779",
+    "preferredName": "Topsalysin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C163758"
+    ],
+    "synonyms": [
+      "PORxin 302",
+      "PRX 302",
+      "PSA-PAH1",
+      "Pore-forming Protein (Synthetic Proaerolysin) Fusion Protein with Prostate-specific Antigen (Human)",
+      "TOPSALYSIN",
+      "Topsalysin"
+    ]
+  }
+}

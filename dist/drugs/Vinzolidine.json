@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Vinzolidine",
+  "nciThesaurus": {
+    "casRegistry": "67699-40-5",
+    "chebiId": "",
+    "chemicalFormula": "C48H58ClN5O9",
+    "definition": "An orally active semisynthetic vinca alkaloid with potential antineoplastic activity. Like other vinca alkaloid compounds, vinzolidine binds to and stabilizes tubulin molecules, thereby interfering with microtubule assembly/disassembly dynamics. As a result, vinzolidine prevents mitotic spindle formation and leads to cell cycle arrest in metaphase.",
+    "fdaUniiCode": "533U947V6Q",
+    "identifier": "C1276",
+    "preferredName": "Vinzolidine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C67422",
+      "C932"
+    ],
+    "synonyms": [
+      "2H-3,7-Methanoazacycloundecino(5,4-b)indole-9-carboxylic acid, 9-((2-beta,3-beta,4-beta,5-alpha,12-beta,19-alpha)-4-(acetyloxy)-3'-(2-chloroethyl)-6,7-didehydro-16-methoxy-1-methyl-2',4'-dioxospiro(aspidospermidine-3,5'-oxazolidin)-15-yl)-5-ethyl-1,4,5,6,7,8,9,10-octahydro-5-hydroxy-, methyl ester, (3R-(3R*,5S*,7R*,9S*))-",
+      "VINZOLIDINE",
+      "Vinzolidine"
+    ]
+  }
+}

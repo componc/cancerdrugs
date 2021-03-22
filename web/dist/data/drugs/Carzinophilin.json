@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Carzinophilin",
+  "nciThesaurus": {
+    "casRegistry": "1403-28-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An ethylenimine antineoplastic antibiotic isolated from the bacterium Streptomyces sahachiroi.  Carzinophilin forms interstrand DNA cross-links, thereby inhibiting DNA synthesis.",
+    "fdaUniiCode": "051R55X44C",
+    "identifier": "C1040",
+    "preferredName": "Carzinophilin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C292"
+    ],
+    "synonyms": [
+      "CARZINOPHILIN",
+      "CARZINOPHILIN A",
+      "CZP",
+      "Cardinophillin",
+      "Cardinophyllin",
+      "Carzinophilin",
+      "Carzinophyllin"
+    ]
+  }
+}

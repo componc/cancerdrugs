@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Batiraxcept",
+  "nciThesaurus": {
+    "casRegistry": "2268717-61-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A soluble fusion protein comprised of the extracellular domain of the receptor tyrosine kinase (RTK) AXL (UFO) fused to a human immunoglobulin G1 (IgG1) Fc domain, with potential antineoplastic activity. Upon administration, batiraxcept selectively binds to growth arrest-specific protein 6 (GAS6), the endogenous ligand for AXL. This may inhibit GAS6/AXL-mediated signaling, which plays a key role in tumor cell proliferation, survival, invasion and metastasis, as well as immune evasion and resistance to other anticancer agents. AXL, a member of the Tyro3, AXL and Mer (TAM) family of RTKs, is overexpressed by many tumor cell types and its expression is associated with drug resistance and poor prognosis.",
+    "fdaUniiCode": "B6840JH4EB",
+    "identifier": "C156017",
+    "preferredName": "Batiraxcept",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2189"
+    ],
+    "synonyms": [
+      "AVB S6 500",
+      "AVB-500",
+      "AVB-S6-500",
+      "AVBS6500",
+      "AXL Fc Fusion Protein AVB-S6-500",
+      "Anti-AXL Fusion Protein AVB-S6-500",
+      "BATIRAXCEPT",
+      "Batiraxcept",
+      "RUGA-S6"
+    ]
+  }
+}

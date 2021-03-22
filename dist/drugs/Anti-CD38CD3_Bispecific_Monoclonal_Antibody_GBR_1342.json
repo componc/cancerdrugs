@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-CD38CD3_Bispecific_Monoclonal_Antibody_GBR_1342",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized, bispecific monoclonal antibody (BsAb) against human CD3, a T-cell surface antigen, and the human cell surface glycoprotein CD38, a tumor-associated antigen (TAA), with potential antineoplastic activity. Upon administration, anti-CD38/anti-CD3 bispecific monoclonal antibody GBR 1342 binds to both CD3 on T-cells and CD38 expressed on certain tumor cells. This results in the cross-linking of T-cells and tumor cells, and induces a potent cytotoxic T-lymphocyte (CTL) response against CD38-expressing tumor cells. CD38, a type II transmembrane glycoprotein, is present on various immune cells and hematologic malignancies; its expression has been correlated with poor prognosis. GBR 1342 uses the proprietary bispecific engagement by antibodies based on the T-cell receptor (BEAT) platform.",
+    "fdaUniiCode": "7H3Q0M9END",
+    "identifier": "C147563",
+    "preferredName": "Anti-CD38/CD3 Bispecific Monoclonal Antibody GBR 1342",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C155321",
+      "C28227"
+    ],
+    "synonyms": [
+      "Anti-CD38 x Anti-CD3 Bispecific Monoclonal Antibody GBR 1342",
+      "Anti-CD38/Anti-CD3 Bispecific Monoclonal Antibody GBR 1342",
+      "Anti-CD38/CD3 Bispecific Monoclonal Antibody GBR 1342",
+      "BEAT GBR 1342",
+      "CD38xCD3 BsAb GBR 1342",
+      "GBR 1342",
+      "GBR-1342",
+      "GBR1342"
+    ]
+  }
+}

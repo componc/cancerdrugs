@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Smac_Mimetic_GDC-0917",
+  "nciThesaurus": {
+    "casRegistry": "1446182-94-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available, monovalent mimetic of second mitochondrial-derived activator of caspases (Smac/DIABLO) and inhibitor of IAPs (Inhibitor of Apoptosis Proteins) with potential antineoplastic activity. Smac mimetic GDC-0917 binds to the Smac binding groove on IAPs, including the direct caspase inhibitor X chromosome-linked IAP (XIAP) and the cellular IAPs 1 and 2. This inhibits the activities of these IAPs and promotes the induction of apoptosis through apoptotic signaling pathways.  IAPs are overexpressed by many cancer cell types and suppress apoptosis by binding to and inhibiting active caspases-3, -7 and -9 via their baculoviral lAP repeat (BIR) domains.",
+    "fdaUniiCode": "KWH46ZDG32",
+    "identifier": "C103825",
+    "preferredName": "Smac Mimetic GDC-0917",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129839"
+    ],
+    "synonyms": [
+      "CUDC 427",
+      "CUDC-427",
+      "CUDC427",
+      "GDC-0917",
+      "IAP Antagonist GDC-0917",
+      "L-Prolinamide, N-methyl-L-alanyl-(2S)-2-cyclohexylglycyl-N-(2-(2-oxazolyl)-4-phenyl-5-thiazolyl)-",
+      "RG 7459",
+      "RG-7459",
+      "RG7459",
+      "SMAC/DIABLO Mimetic GDC-0917",
+      "Smac Mimetic GDC-0917"
+    ]
+  }
+}

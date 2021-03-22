@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-PD-L1_Monoclonal_Antibody_FAZ053",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A monoclonal antibody directed against programmed cell death-1 ligand 1 (PD-L1), with immune checkpoint inhibitory and potential antineoplastic activities. Upon administration, anti-PD-L1 monoclonal antibody FAZ053 binds to PD-L1, blocking its binding to and activation of its receptor programmed death 1 (PD-1), which may enhance the T-cell-mediated anti-tumor immune response and reverse T-cell inactivation. PD-L1 is overexpressed by many human cancer cell types. PD-L1 binding to PD-1 on T-cells suppresses the immune system and results in immune evasion. PD-1, a transmembrane protein expressed on activated T-cells, is a negative regulator of the immune system that limits the expansion and survival of CD8+ T-cells.",
+    "fdaUniiCode": "V6W1OW12H2",
+    "identifier": "C131537",
+    "preferredName": "Anti-PD-L1 Monoclonal Antibody FAZ053",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C128057",
+      "C129822"
+    ],
+    "synonyms": [
+      "Anti-PD-L1 Monoclonal Antibody FAZ053",
+      "FAZ 053",
+      "FAZ-053",
+      "FAZ053"
+    ]
+  }
+}

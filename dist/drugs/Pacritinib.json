@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pacritinib",
+  "nciThesaurus": {
+    "casRegistry": "937272-79-2",
+    "chebiId": "",
+    "chemicalFormula": "C28H32N4O3",
+    "definition": "An orally bioavailable inhibitor of Janus kinase 2 (JAK2) and the JAK2 mutant JAK2V617F with potential antineoplastic activity. Oral JAK2 inhibitor SB1518 competes with JAK2 for ATP binding, which may result in inhibition of JAK2 activation, inhibition of the JAK-STAT signaling pathway, and so caspase-dependent apoptosis. JAK2 is the most common mutated gene in bcr-abl-negative myeloproliferative disorders; the JAK2V617F gain-of-function mutation involves a valine-to-phenylalanine modification at position 617. The JAK-STAT signaling pathway is a major mediator of cytokine activity.",
+    "fdaUniiCode": "G22N65IL3O",
+    "identifier": "C78837",
+    "preferredName": "Pacritinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C125450"
+    ],
+    "synonyms": [
+      "Oral JAK2 Inhibitor SB1518",
+      "PACRITINIB",
+      "Pacritinib",
+      "SB 1518",
+      "SB-1518",
+      "SB1518"
+    ]
+  }
+}

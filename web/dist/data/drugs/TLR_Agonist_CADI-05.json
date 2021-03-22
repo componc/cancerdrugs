@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "TLR_Agonist_CADI-05",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A poly-Toll-like receptor (TLR) agonist polyantigenic vaccine containing heat killed Mycobacterium indicus pranii (Mycobacterium w or Mw) with potential immunostimulating and antineoplastic activities. Upon administration, poly-TLR agonist polyantigenic vaccine activates a number of TLRs, which may result in macrophage and plasmacytoid dendritic cell (pDC) stimulation; secretion of interferon alpha; production of pro-inflammatory cytokines; upregulation of co-stimulatory molecules, enhanced T and B-cell stimulatory responses; T cell proliferation, and a Th1 immune response. TLRs are transmembrane receptors that recognize structurally conserved microbial molecules such as bacterial cell-surface lipopolysaccharides (LPS), lipoproteins, lipopeptides, lipoarabinomannan and flagellin, among others; immune responses stimulated by TLR activation may result in antineoplastic effects.",
+    "fdaUniiCode": "M4PN1DW08K",
+    "identifier": "C77884",
+    "preferredName": "TLR Agonist CADI-05",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C177174"
+    ],
+    "synonyms": [
+      "CADI-05",
+      "MYCOBACTERIUM INDICUS PRANII (HEAT KILLED)",
+      "Mycobacterium Indicus Pranii (Heat Killed)",
+      "TLR Agonist CADI-05",
+      "Toll-like Receptor Agonist CADI-05"
+    ]
+  }
+}

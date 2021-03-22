@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Alacizumab_Pegol",
+  "nciThesaurus": {
+    "casRegistry": "934216-54-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A pegylated, cross-linked, humanized divalent-Fab' antibody fragment directed against vascular endothelial growth factor receptor-2 (VEGFR-2) with potential antiangiogenic and antitumor activities. Alacizumab pegol binds to and inhibits VEGFR-2, which may inhibit angiogenesis and tumor cell proliferation. Multivalent Fab' antibody fragments may exhibit improved retention and internalization properties compared to their parent IgGs.",
+    "fdaUniiCode": "ZL9780F883",
+    "identifier": "C61438",
+    "preferredName": "Alacizumab Pegol",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1971"
+    ],
+    "synonyms": [
+      "ALACIZUMAB PEGOL",
+      "Alacizumab Pegol",
+      "CDP-791"
+    ]
+  }
+}

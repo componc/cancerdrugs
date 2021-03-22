@@ -1,0 +1,44 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "baricitinib",
+      "conditionIndication": "Rheumatoid ArthritisOlumiant is indicated for the treatment of moderate to severe active rheumatoid arthritis in adult patients who have responded inadequately to, or who are intolerant to one or more disease modifying anti rheumatic drugs. Olumiant may be used as monotherapy or in combination with methotrexate.Atopic DermatitisOlumiant is indicated for the treatment of moderate to severe atopic dermatitis in adult patients who are candidates for systemic therapy.",
+      "inn": "baricitinib",
+      "marketingAuthorisationDate": "2017-02-13 01:00:00",
+      "marketingAuthorisationHolder": "Eli Lilly Nederland B.V.",
+      "medicineName": "Olumiant",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/olumiant"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Olumiant",
+      "indication": "1 INDICATIONS AND USAGE OLUMIANT \u00ae is a Janus kinase (JAK) inhibitor indicated for the treatment of adult patients with moderately to severely active rheumatoid arthritis who have had an inadequate response to one or more TNF antagonist therapies. ( 1.1 ) Limitation of Use : Not recommended for use in combination with other JAK inhibitors, biologic DMARDs, or with potent immunosuppressants such as azathioprine and cyclosporine. ( 1.1 ) 1.1 Rheumatoid Arthritis OLUMIANT \u00ae (baricitinib) is indicated for the treatment of adult patients with moderately to severely active rheumatoid arthritis who have had an inadequate response to one or more tumor necrosis factor (TNF) antagonist therapies. Limitation of Use : Not recommended for use in combination with other JAK inhibitors, biologic disease-modifying antirheumatic drugs (DMARDs), or with potent immunosuppressants such as azathioprine and cyclosporine.",
+      "manufacturer": "Eli Lilly and Company",
+      "splSetId": "866e9f35-9035-4581-a4b1-75a621ab55cf"
+    }
+  ],
+  "id": "Baricitinib",
+  "nciThesaurus": {
+    "casRegistry": "1187594-09-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable inhibitor of Janus kinases 1 and 2 (JAK1/2), with potential anti-inflammatory, immunomodulating and antineoplastic activities. Upon administration, baricitinib binds to JAK1/2, which inhibits JAK1/2 activation and leads to the inhibition of the JAK-signal transducers and activators of transcription (STAT) signaling pathway. This decreases the production of inflammatory cytokines and may prevent an inflammatory response. In addition, baricitinib may induce apoptosis and reduce proliferation of JAK1/2-expressing tumor cells. JAK kinases are intracellular enzymes involved in cytokine signaling, inflammation, immune function and hematopoiesis; they are also upregulated and/or mutated in various tumor cell types.",
+    "fdaUniiCode": "ISP4442I3Y",
+    "identifier": "C127012",
+    "preferredName": "Baricitinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C172200"
+    ],
+    "synonyms": [
+      "3-Azetidineacetonitrile, 1-(Ethylsulfonyl)-3-(4-(7H-pyrrolo(2,3-d)pyrimidin-4-yl)-1H-pyrazol-1-yl)-",
+      "BARICITINIB",
+      "Baricitinib",
+      "INCB 028050",
+      "INCB028050",
+      "LY 3009104",
+      "LY3009104"
+    ]
+  }
+}

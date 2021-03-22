@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Notch_Signaling_Pathway_Inhibitor_MK0752",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic small molecule with potential antineoplastic activity. MK0752 inhibits the Notch signaling pathway, which may result in induction of growth arrest and apoptosis in tumor cells in which the Notch signaling pathway is overactivated. The Notch signaling pathway plays an important role in cell-fate determination, cell survival, and cell proliferation.",
+    "fdaUniiCode": "9JD9B4S53T",
+    "identifier": "C49175",
+    "preferredName": "Notch Signaling Pathway Inhibitor MK0752",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2189"
+    ],
+    "synonyms": [
+      "MK-0752",
+      "MK0752",
+      "Notch Signaling Pathway Inhibitor MK0752"
+    ]
+  }
+}

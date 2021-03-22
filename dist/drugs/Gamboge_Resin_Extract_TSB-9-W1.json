@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Gamboge_Resin_Extract_TSB-9-W1",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable extract from the yellow to brown gum-resin of the gamboge tree (genus Garcinia) belonging to the Clusiaceae (or Guttiferae) family, with potential anti-inflammatory and antineoplastic activities. Gamboge resin extract TSB-9-W1 contains various active ingredients, including gambogic acid, formoxanthone A, betulin, betulinic acid, morellic acid, isomorellic acid, isogambogic acid, isomorellinol and desoxymorellin. Upon oral administration, the various active components of the gamboge resin extract TSB-9-W1 may bind to and inhibit the activity of a variety of cancer-related proteins, may induce apoptosis, and may exert cytotoxic activity on tumor cells, thereby inhibiting tumor cell proliferation. TSB-9 is derived from TSB-14, which is the acetone-extract of gamboge resin, and pulverized into powder form; TSB-9 is 90% extract and 10% brown sugar. TSB-9-W1 is a milled form of TSB-9 with a particle size of 5 micrometers.",
+    "fdaUniiCode": "KQR4YN4C28",
+    "identifier": "C118444",
+    "preferredName": "Gamboge Resin Extract TSB-9-W1",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1931"
+    ],
+    "synonyms": [
+      "GARCINIA HANBURYI ROOT RESIN",
+      "Gamboge Resin Extract TSB-9-W1",
+      "Garcinia Hanburyi Rhizome Resin",
+      "Garcinia Hanburyi Root Resin",
+      "TSB-9-W1"
+    ]
+  }
+}

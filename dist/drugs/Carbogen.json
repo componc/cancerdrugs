@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Carbogen",
+  "nciThesaurus": {
+    "casRegistry": "8063-77-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An inhalant consisting of hyperoxic gas (95%-98% oxygen and 2%-5% carbon dioxide) with radiosensitizing properties.  Inhaled carbogen reduces diffusion-limited tumor hypoxia, increasing tumor radiosensitivity due to the increased availability of molecular oxygen for cytotoxic radiation-induced oxygen free radical production.",
+    "fdaUniiCode": "FJQ44KPA4J",
+    "identifier": "C1038",
+    "preferredName": "Carbogen",
+    "semanticType": "Inorganic Chemical",
+    "subclassOf": [
+      "C2077",
+      "C798"
+    ],
+    "synonyms": [
+      "CARBOGEN",
+      "Carbogen",
+      "carbogen"
+    ]
+  }
+}

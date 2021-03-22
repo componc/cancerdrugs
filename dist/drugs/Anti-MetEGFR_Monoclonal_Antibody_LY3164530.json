@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-MetEGFR_Monoclonal_Antibody_LY3164530",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A monoclonal antibody (MoAb) against human epidermal growth factor receptor (EGFR) and human hepatocyte growth factor receptor (HGFR or c-Met), with potential antineoplastic activity. Upon administration, anti-Met/EGFR MoAb LY3164530 targets and prevents the activation of EGFR and c-Met. This leads to a downstream inhibition of EGFR/c-Met-mediated signal transduction pathways, and prevents cellular proliferation in tumor cells overexpressing EGFR and c-Met. EGFR, a member of the epidermal growth factor family of extracellular protein ligands, may be overexpressed on the cell surface of various solid tumor cell types. c-Met, a receptor tyrosine kinase overexpressed or mutated in many tumor cell types, plays a key role in cancer cell growth, survival, angiogenesis, invasion, and metastasis.",
+    "fdaUniiCode": "K85WE44TZ7",
+    "identifier": "C118281",
+    "preferredName": "Anti-Met/EGFR Monoclonal Antibody LY3164530",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-Met/EGFR Monoclonal Antibody LY3164530",
+      "LY-3164530",
+      "LY3164530"
+    ]
+  }
+}

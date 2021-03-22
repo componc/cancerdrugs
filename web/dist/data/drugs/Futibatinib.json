@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Futibatinib",
+  "nciThesaurus": {
+    "casRegistry": "1448169-71-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable inhibitor of the fibroblast growth factor receptor (FGFR) with potential antineoplastic activity. Futibatinib selectively and irreversibly binds to and inhibits FGFR, which may result in the inhibition of both the FGFR-mediated signal transduction pathway and tumor cell proliferation, and increased cell death in FGFR-overexpressing tumor cells. FGFR is a receptor tyrosine kinase essential to tumor cell proliferation, differentiation and survival and its expression is upregulated in many tumor cell types.",
+    "fdaUniiCode": "4B93MGE4AL",
+    "identifier": "C114283",
+    "preferredName": "Futibatinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C155727"
+    ],
+    "synonyms": [
+      "2-Propen-1-one, 1-((3S)-3-(4-Amino-3-(2-(3,5-dimethoxyphenyl)ethynyl)-1H-pyrazolo(3,4-d)pyrimidin-1-yl)-1-pyrrolidinyl)-",
+      "FUTIBATINIB",
+      "Futibatinib",
+      "TAS-120"
+    ]
+  }
+}

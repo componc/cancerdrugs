@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pelitinib",
+  "nciThesaurus": {
+    "casRegistry": "257933-82-7",
+    "chebiId": "CHEBI:38927",
+    "chemicalFormula": "C24H23ClFN5O2",
+    "definition": "A 3-cyanoquinoline pan-ErbB tyrosine kinase inhibitor with potential antineoplastic activity.  Pelitinib irreversibly binds covalently to epidermal growth factor receptors (EGFR) ErbB-1, -2 and -4, thereby inhibiting receptor phosphorylation and signal transduction and resulting in apoptosis and suppression of proliferation in tumor cells that overexpress these receptors.",
+    "fdaUniiCode": "X5DWL380Z6",
+    "identifier": "C2713",
+    "preferredName": "Pelitinib",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C129825",
+      "C2167"
+    ],
+    "synonyms": [
+      "(2E)-N-(4-((3-Chloro-4-fluorophenyl)amino)-3-cyano-7-ethoxyquinolin-6-yl)-4-(dimethylamino)but-2-enamide",
+      "EKB 569",
+      "EKB-569",
+      "PELITINIB",
+      "Pelitinib",
+      "WAY-EKB 569"
+    ]
+  }
+}

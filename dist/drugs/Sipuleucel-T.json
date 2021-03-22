@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Sipuleucel-T",
+  "nciThesaurus": {
+    "casRegistry": "917381-47-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A cell-based vaccine composed of autologous antigen-presenting peripheral blood mononuclear cells (enriched for a dendritic cell fraction) that have been exposed to a recombinant protein consisting of granulocyte-macrophage colony-stimulating factor (GM-CSF) fused to prostatic-acid phosphatase (PAP), a protein expressed by prostate cancer cells.  Upon administration, the vaccine may stimulate an antitumor T-cell response against tumor cells expressing PAP. (NCI05)",
+    "fdaUniiCode": "8Q622VDR18",
+    "identifier": "C1985",
+    "preferredName": "Sipuleucel-T",
+    "semanticType": "Cell",
+    "subclassOf": [
+      "C129826",
+      "C1987"
+    ],
+    "synonyms": [
+      "APC8015",
+      "APC8015 Vaccine",
+      "PA2024 (PAP/GM-CSF)-Loaded Dendritic Cell Vaccine",
+      "Provenge",
+      "SIPULEUCEL-T",
+      "SipT",
+      "Sipuleucel-T",
+      "sipuleucel-T"
+    ]
+  }
+}

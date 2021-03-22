@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Colchicine-Site_Binding_Agent_ABT-751",
+  "nciThesaurus": {
+    "casRegistry": "141430-65-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable antimitotic sulfonamide. ABT- 751 binds to the colchicine-binding site on beta-tubulin and inhibits the polymerization of microtubules, thereby preventing tumor cell replication. This agent also disrupts tumor neovascularization, reducing tumor blood flow and so inducing a cytotoxic effect.",
+    "fdaUniiCode": "WDT5V5OB9F",
+    "identifier": "C2679",
+    "preferredName": "Colchicine-Site Binding Agent ABT-751",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C67421"
+    ],
+    "synonyms": [
+      "ABT-751",
+      "Colchicine-Site Binding Agent ABT-751",
+      "E 7010",
+      "E-7010",
+      "E7010",
+      "N-[2-[(4-Hydroxyphenyl)amino]-3-pyridinyl]-4-methoxybenzenesulfonamide"
+    ]
+  }
+}

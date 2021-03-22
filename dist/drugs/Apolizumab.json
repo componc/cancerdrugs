@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Apolizumab",
+  "nciThesaurus": {
+    "casRegistry": "267227-08-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody directed against 1D10, a polymorphic determinant on the HLA-DR beta chain that is expressed on normal and neoplastic B cells. Apolizumab induces complement-mediated cytotoxicity, antibody-dependent cell-mediated cytotoxicity, and apoptosis of 1D10 antigen-positive B cells in vitro. ",
+    "fdaUniiCode": "G88KCP51RE",
+    "identifier": "C2228",
+    "preferredName": "Apolizumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [],
+    "synonyms": [
+      "1D10 Anti-lymphoma Antibody",
+      "APOLIZUMAB",
+      "Apolizumab",
+      "MAbHu1D10",
+      "MoAb Hu1D10",
+      "MoAb: Hu1D10",
+      "Monoclonal Antibody Hu1D10",
+      "Monoclonal antibody 1D10",
+      "Remitogen",
+      "apolizumab"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-CD3_Immunotoxin_A-dmDT390-bisFvUCHT1",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A bivalent recombinant fusion protein immunotoxin derived from the anti-CD3 monoclonal antibody UCHT1 with potential antineoplastic activity. Anti-CD3 immunotoxin A-dmDT390-bisFv(UCHT1) consists of 1-390 amino acid residues of chain A diphtheria toxin (DT) joined via a spacer to the Fv fragment of UCHT1, which is connected to a second UCHT1 Fv fragment via a disulfide bond (hence the \"bisFv\" designation); the addition of the second Fv fragment overcomes the steric hindrance of immunotoxin binding due to the large N-terminal DT domain. Once inside target T cells, the DT moiety catalyzes the transfer of the ADP-ribose moiety of NAD to diphthamide, a posttranslationally modified histidine residue found in elongation factor 2 (EF-2); inactivation of EF-2, disruption of polypeptide chain elongation, and cell death ensue. CD3 is a complex of five cell-surface polypeptides associated with the T cell receptor (TCR) complex.",
+    "fdaUniiCode": "P7MQ9ZOQ82",
+    "identifier": "C74004",
+    "preferredName": "Anti-CD3 Immunotoxin A-dmDT390-bisFv(UCHT1)",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C575"
+    ],
+    "synonyms": [
+      "A-dmDT390-bisFv(UCHT1)",
+      "Anti-CD3 Immunotoxin A-dmDT390-bisFv(UCHT1)",
+      "RESIMMUNE",
+      "Resimmune"
+    ]
+  }
+}

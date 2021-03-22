@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ionomycin",
+  "nciThesaurus": {
+    "casRegistry": "56092-81-0",
+    "chebiId": "CHEBI:63954",
+    "chemicalFormula": "",
+    "definition": "A polyether antibiotic isolated from Streptomyces conglobatus sp. nov. Trejo with antineoplastic activity.  Ionomycin is a calcium ionophore that increases intracellular Ca++ levels, possibly relating to endonuclease activation of lymphocytes and decreased ratio of Bcl-2 to Bax and ultimately apoptosis.  In addition, this agent is used to investigate the role of intracellular calcium in cellular processes. (NCI)",
+    "fdaUniiCode": "54V905V6AT",
+    "identifier": "C596",
+    "preferredName": "Ionomycin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C258"
+    ],
+    "synonyms": [
+      "IONOMYCIN",
+      "Ionomycin",
+      "ionomycin"
+    ]
+  }
+}

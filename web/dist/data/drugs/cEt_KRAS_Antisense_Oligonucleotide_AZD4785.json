@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "cEt_KRAS_Antisense_Oligonucleotide_AZD4785",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A proprietary formulation composed of a high affinity antisense oligonucleotide (ASO) that contains 2'-4' constrained ethyl residues (cEt) and targets KRAS (K-RAS) transcripts, with potential antineoplastic activity. Upon intravenous administration, cEt KRAS antisense oligonucleotide AZD4785 targets and binds, with high affinity, to a unique genetic sequence within KRAS messenger RNA (mRNA), thereby inhibiting translation of KRAS protein, including forms containing activating mutations. Inhibition of KRAS protein synthesis prevents KRAS-dependent signaling and inhibits the proliferation of KRAS-driven tumor cells. KRAS, a tumor-associated antigen (TAA), is mutated in a variety of tumor cell types. It plays a key role in tumor cell proliferation and survival and is associated with tumor initiation, metastasis and poor prognosis.",
+    "fdaUniiCode": "D43WWD6RDZ",
+    "identifier": "C147521",
+    "preferredName": "cEt KRAS Antisense Oligonucleotide AZD4785",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1291",
+      "C129821"
+    ],
+    "synonyms": [
+      "ASO AZD4785",
+      "AZD 4785",
+      "AZD-4785",
+      "AZD4785",
+      "Generation 2.5 Drug AZD4785",
+      "IONIS-KRAS-2.5Rx",
+      "cEt KRAS ASO AZD4785",
+      "cEt KRAS Antisense Oligonucleotide AZD4785"
+    ]
+  }
+}

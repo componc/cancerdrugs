@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Immunocytokine_NHS-IL12",
+  "nciThesaurus": {
+    "casRegistry": "1807503-77-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fusion protein consisting of the heavy-chains of the human antibody NHS76, raised against DNA released by necrotic tumor cells, and fused to two molecules of a genetically modified human interleukin-12 (IL-12) with potential immunostimulating and antineoplastic activities. Upon administration, the antibody moiety of immunocytokine NHS-IL12 binds to DNA released from necrotic tumor cells located primarily at the core of necrotic solid tumors, thereby delivering the IL-12 moiety. In turn, the IL-12 moiety of this agent stimulates the host immune system to mount an immune response against tumor cells, thereby inhibiting tumor growth. IL-12 is a proinflammatory cytokine with numerous immunoregulatory functions and may augment host immune responses to tumor cells. By targeting tumor cells, NHS-IL-12 may reduce the toxicity associated with systemic administration of recombinant human IL-12.",
+    "fdaUniiCode": "KF6D9Z1MER",
+    "identifier": "C97961",
+    "preferredName": "Immunocytokine NHS-IL12",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1512"
+    ],
+    "synonyms": [
+      "IMMUNOCYTOKINE NHS-IL12",
+      "Immunocytokine NHS-IL12",
+      "M-9241",
+      "M9241",
+      "NHS-IL-12",
+      "NHS-IL12"
+    ]
+  }
+}

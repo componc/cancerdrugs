@@ -1,0 +1,45 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Korlym",
+      "indication": "1 INDICATIONS AND USAGE KORLYM (mifepristone) is a cortisol receptor blocker indicated to control hyperglycemia secondary to hypercortisolism in adult patients with endogenous Cushing's syndrome who have type 2 diabetes mellitus or glucose intolerance and have failed surgery or are not candidates for surgery. LIMITATIONS OF USE: KORLYM should not be used in the treatment of patients with type 2 diabetes unless it is secondary to Cushing's syndrome. KORLYM (mifepristone) is a cortisol receptor blocker indicated to control hyperglycemia secondary to hypercortisolism in adult patients with endogenous Cushing's syndrome who have type 2 diabetes mellitus or glucose intolerance and have failed surgery or are not candidates for surgery ( 1 ). Important Limitations of Use: Do not use for the treatment of type 2 diabetes mellitus unrelated to endogenous Cushing's syndrome.",
+      "manufacturer": "Corcept Therapeutics",
+      "splSetId": "542f3fae-8bc8-4f00-9228-e4b66c9ad6a9"
+    },
+    {
+      "brand": "Mifepristone",
+      "indication": "1 INDICATIONS AND USAGE Mifepristone tablets, 200mg is indicated, in a regimen with misoprostol, for the medical termination of intrauterine pregnancy through 70 days gestation. Mifepristone tablets, 200mg is a progestin antagonist indicated, in a regimen with misoprostol, for the medical termination of intrauterine pregnancy through 70 days gestation. ( 1 )",
+      "manufacturer": "GenBioPro, Inc.",
+      "splSetId": "b63fad9b-7f12-4400-9019-b0586054e534"
+    }
+  ],
+  "id": "Mifepristone",
+  "nciThesaurus": {
+    "casRegistry": "84371-65-3",
+    "chebiId": "CHEBI:50692",
+    "chemicalFormula": "C29H35NO2",
+    "definition": "A derivative of the synthetic progestin norethindrone with antiprogesterone activity. Mifepristone competitively binds to the progesterone receptor, resulting in inhibition of the effects of endogenous or exogenous progesterone. This agent also exhibits antiglucocorticoid and weak antiandrogenic activities.",
+    "fdaUniiCode": "320T6RNW1F",
+    "identifier": "C655",
+    "preferredName": "Mifepristone",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1891"
+    ],
+    "synonyms": [
+      "(aa Beta, 17 beta)-11-[4-(dimethylamino)-phenyl]-17-hydroxy-17-(1-propynyl)estra-4,9-dien-3-one",
+      "11 Beta-[4-(N,N-dimethylamino)phenyl]-17alpha-(propyl-1-ynyl)-delta-4,9-estradiene-17 beta-ol-3-one",
+      "11-((4-dimethylamino) phenyl)-17-Hydroxy-17-(1-propynyl) Estra-4,9- dien-3-one",
+      "Korlym",
+      "MIFEPRISTONE",
+      "Mifegyne",
+      "Mifeprex",
+      "Mifepristone",
+      "RU 486",
+      "RU-38486",
+      "RU-486",
+      "mifepristone"
+    ]
+  }
+}

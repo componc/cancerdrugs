@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Sivifene",
+  "nciThesaurus": {
+    "casRegistry": "2675-35-6",
+    "chebiId": "",
+    "chemicalFormula": "C19H14N4O6",
+    "definition": "The phenylhydrazone 4,4'-dihydroxybenzophenone-2,4-dinitrophenylhydrazone formulated as a topical agent with immunomodulating and potential antineoplastic activities. Applied topically as a gel, sivifene may stimulate a local immune response against human papillomavirus (HPV)-induced cervical intraepithelial neoplasia (CIN).",
+    "fdaUniiCode": "XAV05295I5",
+    "identifier": "C61305",
+    "preferredName": "Sivifene",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2139"
+    ],
+    "synonyms": [
+      "4,4'-Dihydroxybenzophenone 2,4-dinitrophenylhydrazone",
+      "A-007",
+      "Aryl Hydrazone A-007 Gel",
+      "SIVIFENE",
+      "Sivifene"
+    ]
+  }
+}

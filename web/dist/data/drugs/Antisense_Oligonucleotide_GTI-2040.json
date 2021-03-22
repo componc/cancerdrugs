@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Antisense_Oligonucleotide_GTI-2040",
+  "nciThesaurus": {
+    "casRegistry": "236391-66-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A 20-mer antisense oligonucleotide complementary to a coding region in the mRNA of the R2 small subunit component of human ribonucleotide reductase.  GTI-2040 decreases mRNA and protein levels of R2 in vitro and may inhibit tumor cell proliferation in human tumors in vivo.",
+    "fdaUniiCode": "5WY0FWR2CF",
+    "identifier": "C26652",
+    "preferredName": "Antisense Oligonucleotide GTI-2040",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1291"
+    ],
+    "synonyms": [
+      "Antisense Oligonucleotide GTI-2040",
+      "GTI-2040"
+    ]
+  }
+}

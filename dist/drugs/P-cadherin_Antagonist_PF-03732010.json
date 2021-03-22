@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "P-cadherin_Antagonist_PF-03732010",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An agent that inhibits P-cadherin (cdh3), with potential antineoplastic activity. PF-03732010 binds to and inhibits the activity of p-cadherin. Inhibition of the activity of p-cadherin may inhibit tumor cell invasion and proliferation in p-cadherin expressing tumor cells. P-cadherin, a cell-surface protein and member of the cadherin family, is overexpressed in a variety of solid tumors, and plays a role in cell adhesion, motility, invasion and proliferation.",
+    "fdaUniiCode": "LPW79O1J5Z",
+    "identifier": "C91723",
+    "preferredName": "P-cadherin Antagonist PF-03732010",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C177279"
+    ],
+    "synonyms": [
+      "P-cadherin Antagonist PF-03732010",
+      "PF-03732010"
+    ]
+  }
+}

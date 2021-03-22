@@ -1,0 +1,32 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Iodine_I-131",
+  "nciThesaurus": {
+    "casRegistry": "10043-66-0",
+    "chebiId": "",
+    "chemicalFormula": "I",
+    "definition": "A radioactive isotope of iodine with an atomic mass of 131, a half life of eight days, and potential antineoplastic activity. Selectively accumulating in the thyroid gland, iodine I 131 emits beta and gamma particles, thereby killing thyroid cells and decreasing thyroid hormone production.",
+    "fdaUniiCode": "I5X6L61HUT",
+    "identifier": "C1639",
+    "preferredName": "Iodine I-131",
+    "semanticType": "Element, Ion, or Isotope",
+    "subclassOf": [
+      "C129819",
+      "C2462"
+    ],
+    "synonyms": [
+      "131-Iodine",
+      "Bound Iodide I-131",
+      "I 131",
+      "I-131",
+      "IODINE I-131",
+      "Iodide I-131",
+      "Iodide, I-131",
+      "Iodine 131",
+      "Iodine I-131",
+      "Iodotope",
+      "Iodotrope"
+    ]
+  }
+}

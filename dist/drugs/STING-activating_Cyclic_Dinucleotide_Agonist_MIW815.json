@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "STING-activating_Cyclic_Dinucleotide_Agonist_MIW815",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic, cyclic dinucleotide (CDN) and agonist of stimulator of interferon genes protein (STING; transmembrane protein 173; TMEM173), with potential immunomodulating and antineoplastic activities. Upon intratumoral administration, the STING agonist MIW815 binds to STING and stimulates STING-mediated pathways. This activates the immune response through the activation of certain immune cells, including dendritic cells (DCs), which induces the expression of cytokines and chemokines, and leads to an antigen-specific T-cell mediated immune response against cancer cells. STING, a transmembrane protein that activates immune cells in the tumor microenvironment, plays a key role in the activation of the innate immune system.",
+    "fdaUniiCode": "FMW9ZVF53N",
+    "identifier": "C125902",
+    "preferredName": "STING-activating Cyclic Dinucleotide Agonist MIW815",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C176586"
+    ],
+    "synonyms": [
+      "ADU-S100",
+      "CDN Agonist ADU-S100",
+      "MIW815",
+      "STING-activating Cyclic Dinucleotide Agonist MIW815"
+    ]
+  }
+}

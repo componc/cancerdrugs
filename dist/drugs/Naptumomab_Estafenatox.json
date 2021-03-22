@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Naptumomab_Estafenatox",
+  "nciThesaurus": {
+    "casRegistry": "676258-98-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant fusion protein consisting of the antigen-binding fragment of a monoclonal antibody directed towards the tumor-associated oncofetal trophoblast glycoprotein antigen 5T4 attached to a mutated form of superantigen staphylococcal enterotoxin E (SEA/E-120), with immunomodulating and antineoplastic activities. The Fab moiety of naptumomab estafenatox binds to 5T4, an antigen expressed by various tumor cells. In turn, the superantigen binds to both major histocompatibility complex class II molecules and to the T-cell receptor beta chain, which results in a massive activation of T lymphocytes and induces a potent T-cell-mediated killing of tumor cells.",
+    "fdaUniiCode": "93T929W6LC",
+    "identifier": "C95789",
+    "preferredName": "Naptumomab Estafenatox",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C20401"
+    ],
+    "synonyms": [
+      "ABR-217620",
+      "NAPTUMOMAB ESTAFENATOX",
+      "Naptumomab Estafenatox"
+    ]
+  }
+}

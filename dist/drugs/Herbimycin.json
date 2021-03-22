@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Herbimycin",
+  "nciThesaurus": {
+    "casRegistry": "70563-58-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A benzoquinone antineoplastic antibiotic isolated from the bacterium Streptomyces hygroscopicus.  Herbimycin binds to and inhibits the cytosolic chaperone functions of heat shock protein 90 (HSP90).  HSP90 maintains the stability and functional shape of many oncogenic signaling proteins; the inhibition of HSP90 promotes the proteasomal degradation of oncogenic signaling proteins that may be over-expressed or overactive in tumor cells.",
+    "fdaUniiCode": "815WDV2HST",
+    "identifier": "C1124",
+    "preferredName": "Herbimycin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C2516"
+    ],
+    "synonyms": [
+      "17-Demethoxy-15-methoxy-11-O-methylgeldanamycin, (15R)-",
+      "HERBIMYCIN A",
+      "Herbimycin",
+      "Herbimycin A"
+    ]
+  }
+}

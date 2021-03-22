@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Yttrium_Y-90_Clivatuzumab_Tetraxetan",
+  "nciThesaurus": {
+    "casRegistry": "943976-23-6",
+    "chebiId": "",
+    "chemicalFormula": "C16H25N5O7.Y",
+    "definition": "A radioimmunoconjugate comprised of the humanized monoclonal antibody clivatuzumab, directed against the pancreatic cancer antigen MUC1, that is conjugated to the chelating agent tetraxetan and radiolabeled with the beta-emitting radioisotope Yttrium Y 90. Yttrium Y 90 clivatuzumab tetraxetan binds to tumor cells expressing MUC1 antigen, thereby selectively delivering a cytotoxic dose of beta radiation.",
+    "fdaUniiCode": "2L271110ED",
+    "identifier": "C48429",
+    "preferredName": "Yttrium Y-90 Clivatuzumab Tetraxetan",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129819",
+      "C1511"
+    ],
+    "synonyms": [
+      "90Y-hPAM4",
+      "IMMU-107",
+      "YTTRIUM Y-90 CLIVATUZUMAB TETRAXETAN",
+      "Yttrium (90Y) Clivatuzumab Tetraxetan",
+      "Yttrium Y 90 Clivatuzumab Tetraxetan",
+      "Yttrium Y 90 DOTA Monoclonal Antibody HuPAM4",
+      "Yttrium Y-90 Clivatuzumab Tetraxetan",
+      "hPAM4-Cide",
+      "hPAM4-DOTA",
+      "yttrium Y 90 DOTA monoclonal antibody HuPAM4"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Riviciclib",
+  "nciThesaurus": {
+    "casRegistry": "920113-02-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A flavone and cyclin dependent kinase (CDK) inhibitor with potential antineoplastic activity. Riviciclib selectively binds to and inhibits Cdk4/cyclin D1, Cdk1/cyclin B and Cdk9/cyclin T1, serine/threonine kinases that play key roles in the regulation of the cell cycle and cellular proliferation. Inhibition of these kinases leads to cell cycle arrest during the G1/S transition, thereby leading to an induction of apoptosis, and inhibition of tumor cell proliferation.",
+    "fdaUniiCode": "9EK26WE8QN",
+    "identifier": "C64762",
+    "preferredName": "Riviciclib",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C129825",
+      "C2185"
+    ],
+    "synonyms": [
+      "Cyclin Dependent Kinase Inhibitor P276",
+      "P-276-00 Free Base",
+      "P276",
+      "P276-00",
+      "RIVICICLIB",
+      "Riviciclib"
+    ]
+  }
+}

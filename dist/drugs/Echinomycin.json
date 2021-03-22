@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Echinomycin",
+  "nciThesaurus": {
+    "casRegistry": "512-64-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A polypeptide quinoxaline antineoplastic antibiotic isolated from the bacterium Streptomyces echinatus.  Echinomycin intercalates into DNA at two locations simultaneously in a sequence-specific fashion, thereby inhibiting DNA replication and RNA synthesis.",
+    "fdaUniiCode": "TG824J6RQT",
+    "identifier": "C462",
+    "preferredName": "Echinomycin",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C582"
+    ],
+    "synonyms": [
+      "BRN 0078671",
+      "Bis-Quinoline Analogue",
+      "ECHINOMYCIN",
+      "Echinomycin",
+      "Echinomycin A",
+      "Levomycin",
+      "N,N'-(2,4,12,15,17,25-hexamethyl-11,24-bis(1-methylethyl)-27-(methylthio)-3,6,10,13,16,19,23,26-octaoxo-9,22-dioxa-28-thia-2,5,12,15,18,25-hexaazabicyclo(12.12.3)nonacosane-7,20-diyl)bis(2-quinoxalinecarboxamide)",
+      "Quinomycin A",
+      "SK 302B"
+    ]
+  }
+}

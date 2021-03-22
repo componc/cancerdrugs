@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Efatutazone",
+  "nciThesaurus": {
+    "casRegistry": "223132-37-4",
+    "chebiId": "",
+    "chemicalFormula": "C27H26N4O4S",
+    "definition": "An orally bioavailable thiazolidinedione and an agonist of peroxisome proliferator-activated receptor gamma (PPAR-gamma) with potential antineoplastic activity. Efatutazone binds to and activates PPAR-gamma thus inducing cell differentiation and apoptosis, leading to a reduction in cellular proliferation. PPAR-gamma is a nuclear hormone receptor and a ligand-activated transcription factor that controls the expression of genes involved in macromolecule metabolism and cell differentiation, specifically adipocyte differentiation.",
+    "fdaUniiCode": "M17ILL71MC",
+    "identifier": "C83819",
+    "preferredName": "Efatutazone",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1934"
+    ],
+    "synonyms": [
+      "2,4-Thiazolidinedione, 5-((4-((6-(4-Amino-3,5-Dimethylphenoxy)-1-Methyl-1H-Benzimidazol-2-yl)Methoxy)Phenyl)Methyl)-",
+      "EFATUTAZONE",
+      "Efatutazone",
+      "Inolitazone",
+      "Rac-5-((4-((6-(4-Amino-3,5-Dimethylphenoxy)-1-Methyl-1H-Benzimidazol-2-yl)Methoxy)Phenyl)Methyl)-1,3-Thiazolidine-2,4-Dione"
+    ]
+  }
+}

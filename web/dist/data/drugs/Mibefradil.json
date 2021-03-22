@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mibefradil",
+  "nciThesaurus": {
+    "casRegistry": "116644-53-2",
+    "chebiId": "",
+    "chemicalFormula": "C29H38FN3O3",
+    "definition": "",
+    "fdaUniiCode": "27B90X776A",
+    "identifier": "C87686",
+    "preferredName": "Mibefradil",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C333"
+    ],
+    "synonyms": [
+      "(1S,2S)-(2-((3-(2-Benzimidazolyl)Propyl)Methylamino)Ethyl)-6-Fluoro-1,2,3,4-Tetrahydro-1-Isopropyl-2-Naphthyl Methoxyacetate",
+      "Acetic acid, methoxy-, 2-(2-((3-(1H-benzimidazol-2-yl)propyl)methylamino)ethyl)-6-fluoro-1,2,3,4-tetrahydro-1-(1-methylethyl)-2-naphthalenyl ester, (1S-cis)-",
+      "MIBEFRADIL",
+      "Mibefradil"
+    ]
+  }
+}

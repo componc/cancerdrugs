@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Datopotamab_Deruxtecan",
+  "nciThesaurus": {
+    "casRegistry": "2238831-60-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) composed of a humanized monoclonal antibody against tumor-associated antigen (TAA) trophoblast cell surface protein 2 (calcium signal transducer 2; TROP2; TROP-2; TACSTD2) conjugated, via an enzymatically cleavable tetrapeptide-based  linker, to the cytotoxic DNA topoisomerase I inhibitor and exatecan (DX-8951) derivative DXd (MAAA-1181a; MAAA-1181), with potential antineoplastic activity. Upon administration of the datopotamab deruxtecan, the anti-TROP2 antibody targets and binds to TROP2 expressed on tumor cells. Upon cellular uptake and lysosomal degradation of the linker, DXd targets and binds to DNA topoisomerase I, thereby stabilizing the cleavable complex between topoisomerase I and DNA, resulting in DNA breaks, inhibition of DNA replication and apoptosis. This inhibits tumor cell proliferation of TROP2-expressing tumor cells. TROP2 is a transmembrane protein overexpressed in various tumors while its expression is low and/or restricted in normal, healthy tissues. Its expression is associated with enhanced tumor aggressiveness, metastasis, drug resistance and increased tumor cell survival. The ADC allows for reduced systemic exposure and enhanced delivery of the cytotoxic agent DXd.",
+    "fdaUniiCode": "GD2OWY1DTK",
+    "identifier": "C151967",
+    "preferredName": "Datopotamab Deruxtecan",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "ADC DS-1062a",
+      "Anti-TROP2/DXd Antibody-drug Conjugate DS-1062a",
+      "DATOPOTAMAB DERUXTECAN",
+      "DS-1062",
+      "DS-1062a",
+      "Datopotamab Deruxtecan"
+    ]
+  }
+}

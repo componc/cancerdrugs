@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Laniquidar",
+  "nciThesaurus": {
+    "casRegistry": "197509-46-9",
+    "chebiId": "",
+    "chemicalFormula": "C37H36N4O3",
+    "definition": "A stereoisomer of verapamil and third-generation P-glycoprotein inhibitor. Laniquidar inhibits the drug efflux pump P-glycoprotein, resulting in higher concentrations of antineoplastic agents in tumor cells that are multi-drug resistant due to the overexpression of P-glycoprotein.",
+    "fdaUniiCode": "K3FRN4DDOY",
+    "identifier": "C28698",
+    "preferredName": "Laniquidar",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1744"
+    ],
+    "synonyms": [
+      "LANIQUIDAR",
+      "Laniquidar",
+      "R101933"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Glumetinib",
+  "nciThesaurus": {
+    "casRegistry": "1642581-63-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, small molecule inhibitor of the oncoprotein c-Met (hepatocyte growth factor receptor; HGFR), with potential antineoplastic activity. Upon oral administration, glumetinib targets and binds to the c-Met protein, thereby disrupting c-Met-dependent signal transduction pathways. This may induce cell death in tumor cells overexpressing c-Met protein or expressing constitutively activated c-Met protein. c-Met protein is overexpressed or mutated in many tumor cell types and plays key roles in tumor cell proliferation, survival, invasion, metastasis, and tumor angiogenesis.",
+    "fdaUniiCode": "7JTT036WGX",
+    "identifier": "C156700",
+    "preferredName": "Glumetinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C143099"
+    ],
+    "synonyms": [
+      "GLUMETINIB",
+      "Glumetinib",
+      "SCC 244",
+      "SCC-244",
+      "SCC244"
+    ]
+  }
+}

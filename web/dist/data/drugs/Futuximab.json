@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Futuximab",
+  "nciThesaurus": {
+    "casRegistry": "1310460-85-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant, chimeric monoclonal antibody directed against the epidermal growth factor receptor (EGFR; ErbB1; HER1), with potential antineoplastic activity. Upon administration, futuximab targets and binds to an epitope located in the extracellular domain (ECD) of EGFR, which causes internalization and degradation of EGFR, including the mutated EGFR variant III (EGFRvIII). This prevents EGFR-mediated signaling, thereby inhibiting EGFR-dependent tumor cell proliferation. EGFR, a receptor tyrosine kinase, is overexpressed on the cell surfaces of various solid tumor cell types.",
+    "fdaUniiCode": "B37J680LX0",
+    "identifier": "C152971",
+    "preferredName": "Futuximab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C133878"
+    ],
+    "synonyms": [
+      "992 DS",
+      "992-DS",
+      "992DS",
+      "FUTUXIMAB",
+      "Futuximab",
+      "Immunoglobulin G1, Anti-(Human Epidermal Growth Factor Receptor Extracellular Domain III) (Human-Mus Musculus Monoclonal 992 DS Heavy Chain), Disulfide with Human-Mus Musculus Monoclonal 992 DS Light Chain, Dimer"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Efatutazone_Dihydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "223132-38-5",
+    "chebiId": "",
+    "chemicalFormula": "C27H26N4O4S.2ClH",
+    "definition": "The dihydrochloride salt of efatutazone, an orally bioavailable agonist of peroxisome proliferator-activated receptor gamma (PPAR-gamma) with potential antineoplastic activity. Efatutazone binds to and activates PPAR-gamma, a nuclear hormone receptor and a ligand-activated transcription factor controling gene expression involved in macromolecule metabolism and cell differentiation, specifically adipocyte differentiation. Mediated through activation of PPAR-gamma, this agent is capable of inducing cell differentiation and apoptosis, thereby leading to a reduction in cellular proliferation.",
+    "fdaUniiCode": "76B44WEA8O",
+    "identifier": "C64764",
+    "preferredName": "Efatutazone Dihydrochloride",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1934"
+    ],
+    "synonyms": [
+      "2,4-thiazolidinedione, 5-((4-((6-(4-amino-3,5-dimethylphenoxy)-1-methyl-1h-benzimidazol-2-yl)methoxy)phenyl)methyl)-, Hydrochloride (1:2)",
+      "CS-7017",
+      "EFATUTAZONE DIHYDROCHLORIDE",
+      "Efatutazone Dihydrochloride",
+      "Inolitazone Dihydrochloride"
+    ]
+  }
+}

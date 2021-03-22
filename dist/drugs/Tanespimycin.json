@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tanespimycin",
+  "nciThesaurus": {
+    "casRegistry": "75747-14-7",
+    "chebiId": "CHEBI:64153",
+    "chemicalFormula": "C31H43N3O8",
+    "definition": "A benzoquinone antineoplastic antibiotic derived from the antineoplastic antibiotic geldanamycin.  Tanespimycin binds to and inhibits the cytosolic chaperone functions of heat shock protein 90 (HSP90).  HSP90 maintains the stability and functional shape of many oncogenic signaling proteins; the inhibition of HSP90 promotes the proteasomal degradation of oncogenic signaling proteins that may be overexpressed by tumor cells.",
+    "fdaUniiCode": "4GY0AVT3L4",
+    "identifier": "C37899",
+    "preferredName": "Tanespimycin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C2516"
+    ],
+    "synonyms": [
+      "17-(Allylamino)-17-demethoxygeldanamycin",
+      "17-AAG",
+      "17-Allylamino-17-demethoxygeldanamycin",
+      "17-Demethoxy-17-(2-propenylamino)geldanamycin",
+      "17-N-allylamino-17-demethoxy geldanamycin",
+      "17-N-allylamino-17-demethoxygeldanamycin",
+      "Geldanamycin, 17-allylamino-17-demethoxy-",
+      "KOS-953",
+      "TANESPIMYCIN",
+      "Tanespimycin",
+      "tanespimycin"
+    ]
+  }
+}

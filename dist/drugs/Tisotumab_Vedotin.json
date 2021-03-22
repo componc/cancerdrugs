@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tisotumab_Vedotin",
+  "nciThesaurus": {
+    "casRegistry": "1418731-10-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) comprised of tisotumab, a monoclonal antibody against human tissue factor (TF) covalently coupled, via a protease-cleavable peptide linker, to monomethyl auristatin E (MMAE), an auristatin derivative and potent microtubule disrupting agent, with potential antiangiogenic, anticoagulant and antineoplastic activities. Upon administration of tisotumab vedotin, the tisotumab moiety binds to cell surface TF and is internalized. Tisotumab binds to factor VIIa (FVIIa), which interferes with the activation of factor X (FX) into FXa. This may prevent thrombin formation and cancer-associated venous thromboembolism, and may inhibit angiogenesis and tumor cell proliferation. After internalization of the agent, the MMAE moiety is released by proteolytic cleavage. It then binds to tubulin and inhibits its polymerization, which results in G2/M phase arrest and apoptosis. TF, a transmembrane protein and initiator of the coagulation cascade, is overexpressed in many tumor cells and tumor-resident endothelial cells. Expression of TF is correlated with metastasis, angiogenesis, tumor cell growth and tumor-associated thrombosis.",
+    "fdaUniiCode": "T41737F88A",
+    "identifier": "C113164",
+    "preferredName": "Tisotumab Vedotin",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129823",
+      "C1742",
+      "C20401"
+    ],
+    "synonyms": [
+      "HuMax-TF-ADC",
+      "TISOTUMAB VEDOTIN",
+      "Tisotumab Vedotin"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Samrotamab_Vedotin",
+  "nciThesaurus": {
+    "casRegistry": "2052649-42-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) composed of a proprietary monoclonal antibody against a tumor-associated antigen (TAA) linked to an as of yet undisclosed cytotoxic agent, with potential antineoplastic activity. Upon intravenous administration, the monoclonal antibody moiety of ABBV-085 targets and binds to the TAA expressed on tumor cells. Upon binding and internalization, the cytotoxic agent is released and kills the TAA-expressing cancer cells, through an as of yet unknown mechanism of action.",
+    "fdaUniiCode": "SY5HF6N5MB",
+    "identifier": "C124134",
+    "preferredName": "Samrotamab Vedotin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "ABBV-085",
+      "ADC ABBV-085",
+      "PR-1498487 PAB-MMAE",
+      "SAMROTAMAB VEDOTIN",
+      "Samrotamab Vedotin"
+    ]
+  }
+}

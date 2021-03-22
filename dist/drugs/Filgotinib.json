@@ -1,0 +1,36 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "filgotinib maleate",
+      "conditionIndication": "Jyseleca is indicated for the treatment of moderate to severe active rheumatoid arthritis in adult patients who have responded inadequately to, or who are intolerant to one or more disease\u2011modifying anti\u2011rheumatic drugs (DMARDs). Jyseleca may be used as monotherapy or in combination with methotrexate (MTX).",
+      "inn": "filgotinib",
+      "marketingAuthorisationDate": "2020-09-24 00:00:00",
+      "marketingAuthorisationHolder": "Gilead Sciences Ireland UC",
+      "medicineName": "Jyseleca",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jyseleca"
+    }
+  ],
+  "fdaDrugLabel": [],
+  "id": "Filgotinib",
+  "nciThesaurus": {
+    "casRegistry": "1206161-97-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable inhibitor of the tyrosine kinase Janus kinase 1 (JAK1), with potential anti-inflammatory and immunomodulating activities. Upon oral administration, filgotinib specifically targets, binds to, and inhibits the phosphorylation of JAK1, which interferes with JAK/STAT (signal transducer and activator of transcription)-dependent signaling. As JAK1 mediates signaling of many pro-inflammatory cytokines, JAK1 inhibition prevents cytokine signaling and activity in many inflammatory and immune-mediated processes and leads to a decrease in inflammation and activation of certain immune cells. JAK1 plays a key role in the signaling and activity of many cytokines and growth factors and is often dysregulated in a variety of autoimmune and inflammatory diseases, as well as some malignancies.",
+    "fdaUniiCode": "3XVL385Q0M",
+    "identifier": "C155799",
+    "preferredName": "Filgotinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1967"
+    ],
+    "synonyms": [
+      "FILGOTINIB",
+      "Filgotinib",
+      "GLPG 0634",
+      "GLPG0634",
+      "GS-6034"
+    ]
+  }
+}

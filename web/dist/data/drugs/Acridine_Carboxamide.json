@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Acridine_Carboxamide",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A tricyclic acridine-based (or carboxamide-based) drug with dual topoisomerase inhibitor and potential antineoplastic activities. Acridine carboxamide inhibits both topoisomerases I and II and intercalates into DNA, resulting in DNA damage, the disruption of DNA repair and replication, the inhibition of RNA and protein synthesis, and cell death.",
+    "fdaUniiCode": "0N3V8R4E13",
+    "identifier": "C2203",
+    "preferredName": "Acridine Carboxamide",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1968",
+      "C582"
+    ],
+    "synonyms": [
+      "ACRIDINE CARBOXAMIDE",
+      "Acridine Carboxamide",
+      "DACA",
+      "N-(2-(Dimehtylamino)ethyl)acridine-4-carboxamide",
+      "SN 22995",
+      "XR5000",
+      "acridine carboxamide"
+    ]
+  }
+}

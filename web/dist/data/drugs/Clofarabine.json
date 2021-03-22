@@ -1,0 +1,72 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "clofarabine",
+      "conditionIndication": "Treatment of acute lymphoblastic leukaemia (ALL) in paediatric patients who have relapsed or are refractory after receiving at least two prior regimens and where there is no other treatment option anticipated to result in a durable response. Safety and efficacy have been assessed in studies of patients \u2264 21 years old at initial diagnosis.",
+      "inn": "clofarabine",
+      "marketingAuthorisationDate": "2006-05-29 00:00:00",
+      "marketingAuthorisationHolder": "Genzyme Europe BV",
+      "medicineName": "Evoltra",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/evoltra"
+    },
+    {
+      "activeSubstance": "clofarabine",
+      "conditionIndication": "Treatment of acute lymphoblastic leukaemia (ALL) in paediatric patients who have relapsed or are refractory after receiving at least two prior regimens and where there is no other treatment option anticipated to result in a durable response. Safety and efficacy have been assessed in studies of patients \u2264 21 years old at initial diagnosis.",
+      "inn": "clofarabine",
+      "marketingAuthorisationDate": "2019-11-14 01:00:00",
+      "marketingAuthorisationHolder": "ORPHELIA Pharma SAS",
+      "medicineName": "Ivozall",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ivozall"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Clofarabine",
+      "indication": "1 INDICATIONS AND USAGE Clofarabine injection is indicated for the treatment of pediatric patients 1 to 21 years old with relapsed or refractory acute lymphoblastic leukemia after at least two prior regimens. This indication is based upon response rate. There are no trials verifying an improvement in disease-related symptoms or increased survival with clofarabine injection. Clofarabine injection is a nucleoside metabolic inhibitor indicated for the treatment of pediatric patients 1 to 21 years old with relapsed or refractory acute lymphoblastic leukemia after at least two prior regimens. This indication is based upon response rate. There are no trials verifying an improvement in disease-related symptoms or increased survival with clofarabine injection. (1)",
+      "manufacturer": "Amneal Pharmaceuticals LLC",
+      "splSetId": "0a273a2d-a1ff-412a-925e-696648730dae"
+    },
+    {
+      "brand": "CLOFARABINE",
+      "indication": "1 INDICATIONS AND USAGE Clofarabine injection is indicated for the treatment of pediatric patients 1 to 21 years old with relapsed or refractory acute lymphoblastic leukemia after at least two prior regimens. This indication is based upon response rate. There are no trials verifying an improvement in disease-related symptoms or increased survival with clofarabine injection. Clofarabine injection is a nucleoside metabolic inhibitor indicated for the treatment of pediatric patients 1 to 21 years old with relapsed or refractory acute lymphoblastic leukemia after at least two prior regimens. This indication is based upon response rate. There are no trials verifying an improvement in disease-related symptoms or increased survival with clofarabine injection. (1)",
+      "manufacturer": "Ingenus Pharmaceuticals, LLC",
+      "splSetId": "0c3a355b-d4cf-42a0-9560-3798e1a2ee36"
+    },
+    {
+      "brand": "Clofarabine",
+      "indication": "1 INDICATIONS AND USAGE Clofarabine injection is indicated for the treatment of pediatric patients 1 to 21 years old with relapsed or refractory acute lymphoblastic leukemia after at least two prior regimens. This indication is based upon response rate. There are no trials verifying an improvement in disease-related symptoms or increased survival with clofarabine injection. Clofarabine injection is a nucleoside metabolic inhibitor indicated for the treatment of pediatric patients 1 to 21 years old with relapsed or refractory acute lymphoblastic leukemia after at least two prior regimens. This indication is based upon response rate. There are no trials verifying an improvement in disease-related symptoms or increased survival with clofarabine injection. ( 1 )",
+      "manufacturer": "Dr.Reddy's Laboratories Inc",
+      "splSetId": "0da6764d-5fac-7e0f-ea3e-a5aee55a8b2d"
+    },
+    {
+      "brand": "clofarabine",
+      "indication": "1 INDICATIONS AND USAGE Clofarabine injection is indicated for the treatment of pediatric patients 1 to 21 years old with relapsed or refractory acute lymphoblastic leukemia after at least two prior regimens. This indication is based upon response rate. There are no trials verifying an improvement in disease-related symptoms or increased survival with clofarabine injection. Clofarabine injection is a nucleoside metabolic inhibitor indicated for the treatment of pediatric patients 1 to 21 years old with relapsed or refractory acute lymphoblastic leukemia after at least two prior regimens. This indication is based upon response rate. There are no trials verifying an improvement in disease-related symptoms or increased survival with clofarabine injection. ( 1 )",
+      "manufacturer": "Mylan Institutional LLC",
+      "splSetId": "1f8ac128-c25d-41f4-9f90-410a792acd66"
+    }
+  ],
+  "id": "Clofarabine",
+  "nciThesaurus": {
+    "casRegistry": "123318-82-1",
+    "chebiId": "CHEBI:47311",
+    "chemicalFormula": "C10H11ClFN5O3",
+    "definition": "A second generation purine nucleoside analog with antineoplastic activity. Clofarabine is phosphorylated intracellularly to the cytotoxic active 5'-triphosphate metabolite, which inhibits the enzymatic activities of ribonucleotide reductase and DNA polymerase, resulting in inhibition of DNA repair and synthesis of DNA and RNA. This nucleoside analog also disrupts mitochondrial function and membrane integrity, resulting in the release of pre-apoptotic factors, including cytochrome C and apoptotic-inducing factors, which activate apoptosis.",
+    "fdaUniiCode": "762RDY0Y2H",
+    "identifier": "C26638",
+    "preferredName": "Clofarabine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1556",
+      "C2150"
+    ],
+    "synonyms": [
+      "2-Chloro-9-(2-deoxy-2-fluoro-beta-D-arabinofuranosyl)-9H-purin-6-amine",
+      "2-Chloro-9-(2-deoxy-2-fluoroarabinofuranosyl)adenine",
+      "CLOFARABINE",
+      "Clofarabine",
+      "Clofarex",
+      "Clolar",
+      "clofarabine"
+    ]
+  }
+}

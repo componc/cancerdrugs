@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Trioxifene",
+  "nciThesaurus": {
+    "casRegistry": "63619-84-1",
+    "chebiId": "",
+    "chemicalFormula": "C30H31NO3",
+    "definition": "A nonsteroidal selective estrogen receptor modulator (SERM) with potential antineoplastic activity.  Trioxifene competes with estradiol in binding to estrogen receptor alpha (ER alpha), thereby inhibiting ER alpha-mediated signal transduction and gene expression. In addition, trioxifene exerts intrinsic estrogenic activity depending on the tissue. Clinical development of trioxifene has not been preceded due to its side effect profile and lack of increased efficacy over tamoxifen.",
+    "fdaUniiCode": "R0130F043H",
+    "identifier": "C1266",
+    "preferredName": "Trioxifene",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1821"
+    ],
+    "synonyms": [
+      "(3,4-Dihydro-2-(4-methoxyphenyl)-1-naphthalenyl)(4-(2-(1-pyrrolidinyl)ethoxy)phenyl) Methanone",
+      "TRIOXIFENE",
+      "Trioxifene"
+    ]
+  }
+}

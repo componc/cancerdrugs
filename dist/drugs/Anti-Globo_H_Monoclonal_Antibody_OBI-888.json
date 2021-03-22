@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-Globo_H_Monoclonal_Antibody_OBI-888",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A monoclonal antibody targeting the hexasaccharide glycosphingolipid antigen Globo H with potential immunostimulating, anti-angiogenic and antineoplastic activities. Upon infusion, anti-Globo H monoclonal antibody OBI-888 may induce tumor cell destruction via the activation of antibody dependent cell-mediated cytotoxicity (ADCC), antibody-dependent cellular phagocytosis (ADCP) and complement-dependent cytotoxicity (CDC), and may reduce immunosuppression. Globo H is a tumor-associated antigen (TAA) expressed on the surface of various types of cancer cells.",
+    "fdaUniiCode": "JI5TBH62QP",
+    "identifier": "C153261",
+    "preferredName": "Anti-Globo H Monoclonal Antibody OBI-888",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C1742",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-Globo H Monoclonal Antibody OBI-888",
+      "OBI 888",
+      "OBI-888",
+      "OBI888"
+    ]
+  }
+}

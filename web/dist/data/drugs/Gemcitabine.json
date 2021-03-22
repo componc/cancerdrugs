@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Gemcitabine",
+  "nciThesaurus": {
+    "casRegistry": "95058-81-4",
+    "chebiId": "CHEBI:175901",
+    "chemicalFormula": "C9H11F2N3O4",
+    "definition": "A broad-spectrum antimetabolite and deoxycytidine analogue with antineoplastic activity. Upon administration, gemcitabine is converted into the active metabolites difluorodeoxycytidine diphosphate (dFdCDP) and difluorodeoxycytidine triphosphate (dFdCTP) by deoxycytidine kinase. dFdCTP competes with deoxycytidine triphosphate (dCTP) and is incorporated into DNA.  This locks DNA polymerase thereby resulting in \"masked termination\" during DNA replication. On the other hand, dFdCDP inhibits ribonucleotide reductase, thereby decreasing the deoxynucleotide pool available for DNA synthesis. The reduction in the intracellular concentration of dCTP potentiates the incorporation of dFdCTP into DNA.",
+    "fdaUniiCode": "B76N6SBZ8R",
+    "identifier": "C66876",
+    "preferredName": "Gemcitabine",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1557",
+      "C2150"
+    ],
+    "synonyms": [
+      "1-(2-Oxo-4-amino-1,2-dihydropyrimidin-1-yl)-2-deoxy-2,2-difluororibose",
+      "2'Deoxy-2',2'-Difluorocytidine",
+      "Difluorodeoxycytidine",
+      "GEMCITABINE",
+      "Gemcitabine",
+      "dFdC",
+      "dFdCyd",
+      "gemcitabine"
+    ]
+  }
+}

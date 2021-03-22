@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "VEGFHGF-targeting_DARPin_MP0250",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A designed ankyrin repeat proteins (DARPin)-based agent targeting vascular endothelial growth factor (VEGF) and hepatocyte growth factor (HGF), with potential antiangiogenic and antineoplastic activities. Compared to antibodies, DARPins are small in size, have favorable pharmacokinetics and allow for both high affinity binding and efficacy. Upon administration, the VEGF/HGF-targeting DARPin MP0250 binds to and inhibits both HGF and VEGF. This prevents HGF- and VEGF-mediated signaling, and inhibits the growth of HGF/VEGF-overexpressing tumor cells. This agent also prevents osteolysis, due to the inhibitory effect on HGF signaling. HGF and VEGF are overexpressed in a variety of cancer cell types and are associated with increased cell proliferation, migration and adhesion.",
+    "fdaUniiCode": "UGI01OSA4N",
+    "identifier": "C117236",
+    "preferredName": "VEGF/HGF-targeting DARPin MP0250",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129824",
+      "C1742"
+    ],
+    "synonyms": [
+      "Bispecific VEGF/HGF-targeting Darpin",
+      "MP-0250",
+      "MP0250",
+      "VEGF/HGF-targeting DARPin MP0250"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Rubraca",
+      "indication": "1 INDICATIONS AND USAGE RUBRACA is a poly (ADP-ribose) polymerase (PARP) inhibitor indicated: Ovarian cancer for the maintenance treatment of adult patients with recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in a complete or partial response to platinum-based chemotherapy. ( 1.1 ) for the treatment of adult patients with a deleterious BRCA mutation (germline and/or somatic)-associated epithelial ovarian, fallopian tube, or primary peritoneal cancer who have been treated with two or more chemotherapies. Select patients for therapy based on an FDA-approved companion diagnostic for RUBRACA. ( 1.1 , 2.1 ) Prostate cancer for the treatment of adult patients with a deleterious BRCA mutation (germline and/or somatic)-associated metastatic castration-resistant prostate cancer (mCRPC) who have been treated with androgen receptor-directed therapy and a taxane-based chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for RUBRACA. ( 1.2 , 2.1 ) This indication is approved under accelerated approval based on objective response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials. ( 1.2 ) 1.1 Ovarian Cancer Rubraca is indicated for the maintenance treatment of adult patients with recurrent epithelial ovarian, fallopian tube, or primary peritoneal cancer who are in a complete or partial response to platinum-based chemotherapy. Rubraca is indicated for the treatment of adult patients with a deleterious BRCA mutation (germline and/or somatic)-associated epithelial ovarian, fallopian tube, or primary peritoneal cancer who have been treated with two or more chemotherapies. Select patients for therapy based on an FDA-approved companion diagnostic for Rubraca [see Dosage and Administration ( 2.1 )]. 1.2 Metastatic Castration-Resistant Prostate Cancer with BRCA Mutations Rubraca is indicated for the treatment of adult patients with a deleterious BRCA mutation (germline and/or somatic)-associated metastatic castration-resistant prostate cancer (mCRPC) who have been treated with androgen receptor-directed therapy and a taxane-based chemotherapy. Select patients for therapy based on an FDA-approved companion diagnostic for Rubraca [see Dosage and Administration ( 2.1 )]. This indication is approved under accelerated approval based on objective response rate and duration of response [see Clinical Studies ( 14.2 )] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials.",
+      "manufacturer": "Clovis Oncology, Inc.",
+      "splSetId": "a6d46c03-bb1d-417b-b8e5-3bffe352fe29"
+    }
+  ],
+  "id": "Rucaparib_Camsylate",
+  "nciThesaurus": {
+    "casRegistry": "1859053-21-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The camsylate salt form of rucaparib, an orally bioavailable tricyclic indole and inhibitor of poly(ADP-ribose) polymerases (PARPs) 1 (PARP1), 2 (PARP2) and 3 (PARP3), with potential chemo/radiosensitizing and antineoplastic activities. Upon administration, rucaparib selectively binds to PARP1, 2 and 3 and inhibits PARP-mediated DNA repair. This enhances the accumulation of DNA strand breaks, promotes genomic instability and induces cell cycle arrest and apoptosis. This may enhance the cytotoxicity of DNA-damaging agents and reverse tumor cell resistance to chemotherapy and radiation therapy. PARPs are enzymes activated by single-strand DNA breaks that catalyze the post-translational ADP-ribosylation of nuclear proteins, which induces signaling and the recruitment of other proteins to repair damaged DNA. The PARP-mediated repair pathway plays a key role in DNA repair and is dysregulated in a variety of cancer cell types.",
+    "fdaUniiCode": "41AX9SJ8KO",
+    "identifier": "C131178",
+    "preferredName": "Rucaparib Camsylate",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C62554"
+    ],
+    "synonyms": [
+      "8-Fluoro-2-(4-((methylamino)methyl)phenyl)-1,3,4,5-tetrahydro-6H-pyrrolo(4,3,2-ef)(2)benzazepin-6-one (7,7-dimethyl-2-oxobicyclo(2.2.1)heptan-1-yl)methanesulfonate (1:1)",
+      "8-Fluoro-2-{4-[(methylamino)methyl]phenyl}-1,3,4,5-tetrahydro-6H-azepino[5,4,3-cd]indol-6-one ((1S,4R)-7,7dimethyl-2-oxobicyclo[2.2.1]hept-1-yl)methanesulfonic Acid Salt",
+      "Bicyclo(2.2.1)heptane-1-methanesulfonic acid, 7,7-dimethyl-2-oxo-, (1S,4R)-, Compound with 8-Fluoro-1,3,4,5-tetrahydro-2-(4-((methylamino)methyl)phenyl)-6H-pyrrolo(4,3,2-ef)(2)benzazepin-6-one (1:1)",
+      "C0-338",
+      "RUCAPARIB CAMSYLATE",
+      "Rubraca",
+      "Rucaparib Camsylate",
+      "Rucaparib Phosphate"
+    ]
+  }
+}

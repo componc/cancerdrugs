@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Actinium_Ac_225_Lintuzumab",
+  "nciThesaurus": {
+    "casRegistry": "2209911-94-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A radioimmunoconjugate consisting of the humanized monoclonal antibody lintuzumab conjugated to the alpha-emitting radioisotope actinium Ac 225 with potential antineoplastic activity. The monoclonal antibody moiety of actinium Ac 225 lintuzumab specifically binds to the cell surface antigen CD33 antigen, delivering a cytotoxic dose of alpha radiation to cells expressing CD33. CD33 is a cell surface antigen expressed on normal non-pluripotent hematopoietic stem cells and overexpressed on myeloid leukemia cells.",
+    "fdaUniiCode": "V860J30J9N",
+    "identifier": "C82414",
+    "preferredName": "Actinium Ac 225 Lintuzumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1511"
+    ],
+    "synonyms": [
+      "225Ac-HuM195",
+      "Actinium (225Ac) Lintuzumab Satetraxetan",
+      "Actinium Ac 225 Lintuzumab",
+      "Actinium-225-Labeled Humanized Anti-CD33 Monoclonal Antibody HuM195",
+      "LINTUZUMAB SATETRAXETAN AC-225",
+      "SGN-33 AC-225"
+    ]
+  }
+}

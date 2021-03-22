@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Buthionine_Sulfoximine",
+  "nciThesaurus": {
+    "casRegistry": "83730-53-4",
+    "chebiId": "",
+    "chemicalFormula": "C8H18N2O3S",
+    "definition": "A synthetic amino acid. Buthionine sulfoximine irreversibly inhibits gamma-glutamylcysteine synthase, thereby depleting cells of glutathione, a metabolite that plays a critical role in protecting cells against oxidative stress, and resulting in free radical-induced apoptosis. Elevated glutathione levels are associated with tumor cell resistance to alkylating agents and platinum compounds. By depleting cells of glutathione, this agent may enhance the in vitro and in vivo cytotoxicities of various chemotherapeutic agents in drug-resistant tumors. Buthionine sulfoximine may also exhibit antiangiogenesis activity.",
+    "fdaUniiCode": "EEY8DZS103",
+    "identifier": "C1029",
+    "preferredName": "Buthionine Sulfoximine",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [],
+    "synonyms": [
+      "2-Amino-4-(S-butylsulfonimidoyl) Butanoic Acid",
+      "BSO",
+      "BUTHIONINE SULFOXIMINE, L-",
+      "Butanoic Acid, 2-Amino-4-(S-butylsulfonimidoyl)-",
+      "Butanoic acid, 2-amino-4-(S-butylsulfonimidoyl)-",
+      "Buthionine Sulfoximine",
+      "Buthionine Sulphoximine",
+      "L-Buthionine Sulfoximine",
+      "L-Buthionine sulfoximine",
+      "S-(3-Amino-3-carboxypropyl)-S-butylsulfoximine",
+      "S-(n-Butyl)homocysteine Sulfoximine",
+      "buthionine sulfoximine"
+    ]
+  }
+}
