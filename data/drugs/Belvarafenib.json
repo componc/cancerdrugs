@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Belvarafenib",
+  "nciThesaurus": {
+    "casRegistry": "1446113-23-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available inhibitor of members of the Raf family of serine/threonine protein kinases, with potential antineoplastic activity. Upon administration, belvarafenib binds to and inhibits the B-Raf mutant V600E and C-Raf. This inhibits B-Raf V600E- and C-Raf-mediated signal transduction pathways, thereby inhibiting tumor cell growth of susceptible tumor cells. In addition, belvarafenib may also inhibit mutated Ras proteins. Raf protein kinases play a key role in the Raf/mitogen-activated protein kinase kinase (MEK)/extracellular signal-related kinase (ERK) signaling pathway, which is often dysregulated in human cancers and plays a key role in tumor cell proliferation and survival. The Raf mutation B-Raf V600E, where the valine at residue 600 is substituted for glutamic acid, is frequently overexpressed in a variety of human tumors and results in the constitutive activation of the Raf/MEK/ERK signaling pathway.",
+    "fdaUniiCode": "31M3WLJ3KG",
+    "identifier": "C121646",
+    "preferredName": "Belvarafenib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2336"
+    ],
+    "synonyms": [
+      "BELVARAFENIB",
+      "Belvarafenib",
+      "HM95573"
+    ]
+  }
+}

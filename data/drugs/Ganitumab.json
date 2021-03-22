@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ganitumab",
+  "nciThesaurus": {
+    "casRegistry": "905703-97-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant, fully human monoclonal antibody directed against the insulin-like growth factor 1 receptor (IGF-1R) with potential antineoplastic activity. Ganitumab binds to membrane-bound IGF-1R, preventing binding of the ligand IGF-1 and the subsequent triggering of the PI3K/Akt signaling pathway; inhibition of this survival signaling pathway may result in the inhibition of tumor cell proliferation and the induction of tumor cell apoptosis. IGF-1R is a tyrosine kinase and a member of the insulin receptor family. IGF-1R activation stimulates cell proliferation, enables oncogenic transformation, and suppresses apoptosis; IGF-1R signaling has been highly implicated in tumorigenesis and metastasis.",
+    "fdaUniiCode": "CK1441RCZ8",
+    "identifier": "C71531",
+    "preferredName": "Ganitumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "AMG 479",
+      "Anti-IGF-1R Human Monoclonal Antibody AMG-479",
+      "GANITUMAB",
+      "Ganitumab"
+    ]
+  }
+}

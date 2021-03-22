@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Patritumab",
+  "nciThesaurus": {
+    "casRegistry": "1262787-83-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fully human monoclonal antibody directed against the membrane-bound receptor HER3 (ERBB3) with potential antineoplastic activity. Patritumab binds to and inhibits HER3 activation, which may result in inhibition of HER3-dependent PI3K/Akt signaling and so inhibition of cellular proliferation and differentiation. HER3, a member of the epidermal growth factor receptor (EGFR) family of receptor tyrosine kinases, is frequently overexpressed in solid tumors, including breast, lung, and colorectal tumors of epithelial origin; it has no active kinase domain itself but is activated through heterodimerization with other members of the EGFR receptor family that do.",
+    "fdaUniiCode": "86780VJI1Q",
+    "identifier": "C78853",
+    "preferredName": "Patritumab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C20401"
+    ],
+    "synonyms": [
+      "AMG 888",
+      "PATRITUMAB",
+      "Patritumab",
+      "U3-1287"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Imgatuzumab",
+  "nciThesaurus": {
+    "casRegistry": "959963-46-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A glycoengineered monoclonal antibody directed against the epidermal growth factor receptor (EGFR) with potential antineoplastic activity. Imgatuzumab binds to the extracellular domain of EGFR, preventing the activation and subsequent dimerization of the receptor; the decrease in receptor activation and dimerization may result in an inhibition of downstream ERK and JNK signaling pathways and so inhibition of EGFR-dependent tumor cell proliferation and metastasis.  EGFR, a member of the epidermal growth factor family of extracellular protein ligands, may be overexpressed on the cell surfaces of various solid tumor cell types.",
+    "fdaUniiCode": "V77J4WJF9Z",
+    "identifier": "C78838",
+    "preferredName": "Imgatuzumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C133878"
+    ],
+    "synonyms": [
+      "Anti-Epidermal Growth Factor Receptor Monoclonal Antibody RO5083945",
+      "GA-201",
+      "GA201",
+      "IMGATUZUMAB",
+      "Imgatuzumab",
+      "RG 7160",
+      "RG-7160",
+      "RG7160"
+    ]
+  }
+}

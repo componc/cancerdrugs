@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ispinesib",
+  "nciThesaurus": {
+    "casRegistry": "336113-53-2",
+    "chebiId": "",
+    "chemicalFormula": "C30H33ClN4O2",
+    "definition": "A synthetic small molecule, derived from quinazolinone, with antineoplastic properties. Ispinesib selectively inhibits the mitotic motor protein, kinesin spindle protein (KSP), resulting in inhibition of mitotic spindle assembly, induction of cell cycle arrest during the mitotic phase, and cell death in tumor cells that are actively dividing. Because KSP is not involved in nonmitotic processes, such as neuronal transport, ispinesib may be less likely to cause the peripheral neuropathy often associated with the tubulin-targeting agents.",
+    "fdaUniiCode": "BKT5F9C2NI",
+    "identifier": "C38131",
+    "preferredName": "Ispinesib",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C67440"
+    ],
+    "synonyms": [
+      "CK0238273",
+      "ISPINESIB",
+      "Ispinesib",
+      "SB-715992",
+      "ispinesib"
+    ]
+  }
+}

@@ -1,0 +1,32 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Simlukafusp_Alfa",
+  "nciThesaurus": {
+    "casRegistry": "1776942-10-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant fusion protein comprised of a human monoclonal antibody directed against fibroblast activation protein-alpha (FAP) linked to an engineered, variant form of interleukin-2 (IL-2v), with potential immunostimulating and antineoplastic activities. Upon administration of simlukafusp alfa, the monoclonal antibody moiety recognizes and binds to FAP, thereby concentrating IL-2 in FAP-expressing tumor tissue. Subsequently, the IL-2 moiety of this fusion protein may stimulate a local immune response and activate natural killer (NK) cells and cytotoxic T-cells. FAP is a cell surface protein that is expressed on a wide variety of cancer cells. IL-2v cannot bind to IL-2 receptor-alpha (CD25, IL2Ra) and does not activate regulatory T-cells (Tregs).",
+    "fdaUniiCode": "FL08SGO9XA",
+    "identifier": "C129383",
+    "preferredName": "Simlukafusp Alfa",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2139"
+    ],
+    "synonyms": [
+      "Anti-FAP/Interleukin-2 Fusion Protein RO6874281",
+      "FAP-IL2v FP RO6874281",
+      "FAP-IL2v RO6874281",
+      "RG 7461",
+      "RG-7461",
+      "RG7461",
+      "RO 6874281",
+      "RO-6874281",
+      "RO6874281",
+      "SIMLUKAFUSP ALFA",
+      "Simlukafusp Alfa",
+      "aFAP-IL2v RO6874281"
+    ]
+  }
+}

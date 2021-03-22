@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Magrolimab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody targeting the human cell surface antigen CD47, with potential immunostimulating and antineoplastic activities. Upon administration, magrolimab selectively binds to CD47 expressed on tumor cells and blocks the interaction of CD47 with its ligand signal regulatory protein alpha (SIRPa), a protein expressed on phagocytic cells. This prevents CD47/SIRPa-mediated signaling, allows the activation of macrophages, through the induction of pro-phagocytic signaling mediated by calreticulin, which is specifically expressed on the surface of tumor cells, and results in specific tumor cell phagocytosis. In addition, blocking CD47 signaling activates an anti-tumor T-lymphocyte immune response and T-mediated cell killing. CD47, a tumor associated antigen expressed on normal, healthy hematopoietic stem cells (HSC), is overexpressed on the surface of a variety of cancer cells. Expression of CD47, and interaction with SIRP-alpha, leads to inhibition of macrophages and protects cancer cells from phagocytosis thereby allowing cancer cells to proliferate.",
+    "fdaUniiCode": "90YIEHRFJ9",
+    "identifier": "C117730",
+    "preferredName": "Magrolimab",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C159583"
+    ],
+    "synonyms": [
+      "Hu5F9-G4",
+      "MAGROLIMAB",
+      "Magrolimab"
+    ]
+  }
+}

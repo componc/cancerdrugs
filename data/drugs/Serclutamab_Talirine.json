@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Serclutamab_Talirine",
+  "nciThesaurus": {
+    "casRegistry": "2140174-56-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A antibody drug conjugate (ADC) consisting of serclutamab, an affinity-matured humanized monoclonal antibody directed against the epidermal growth factor receptor (EGFR) conjugated to a talirine, a cytotoxic, DNA minor groove crosslinking agent and pyrrolobenzodiazepine (PBD) dimer, with potential antineoplastic activity. Upon intravenous administration of serclutamab talirine, the serclutamab moiety targets and binds to EGFR on tumor cell surfaces. Following receptor internalization and lysosome-mediated cleavage, talirine is released. In turn, the imine groups of the PBD moiety bind to the N2 positions of guanines on opposite strands of DNA. This induces DNA strand breaks, inhibits DNA replication, leads to G2/M cell cycle arrest, induces cell death, and inhibits the proliferation of EGFR-overexpressing tumor cells. EGFR, a receptor tyrosine kinase (RTK) that is overexpressed by a variety of cancers, plays a key role in tumor cell proliferation and survival.",
+    "fdaUniiCode": "7W0O278T12",
+    "identifier": "C150590",
+    "preferredName": "Serclutamab Talirine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "ABBV 321",
+      "ABBV-321",
+      "ABBV321",
+      "ADC ABBV-321",
+      "Anti-EGFR/PBD ADC ABBV-321",
+      "SERCLUTAMAB TALIRINE",
+      "Serclutamab Talirine"
+    ]
+  }
+}

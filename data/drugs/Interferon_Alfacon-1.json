@@ -1,0 +1,35 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Interferon_Alfacon-1",
+  "nciThesaurus": {
+    "casRegistry": "118390-30-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An analogue of consensus interferon which contains an additional methionyl amino acid residue.  Consensus interferon (also known as interferon alfacon-1, rCon-IFN, and CIFN) is a genetically engineered synthetic interferon created from the most common amino acid sequences from the naturally occurring alpha interferons.  Alpha interferons bind to specific cell-surface receptors, resulting in the transcription and translation of genes whose protein products have antiviral, antiproliferative, anticancer, and immune-modulating effects.",
+    "fdaUniiCode": "56588OP40D",
+    "identifier": "C1766",
+    "preferredName": "Interferon Alfacon-1",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C225"
+    ],
+    "synonyms": [
+      "Advaferon",
+      "CIFN",
+      "Consensus Interferon",
+      "IFN Alfacon-1",
+      "INTERFERON ALFACON-1",
+      "Infergen",
+      "Interferon Alfacon-1",
+      "Interferon Consensus, Methionyl",
+      "Methionyl Interferon Consensus",
+      "Methionyl-Interferon-Consensus",
+      "Recombinant Consensus Interferon",
+      "Recombinant methionyl human consensus interferon",
+      "interferon consensus, methionyl",
+      "methionyl interferon consensus",
+      "r-metHuIFN-Con1"
+    ]
+  }
+}

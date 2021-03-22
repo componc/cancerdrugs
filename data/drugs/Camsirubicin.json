@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Camsirubicin",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic non-cardiotoxic analogue of the anthracycline antibiotic doxorubicin with potential antineoplastic activity. Camsirubicin intercalates DNA and impedes the activity of topoisomerase II, inducing single and double-stranded breaks in DNA; inhibiting DNA replication and/or repair, transcription, and protein synthesis; and activating tumor cell apoptosis.",
+    "fdaUniiCode": "VI79RD8VNN",
+    "identifier": "C78863",
+    "preferredName": "Camsirubicin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1594"
+    ],
+    "synonyms": [
+      "5-Imino-13-deoxydoxoubicin",
+      "CAMSIRUBICIN",
+      "Camsirubicin",
+      "GPX-150",
+      "GPX150"
+    ]
+  }
+}

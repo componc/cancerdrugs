@@ -1,0 +1,37 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "PADCEV EJFV",
+      "indication": "1 INDICATIONS AND USAGE PADCEV TM is indicated for the treatment of adult patients with locally advanced or metastatic urothelial cancer (mUC) who have previously received a programmed death receptor-1 (PD-1) or programmed death-ligand 1 (PD-L1) inhibitor, and a platinum-containing chemotherapy in the neoadjuvant/adjuvant, locally advanced or metastatic setting. This indication is approved under accelerated approval based on tumor response rate [see Clinical Studies ( 14.1 )] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials. PADCEV is a Nectin-4-directed antibody and microtubule inhibitor conjugate indicated for the treatment of adult patients with locally advanced or metastatic urothelial cancer who have previously received a programmed death receptor-1 (PD-1) or programmed death-ligand 1 (PD-L1) inhibitor, and a platinum-containing chemotherapy in the neoadjuvant/adjuvant, locally advanced or metastatic setting. ( 1 ) This indication is approved under accelerated approval based on tumor response rate. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials. ( 14.1 )",
+      "manufacturer": "Seattle Genetics, Inc.",
+      "splSetId": "b5631d3e-4604-4363-8f20-11dfc5a4a8ed"
+    }
+  ],
+  "id": "Enfortumab_Vedotin",
+  "nciThesaurus": {
+    "casRegistry": "1346452-25-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody drug conjugate (ADC) containing a human monoclonal antibody AGS-22 targeting the cell adhesion molecule nectin-4 and conjugated to the cytotoxic agent monomethyl auristatin E (MMAE), via a proprietary enzyme-cleavable linker (AGS-22CE), with potential antineoplastic activity. The monoclonal antibody moiety of enfortumab vedotin selectively binds to nectin-4. After internalization and proteolytic cleavage, MMAE binds to tubulin and inhibits its polymerization, which results in G2/M phase arrest and induces apoptosis in nectin-4 overexpressing tumor cells. Nectin-4, a tumor associated antigen belonging to the nectin family, is overexpressed in a variety of cancers, including breast, bladder, lung and pancreatic cancer.",
+    "fdaUniiCode": "DLE8519RWM",
+    "identifier": "C114500",
+    "preferredName": "Enfortumab Vedotin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "AGS 22ME",
+      "AGS-22M6E",
+      "ASG-22CE",
+      "Anti-Nectin 4 ADC ASG-22CE",
+      "Anti-nectin-4 Monoclonal Antibody-Drug Conjugate AGS-22M6E",
+      "ENFORTUMAB VEDOTIN",
+      "Enfortumab Vedotin",
+      "Enfortumab Vedotin-ejfv",
+      "Padcev"
+    ]
+  }
+}

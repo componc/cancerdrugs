@@ -1,0 +1,32 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Hexamethylene_Bisacetamide",
+  "nciThesaurus": {
+    "casRegistry": "3073-59-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A hybrid polar-planar compound with potential antineoplastic activity that induces terminal differentiation, inhibits cell growth, and causes apoptosis in several tumor cell lines.  Its precise mechanism of action is unknown.",
+    "fdaUniiCode": "LA133J59VU",
+    "identifier": "C1125",
+    "preferredName": "Hexamethylene Bisacetamide",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1934",
+      "C292"
+    ],
+    "synonyms": [
+      "Acetamide, N,N'-1, 6-hexanediylbis-",
+      "Acetamide, N,N'-hexamethylenebis-",
+      "HEXAMETHYLENE BISACETAMIDE",
+      "HMBA",
+      "Hexamethylene Bisacetamide",
+      "Hexamethylene bisacetamide",
+      "Hexamethylenebisacetamide",
+      "Hexamethylenediacetamide",
+      "N, N'-Diacetylhexamethylenediamine",
+      "N,N'-1,6-Hexanediylbisacetamide",
+      "N,N'-Hexamethylenebisacetamide"
+    ]
+  }
+}

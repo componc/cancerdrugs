@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Dolastatin_10",
+  "nciThesaurus": {
+    "casRegistry": "110417-88-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A pentapeptide originally isolated from the marine mollusk Dolabella auricularia with potential antineoplastic activity.  Binding to tubulin, Dolastatin 10 inhibits microtubule assembly, resulting in the formation of tubulin aggregates and inhibition of mitosis.  This agent also induces tumor cell apoptosis through a mechanism involving bcl-2, an oncoprotein that is overexpressed in some cancers.",
+    "fdaUniiCode": "EI946JT51X",
+    "identifier": "C1300",
+    "preferredName": "Dolastatin 10",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1893",
+      "C67422"
+    ],
+    "synonyms": [
+      "B720389K560",
+      "DOLASTATIN 10",
+      "Dolastatin 10",
+      "Dolastatin-10",
+      "L-Valinamide, N,N-dimethyl-L-valyl-N-[2-methoxy-4-[2-[1- methoxy-2-methyl-3-oxo-3-[[2-phenyl-1-(2-thiazolyl)ethyl]amino]propyl]-1-pyrrolidinyl]-1-(1-methylpropyl)-4-oxobutyl]-N-methyl-, [2S-[1[1R*(R*),2S*],2R*[1S*,2S*,3(R*)]]]",
+      "dolastatin 10"
+    ]
+  }
+}

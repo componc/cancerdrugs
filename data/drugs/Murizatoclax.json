@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Murizatoclax",
+  "nciThesaurus": {
+    "casRegistry": "2245848-05-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An inhibitor of induced myeloid leukemia cell differentiation protein (myeloid cell leukemia-1; Mcl-1; Bcl2-L-3), with potential pro-apoptotic and antineoplastic activities. Upon administration, MCL-1 inhibitor AMG 397 targets and binds to Mcl-1, thereby preventing the binding of Mcl-1 to and inactivation of certain pro-apoptotic proteins. This promotes apoptosis of cells overexpressing Mcl-1. Mcl-1, an anti-apoptotic protein belonging to the B-cell lymphoma 2 (Bcl-2) family of proteins, is upregulated in cancer cells and promotes tumor cell survival.",
+    "fdaUniiCode": "BO0V7196L2",
+    "identifier": "C156740",
+    "preferredName": "Murizatoclax",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C137990"
+    ],
+    "synonyms": [
+      "AMG 397",
+      "AMG-397",
+      "AMG397",
+      "MCL-1 inhibitor AMG 397",
+      "MURIZATOCLAX",
+      "Murizatoclax",
+      "Myeloid Cell Leukemia 1 Inhibitor AMG 397"
+    ]
+  }
+}

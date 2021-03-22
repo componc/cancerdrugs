@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Cyclodisone",
+  "nciThesaurus": {
+    "casRegistry": "99591-73-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A cyclic sulfonate ester with potential antineoplastic activity.  As an alkylating agent, clyclodisone induces the formation of DNA interstrand crosslinks, DNA strand breaks, and alkali-labile lesions in the DNA of some tumor cell lines.  Alkylating agents exert cytotoxic and chemotherapeutic effects by transferring alkyl groups to DNA, thereby damaging DNA and interfering with DNA synthesis and cell division.",
+    "fdaUniiCode": "7YFV4WN79I",
+    "identifier": "C28899",
+    "preferredName": "Cyclodisone",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C222"
+    ],
+    "synonyms": [
+      "CYCLODISONE",
+      "Cyclodisone"
+    ]
+  }
+}

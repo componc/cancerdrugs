@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Triapine",
+  "nciThesaurus": {
+    "casRegistry": "236392-56-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic heterocyclic carboxaldehyde thiosemicarbazone with potential antineoplastic activity. Triapine inhibits the enzyme ribonucleotide reductase, resulting in the inhibition of the conversion of ribonucleoside diphosphates to deoxyribonucleotides necessary for DNA synthesis. This agent has been shown to inhibit tumor growth in vitro.",
+    "fdaUniiCode": "U4XIL4091C",
+    "identifier": "C2242",
+    "preferredName": "Triapine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2150"
+    ],
+    "synonyms": [
+      "3-AP",
+      "3-Aminopyridine-2-carboxaldehyde Thiosemicarbazone",
+      "3-Apct",
+      "3-aminopyridine-2-carboxaldehyde thiosemicarbazone",
+      "OCX-0191",
+      "OCX-191",
+      "OCX191",
+      "PAN-811",
+      "Triapine"
+    ]
+  }
+}

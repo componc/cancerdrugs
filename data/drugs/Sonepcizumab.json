@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Sonepcizumab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody directed against sphingosine 1-phosphate (S1P) with potential antiangiogenic and antineoplastic activities. Upon administration, sonepcizumab binds S1P, which may result in the inhibition of tumor angiogenesis. S1P is the extracellular ligand for the G protein-coupled lysophospholipid receptor EDG-1 (endothelial differentiation gene-1).",
+    "fdaUniiCode": "O4T5UXS4P2",
+    "identifier": "C78195",
+    "preferredName": "Sonepcizumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1742",
+      "C20401"
+    ],
+    "synonyms": [
+      "Asonep",
+      "LT1009",
+      "SONEPCIZUMAB",
+      "Sonepcizumab"
+    ]
+  }
+}

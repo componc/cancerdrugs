@@ -1,0 +1,39 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "GUNA-INF ALPHA",
+      "indication": "INDICATIONS & USAGE RECURRENT VIRAL INFECTIONS",
+      "manufacturer": "Guna spa",
+      "splSetId": "f96495b5-1ffe-432c-adcf-b2db9cfd1405"
+    }
+  ],
+  "id": "Recombinant_Interferon_Alfa-2a",
+  "nciThesaurus": {
+    "casRegistry": "76543-88-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A non-glycosylated recombinant human alpha interferon, subtype 2a, produced in the bacterium E. coli.  Interferon alpha-2a binds to its specific cell-surface receptor, resulting in the transcription and translation of genes whose protein products have antiviral, antiproliferative, anticancer, and immune modulating effects.",
+    "fdaUniiCode": "47RRR83SK7",
+    "identifier": "C1952",
+    "preferredName": "Recombinant Interferon Alfa-2a",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C225"
+    ],
+    "synonyms": [
+      "Alpha 2 Interferon",
+      "IFN alpha-2A",
+      "IFN-Alpha 2",
+      "INTERFERON ALFA-2A",
+      "Interferon alfa 2a",
+      "Laroferon",
+      "Recombinant Interferon Alfa-2a",
+      "Recombinant Interferon Alpha-2a",
+      "Roceron-A",
+      "Roferon A",
+      "Roferon-A",
+      "rHuIFN-a 2a"
+    ]
+  }
+}

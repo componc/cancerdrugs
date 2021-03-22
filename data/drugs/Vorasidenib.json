@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Vorasidenib",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available inhibitor of mutated forms of both isocitrate dehydrogenase type 1 (IDH1, IDH1 [NADP+] soluble) in the cytoplasm and type 2 (IDH2, isocitrate dehydrogenase [NADP+], mitochondrial) in the mitochondria, with potential antineoplastic activity. Upon administration, vorasidenib specifically inhibits mutant forms of IDH1 and IDH2, thereby inhibiting the formation of the oncometabolite 2-hydroxyglutarate (2HG) from alpha-ketoglutarate (a-KG). This prevents 2HG-mediated signaling and leads to both an induction of cellular differentiation and an inhibition of cellular proliferation in tumor cells expressing IDH mutations. In addition, vorasidenib is able to penetrate the blood-brain barrier (BBB). IDH1 and 2, metabolic enzymes that catalyze the conversion of isocitrate into a-KG, play key roles in energy production and are mutated in a variety of cancer cell types. In addition, mutant forms of IDH1 and 2 catalyze the formation of 2HG and drive cancer growth by blocking cellular differentiation and inducing cellular proliferation.",
+    "fdaUniiCode": "789Q85GA8P",
+    "identifier": "C152914",
+    "preferredName": "Vorasidenib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C137826"
+    ],
+    "synonyms": [
+      "AG 881",
+      "AG-881",
+      "AG881",
+      "VORASIDENIB",
+      "Vorasidenib"
+    ]
+  }
+}

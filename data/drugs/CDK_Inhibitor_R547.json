@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "CDK_Inhibitor_R547",
+  "nciThesaurus": {
+    "casRegistry": "741713-40-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable diaminopyrimidine compound and a cyclin-dependent kinase (CDK) inhibitor with potential antineoplastic activity. CDKs are ATP-dependent serine/threonine kinases that are important regulators of cell cycle progression and are frequently overexpressed in cancerous cells. R547 selectively binds to and inhibits CDKs, especially CDK1/cyclin B, CDK2/cyclin E, and CDK4/cyclin D1. The inhibition of CDKs results in cell cycle arrest, inhibition of tumor cell proliferation, and induction of apoptosis. By inhibiting CDK activity, R547 also reduces phosphorylation of the retinoblastoma (Rb) protein, thereby preventing activation of transcription factor E2F and leading to further suppression of tumor cell proliferation.",
+    "fdaUniiCode": "T61871RKRI",
+    "identifier": "C64544",
+    "preferredName": "CDK Inhibitor R547",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C129825",
+      "C2185"
+    ],
+    "synonyms": [
+      "CDK Inhibitor R547",
+      "Cyclin Dependent Kinase Inhibitor R547",
+      "Cyclin-Dependent Kinase Inhibitor R547",
+      "R 547",
+      "R-547",
+      "R547",
+      "RO 4584820",
+      "RO-4584820",
+      "RO4584820"
+    ]
+  }
+}

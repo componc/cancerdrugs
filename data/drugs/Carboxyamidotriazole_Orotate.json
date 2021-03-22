@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Carboxyamidotriazole_Orotate",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The orotate salt form of carboxyamidotriazole (CAI), an orally bioavailable small molecule with potential antiangiogenic and antiproliferative activities. Carboxyamidotriazole binds to and inhibits non-voltage-operated calcium channels, blocking both Ca2+ influx into cells and Ca2+ release from intracellular stores, resulting in the disruption of calcium channel-mediated signal transduction. CAI inhibits PI3 activity and vascular endothelial growth factor (VEGF) signaling. This may inhibit endothelial proliferation, tumor cell growth, invasion and metastasis.",
+    "fdaUniiCode": "776C212QQH",
+    "identifier": "C91090",
+    "preferredName": "Carboxyamidotriazole Orotate",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1742",
+      "C2189"
+    ],
+    "synonyms": [
+      "1,2,3-Carboxyamido-triazole Orotate",
+      "CARBOXYAMIDOTRIAZOLE OROTATE",
+      "CTO",
+      "Carboxyamidotriazole Orotate"
+    ]
+  }
+}

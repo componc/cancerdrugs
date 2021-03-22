@@ -1,0 +1,40 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Teniposide",
+      "indication": "INDICATIONS AND USAGE Teniposide Injection, in combination with other approved anticancer agents, is indicated for induction therapy in patients with refractory childhood acute lymphoblastic leukemia.",
+      "manufacturer": "WG Critical Care, LLC",
+      "splSetId": "f19cf6d7-a1c8-42ec-844c-c798512139d9"
+    }
+  ],
+  "id": "Teniposide",
+  "nciThesaurus": {
+    "casRegistry": "29767-20-2",
+    "chebiId": "",
+    "chemicalFormula": "C32H32O13S",
+    "definition": "A semisynthetic derivative of podophyllotoxin with antineoplastic activity. Teniposide forms a ternary complex with the enzyme topoisomerase II and DNA, resulting in dose-dependent single- and double-stranded breaks in DNA, DNA: protein cross-links, inhibition of DNA strand religation, and cytotoxicity. This agent acts in the late S or early G phase of the cell cycle.",
+    "fdaUniiCode": "957E6438QA",
+    "identifier": "C857",
+    "preferredName": "Teniposide",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1331"
+    ],
+    "synonyms": [
+      "4'-Demethylepipodophyllotoxin 9-(4,6-O-2-Thenylidene-beta-D-glucopyranoside)",
+      "4'-Demethylepipodophyllotoxin-beta-D-thenylidine Glucoside",
+      "EPT",
+      "PTG",
+      "TENIPOSIDE",
+      "Teniposide",
+      "Thenylidene Lignan",
+      "VM 26",
+      "VM-26",
+      "Vehem",
+      "Vumon",
+      "[5R-[5Alpha,5a beta,8a alpha, 9beta(R*)]]-5,8,8a,9-tetrahydro-5-(4-hydroxy-3,5-dimethoxyphenyl)-9-[[4,6-O-(2-thienylmethylene)-beta-D-glucopyranosyl]oxy]furo[3',4':6,7]-naphtho[2,3-d]-1,3-dioxol-6(5aH)-one",
+      "teniposide"
+    ]
+  }
+}

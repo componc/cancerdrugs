@@ -1,0 +1,33 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Nogapendekin_Alfa",
+  "nciThesaurus": {
+    "casRegistry": "1622189-43-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fusion protein complex composed of a mutated form of the cytokine interleukin (IL)-15 (IL-15N72D) and a soluble, dimeric IL-15 receptor alpha (IL-15Ra) Fc fusion protein (IL-15Ra-Fc) (IL-15N72D/IL-15Ra-Fc), with potential antineoplastic activity. Upon administration, superagonist interleukin-15:interleukin-15 receptor alphaSu/Fc fusion complex N-803 binds to the IL-2/IL-15 receptor beta-common gamma chain (IL-2Rbetagamma) receptor on natural killer (NK) and CD8+ T lymphocytes, which activates and increases the levels of NK cells and memory CD8+(CD44high) T-cells. The memory T-cells enhance the secretion of the cytokine interferon-gamma (IFN-g), which further potentiates the immune response against tumor cells. This may increase tumor cell killing and decrease tumor cell proliferation. IL-15 regulates CD8+ T and NK cell development, activation and proliferation. By coupling IL-15 to IL15Ra-Fc, this agent has a prolonged drug half-life and shows an increased ability to bind IL-2Rbetagamma, which enhances its immune stimulatory activity as compared to IL-15 alone.",
+    "fdaUniiCode": "7TK323DLA0",
+    "identifier": "C107503",
+    "preferredName": "Nogapendekin Alfa",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129820",
+      "C129821"
+    ],
+    "synonyms": [
+      "ALT 803",
+      "ALT-803",
+      "ALT803",
+      "Fusion Protein Consisting of IL-15N72D and IL-15RaSu/FC",
+      "IL-15N72D/IL-15Ra-Fc",
+      "IL-15N72D:IL-15RaSu/Fc Fusion Complex",
+      "N 803",
+      "N-803",
+      "N803",
+      "NOGAPENDEKIN ALFA",
+      "Nogapendekin Alfa",
+      "Superagonist Interleukin-15:Interleukin-15 Receptor AlphaSu/Fc Fusion Complex Alt-803"
+    ]
+  }
+}

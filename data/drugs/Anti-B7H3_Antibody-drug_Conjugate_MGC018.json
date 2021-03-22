@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-B7H3_Antibody-drug_Conjugate_MGC018",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) comprised of an anti-B7-homolog 3 (B7-H3, CD276) humanized immunoglobulin G1 (IgG1)/kappa monoclonal antibody conjugated through reduced interchain disulfides to the cleavable linker-duocarmycin payload, valine-citrulline-seco DUocarmycin hydroxyBenzamide Azaindole (vc-seco-DUBA), with potential antineoplastic activity. Upon administration, the antibody moiety of anti-B7-H3 ADC MGC018 specifically targets and binds to the cell surface antigen B7-H3, leading to internalization of the ADC by the tumor cell. The linker is cleaved inside the tumor cell by proteases at the dipeptide valine-citrulline (vc), thereby releasing the duocarmycin payload. Duocarmycin binds to the minor groove of DNA, alkylates adenine at the N3 position, and induces cell death. B7-H3, a type I transmembrane protein and a member of the B7 co-stimulatory protein superfamily, is overexpressed on certain tumor cell types and on various immune cells but is minimally expressed by normal human tissues. B7-H3 is a negative regulator of T-cell activation and its overexpression plays a key role in immuno-evasion, tumor cell invasion and metastasis, and its expression is correlated with poor prognosis.",
+    "fdaUniiCode": "2ZK3D69DQJ",
+    "identifier": "C159495",
+    "preferredName": "Anti-B7H3 Antibody-drug Conjugate MGC018",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "Anti-B7H3 ADC",
+      "Anti-B7H3 Antibody-drug Conjugate MGC018",
+      "MG-C018",
+      "MGC 018",
+      "MGC-018",
+      "MGC018"
+    ]
+  }
+}

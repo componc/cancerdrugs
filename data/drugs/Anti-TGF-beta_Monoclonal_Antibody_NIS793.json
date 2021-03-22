@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-TGF-beta_Monoclonal_Antibody_NIS793",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A monoclonal antibody directed against human transforming growth factor beta (TGF-beta), with potential antineoplastic activity. Anti-TGF-beta monoclonal antibody NIS793 specifically targets and binds to TGF-beta, thereby preventing the activation of TGF-beta-mediated signaling pathways. TGF-beta, a pro-inflammatory mediator that is mutated and/or overexpressed in a number of cancer cell types, is involved in cancer cell proliferation and migration, and tumor progression.",
+    "fdaUniiCode": "W2OR26S7UE",
+    "identifier": "C132250",
+    "preferredName": "Anti-TGF-beta Monoclonal Antibody NIS793",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-TGF-beta Monoclonal Antibody NIS793",
+      "NIS-793",
+      "NIS793"
+    ]
+  }
+}

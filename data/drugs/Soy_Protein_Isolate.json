@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Viatrexx- Sinister 7",
+      "indication": "Uses For sensitivities to common foods.",
+      "manufacturer": "VIATREXX BIO INCORPORATED",
+      "splSetId": "e313939c-bccf-4af9-8421-1d11e7b0eb47"
+    }
+  ],
+  "id": "Soy_Protein_Isolate",
+  "nciThesaurus": {
+    "casRegistry": "9010-10-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A dietary protein isolated from soybeans that contains isoflavone phytoestrogens.  Soy protein isolate has been shown to reduce tumor incidence and growth in some animal studies, possibly by modulating estrogen metabolism, reducing tumor cell proliferation, and inducing tumor cell apoptosis.  Soy protein isolate may also inhibit endothelial cell proliferation.  Isoflavone phytoestrogens display mild estrogen-like activities which may regulate hormone balance and reduce the risks of breast cancer, heart disease, and osteoporosis.",
+    "fdaUniiCode": "R44IWB3RN5",
+    "identifier": "C1803",
+    "preferredName": "Soy Protein Isolate",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1505"
+    ],
+    "synonyms": [
+      "SOY PROTEIN",
+      "Soy Protein Isolate",
+      "Soybean Protein Isolate"
+    ]
+  }
+}

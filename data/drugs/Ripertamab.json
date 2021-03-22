@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ripertamab",
+  "nciThesaurus": {
+    "casRegistry": "2249927-04-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A chimeric monoclonal antibody directed against human CD20, with potential antineoplastic activity. Ripertamab binds to the B-cell-specific cell surface antigen CD20, which triggers an immune response against CD20-positive B-cells, leading to apoptosis. CD20, a non-glycosylated cell surface phosphoprotein, is exclusively expressed on B-cells during most stages of B-cell development and is often overexpressed in B-cell malignancies.",
+    "fdaUniiCode": "URS0374MIV",
+    "identifier": "C122680",
+    "preferredName": "Ripertamab",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C129822",
+      "C141215"
+    ],
+    "synonyms": [
+      "Anti-CD20 Monoclonal Antibody SCT400",
+      "RIPERTAMAB",
+      "Ripertamab",
+      "SCT400"
+    ]
+  }
+}

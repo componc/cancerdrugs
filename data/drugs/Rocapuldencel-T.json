@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Rocapuldencel-T",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A cancer vaccine in which autologous dendritic cells are transfected with patient-specific renal cell carcinoma (RCC) RNA and a synthetic, truncated human CD40 ligand (CD40L) RNA with potential immunostimulatory and antineoplastic activities. Individual RCC-specific RNA, encoding a unique repertoire of tumor-associated antigens (TAAs) (including telomerase reverse transcriptase, G250, and oncofetal antigen) is electroporated into autologous dendritic cells (DCs), transfected with synthetic RNA that encodes a truncated version of the T-cell protein CD40L; the transfected autologous DCs express and process both patient-specific RCC TAAs and the truncated CD40L protein. When reintroduced back to the patient, rocapuldencel-T may elicit a highly specific cytotoxic T-cell (CTL) response against RCC cells expressing the patient-specific RCC TAA repertoire. The signal cascade initiated by stimulation of the truncated, ectopically expressed co-stimulatory molecule CD40L results in the secretion of the inflammatory cytokine IL-12 downstream.",
+    "fdaUniiCode": "8I9S6401XZ",
+    "identifier": "C77907",
+    "preferredName": "Rocapuldencel-T",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C28310"
+    ],
+    "synonyms": [
+      "AGS-003",
+      "CMN-001",
+      "ROCAPULDENCEL-T",
+      "Rocapuldencel-T"
+    ]
+  }
+}

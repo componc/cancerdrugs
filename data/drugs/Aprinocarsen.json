@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Aprinocarsen",
+  "nciThesaurus": {
+    "casRegistry": "151879-73-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic phosphorothioate oligodeoxynucleotide. As an antisense molecule, aprinocarsen hybridizes to the 3-untranslated region of the human protein kinase C (PKC-alpha) mRNA, thereby inhibiting PKC-alpha expression and growth of PKC-alpha-dependent tumor cells.",
+    "fdaUniiCode": "FMT95051CQ",
+    "identifier": "C1788",
+    "preferredName": "Aprinocarsen",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1291"
+    ],
+    "synonyms": [
+      "APRINOCARSEN",
+      "Affinitac",
+      "Affinitak",
+      "Aprinocarsen",
+      "CGP 64128A",
+      "DNA, d(P-thio)(G-T-T-C-T-C-G-C-T-G-G-T-G-A-G-T-T-T-C-A)",
+      "DNA, d(P-thio)(GTTCTCGCTGGTGAGTTTCA)",
+      "ISIS 3521",
+      "LY900003",
+      "Protein Kinase C-Alpha Antisense"
+    ]
+  }
+}

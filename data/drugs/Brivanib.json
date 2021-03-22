@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Brivanib",
+  "nciThesaurus": {
+    "casRegistry": "649735-46-6",
+    "chebiId": "",
+    "chemicalFormula": "C19H19FN4O3",
+    "definition": "A pyrrolotriazine-based compound and an inhibitor of vascular endothelial growth factor receptor-2 (VEGFR-2) with potential antineoplastic activity. BMS-540215 specifically targets and binds strongly to human VEGFR-2, a tyrosine kinase receptor and pro-angiogenic growth factor expressed almost exclusively on vascular endothelial cells. Blockade of VEGFR-2 by this agent may lead to an inhibition of VEGF-stimulated endothelial cell migration and proliferation, thereby inhibiting tumor angiogenesis.",
+    "fdaUniiCode": "DDU33B674I",
+    "identifier": "C67040",
+    "preferredName": "Brivanib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1742",
+      "C1967"
+    ],
+    "synonyms": [
+      "(R)-1-(4-(4-Fluoro-2-methyl-1H-indol-5-yloxy)-5- methylpyrrolo[2,1-f][1,2,4]triazin-6-yloxy)propan- 2-ol",
+      "BMS-540215",
+      "BRIVANIB",
+      "Brivanib",
+      "VEGFR2 Inhibitor BMS-540215",
+      "brivanib"
+    ]
+  }
+}

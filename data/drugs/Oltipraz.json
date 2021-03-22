@@ -1,0 +1,32 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Oltipraz",
+  "nciThesaurus": {
+    "casRegistry": "64224-21-1",
+    "chebiId": "",
+    "chemicalFormula": "C8H6N2S3",
+    "definition": "A synthetic dithiolethione with potential chemopreventive and anti-angiogenic properties. Oltipraz induces phase II detoxification enzymes, such as glutathione S transferase (GST) and NAD(P)H:quinone oxidoreductase 1 (NQO1). The induction of detoxification enzymes enhances the detoxification of certain cancer-causing agents, thereby enhancing their elimination and preventing carcinogen-induced DNA damages. Although the exact mechanism through which the anti-angiogenesis effect remains to be fully elucidated, oltipraz maybe able to modulate the expression of a number of angiogenic factors, thereby blocking the sustained and focal neovascularization in multiple tumor cell types.",
+    "fdaUniiCode": "6N510JUL1Y",
+    "identifier": "C1177",
+    "preferredName": "Oltipraz",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1742",
+      "C54629",
+      "C54630"
+    ],
+    "synonyms": [
+      "3H-1,2-Dithiole-3-thione, 4-methyl-5-pyrazinyl-",
+      "3H-1,2-Dithiole-3-thione,4-methyl-5-pyrazinyl",
+      "4-Methyl-5-(pyrazinyl)-3H-1,2-dithiole-3-thione",
+      "4-Methyl-5-pyrazinyl-3H-1,2-dithiole-3-thione",
+      "5-(2-Pyrazinyl)-4-methyl-1,2-dithiol-3-thione",
+      "5-[2-Pyrazinyl]-4-methyl-1,2-3-thione",
+      "OLTIPRAZ",
+      "Oltipraz",
+      "RP-35,972",
+      "oltipraz"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Talabostat_Mesylate",
+  "nciThesaurus": {
+    "casRegistry": "150080-09-4",
+    "chebiId": "",
+    "chemicalFormula": "C9H19BN2O3.CH4O3S",
+    "definition": "The mesylate salt of an orally active small molecule with antineoplastic and hematopoiesis- stimulating activities. By cleaving N-terminal Xaa-Pro or Xaa-Ala residues, talabostat inhibits dipeptidyl peptidases, such as fibroblast activation protein (FAP), resulting in the stimulation of cytokine and chemokine production and specific T-cell immunity and T-cell dependent activity. This agent may also stimulate the production of colony stimulating factors, such as granulocyte colony stimulating factor (G-CSF), resulting in the stimulation of hematopoiesis. Dipeptidyl peptidases are involved in the activation of polypeptide hormones and chemokines.",
+    "fdaUniiCode": "V8ZG4Y1B51",
+    "identifier": "C80682",
+    "preferredName": "Talabostat Mesylate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C783"
+    ],
+    "synonyms": [
+      "((2R)-1-((2S)-2-amino-3-methylbutanoyl)pyrrolidin-2-yl)boronic Acid Methanesulfonate",
+      "TALABOSTAT MESYLATE",
+      "Talabostat Mesylate",
+      "Val-boro-Pro",
+      "talabostat mesylate"
+    ]
+  }
+}

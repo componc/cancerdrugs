@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "FGF_Receptor_Antagonist_HGS1036",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A soluble fusion protein consisting of the extracellular domain of human fibroblast growth factor receptor 1 (FGFR1) fused to the Fc portion of human immunoglobulin G1 (IgG1) with potential antineoplastic and anti-angiogenic activities. FGFR1 receptor antagonist FP-1039 prevents FGFR ligands, such as FGF1, FGF2, FGF4, from binding to their cognate receptors, thereby inhibiting the activation of the related FGFR tyrosine kinases. Inhibition of FGFR1 by this agent may retard tumor cell proliferation and induce tumor cell death. FP-1039 may also inhibit vascular endothelial growth factor (VEGF)-induced angiogenesis. FGFR1 is a receptor tyrosine kinase upregulated in certain tumor cells and involved in tumor cellular proliferation, differentiation, angiogenesis, and survival; most ligands that bind to FGFR1 also bind to the related receptors FGFR3 and FGFR4.",
+    "fdaUniiCode": "CTG26PRE5S",
+    "identifier": "C77970",
+    "preferredName": "FGF Receptor Antagonist HGS1036",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C155727",
+      "C1742"
+    ],
+    "synonyms": [
+      "FGF Receptor Antagonist HGS1036",
+      "FP-1039",
+      "GSK3052230",
+      "HGS1036"
+    ]
+  }
+}

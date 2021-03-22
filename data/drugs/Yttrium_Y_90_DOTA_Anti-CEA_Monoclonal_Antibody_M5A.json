@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Yttrium_Y_90_DOTA_Anti-CEA_Monoclonal_Antibody_M5A",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A radioimmunoconjugate consisting of a monoclonal antibody directed against the human carcinoembryonic antigen (CEA) conjugated with the radioisotope yttrium 90 (Y-90) via the chelator tetra-azacyclododecanetetra-acetic acid (DOTA) with potential antineoplastic activity. The antibody moiety of yttrium Y 90 DOTA anti-CEA monoclonal antibody M5A binds to cells expressing the CEA antigen. Upon cellular internalization, this agent selectively delivers a cytotoxic dose of beta radiation. CEA, a tumor associated antigen, is overexpressed in many cancer types, including gastrointestinal, breast, non-small cell lung, and thyroid cancers.",
+    "fdaUniiCode": "I9O4Z8CE5L",
+    "identifier": "C77853",
+    "preferredName": "Yttrium Y 90 DOTA Anti-CEA Monoclonal Antibody M5A",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129819",
+      "C1511"
+    ],
+    "synonyms": [
+      "Y90-DOTA-M5A",
+      "YTTRIUM Y-90 DOTA ANTI-CEA MONOCLONAL ANTIBODY M5A",
+      "Yttrium Y 90 DOTA Anti-CEA Monoclonal Antibody M5A",
+      "yttrium Y 90 DOTA anti-CEA monoclonal antibody M5A"
+    ]
+  }
+}

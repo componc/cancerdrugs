@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "2-Hydroxyestradiol",
+  "nciThesaurus": {
+    "casRegistry": "362-05-0",
+    "chebiId": "CHEBI:28744",
+    "chemicalFormula": "",
+    "definition": "A metabolite formed during the metabolism of 17beta-estradiol by hydroxylation of the carbon at position 2 by the CYP450 enzymes 1A1/1A2. Theoretically, 2-hydroxyestradiol (2-OHE2) is able to undergo redox cycling, which generates active radicals and induces DNA damage; however, this estradiol metabolite is very unstable in vivo and is quickly inactivated by catechol-O-methyltransferase (COMT)-mediated O-methylation and converted to 2-methoxyestradiol (2-MeE2). 2-MeE2 exerts antineoplastic activities through its estrogen receptor antagonistic effect and the induction of apoptosis in susceptible cancer cells.",
+    "fdaUniiCode": "AYU2L67YUU",
+    "identifier": "C120474",
+    "preferredName": "2-Hydroxyestradiol",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2181"
+    ],
+    "synonyms": [
+      "(17beta)-Estra-1,3,5(10)-Triene-2,3,17-Triol",
+      "2-HYDROXYESTRADIOL",
+      "2-Hydroxy-17beta-Estradiol",
+      "2-Hydroxyestradiol",
+      "2-Hydroxyestradiol-17beta",
+      "2-OH-E2",
+      "2-OH-Estradiol",
+      "2-OHE2"
+    ]
+  }
+}

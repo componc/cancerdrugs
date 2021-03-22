@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ceralasertib",
+  "nciThesaurus": {
+    "casRegistry": "1352226-88-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available morpholino-pyrimidine-based inhibitor of ataxia telangiectasia and rad3 related (ATR) kinase, with potential antineoplastic activity. Upon oral administration, Ceralasertib selectively inhibits ATR activity by blocking the downstream phosphorylation of the serine/threonine protein kinase CHK1. This prevents ATR-mediated signaling, and results in the inhibition of DNA damage checkpoint activation, disruption of DNA damage repair, and the induction of tumor cell apoptosis. In addition, AZD6738 sensitizes tumor cells to chemo- and radiotherapy. ATR, a serine/threonine protein kinase upregulated in a variety of cancer cell types, plays a key role in DNA repair, cell cycle progression and survival; it is activated by DNA damage caused during DNA replication-associated stress.",
+    "fdaUniiCode": "85RE35306Z",
+    "identifier": "C111993",
+    "preferredName": "Ceralasertib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C155926"
+    ],
+    "synonyms": [
+      "AZD6738",
+      "CERALASERTIB",
+      "Ceralasertib"
+    ]
+  }
+}

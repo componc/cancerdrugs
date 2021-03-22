@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Asciminib",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, allosteric Bcr-Abl tyrosine kinase inhibitor with potential antineoplastic activity. Designed to overcome resistance, ABL001 binds to the Abl portion of the Bcr-Abl fusion protein at a location that is distinct from the ATP-binding domain. This binding results in the inhibition of Bcr-Abl-mediated proliferation and enhanced apoptosis of Philadelphia chromosome-positive (Ph+) hematological malignancies. The Bcr-Abl fusion protein tyrosine kinase is an abnormal enzyme produced by leukemia cells that contain the Philadelphia chromosome.",
+    "fdaUniiCode": "L1F3R18W77",
+    "identifier": "C114494",
+    "preferredName": "Asciminib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1967"
+    ],
+    "synonyms": [
+      "ABL001",
+      "ASCIMINIB",
+      "Asciminib"
+    ]
+  }
+}

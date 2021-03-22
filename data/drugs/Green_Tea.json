@@ -1,0 +1,77 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Enviro I",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to food allergies including swelling of the lips, stomach cramps, vomiting, occasional diarrhea, and skin rashes .** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "17a11564-d8dd-45bc-a5a2-6998452682d4"
+    },
+    {
+      "brand": "Enviro I",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to food allergies including swelling of the lips, stomach cramps, vomiting, occasional diarrhea, and skin rashes .** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "1de4f602-6e3c-4142-b60a-90585ac33884"
+    },
+    {
+      "brand": "Thea sinensis",
+      "indication": "INDICATIONS Indications: THEA SINENSIS Sleeplessness",
+      "manufacturer": "Washington Homeopathic Products",
+      "splSetId": "32af7c56-02fa-4a3b-a44b-9ba264605f93"
+    },
+    {
+      "brand": "Natural Fit",
+      "indication": "INDICATIONS: Supports metabolism.",
+      "manufacturer": "Advanced Healthcare Solutions",
+      "splSetId": "3863d416-3f1f-4084-b5e4-180242120d9d"
+    },
+    {
+      "brand": "Natural Fit",
+      "indication": "INDICATIONS: Supports metabolism.",
+      "manufacturer": "Advanced Healthcare Solutions",
+      "splSetId": "6b480f87-18b4-444b-8905-5fb046135688"
+    },
+    {
+      "brand": "Enviro I",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to food allergies including swelling of the lips, stomach cramps, vomiting, occasional diarrhea, and skin rashes .** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "6bd3056a-52b4-4165-a0a5-689afa9091dc"
+    },
+    {
+      "brand": "Thea sinensis",
+      "indication": "Sleeplessness with agitation*",
+      "manufacturer": "Boiron",
+      "splSetId": "812a75f0-cc1b-1141-e053-2a91aa0af339"
+    },
+    {
+      "brand": "Enviro I",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to food allergies including swelling of the lips, stomach cramps, vomiting, diarrhea, skin rashes or eczema, and wheezing or breathing problems.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "91117989-eb31-481b-a4a4-f7b62daca26d"
+    },
+    {
+      "brand": "THEA SINENSIS",
+      "indication": "INDICATIONS Indications: THEA SINENSIS Sleeplessness",
+      "manufacturer": "Washington Homeopathic Products",
+      "splSetId": "99c1218e-ae3f-122e-e053-2995a90a7531"
+    }
+  ],
+  "id": "Green_Tea",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "Tea derived from the dried leaves of the plant Camellia sinensis with potential antioxidant, chemopreventive, and lipid-lowering activities. Green tea contains polyphenols that are believed to be responsible for its chemopreventive effect. The polyphenol fraction contains mainly Epigallocatechin-3-gallate (EGCG) and other catechins, such as epicatechin (EC), gallocatechin gallate (GCG), epigallocatechin (EGC), and epicatechin gallate (ECG). Green tea polyphenols act as antioxidants and free radical scavengers and may affect enzymes involved in cellular replication and tumor angiogenesis by modulating angiogenic factors, such as vascular endothelial growth factor (VEGF).",
+    "fdaUniiCode": "W2ZU1RY8B0",
+    "identifier": "C67048",
+    "preferredName": "Green Tea",
+    "semanticType": "Plant",
+    "subclassOf": [
+      "C106105"
+    ],
+    "synonyms": [
+      "GREEN TEA LEAF",
+      "Green Tea"
+    ]
+  }
+}

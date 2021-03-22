@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mirvetuximab_Soravtansine",
+  "nciThesaurus": {
+    "casRegistry": "1453084-37-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An immunoconjugate consisting of the humanized monoclonal antibody M9346A against folate receptor 1 (FOLR1) conjugated, via the disulfide-containing cleavable linker sulfo-SPDB, to the cytotoxic maytansinoid DM4, with potential antineoplastic activity. The anti-FOLR1 monoclonal antibody moiety of mirvetuximab soravtansine targets and binds to the cell surface antigen FOLR1. After antibody-antigen interaction and internalization, the immunoconjugate releases DM4, which binds to tubulin and disrupts microtubule assembly/disassembly dynamics, thereby inhibiting cell division and cell growth of FOLR1-expressing tumor cells. FOLR1, a member of the folate receptor family is overexpressed on a variety of epithelial-derived cancer cells. The sulfo-SPDB linker prevents cleavage in the bloodstream and may improve this agent's efficacy in multidrug resistant tumor cells.",
+    "fdaUniiCode": "98DE7VN88D",
+    "identifier": "C102566",
+    "preferredName": "Mirvetuximab Soravtansine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "IMGN853",
+      "M9346A-sulfo-SPDB-DM4",
+      "MIRVETUXIMAB SORAVTANSINE",
+      "Mirvetuximab Soravtansine"
+    ]
+  }
+}

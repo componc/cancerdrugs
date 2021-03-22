@@ -1,0 +1,47 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "iloprost",
+      "conditionIndication": "Treatment of patients with primary pulmonary hypertension, classified as New York Heart Association functional class III, to improve exercise capacity and symptoms.",
+      "inn": "iloprost",
+      "marketingAuthorisationDate": "2003-09-15 00:00:00",
+      "marketingAuthorisationHolder": "Bayer AG",
+      "medicineName": "Ventavis",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ventavis"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "VENTAVIS",
+      "indication": "1 INDICATIONS AND USAGE VENTAVIS is a prostacyclin mimetic indicated for the treatment of pulmonary arterial hypertension (PAH) (WHO Group 1) to improve a composite endpoint consisting of exercise tolerance, symptoms (NYHA Class), and lack of deterioration. Studies establishing effectiveness included predominately patients with NYHA Functional Class III-IV symptoms and etiologies of idiopathic or heritable PAH (65%) or PAH associated with connective tissue diseases (23%). ( 1.1 ). 1.1 Pulmonary Arterial Hypertension VENTAVIS is indicated for the treatment of pulmonary arterial hypertension (PAH) (WHO Group 1) to improve a composite endpoint consisting of exercise tolerance, symptoms (NYHA Class), and lack of deterioration. Studies establishing effectiveness included predominately patients with NYHA Functional Class III\u2013IV symptoms and etiologies of idiopathic or heritable PAH (65%) or PAH associated with connective tissue diseases (23%) [see Clinical Studies (14) ] .",
+      "manufacturer": "Actelion Pharmaceuticals US, Inc.",
+      "splSetId": "d3bebc1c-f032-402a-bbc9-aff024276ed1"
+    }
+  ],
+  "id": "Iloprost",
+  "nciThesaurus": {
+    "casRegistry": "78919-13-8",
+    "chebiId": "CHEBI:63916",
+    "chemicalFormula": "C22H32O4",
+    "definition": "A prostacyclin analogue with potential chemopreventive activity. Iloprost binds to the prostacyclin receptor in various target cells, thereby causing vasodilation, inhibition of platelet aggregation, and decreased tumor cell adhesion to endothelium among other effects. Prostacyclin is a naturally occurring eicosanoid with anti-inflammatory, antineoplastic, and anti-metastatic properties. (NCI05)",
+    "fdaUniiCode": "JED5K35YGL",
+    "identifier": "C48397",
+    "preferredName": "Iloprost",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1892",
+      "C78568"
+    ],
+    "synonyms": [
+      "(E)-(3aS,4R,5R,6aS)-Hexahydro-5-hydroxy-4-((E)-(3S,4RS)-3-hydroxy-4-methyl-1-octen-6-ynyl)-delta(sup 2(1H),delta)-pentalenevaleric Acid",
+      "Ciloprost",
+      "ILOPROST",
+      "Iloprost",
+      "Iloprost Clathrate",
+      "Pentanoic Acid, 5-(hexahydro-5-hydroxy-4-(3-hydroxy-4-methyl-1-octen-6-ynyl)-2(1H)-pentalenylidene)-",
+      "Ventavis",
+      "ZK 36374",
+      "iloprost"
+    ]
+  }
+}

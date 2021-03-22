@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Sotorasib",
+  "nciThesaurus": {
+    "casRegistry": "2296729-00-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available inhibitor of the specific KRAS mutation, p.G12C, with potential antineoplastic activity. Upon oral administration, sotorasib selectively targets, binds to and inhibits the activity of the KRAS p.G12C mutant. This may inhibit growth in KRAS p.G12C-expressing tumor cells. The KRAS p.G12C mutation is seen in some tumor cell types and plays a key role in tumor cell proliferation.",
+    "fdaUniiCode": "2B2VM6UC8G",
+    "identifier": "C154287",
+    "preferredName": "Sotorasib",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1902"
+    ],
+    "synonyms": [
+      "AMG 510",
+      "AMG-510",
+      "AMG510",
+      "SOTORASIB",
+      "Sotorasib"
+    ]
+  }
+}

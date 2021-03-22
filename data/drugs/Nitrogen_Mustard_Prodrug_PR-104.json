@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Nitrogen_Mustard_Prodrug_PR-104",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A non-toxic, small-molecule, hypoxia-activated, 3,5-dinitrobenzamide nitrogen mustard pre-prodrug with potential antitumor activity. Upon intravenous administration, PR-104 is converted by systemic phosphatases to the alcohol intermediate PR-104A, which is reduced to form the active DNA-crosslinking mustard species hydroxylamine PR-104H intracellularly under hypoxic conditions. PR-104H specifically crosslinks hypoxic tumor cell DNA, resulting in the inhibition of DNA repair and synthesis, cell-cycle arrest, and apoptosis in susceptible hypoxic tumor cell populations while sparing normoxic tissues.",
+    "fdaUniiCode": "V16D2ZT7DT",
+    "identifier": "C61590",
+    "preferredName": "Nitrogen Mustard Prodrug PR-104",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C697"
+    ],
+    "synonyms": [
+      "((2-Bromoethyl)-2,4-dinitro-6-(((2-(phosphonooxy)ethyl)amino)-carbonyl)anilino)ethyl Methanesulphonate",
+      "Nitrogen Mustard Prodrug PR-104",
+      "PR-104",
+      "PR104"
+    ]
+  }
+}

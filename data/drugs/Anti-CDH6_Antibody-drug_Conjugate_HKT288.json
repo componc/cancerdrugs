@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-CDH6_Antibody-drug_Conjugate_HKT288",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An immunoconjugate consisting of a human monoclonal antibody directed against the tumor-associated antigen (TAA) cadherin-6 (CDH6; CDH-6) conjugated to a maytansine-based cytotoxic agent, with potential antineoplastic activity. The monoclonal antibody moiety of HKT288 targets and binds to CDH6 located on tumor cell surfaces. After internalization, the maytansine moiety binds to tubulin, which disrupts microtubule assembly/disassembly dynamics and inhibits both division and proliferation of CDH6-expressing tumor cells. CDH6, a member of the cadherin family and overexpressed by a variety of cancers, plays a key role in tumor cell proliferation.",
+    "fdaUniiCode": "94ZE6ON35F",
+    "identifier": "C131439",
+    "preferredName": "Anti-CDH6 Antibody-drug Conjugate HKT288",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "Anti-CDH6 ADC HKT288",
+      "Anti-CDH6 Antibody-drug Conjugate HKT288",
+      "HKT 288",
+      "HKT-288",
+      "HKT288",
+      "Maytansine-based ADC HKT-288"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tetradecanoylphorbol_Acetate",
+  "nciThesaurus": {
+    "casRegistry": "16561-29-8",
+    "chebiId": "CHEBI:37537",
+    "chemicalFormula": "C36H56O8",
+    "definition": "A phorbol ester with potential antineoplastic effects.  Tetradecanoylphorbol acetate (TPA) induces maturation and differentiation of hematopoietic cell lines, including leukemic cells. This agent may induce gene expression and protein kinase C (PKC) activity.  In addition to potential antineoplastic effects, TPA may exhibit tumor promoting activity.",
+    "fdaUniiCode": "NI40JAQ945",
+    "identifier": "C866",
+    "preferredName": "Tetradecanoylphorbol Acetate",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1934"
+    ],
+    "synonyms": [
+      "12-O-tetradecanoylphorbol-13-acetate",
+      "Lonomycin",
+      "PHORBOL 12-MYRISTATE 13-ACETATE DIESTER",
+      "PMA",
+      "Phorbol Myristate Acetate",
+      "TPA",
+      "TPA (Phorbol Ester)",
+      "Tetradecanoylphorbol Acetate",
+      "tetradecanoylphorbol acetate"
+    ]
+  }
+}

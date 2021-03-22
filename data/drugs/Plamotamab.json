@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Plamotamab",
+  "nciThesaurus": {
+    "casRegistry": "2138442-31-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A bispecific, Fc domain-containing, monoclonal antibody with potential antineoplastic activity. Plamotamab contains two antigen-recognition sites: one for human CD3, a T cell surface antigen, and one for human CD20, a tumor-associated antigen (TAA) that is exclusively expressed on B-cells during most stages of B-cell development and is often overexpressed in B-cell malignancies. Upon administration, plamotamab binds to both T-cells and CD20-expressing B-lineage tumor cells. The resulting cross-linkage may trigger a potent cytotoxic T-lymphocyte (CTL) response against the CD20-expressing tumor B-cells. Inclusion of an Fc domain on the antibody prolongs the half-life of the bispecific antibody and enhances T-cell-mediated tumor cell killing because the agent is able to bind to Fc receptors.",
+    "fdaUniiCode": "5ENX424FNF",
+    "identifier": "C130050",
+    "preferredName": "Plamotamab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C141215",
+      "C28227"
+    ],
+    "synonyms": [
+      "PLAMOTAMAB",
+      "Plamotamab",
+      "XmAb13676"
+    ]
+  }
+}

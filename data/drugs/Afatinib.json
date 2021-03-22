@@ -1,0 +1,43 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "afatinib",
+      "conditionIndication": "Giotrif as monotherapy is indicated for the treatment ofEpidermal Growth Factor Receptor (EGFR) TKI-na\u00efve adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with activating EGFR mutation(s);locally advanced or metastatic NSCLC of squamous histology progressing on or after platinum-based chemotherapy.",
+      "inn": "afatinib",
+      "marketingAuthorisationDate": "2013-09-25 00:00:00",
+      "marketingAuthorisationHolder": "Boehringer Ingelheim International GmbH",
+      "medicineName": "Giotrif",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/giotrif"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Gilotrif",
+      "indication": "1 INDICATIONS AND USAGE GILOTRIF is a kinase inhibitor indicated for: First-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have non-resistant epidermal growth factor receptor (EGFR) mutations as detected by an FDA-approved test ( 1.1 ) Limitations of Use : Safety and efficacy of GILOTRIF were not established in patients whose tumors have resistant EGFR mutations ( 1.1 ) Treatment of patients with metastatic, squamous NSCLC progressing after platinum-based chemotherapy ( 1.2 ) 1.1 EGFR Mutation-Positive, Metastatic Non-Small Cell Lung Cancer GILOTRIF is indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) whose tumors have non-resistant epidermal growth factor receptor (EGFR) mutations as detected by an FDA-approved test [see Dosage and Administration (2.1) , Clinical Pharmacology (12.1) , Clinical Studies (14.1) ]. Limitations of Use : The safety and efficacy of GILOTRIF have not been established in patients whose tumors have resistant EGFR mutations [see Clinical Studies (14.1) ]. 1.2 Previously Treated, Metastatic Squamous NSCLC GILOTRIF is indicated for the treatment of patients with metastatic squamous NSCLC progressing after platinum-based chemotherapy .",
+      "manufacturer": "Boehringer Ingelheim Pharmaceuticals, Inc.",
+      "splSetId": "fd638e5e-8032-e7ca-0179-95e96ab5d387"
+    }
+  ],
+  "id": "Afatinib",
+  "nciThesaurus": {
+    "casRegistry": "850140-72-6",
+    "chebiId": "CHEBI:61390",
+    "chemicalFormula": "C24H25ClFN5O3",
+    "definition": "An orally bioavailable anilino-quinazoline derivative and inhibitor of the receptor tyrosine kinase (RTK) epidermal growth factor receptor (ErbB; EGFR) family, with antineoplastic activity. Upon administration, afatinib selectively and irreversibly binds to and inhibits the epidermal growth factor receptors 1 (ErbB1; EGFR), 2 (ErbB2; HER2), and 4 (ErbB4; HER4), and certain EGFR mutants, including those caused by EGFR exon 19 deletion mutations or exon 21 (L858R) mutations. This may result in the inhibition of tumor growth and angiogenesis in tumor cells overexpressing these RTKs. Additionally, afatinib inhibits the EGFR T790M gatekeeper mutation which is resistant to treatment with first-generation EGFR inhibitors. EGFR, HER2 and HER4 are RTKs that belong to the EGFR superfamily; they play major roles in both tumor cell proliferation and tumor vascularization and are overexpressed in many cancer cell types.",
+    "fdaUniiCode": "41UD74L59M",
+    "identifier": "C66940",
+    "preferredName": "Afatinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2167"
+    ],
+    "synonyms": [
+      "(2e)-N-(4-(3-Chloro-4-Fluoroanilino)-7-(((3s)-Oxolan-3-yl)Oxy)Quinoxazolin-6-yl)-4-(Dimethylamino)But-2-Enamide",
+      "AFATINIB",
+      "Afatinib",
+      "BIBW 2992",
+      "BIBW2992"
+    ]
+  }
+}

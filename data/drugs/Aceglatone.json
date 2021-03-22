@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Aceglatone",
+  "nciThesaurus": {
+    "casRegistry": "642-83-1",
+    "chebiId": "",
+    "chemicalFormula": "C10H10O8",
+    "definition": "A derivative of D-glucaro-1, 4-lactone with chemopreventive and anti-tumor activities. One of the key processes in which human body eliminates toxic chemicals as well as hormones (such as estrogen) is by glucuronidation. When beta-glucuronidase deconjugates these glucuronides, it prolongs the stay of the hormone or toxic chemical in the body. Elevated beta-glucuronidase activity has been implicated to be associated with an increased risk for hormone-dependent cancers like breast, prostate, and colon cancers. Thereby, aceglatone may suppress the developments of hormone-dependent cancers mediated through beta-glucuronidase inhibition.",
+    "fdaUniiCode": "347Q3OOJ13",
+    "identifier": "C984",
+    "preferredName": "Aceglatone",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1017"
+    ],
+    "synonyms": [
+      "ACEGLATONE",
+      "Aceglatone",
+      "Glucaron"
+    ]
+  }
+}

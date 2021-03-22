@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "mTORC_12_Inhibitor_LXI-15029",
+  "nciThesaurus": {
+    "casRegistry": "1567915-38-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable inhibitor of raptor-mammalian target of rapamycin (mTOR) complex 1 (mTOR complex 1; mTORC1) and rictor-mTOR complex 2 (mTOR complex 2; mTORC2), with potential antineoplastic activity. Upon oral administration, mTORC1/2 inhibitor LXI-15029 binds to the kinase domain of mTOR and inhibits both mTORC1 and mTORC2, in an ATP-competitive manner. This inhibits mTOR-mediated signaling and leads to both an induction of apoptosis and a decrease in the proliferation of mTORC1/2-expressing tumor cells. mTOR is a serine/threonine kinase that is upregulated in certain tumor cell types. It plays an important role in the PI3K/Akt/mTOR signaling pathway, which is often deregulated in cancer cells and promotes cell growth, survival, and resistance to chemotherapy and radiotherapy.",
+    "fdaUniiCode": "RM15YYQ1CI",
+    "identifier": "C148528",
+    "preferredName": "mTORC 1/2 Inhibitor LXI-15029",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825"
+    ],
+    "synonyms": [
+      "LXI-15029",
+      "LXI15029",
+      "MTI-31",
+      "SCC-31",
+      "mTORC 1/2 Inhibitor LXI-15029"
+    ]
+  }
+}

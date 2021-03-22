@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Abarelix",
+  "nciThesaurus": {
+    "casRegistry": "183552-38-7",
+    "chebiId": "CHEBI:337298",
+    "chemicalFormula": "C72H95ClN14O14",
+    "definition": "A synthetic decapeptide and antagonist of naturally occurring gonadotropin-releasing hormone (GnRH). Abarelix directly and competitively binds to and blocks the gonadotropin releasing hormone receptor in the anterior pituitary gland, thereby inhibiting the secretion and release of luteinizing hormone (LH) and follicle stimulating hormone (FSH). In males, the inhibition of LH secretion prevents the release of testosterone.  As a result, this may relieve symptoms associated with prostate hypertrophy or prostate cancer, since testosterone is required to sustain prostate growth.",
+    "fdaUniiCode": "W486SJ5824",
+    "identifier": "C2015",
+    "preferredName": "Abarelix",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C2092"
+    ],
+    "synonyms": [
+      "ABARELIX",
+      "Abarelix",
+      "PPI-149",
+      "Plenaxis",
+      "R-3827",
+      "abarelix"
+    ]
+  }
+}

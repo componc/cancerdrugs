@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Eltanexor",
+  "nciThesaurus": {
+    "casRegistry": "1642300-52-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable inhibitor of exportin-1 (XPO1; chromosome region maintenance 1 protein homolog; CRM1), with potential antineoplastic activity. Upon administration, eltanexor binds to the XPO1 cargo binding site, which prevents the XPO1-mediated nuclear export of cargo proteins such as tumor suppressor proteins (TSPs), including p53, p73, BRCA1/2, pRB, FOXO, and other growth regulatory proteins and leads to their selective accumulation in the nuclei of tumor cells. As a selective inhibitor of nuclear export (SINE), KPT-8602 restores the nuclear localization and function of tumor suppressing proteins which leads to the induction of apoptosis in tumor cells. XPO1, the major export factor that transports proteins from the nucleus to the cytoplasm, is overexpressed in a variety of cancer cell types while minimally expressed in normal, healthy cells. The export of tumor suppressor proteins into the cytoplasm prevents them from initiating apoptosis and leads to uncontrolled tumor cell proliferation.",
+    "fdaUniiCode": "Q59IQJ9NTK",
+    "identifier": "C125193",
+    "preferredName": "Eltanexor",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129824"
+    ],
+    "synonyms": [
+      "(2E)-3-(3-(3,5-Bis(trifluoromethyl)phenyl)-1H-1,2,4-triazol-1-yl)-2-(pyrimidin-5-yl)prop-2-enamide",
+      "ELTANEXOR",
+      "Eltanexor",
+      "Exportin 1 Inhibitor KPT-8602",
+      "KPT-8602",
+      "Selective Inhibitor of Nuclear Export KPT-8602",
+      "XPO1-inhibiting SINE Compound KPT-8602"
+    ]
+  }
+}

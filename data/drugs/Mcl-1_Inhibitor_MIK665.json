@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mcl-1_Inhibitor_MIK665",
+  "nciThesaurus": {
+    "casRegistry": "1799638-19-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An inhibitor of induced myeloid leukemia cell differentiation protein (Mcl-1; Bcl2-L-3), with potential pro-apoptotic and antineoplastic activities. Upon administration, MIK665 binds to and inhibits the activity of Mcl-1, which promotes apoptosis of cells overexpressing Mcl-1. Mcl-1, an anti-apoptotic protein belonging to the Bcl-2 family of proteins, is upregulated in cancer cells and promotes tumor cell survival.",
+    "fdaUniiCode": "801XYWHNOS",
+    "identifier": "C133174",
+    "preferredName": "Mcl-1 Inhibitor MIK665",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C137990"
+    ],
+    "synonyms": [
+      "MIK 665",
+      "MIK-665",
+      "MIK665",
+      "Mcl-1 Inhibitor MIK665",
+      "S 64315",
+      "S-64315",
+      "S64315"
+    ]
+  }
+}

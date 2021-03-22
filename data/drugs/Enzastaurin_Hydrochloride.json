@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Enzastaurin_Hydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "359017-79-1",
+    "chebiId": "",
+    "chemicalFormula": "C32H29N5O2.HCl",
+    "definition": "The hydrochloride salt of enzastaurin, a synthetic macrocyclic bisindolemaleimide with potential antineoplastic activity.  Binding to the ATP-binding site, enzastaurin selectively inhibits protein kinase C beta, an enzyme involved in the induction of vascular endothelial growth factor (VEGF)-stimulated neo-angiogenesis. This agent may decrease tumor blood supply and so tumor burden.",
+    "fdaUniiCode": "KX7K68Z2UH",
+    "identifier": "C26658",
+    "preferredName": "Enzastaurin Hydrochloride",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2089"
+    ],
+    "synonyms": [
+      "1H-Pyrrole-2,5-dione, 3-(1-Methyl-1H-indol-3-yl)-4-(1-(1-(2-pyridinylmethyl)-4-piperidinyl)-1H-indol-3-yl)-, Monohydrochloride",
+      "3-(1-Methyl-1H-indol-3-yl)-4-[1-[1-(2-pyridinylmethyl)-4-piperidinyl]-1H-indol-3-yl]-1H-pyrrole-2,5-dione Dihydrochloride",
+      "ENZASTAURIN HYDROCHLORIDE",
+      "Enzastaurin Hydrochloride",
+      "Enzastaurin Monohydrochloride",
+      "LY317615",
+      "enzastaurin hydrochloride"
+    ]
+  }
+}

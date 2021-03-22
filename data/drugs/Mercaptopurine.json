@@ -1,0 +1,103 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "6-mercaptopurine monohydrate",
+      "conditionIndication": "Xaluprine is indicated for the treatment of acute lymphoblastic leukaemia (ALL) in adults, adolescents and children.",
+      "inn": "mercaptopurine",
+      "marketingAuthorisationDate": "2012-03-09 01:00:00",
+      "marketingAuthorisationHolder": "Nova Laboratories Ireland Limited",
+      "medicineName": "Xaluprine (previously Mercaptopurine Nova Laboratories)",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/xaluprine"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Mercaptopurine",
+      "indication": "1 INDICATIONS AND USAGE Mercaptopurine tablets are a nucleoside metabolic inhibitor indicated for treatment of adult and pediatric patients with acute lymphoblastic leukemia (ALL) as part of a combination chemotherapy maintenance regimen. ( 1.1 ) 1.1 Acute Lymphoblastic Leukemia Mercaptopurine tablets are indicated for treatment of adult and pediatric patients with acute lymphoblastic leukemia (ALL) as part of a combination chemotherapy maintenance regimen.",
+      "manufacturer": "Mylan Pharmaceuticals Inc.",
+      "splSetId": "15904472-4c32-4224-95d3-eb131a7ff9c8"
+    },
+    {
+      "brand": "Mercaptopurine",
+      "indication": "1 INDICATIONS AND USAGE Mercaptopurine Tablets is indicated for treatment of adult and pediatric patients with acute lymphoblastic leukemia (ALL) as part of a combination chemotherapy maintenance regimen. Mercaptopurine Tablets is a nucleoside metabolic inhibitor indicated for treatment of adult and pediatric patients with acute lymphoblastic leukemia (ALL) as part of a combination chemotherapy maintenance regimen. (1.1) 1.1 Acute Lymphoblastic Leukemia Mercaptopurine Tablets is indicated for treatment of adult and pediatric patients with acute lymphoblastic leukemia (ALL) as part of a combination chemotherapy maintenance regimen.",
+      "manufacturer": "Quinn Pharmaceuticals",
+      "splSetId": "9001c081-f455-4fb0-aef0-175d41810c12"
+    },
+    {
+      "brand": "PURIXAN",
+      "indication": "1 INDICATIONS AND USAGE PURIXAN is a nucleoside metabolic inhibitor indicated for the treatment of patients with acute lymphoblastic leukemia (ALL) as part of a combination chemotherapy maintenance regimen.( 1.1 ) 1.1 Acute Lymphoblastic Leukemia PURIXAN is indicated for the treatment of patients with acute lymphoblastic leukemia (ALL) as part of a combination chemotherapy maintenance regimen.",
+      "manufacturer": "Nova Laboratories, Ltd",
+      "splSetId": "9fd27952-7787-47d9-b6cf-7af2dc38217b"
+    },
+    {
+      "brand": "PURINETHOL",
+      "indication": "1 INDICATIONS AND USAGE PURINETHOL is a nucleoside metabolic inhibitor indicated for treatment of adult and pediatric patients with acute lymphoblastic leukemia (ALL) as part of a combination chemotherapy maintenance regimen. ( 1.1 ) 1.1 Acute Lymphoblastic Leukemia PURINETHOL is indicated for treatment of adult and pediatric patients with acute lymphoblastic leukemia (ALL) as part of a combination chemotherapy maintenance regimen.",
+      "manufacturer": "Stason Pharmaceuticals, Inc.",
+      "splSetId": "bfb03539-907f-4424-9c88-6a03ed9467e6"
+    },
+    {
+      "brand": "Mercaptopurine",
+      "indication": "1 INDICATIONS AND USAGE Mercaptopurine Tablets is a nucleoside metabolic inhibitor indicated for treatment of adult and pediatric patients with acute lymphoblastic leukemia (ALL) as part of a combination chemotherapy maintenance regimen. (1.1) 1.1 Acute Lymphoblastic Leukemia Mercaptopurine Tablets are indicated for treatment of adult and pediatric patients with acute lymphoblastic leukemia (ALL) as part of a combination chemotherapy maintenance regimen.",
+      "manufacturer": "West-Ward Pharmaceuticals Corp.",
+      "splSetId": "c3b5b8b0-bc5c-4ce9-bbdc-febba60c2658"
+    }
+  ],
+  "id": "Mercaptopurine",
+  "nciThesaurus": {
+    "casRegistry": "6112-76-1",
+    "chebiId": "CHEBI:31822",
+    "chemicalFormula": "C5H4N4S.H2O",
+    "definition": "A thiopurine-derivative antimetabolite with antineoplastic and immunosuppressive activities.  Produced through the metabolism of mercaptopurine by hypoxanthine-guanine phosphoribosyltransferase (HGPRT), mercaptopurine metabolites 6-thioguanosine-5'-phosphate (6-thioGMP) and 6-thioinosine monophosphate (T-IMP) inhibit nucleotide interconversions and de novo purine synthesis, thereby blocking the formation of purine nucleotides and inhibiting DNA synthesis.  This agent is also incorporated into DNA in the form of deoxythioguanosine, which results in the disruption of DNA replication. In addition, mercaptopurine is converted to 6-methylmercaptopurine ribonucleoside (MMPR) by 6-thiopurine methyltransferase; MMPRs are also potent inhibitors of de novo purine synthesis.",
+    "fdaUniiCode": "E7WED276I5",
+    "identifier": "C195",
+    "preferredName": "Mercaptopurine",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [],
+    "synonyms": [
+      "1,7-Dihydro-6H-purine-6-thione",
+      "1,7-Dihydro-6H-purine-6-thione Monohydrate",
+      "3H-Purine-6-thiol",
+      "6 MP",
+      "6 Thiohypoxanthine",
+      "6 Thiopurine",
+      "6-MP",
+      "6-Mercaptopurine",
+      "6-Mercaptopurine Monohydrate",
+      "6-Purinethiol",
+      "6-Thiopurine",
+      "6-Thioxopurine",
+      "6H-Purine-6-thione, 1,7-dihydro- (9CI)",
+      "7-Mercapto-1,3,4,6-tetrazaindene",
+      "Alti-Mercaptopurine",
+      "Azathiopurine",
+      "BW 57-323H",
+      "Bw 57-323H",
+      "Flocofil",
+      "Ismipur",
+      "Leukerin",
+      "Leupurin",
+      "MERCAPTOPURINE",
+      "Mercaleukim",
+      "Mercaleukin",
+      "Mercaptina",
+      "Mercapto-6-purine",
+      "Mercaptopurine",
+      "Mercaptopurinum",
+      "Mercapurin",
+      "Mern",
+      "NCI-C04886",
+      "Puri-Nethol",
+      "Purimethol",
+      "Purine, 6-mercapto-",
+      "Purine-6-thiol (8CI)",
+      "Purine-6-thiol Monohydrate",
+      "Purine-6-thiol, Monohydrate",
+      "Purine-6-thiol, monohydrate",
+      "Purinethiol",
+      "Purinethol",
+      "U-4748",
+      "WR-2785",
+      "mercaptopurine"
+    ]
+  }
+}

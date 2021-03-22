@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Sodium_Dichloroacetate",
+  "nciThesaurus": {
+    "casRegistry": "2156-56-1",
+    "chebiId": "",
+    "chemicalFormula": "C2HCl2O2.Na",
+    "definition": "The sodium salt of dichloroacetic acid with potential antineoplastic activity. Dichloroacetate ion inhibits pyruvate dehydrogenase kinase, resulting in the inhibition of glycolysis and a decrease in lactate production. This agent may stimulate apoptosis in cancer cells by restoring normal mitochondrial-induced apoptotic signaling.",
+    "fdaUniiCode": "42932X67B5",
+    "identifier": "C73591",
+    "preferredName": "Sodium Dichloroacetate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129839",
+      "C471"
+    ],
+    "synonyms": [
+      "CPC 211",
+      "Dichloroacetic Acid, Sodium Salt",
+      "SODIUM DICHLOROACETATE",
+      "Sodium Dichloroacetate"
+    ]
+  }
+}

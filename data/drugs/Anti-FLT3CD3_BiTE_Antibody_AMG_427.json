@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-FLT3CD3_BiTE_Antibody_AMG_427",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A bispecific T-cell engager (BiTE) antibody composed of two single-chain variable fragments (scFv), one directed against the tumor-associated antigen (TAA) FLT3 tyrosine kinase receptor (Fms-like tyrosine kinase 3; FLT3; FLT-3; CD135; fetal liver kinase-2; FLK2), fused to one that is directed against the CD3 antigen found on T-lymphocytes, with potential immunostimulating and antineoplastic activities. Upon administration of anti-FLT3/CD3 BiTE antibody AMG 427, this bispecific antibody binds to both CD3 on cytotoxic T-lymphocytes (CTLs) and FLT3 found on FLT3-expressing tumor cells. This activates and redirects CTLs to FLT3-expressing tumor cells, which results in the CTL-mediated cell death of FLT3-expressing tumor cells. FLT3, a cytokine receptor belonging to the class III tyrosine kinase receptors, is overexpressed or mutated in most B-lineage and acute myeloid leukemias (AMLs).",
+    "fdaUniiCode": "P9I9Z3MF7Z",
+    "identifier": "C156399",
+    "preferredName": "Anti-FLT3/CD3 BiTE Antibody AMG 427",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C163790",
+      "C28227"
+    ],
+    "synonyms": [
+      "AMG 427",
+      "AMG-427",
+      "AMG427",
+      "Anti-FLT3 x Anti-CD3 BiTE AMG 427",
+      "Anti-FLT3/CD3 BiTE Antibody AMG 427",
+      "BiTE Antibody AMG 427",
+      "Bispecific T-cell Engager Antibody AMG 427",
+      "FLT3/CD3-directed Bispecific T-cell Engager Antibody AMG 427"
+    ]
+  }
+}

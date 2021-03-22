@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "H-ras_Antisense_Oligodeoxynucleotide_ISIS_2503",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic oligodeoxynucleotide.  Functioning as an anti-sense agent, it hybridizes to the translation initiation region of the human mRNA for the oncogene H-Ras.  ISIS 2503 selectively inhibits the expression of H-Ras, and may inhibit the growth of some Ras-dependent tumor cells.",
+    "fdaUniiCode": "I444I66XWH",
+    "identifier": "C2024",
+    "preferredName": "H-ras Antisense Oligodeoxynucleotide ISIS 2503",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1291"
+    ],
+    "synonyms": [
+      "H-RAS Antisense",
+      "H-ras Antisense Oligodeoxynucleotide ISIS 2503",
+      "ISIS 2503",
+      "ISIS-2503",
+      "ISIS2503"
+    ]
+  }
+}

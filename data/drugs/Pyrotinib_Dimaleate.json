@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pyrotinib_Dimaleate",
+  "nciThesaurus": {
+    "casRegistry": "1397922-61-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The dimaleate ester of pyrotinib, an orally bioavailable, dual kinase inhibitor of the epidermal growth factor receptor (EGFR, ErbB1 or HER-1) and the human epidermal growth factor receptor 2 (ErbB2 or HER-2), with potential antineoplastic activity. Upon oral administration, pyrotinib binds to and inhibits both EGFR and HER2, which may result in the inhibition of tumor growth and angiogenesis, and tumor regression in EGFR/HER2-expressing tumor cells. EGFR and HER2 are receptor tyrosine kinases that are upregulated in various tumor cell types and play major roles in tumor cell proliferation and tumor vascularization.",
+    "fdaUniiCode": "85KUE857XM",
+    "identifier": "C162554",
+    "preferredName": "Pyrotinib Dimaleate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1742",
+      "C1967"
+    ],
+    "synonyms": [
+      "PYROTINIB MALEATE",
+      "Pyrotinib Dimaleate",
+      "Pyrotinib Maleate",
+      "SHR-1258 Maleate"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Cusatuzumab",
+  "nciThesaurus": {
+    "casRegistry": "1864871-20-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A defucosylated, humanized IgG1 monoclonal antibody directed against the extracellular domain of the human CD70 molecule with potential antineoplastic activity. Upon administration, cusatuzumab selectively binds to, and neutralizes the activity of CD70, which may also induce an antibody-dependent cellular cytotoxicity (ADCC) response against CD70-expressing tumor cells. CD70, the ligand for the costimulatory receptor CD27 and a member of the tumor necrosis factor (TNF) family, is found on a number of solid and hematological tumors. Its overexpression may play an important role in evasion of immune surveillance.",
+    "fdaUniiCode": "RR5U4UFJ8L",
+    "identifier": "C106116",
+    "preferredName": "Cusatuzumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "ARGX-110",
+      "Anti-CD70 Monoclonal Antibody ARGX-110",
+      "CUSATUZUMAB",
+      "Cusatuzumab"
+    ]
+  }
+}

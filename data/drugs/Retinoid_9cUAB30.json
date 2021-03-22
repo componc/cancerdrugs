@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Retinoid_9cUAB30",
+  "nciThesaurus": {
+    "casRegistry": "205252-57-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic analogue of 9-cis retinoic acid with potential antineoplastic and chemopreventive activities. Retinoid 9cUAB30 binds to and activates retinoid X receptor (RXR) homodimers and/or and retinoic acid receptor (RAR)/RXR heterodimers, which may result in the dissociation of corepressor protein and the recruitment of coactivator protein, followed by transcription of downstream target genes into mRNAs and protein translation. Gene transcription regulated by these transcription factors may result in inhibition of cell proliferation, induction of cell differentiation, and apoptosis of both normal cells and tumor cells.",
+    "fdaUniiCode": "PFP09575EX",
+    "identifier": "C80061",
+    "preferredName": "Retinoid 9cUAB30",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C804"
+    ],
+    "synonyms": [
+      "(9Z)-UAB-30",
+      "9cUAB30",
+      "Retinoid 9cUAB30",
+      "UAB-30"
+    ]
+  }
+}

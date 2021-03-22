@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Etanidazole",
+  "nciThesaurus": {
+    "casRegistry": "22668-01-5",
+    "chebiId": "",
+    "chemicalFormula": "C7H10N4O4",
+    "definition": "A 2-nitroimidazole with radiosensitizing properties. Etanidazole depletes glutathione and inhibits glutathione transferase, thereby enhancing the cytotoxicity of ionizing radiation. This agent may also be useful as an imaging agent for identifying hypoxic, drug-resistant regions of primary tumors or metastases. ",
+    "fdaUniiCode": "30DKA3Q1HL",
+    "identifier": "C1092",
+    "preferredName": "Etanidazole",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [],
+    "synonyms": [
+      "1H-Imidazole-1-acetamide, N-(2-hydroxyethyl)-2-nitro-",
+      "2-Nitroimidazole-1-acetamide, N-(2-hydroxyethyl)-",
+      "ETANIDAZOLE",
+      "Etanidazole",
+      "SR-2508",
+      "etanidazole"
+    ]
+  }
+}

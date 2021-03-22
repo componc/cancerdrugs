@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Demplatin_Pegraglumer",
+  "nciThesaurus": {
+    "casRegistry": "1009838-50-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A nanoparticle-based prodrug formulation consisting of polymeric micelles incorporating the inorganic platinum agent cisplatin with potential antineoplastic activity. In demplatin pegraglumer, cisplatin forms a polymer-metal complex with hydrophilic polyethylene glycol poly(glutamic acid) block copolymers by attaching to the micelle inner core consisting of the hydrophobic polyamino acids. Upon cell entry and release from the polymer-metal complex, cisplatin forms highly reactive, charged platinum complexes that bind to nucleophilic groups such as GC-rich sites in DNA, inducing intrastrand and interstrand DNA cross-linking, DNA-protein cross-linking and, subsequently, tumor cell apoptosis and growth inhibition. Due to the hydrophilic nature of polyethylene glycol, this formulation increases the water-solubility of cisplatin and decreases the nephrotoxicity and neurotoxicity associated with the administration of cisplatin alone.",
+    "fdaUniiCode": "9DMG482P0R",
+    "identifier": "C85476",
+    "preferredName": "Demplatin Pegraglumer",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1450"
+    ],
+    "synonyms": [
+      "DEMPLATIN PEGRAGLUMER",
+      "Demplatin Pegraglumer",
+      "NC-6004",
+      "Nanoplatin"
+    ]
+  }
+}

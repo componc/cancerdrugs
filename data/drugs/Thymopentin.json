@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Thymopentin",
+  "nciThesaurus": {
+    "casRegistry": "69558-55-0",
+    "chebiId": "",
+    "chemicalFormula": "C30H49N9O9",
+    "definition": "A synthetic pentapeptide which is the active site of the naturally occurring hormone thymopoietin with immunomodulating properties. Thymopentin enhances the production of thymic T cells and may help restore immunocompetence in immunosuppressed subjects. This agent also augments the effects of ionizing radiation by arresting cancer cells in the G2/M phase of the cell cycle.",
+    "fdaUniiCode": "O3Y80ZF13F",
+    "identifier": "C1294",
+    "preferredName": "Thymopentin",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C2139"
+    ],
+    "synonyms": [
+      "Immunox",
+      "Mepentil",
+      "N-(N-(N-(N(2)-L-Arginyl-L-Lysyl)-L-alpha-Aspartyl)-L-Valyl)-L-Tyrosine",
+      "N-[N-[N-(N{2}-L-Arginyl-L-lysyl)-L-alpha-aspartyl]-L-valyl]-L-tyrosine",
+      "ORF-15244",
+      "Sintomodulina",
+      "THYMOPENTIN",
+      "Thymopentin",
+      "Timunox"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Labetuzumab_Govitecan",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) containing labetuzumab, a mildly reduced, anti-CEACAM5 humanized monoclonal antibody, conjugated to the potent topoisomerase I inhibitor SN-38, with antineoplastic activity.  The monoclonal antibody moiety of labetuzumab govitecan selectively binds to carcinoembryonic cell adhesion molecule 5 (CEACAM5), which is abundantly expressed on the surface of a majority of solid tumors. Upon internalization and proteolytic cleavage, SN-38, the active metabolite of irinotecan, inhibits the activity of topoisomerase I in the tumor cells, eventually inhibiting both DNA replication and transcription and leading to tumor cell apoptosis.",
+    "fdaUniiCode": "8E3HI6QQ9J",
+    "identifier": "C95710",
+    "preferredName": "Labetuzumab Govitecan",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "ADC IMMU-130",
+      "Antibody-Drug Conjugate IMMU-130",
+      "LABETUZUMAB GOVITECAN",
+      "Labetuzumab Govitecan",
+      "Labetuzumab-SN-38 Immunoconjugate IMMU-130",
+      "hMN14-SN38"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Iodine_I_131_Tositumomab",
+  "nciThesaurus": {
+    "casRegistry": "192391-48-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A monoclonal antibody directed against the CD20 protein expressed on the surface of B-lymphocytes and radiolabeled with the radioisotope iodine I 131 with potential antineoplastic activity. Iodine I 131 tositumomab binds to and selectively delivers cyctotoxic radiation to CD20-expressing B-lymphocytes, thereby minimizing systemic radiotoxicity.",
+    "fdaUniiCode": "K1KT5M40JC",
+    "identifier": "C2444",
+    "preferredName": "Iodine I 131 Tositumomab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129819",
+      "C1511"
+    ],
+    "synonyms": [
+      "131-I-Anti-B1 Monoclonal Antibody",
+      "Bexxar",
+      "I 131 Monoclonal Antibody Anti-B1",
+      "I 131 Tositumomab",
+      "I131-MOAB-B1",
+      "Iodine I 131 MOAB Anti-B1",
+      "Iodine I 131 Monoclonal Antibody Anti-B1",
+      "Iodine I 131 Tositumomab",
+      "Iodine-131 Anti-B1 Antibody",
+      "Iodine-131 Anti-CD20 Monoclonal Antibody",
+      "Iodine-131 Tositumomab",
+      "TOSITUMOMAB I-131",
+      "iodine I 131 tositumomab"
+    ]
+  }
+}

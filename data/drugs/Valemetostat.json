@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Valemetostat",
+  "nciThesaurus": {
+    "casRegistry": "1809336-39-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available selective inhibitor of the histone lysine methyltransferases enhancer of zeste homolog 1 (EZH1) and 2 (EZH2), with potential antineoplastic activity. Upon oral administration, valemetostat selectively inhibits the activity of both wild-type and mutated forms of EZH1 and EZH2. Inhibition of EZH1/2 specifically prevents the methylation of lysine 27 on histone H3 (H3K27). This decrease in histone methylation alters gene expression patterns associated with cancer pathways, enhances transcription of certain target genes, and results in decreased proliferation of EZH1/2-expressing cancer cells. EZH1/2, histone lysine methyltransferase (HMT) class enzymes and catalytic subunits of the polycomb repressive complex 2 (PRC2), are overexpressed or mutated in a variety of cancer cells and play key roles in tumor cell proliferation, progression, stem cell self-renewal and migration.",
+    "fdaUniiCode": "60RD0234VE",
+    "identifier": "C127114",
+    "preferredName": "Valemetostat",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C156804"
+    ],
+    "synonyms": [
+      "DS 3201",
+      "DS-3201",
+      "DS3201",
+      "VALEMETOSTAT",
+      "Valemetostat"
+    ]
+  }
+}

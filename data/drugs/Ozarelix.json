@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ozarelix",
+  "nciThesaurus": {
+    "casRegistry": "295350-45-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A highly modified, fourth generation linear decapeptide with gonadotropin-releasing hormone (GnRH or LHRH) antagonizing properties. Ozarelix competitively binds to and blocks the gonadotropin releasing hormone receptor in the anterior pituitary gland, thereby inhibiting the secretion and release of luteinizing hormone (LH) and follicle stimulating hormone (FSH). In males, the inhibition of LH secretion prevents the release of testosterone. As a result, this may relieve symptoms associated with hormonally dependent disease states such as hormone-dependent prostate cancer.",
+    "fdaUniiCode": "Q1IF8M2YL3",
+    "identifier": "C95214",
+    "preferredName": "Ozarelix",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C2092"
+    ],
+    "synonyms": [
+      "D 63153",
+      "D-63 153",
+      "D63 153",
+      "D63153",
+      "LHRH antagonist SPI-153",
+      "OZARELIX",
+      "Ozarelix",
+      "SPI-153"
+    ]
+  }
+}

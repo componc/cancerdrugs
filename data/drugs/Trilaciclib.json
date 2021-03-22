@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Trilaciclib",
+  "nciThesaurus": {
+    "casRegistry": "1374743-00-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A small molecule, competitive inhibitor of cyclin dependent kinases 4 and 6 (CDK4/6), with potential antineoplastic and chemoprotective activities. Upon intravenous administration, trilaciclib binds to and inhibits the activity of CDK4/6, thereby blocking the phosphorylation of the retinoblastoma protein (Rb) in early G1. This prevents G1/S phase transition, causes cell cycle arrest in the G1 phase, induces apoptosis, and inhibits the proliferation of CDK4/6-overexpressing tumor cells. In patients with CDK4/6-independent tumor cells, G1T28 may protect against multi-lineage chemotherapy-induced myelosuppression (CIM) by transiently and reversibly inducing G1 cell cycle arrest in hematopoietic stem and progenitor cells (HSPCs) and preventing transition to the S phase. This protects all hematopoietic lineages, including red blood cells, platelets, neutrophils and lymphocytes, from the DNA-damaging effects of certain chemotherapeutics and preserves the function of the bone marrow and the immune system. CDKs are serine/threonine kinases involved in the regulation of the cell cycle and may be overexpressed in certain cancer cell types. HSPCs are dependent upon CDK4/6 for proliferation.",
+    "fdaUniiCode": "U6072DO9XG",
+    "identifier": "C123281",
+    "preferredName": "Trilaciclib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2185"
+    ],
+    "synonyms": [
+      "2'-((5-(4-Methylpiperazin-1-yl)pyridin-2-yl)amino)-7',8'-dihydro-6'H-spiro(cyclohexane-1,9'-pyrazino(1',2':1,5)pyrrolo(2,3-d)pyrimidin)-6'-one",
+      "G1T28",
+      "Spiro(cyclohexane-1,9'(6'H)-pyrazino(1',2':1,5)pyrrolo(2,3-d)pyrimidin)-6'-one, 7',8'-dihydro-2'-((5-(4-methyl-1-piperazinyl)-2-pyridinyl)amino)-",
+      "TRILACICLIB",
+      "Trilaciclib"
+    ]
+  }
+}

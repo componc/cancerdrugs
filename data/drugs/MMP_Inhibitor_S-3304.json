@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "MMP_Inhibitor_S-3304",
+  "nciThesaurus": {
+    "casRegistry": "203640-27-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally-agent agent with potential antineoplastic activity.  S-3304 inhibits matrix metalloproteinases (MMPs), thereby inducing extracellular matrix degradation, and inhibiting angiogenesis, tumor growth and invasion, and metastasis.",
+    "fdaUniiCode": "BK459F050X",
+    "identifier": "C2671",
+    "preferredName": "MMP Inhibitor S-3304",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1970"
+    ],
+    "synonyms": [
+      "MMP Inhibitor S-3304",
+      "S-3304",
+      "S3304"
+    ]
+  }
+}

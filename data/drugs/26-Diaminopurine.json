@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "26-Diaminopurine",
+  "nciThesaurus": {
+    "casRegistry": "1904-98-9",
+    "chebiId": "CHEBI:38001",
+    "chemicalFormula": "C5H6N6",
+    "definition": "One of a number of organic compounds that share a similar purine structure and possess antiviral and antitumor properties. 2,6-Diaminopurine nucleosides are versatile synthetic precursors for specific N-6 modifications of antiviral and antitumor agents.",
+    "fdaUniiCode": "49P95BAU4Z",
+    "identifier": "C29796",
+    "preferredName": "2,6-Diaminopurine",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C786"
+    ],
+    "synonyms": [
+      "1H-Purine-2,6-diamine",
+      "2,6-DIAMINOPURINE",
+      "2,6-Diaminopurine",
+      "9h-purine-2,6-diamine",
+      "DAP"
+    ]
+  }
+}

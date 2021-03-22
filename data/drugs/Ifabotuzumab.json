@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ifabotuzumab",
+  "nciThesaurus": {
+    "casRegistry": "1234137-51-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A non-fucosylated monoclonal antibody directed against the ephrin receptor A3 (EphA3), with potential antineoplastic activity. Upon administration, ifabotuzumab selectively binds to tumor cells expressing EphA3. This blocks both EphA3 activation and EphA3-mediated signaling, and induces apoptosis in EphA3-expressing tumor cells. In addition, ifabotuzumab can stimulate antibody dependent cell-mediated cytotoxicity (ADCC) against EphA3-expressing tumor cells. This agent also prevents tumor cell proliferation by inhibiting both EphA3 signaling and proliferation of endothelial cells in the tumor vasculature. The cell-surface receptor EphA3, a member of the ephrin family of receptor tyrosine kinases (RTKs) that are involved in mammalian development, is overexpressed by a variety of tumor types but is not expressed in normal healthy adult tissues. It plays an important role in tumor cell proliferation. Non-fucosylation of the antibody enhances its ADCC activity.",
+    "fdaUniiCode": "2BN89552WP",
+    "identifier": "C116629",
+    "preferredName": "Ifabotuzumab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Fibatuzumab",
+      "IFABOTUZUMAB",
+      "Ifabotuzumab",
+      "KB 004",
+      "KB-004",
+      "KB004"
+    ]
+  }
+}

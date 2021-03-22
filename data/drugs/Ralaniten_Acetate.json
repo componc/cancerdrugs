@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ralaniten_Acetate",
+  "nciThesaurus": {
+    "casRegistry": "1637573-04-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, small molecule inhibitor of the acetate form of ralaniten, a N-terminal domain (NTD) of the androgen receptor (AR), with potential antineoplastic activity. Upon oral administration of ralaniten acetate, ralaniten specifically binds to the NTD of AR, thereby inhibiting both AR activation and the AR-mediated signaling pathway. This inhibits cell growth in AR-overexpressing tumor cells. AR is overexpressed in prostate cancers and is involved in proliferation, survival and chemoresistance of tumor cells.",
+    "fdaUniiCode": "L10K286T2H",
+    "identifier": "C124654",
+    "preferredName": "Ralaniten Acetate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C146993"
+    ],
+    "synonyms": [
+      "1,2-Propanediol, 3-(4-(1-(4-((2S)-2-(acetyloxy)-3-chloropropoxy)phenyl)-1-methylethyl)phenoxy)-, 1,2-Diacetate, (2S)-",
+      "AR Inhibitor EPI-506",
+      "EPI-506",
+      "RALANITEN ACETATE",
+      "Ralaniten Acetate"
+    ]
+  }
+}

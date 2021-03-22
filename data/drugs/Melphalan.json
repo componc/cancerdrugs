@@ -1,0 +1,64 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "melphalan hydrochloride",
+      "conditionIndication": "High-dose of Phelinun used alone or in combination with other cytotoxic medicinal products and/or total body irradiation is indicated in the treatment of:, , multiple myeloma,, \tmalignant lymphoma (Hodgkin, non-Hodgkin lymphoma),, \tacute lymphoblastic and myeloblastic leukemia,, \tchildhood neuroblastoma,, \tovarian cancer,, \tmammary adenocarcinoma., Phelinun in combination with other cytotoxic medicinal products is indicated as reduced intensity conditioning (RIC) treatment prior to allogeneic haematopoietic stem cell transplantation (allo-HSCT) in malignant haematological diseases in adults., , Phelinun in combination with other cytotoxic medicinal products is indicated as conditioning regimen prior to allogeneic haematopoietic stem cell transplantation in haematological diseases in the paediatric population as:, , Myeloablative conditioning (MAC) treatment in case of malignant haematological diseases, \tRIC treatment in case of non-malignant haematological diseases., ",
+      "inn": "melphalan",
+      "marketingAuthorisationDate": "2020-11-16 01:00:00",
+      "marketingAuthorisationHolder": "ADIENNE S.r.l. S.U.",
+      "medicineName": "Phelinun",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/phelinun"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Melphalan",
+      "indication": "INDICATIONS AND USAGE Melphalan Tablets USP are indicated for the palliative treatment of multiple myeloma and for the palliation of non-resectable epithelial carcinoma of the ovary.",
+      "manufacturer": "Alvogen Inc.",
+      "splSetId": "5bc0a79d-eb07-9685-8e98-4f1979b84a48"
+    },
+    {
+      "brand": "ALKERAN",
+      "indication": "INDICATIONS AND USAGE ALKERAN Tablets are indicated for the palliative treatment of multiple myeloma and for the palliation of non-resectable epithelial carcinoma of the ovary.",
+      "manufacturer": "ApoPharma USA, Inc.",
+      "splSetId": "ff913271-0090-4832-a0fe-5154fe8f97b9"
+    }
+  ],
+  "id": "Melphalan",
+  "nciThesaurus": {
+    "casRegistry": "148-82-3",
+    "chebiId": "CHEBI:28876",
+    "chemicalFormula": "C13H18Cl2N2O2",
+    "definition": "A phenylalanine derivative of nitrogen mustard with antineoplastic activity. Melphalan alkylates DNA at the N7 position of guanine and induces DNA inter-strand cross-linkages, resulting in the inhibition of DNA and RNA synthesis and cytotoxicity against both dividing and non-dividing tumor cells.",
+    "fdaUniiCode": "Q41OR9510P",
+    "identifier": "C633",
+    "preferredName": "Melphalan",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C697"
+    ],
+    "synonyms": [
+      "4-[bis(2-chloroethyl)amino]-L-phenylalanine",
+      "Alanine Nitrogen Mustard",
+      "CB-3025",
+      "L-PAM",
+      "L-Phenylalanine Mustard",
+      "L-Phenylalanine mustard",
+      "L-Sarcolysin",
+      "L-Sarcolysin Phenylalanine mustard",
+      "L-Sarcolysine",
+      "L-sarcolysin",
+      "MELPHALAN",
+      "Melphalan",
+      "Melphalanum",
+      "Phenylalanine Mustard",
+      "Phenylalanine Nitrogen Mustard",
+      "Phenylalanine nitrogen mustard",
+      "Sarcoclorin",
+      "Sarkolysin",
+      "WR-19813",
+      "melphalan",
+      "p-di(chloroethyl)amino-L-phenylalanine"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Brivanib_Alaninate",
+  "nciThesaurus": {
+    "casRegistry": "649735-63-7",
+    "chebiId": "",
+    "chemicalFormula": "C22H24FN5O4",
+    "definition": "The alaninate salt of a vascular endothelial growth factor receptor 2 (VEGFR2) inhibitor with potential antineoplastic activity. Brivanib strongly binds to and inhibits VEGFR2, a tyrosine kinase receptor expressed almost exclusively on vascular endothelial cells; inhibition of VEGFR2 may result in inhibition of tumor angiogenesis, inhibition of tumor cell growth, and tumor regression.",
+    "fdaUniiCode": "U2Y5OFN795",
+    "identifier": "C53397",
+    "preferredName": "Brivanib Alaninate",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1742",
+      "C1967"
+    ],
+    "synonyms": [
+      "BMS 582664",
+      "BMS-582664",
+      "BRIVANIB ALANINATE",
+      "Brivanib Alaninate",
+      "brivanib alaninate"
+    ]
+  }
+}

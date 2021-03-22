@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Envafolimab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An injectable formulation of a monoclonal antibody directed against programmed cell death-1 ligand 1 (PD-L1; cluster of differentiation 274; CD274), with immune checkpoint inhibitory and potential antineoplastic activities. Upon subcutaneous administration, envafolimab binds to PD-L1, blocking its binding to and activation of its receptor programmed death 1 (PD-1), which may enhance the T-cell-mediated immune response to neoplasms and reverse T-cell inactivation. PD-L1 is overexpressed by many human cancer cell types. PD-L1 binding to PD-1 on T-cells suppresses the immune system and results in immune evasion. PD-1, a transmembrane protein expressed on activated T-cells, is a negative regulator of the immune system that limits the expansion and survival of CD8+ T cells.",
+    "fdaUniiCode": "ES1M06M6QH",
+    "identifier": "C129714",
+    "preferredName": "Envafolimab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C128057",
+      "C129822"
+    ],
+    "synonyms": [
+      "Anti-PD-L1 MoAb KN035",
+      "ENVAFOLIMAB",
+      "Envafolimab",
+      "KN 035",
+      "KN035"
+    ]
+  }
+}

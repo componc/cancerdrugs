@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Immunocytokine_NHS-IL2-LT",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fusion protein consisting of a mouse-human chimeric antibody directed against DNA released by necrotic tumor cells fused to two molecules of a genetically modified human interleukin-2 (IL-2) with potential antineoplastic activity. Upon administration, the antibody moiety of immunocytokine NHS-IL2-LT binds to DNA released by necrotic tumor cells located primarily at the core of necrotic solid tumors, delivering the IL-2 moiety. In turn, the IL-2 moiety of this agent activates the immune system to mount a cytotoxic T lymphocyte response against nearby tumor cells.",
+    "fdaUniiCode": "EI74F49ZLJ",
+    "identifier": "C82411",
+    "preferredName": "Immunocytokine NHS-IL2-LT",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1512"
+    ],
+    "synonyms": [
+      "Ch.14.18-IL2",
+      "EMD 521873",
+      "Immunocytokine NHS-IL2-LT",
+      "SELECTIKINE",
+      "Selectikine"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ningetinib_Tosylate",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The tosylate salt form of ningetinib, an orally available inhibitor of the receptor tyrosine kinases c-MET/hepatocyte growth factor receptor (HGFR), vascular endothelial growth factor receptor 2 (VEGFR2 KDR), Axl (UFO), Mer, and Fms-like tyrosine kinase 3 (Flt3; CD135; STK1; FLK2), with antineoplastic activity. Upon administration, ningetinib binds to a variety of kinases, including c-Met, VEGFR2, Axl, Mer and Flt3, thereby inhibiting their signaling pathways. This inhibits growth, angiogenesis and metastasis of tumor cells that overexpress these kinases. c-Met, VEGFR2, Axl, Mer and Flt3 are overexpressed by many tumor cell types and play key roles in tumor cell proliferation, survival, invasion and metastasis.",
+    "fdaUniiCode": "R7I5725FES",
+    "identifier": "C148529",
+    "preferredName": "Ningetinib Tosylate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1967"
+    ],
+    "synonyms": [
+      "CT-053 Tosylate",
+      "CT-053-PTSA",
+      "CT-053PTSA",
+      "NINGETINIB TOSYLATE",
+      "Ningetinib Tosylate"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Lutetium_Lu_177_Anti-CA19-9_Monoclonal_Antibody_5B1",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A radioimmunoconjugate comprised of a human monoclonal antibody (huMAb-5B1) against the carbohydrate antigen sialyl Lewis A (carbohydrate antigen 19-9; CA19-9) that is conjugated to the chelator 2-(p-isothiocyanatobenzyl)-cyclohexyl-diethylenetriaminepentaacetic acid (CHX-A''-DTPA) and labeled with the beta-emitting radioisotope lutetium Lu 177 (Lu 177), with radioisotopic activity and potential use as an antineoplastic radiotherapeutic and an imaging agent in both planar imaging and single-photon emission computed tomography (SPECT). The antibody moiety of Lu 177 anti-CA19-9 monoclonal antibody 5B1 targets and binds to CA19-9-expressing tumor cells. This may promote killing of CA19-9-expressing tumor cells through the local induction of both complement-dependent cytotoxicity (CDC) and antibody-dependent cell-mediated cytotoxicity (ADCC). Additionally, upon binding and internalization, the Lu 177 moiety can deliver a cytotoxic dose of beta radiation to the CA19-9-expressing tumor cells. Furthermore, the radioisotope moiety may be imaged using planar imaging and SPECT, thus allowing evaluation of the pharmacokinetic profile of the agent, and the imaging and quantification of CA19-9-expressing tumor cells, respectively. CA19-9, a Lewis-type carbohydrate antigen overexpressed on a number of different tumor cell types, plays a key role in tumor cell survival and metastasis.",
+    "fdaUniiCode": "473BOU89F3",
+    "identifier": "C142176",
+    "preferredName": "Lutetium Lu 177 Anti-CA19-9 Monoclonal Antibody 5B1",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1511"
+    ],
+    "synonyms": [
+      "177Lu Human Monoclonal Antibody 5B1",
+      "177Lu-CHX-A''-DTPA-HuMab-5B1",
+      "Lu 177 Anti-CA19-9 Monoclonal Antibody 5B1",
+      "Lutetium Lu 177 Anti-CA19-9 Monoclonal Antibody 5B1",
+      "MVT-1075"
+    ]
+  }
+}

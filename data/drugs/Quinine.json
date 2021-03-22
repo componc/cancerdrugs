@@ -1,0 +1,43 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Chininum purum",
+      "indication": "INDICATIONS Indications: CHININUM PUR Profuse perspiration",
+      "manufacturer": "Washington Homeopathic Products",
+      "splSetId": "637ffcac-7484-4067-8ba6-2f36ae14b7da"
+    },
+    {
+      "brand": "Visceral Polarity",
+      "indication": "\u200bINDICATIONS FOR USE: \u200bFor the temporary relief of lack of general emotional, physical, or mental balance \u2022 Minor nervous system tension, confusion, nervousness, fatigue \u200b \u200b\u2022 Feelings of spasm pressure and tightness sensation in internal organs, esophagus and stomach \u2022 Temporary relief of heartburn \u200b\u2022 General tone of nervous and digestive systems.**",
+      "manufacturer": "NET Remedies",
+      "splSetId": "971e74ea-f72f-403e-bc79-02901e5019e8"
+    },
+    {
+      "brand": "Chininum purum",
+      "indication": "INDICATIONS Indications: CHININUM PURUM Profuse perspiration",
+      "manufacturer": "Washington Homeopathic Products",
+      "splSetId": "eed4f0bd-7dd8-4515-91c7-91d2db6967e4"
+    }
+  ],
+  "id": "Quinine",
+  "nciThesaurus": {
+    "casRegistry": "130-95-0",
+    "chebiId": "CHEBI:15854",
+    "chemicalFormula": "C20H24N2O2",
+    "definition": "A quinidine alkaloid isolated from the bark of the cinchona tree. Quinine has many mechanisms of action, including reduction of oxygen intake and carbohydrate metabolism; disruption of DNA replication and transcription via DNA intercalation; and reduction of the excitability of muscle fibers via alteration of calcium distribution.  This agent also inhibits the drug efflux pump P-glycoprotein which is overexpressed in multi-drug resistant tumors and may improve the efficacy of some antineoplastic agents.",
+    "fdaUniiCode": "A7V27PHC7A",
+    "identifier": "C794",
+    "preferredName": "Quinine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C271"
+    ],
+    "synonyms": [
+      "(-)-Quinine",
+      "QUIN",
+      "QUININE",
+      "Quinine"
+    ]
+  }
+}

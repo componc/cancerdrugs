@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Elimusertib",
+  "nciThesaurus": {
+    "casRegistry": "1876467-74-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available ataxia telangiectasia and Rad3-related (ATR)-specific kinase inhibitor, with potential antineoplastic activity. Upon oral administration, elimusertib selectively binds to and inhibits the activity of ATR, which prevents ATR-mediated signaling. This inhibits DNA damage checkpoint activation, disrupts DNA damage repair and induces apoptosis in ATR-overexpressing tumor cells. ATR, a serine/threonine protein kinase upregulated in a variety of cancer cell types, plays a key role in DNA repair, cell cycle progression and cell survival.",
+    "fdaUniiCode": "7N13IK9LNH",
+    "identifier": "C146807",
+    "preferredName": "Elimusertib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C155926"
+    ],
+    "synonyms": [
+      "ATR Inhibitor BAY1895344",
+      "ATR Kinase Inhibitor BAY1895344",
+      "BAY 1895344",
+      "BAY-1895344",
+      "BAY1895344",
+      "ELIMUSERTIB",
+      "Elimusertib"
+    ]
+  }
+}

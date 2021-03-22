@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Etoricoxib",
+  "nciThesaurus": {
+    "casRegistry": "202409-33-4",
+    "chebiId": "CHEBI:6339",
+    "chemicalFormula": "C18H15ClN2O2S",
+    "definition": "A synthetic, nonsteroidal anti-inflammatory drug (NSAID) with antipyretic, analgesic, and potential antineoplastic properties. Etoricoxib specifically binds to and inhibits the enzyme cyclooxygenase-2 (COX-2), resulting in inhibition of the conversion of arachidonic acid into prostaglandins. Inhibition of COX-2 may induce apoptosis and inhibit tumor cell proliferation and angiogenesis.",
+    "fdaUniiCode": "WRX4NFY03R",
+    "identifier": "C52188",
+    "preferredName": "Etoricoxib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1323"
+    ],
+    "synonyms": [
+      "5-Chloro-2-(6-methylpyridin-3-yl)-3-(4-methylsulfonylphenyl) Pyridine",
+      "Arcoxia",
+      "ETORICOXIB",
+      "Etoricoxib",
+      "L-791456",
+      "MK-0663"
+    ]
+  }
+}

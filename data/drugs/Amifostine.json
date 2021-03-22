@@ -1,0 +1,43 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Ethyol",
+      "indication": "1 INDICATIONS AND USAGE ETHYOL is a cytoprotective agent indicated for: reduction of cumulative renal toxicity associated with repeated administration of cisplatin in patients with advanced ovarian cancer. ( 1.1 ) reduction of the incidence of moderate to severe xerostomia in patients undergoing post-operative radiation treatment for head and neck cancer, where the radiation port includes a substantial portion of the parotid glands. ( 1.2 ) Limitation of Use Avoid the use of ETHYOL in settings where chemotherapy can produce a significant survival benefit or cure, or in patients receiving definitive radiotherapy. ( 1 , 5.1 , 5.2 ) 1.1 Reduction of Cumulative Renal Toxicity with Chemotherapy ETHYOL (amifostine) is indicated to reduce the cumulative renal toxicity associated with repeated administration of cisplatin in patients with advanced ovarian cancer [see Clinical Studies ( 14.1 )] . 1.2 Reduction of Moderate to Severe Xerostomia from Radiation of the Head and Neck ETHYOL is indicated to reduce the incidence of moderate to severe xerostomia in patients undergoing post-operative radiation treatment for head and neck cancer, where the radiation port includes a substantial portion of the parotid glands [see Clinical Studies ( 14.2 )] . Limitation of Use Do not use ETHYOL in other settings where chemotherapy can produce a significant survival benefit or cure [see Warnings and Precautions ( 5.1 )] , or in patients receiving definitive radiotherapy [see Warnings and Precautions ( 5.2 )] , except in the context of a clinical study.",
+      "manufacturer": "Clinigen Group PLC",
+      "splSetId": "973ed458-f46b-4f61-a329-816c4db79a2c"
+    }
+  ],
+  "id": "Amifostine",
+  "nciThesaurus": {
+    "casRegistry": "112901-68-5",
+    "chebiId": "",
+    "chemicalFormula": "C5H15N2O3PS.3H2O",
+    "definition": "The trihydrate form of a phosphorylated aminosulfhydryl compound. After dephosphorylation of amifostine by alkaline phosphatase to an active free sulfhydryl (thiol) metabolite, the thiol metabolite binds to and detoxifies cytotoxic platinum-containing metabolites of cisplatin and scavenges free radicals induced by cisplatin and ionizing radiation. The elevated activity of this agent in normal tissues results from both the relative abundance of alkaline phosphatase in normal tissues and the greater vascularity of normal tissues compared to tumor tissues.",
+    "fdaUniiCode": "M487QF2F4V",
+    "identifier": "C488",
+    "preferredName": "Amifostine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2080"
+    ],
+    "synonyms": [
+      "2-[(3-Aminopropyl)amino]ethanethiol Dihydrogen Phosphate Ester Trihydrate",
+      "AMIFOSTINE",
+      "APAETP",
+      "Amifostine",
+      "Amifostine Trihydrate",
+      "Aminopropylaminoethylthiophosphoric Acid Trihydrate",
+      "Cytofos",
+      "Ethiofos",
+      "Ethyol",
+      "Gammaphos",
+      "S-(N-(3-Aminopropyl)-2-aminoethyl)thiophosphoric Acid Trihydrate",
+      "S-2-(3-Aminopropylamino)ethylphosphorothioic Acid Trihydrate",
+      "WR 2721",
+      "WR-2721",
+      "WR2721",
+      "YM-08310"
+    ]
+  }
+}

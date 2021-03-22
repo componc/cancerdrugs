@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Choline_Kinase_Alpha_Inhibitor_TCD-717",
+  "nciThesaurus": {
+    "casRegistry": "850993-73-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A small-molecule inhibitor of choline kinase alpha (CHKA), with potential antineoplastic activity. TCD-717 targets and binds to CHKA, an enzyme that plays a key role in the synthesis of phosphatidylcholine, the major phospholipid in eukaryotic cell membranes. Blockade of this enzyme induces cells to activate a different route for phospholipid production which causes a toxic effect and eventually leads to cell destruction. CHKA, overexpressed in human cancer cells while only minimally expressed in normal cells, appears to play a significant role in cellular proliferation, evasion of apoptosis, increased cell motility and metastasis.",
+    "fdaUniiCode": "KC1UXA6R4Z",
+    "identifier": "C94213",
+    "preferredName": "Choline Kinase Alpha Inhibitor TCD-717",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C471"
+    ],
+    "synonyms": [
+      "CHKA Inhibitor TCD-717",
+      "Choline Kinase Alpha Inhibitor TCD-717",
+      "RSM-932A",
+      "TCD-717"
+    ]
+  }
+}

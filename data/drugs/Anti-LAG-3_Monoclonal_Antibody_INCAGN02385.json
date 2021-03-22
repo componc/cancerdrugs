@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-LAG-3_Monoclonal_Antibody_INCAGN02385",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A Fc-engineered immunoglobulin G1-kappa (IgG1k) monoclonal antibody targeting the co-inhibitory receptor lymphocyte-activation gene 3 protein (LAG-3; LAG3), with potential immune checkpoint inhibitory and antineoplastic activities. Upon intravenous administration, monoclonal antibody INCAGN02385 targets and binds to human LAG-3 on tumor-infiltrating  lymphocytes (TILs) and blocks the interaction between LAG-3 and major histocompatibility complex class II (MHC II) molecules on the surface of antigen-presenting cells (APCs) and tumor cells. This prevents the negative regulation of T-cell activity that occurs via LAG-3-MHC II binding and enhances a cytotoxic T-lymphocyte (CTL)-mediated immune response against tumor cells, which leads to a reduction in tumor growth. LAG-3, a member of the immunoglobulin superfamily (IgSF), negatively regulates both proliferation and activation of T-cells. Its expression on  TILs is associated with tumor-mediated immune suppression.",
+    "fdaUniiCode": "Z0A08C63DF",
+    "identifier": "C157127",
+    "preferredName": "Anti-LAG-3 Monoclonal Antibody INCAGN02385",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C134305"
+    ],
+    "synonyms": [
+      "Anti-LAG-3 Monoclonal Antibody INCAGN02385",
+      "Anti-LAG3 Monoclonal Antibody INCAGN02385",
+      "INCAGN 02385",
+      "INCAGN 2385",
+      "INCAGN-02385",
+      "INCAGN02385",
+      "INCAGN2385"
+    ]
+  }
+}

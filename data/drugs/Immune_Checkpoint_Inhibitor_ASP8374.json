@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Immune_Checkpoint_Inhibitor_ASP8374",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An immune checkpoint inhibitor with potential immunomodulating and antineoplastic activities. Although the exact target is undisclosed, ASP8374 inhibits the activity of an immune checkpoint protein, which ultimately leads to the activation of a cytotoxic T-lymphocyte (CTL)-mediated immune response against cancer cells.",
+    "fdaUniiCode": "TB50XV90MW",
+    "identifier": "C141421",
+    "preferredName": "Immune Checkpoint Inhibitor ASP8374",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C143250"
+    ],
+    "synonyms": [
+      "ASP 8374",
+      "ASP-8374",
+      "ASP8374",
+      "Immune Checkpoint Inhibitor ASP8374"
+    ]
+  }
+}

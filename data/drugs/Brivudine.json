@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Brivudine",
+  "nciThesaurus": {
+    "casRegistry": "69304-47-8",
+    "chebiId": "",
+    "chemicalFormula": "C11H13BrN2O5",
+    "definition": "A uridine derivative and nucleoside analog with pro-apoptotic and chemosensitizing properties. In vitro, bromovinyl-deoxyuridine (BVDU) has been shown to downregulate the multifunctional DNA repair enzyme APEX nuclease 1, resulting in the inhibition of DNA repair and the induction of apoptosis. In addition, this agent may inhibit the expression of STAT3 (signal transducer and activator of transcription 3), which may result in the downregulation of vascular endothelial growth factor (VEGF). BVDU has also been found to inhibit the upregulation of chemoresistance genes (Mdr1 and DHFR) during chemotherapy. Overall, the gene expression changes associated with BVDU treatment result in the decrease or prevention of chemoresistance. In addition, this agent has been shown to enhance the cytolytic activity of NK-92 natural killer cells towards a pancreatic cancer cell line in vitro.",
+    "fdaUniiCode": "2M3055079H",
+    "identifier": "C67088",
+    "preferredName": "Brivudine",
+    "semanticType": "Chemical Viewed Functionally",
+    "subclassOf": [
+      "C1557",
+      "C281",
+      "C471"
+    ],
+    "synonyms": [
+      "(E)-5-(2-Bromovinyl)-deoxyuridine",
+      "BRIVUDINE",
+      "BVDU",
+      "Brivudine",
+      "Bromovinyl-Deoxyuridine",
+      "Helpin",
+      "RP101",
+      "Trans-5-(2-Bromovinyl)-2'-deoxyuridine",
+      "brivudine"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Idasanutlin",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available, small molecule, antagonist of MDM2 (mouse double minute 2; Mdm2 p53 binding protein homolog), with potential antineoplastic activity. Idasanutlin binds to MDM2 blocking the interaction between the MDM2 protein and the transcriptional activation domain of the tumor suppressor protein p53. By preventing the MDM2-p53 interaction, p53 is not enzymatically degraded and the transcriptional activity of p53 is restored. This may lead to p53-mediated induction of tumor cell apoptosis. MDM2, a zinc finger nuclear phosphoprotein and negative regulator of the p53 pathway, is often overexpressed in cancer cells and has been implicated in cancer cell proliferation and survival.",
+    "fdaUniiCode": "QSQ883V35U",
+    "identifier": "C99131",
+    "preferredName": "Idasanutlin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C162996"
+    ],
+    "synonyms": [
+      "IDASANUTLIN",
+      "Idasanutlin",
+      "RG-7388",
+      "RG7388",
+      "RO-5503781",
+      "RO5503781"
+    ]
+  }
+}
