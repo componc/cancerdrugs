@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Cetrelimab",
+  "nciThesaurus": {
+    "casRegistry": "2050478-92-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A monoclonal antibody directed against the negative immunoregulatory human cell surface receptor programmed cell death 1 protein (PD-1, PCDC-1), with potential immune checkpoint inhibitory and antineoplastic activity. Upon administration, cetrelimab binds to PD-1, and inhibits the interaction with its ligands, programmed cell death 1 ligand 1 (PD-L1, PD-1L1) and PD-1 ligand 2 (PD-L2, PD-1L2). The inhibition of ligand binding prevents PD-1-mediated signaling and results in both T-cell activation and the induction of T-cell-mediated immune responses against tumor cells. PD-1, an immunoglobulin (Ig) superfamily transmembrane protein and inhibitory receptor, negatively regulates T-cell activation.",
+    "fdaUniiCode": "LYK98WP91F",
+    "identifier": "C129448",
+    "preferredName": "Cetrelimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C128037"
+    ],
+    "synonyms": [
+      "CETRELIMAB",
+      "Cetrelimab",
+      "JNJ 63723283",
+      "JNJ-63723283",
+      "JNJ63723283",
+      "WHO 10757"
+    ]
+  }
+}

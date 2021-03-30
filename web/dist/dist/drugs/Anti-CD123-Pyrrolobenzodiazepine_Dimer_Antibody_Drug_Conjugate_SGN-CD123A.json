@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-CD123-Pyrrolobenzodiazepine_Dimer_Antibody_Drug_Conjugate_SGN-CD123A",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) consisting of an anti-CD123 humanized monoclonal antibody conjugated, via a stable maleimidocaproyl-valine-alanine dipeptide protease-cleavable linker, to the cytotoxic, DNA minor-groove crosslinking agent pyrrolobenzodiazepine (PBD) dimer, with potential antineoplastic activity. Upon administration of anti-CD123 ADC SGN-CD123A, the antibody moiety targets the cell surface antigen CD123. Upon antibody/antigen binding, internalization, and lysosome uptake, the cytotoxic PBD moiety is released. In turn, the imine groups of the PBD moiety bind to the N2 positions of guanines on opposite strands of DNA. This induces DNA strand breaks, inhibits DNA replication, leads to G2/M cell cycle arrest, induces cell death, and inhibits the proliferation of CD123-overexpressing tumor cells. CD123, the alpha subunit of the IL-3 receptor, regulates the proliferation, survival and differentiation of hematopoietic cells. CD123 is overexpressed on a variety of cancers, including myeloid leukemia, and increased expression of CD123 on leukemic stem cells is associated with poor prognosis. Cysteine engineering of the monoclonal antibody (EC-mAb) allows for a site-specific, stable conjugation and uniform loading of the PBD agent to the antibody.",
+    "fdaUniiCode": "89ATB9I3D2",
+    "identifier": "C129457",
+    "preferredName": "Anti-CD123-Pyrrolobenzodiazepine Dimer Antibody Drug Conjugate SGN-CD123A",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "ADC SGN-CD123A",
+      "Anti-CD123 ADC SGN-CD123A",
+      "Anti-CD123-PBD ADC SGN-CD123A",
+      "Anti-CD123-Pyrrolobenzodiazepine Dimer Antibody Drug Conjugate SGN-CD123A",
+      "Antibody-drug Conjugate SGN-CD123A",
+      "SGN CD123A",
+      "SGN-CD123A"
+    ]
+  }
+}

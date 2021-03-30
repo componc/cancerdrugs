@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Adagloxad_Simolenin",
+  "nciThesaurus": {
+    "casRegistry": "1458687-85-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A carbohydrate-based immunostimulant comprised of the Globo H hexasaccharide 1 (Globo H) epitope linked to the immunostimulant carrier protein keyhole limpet hemocyanin (KLH), with potential antineoplastic activity. Upon administration of adagloxad simolenin, the carbohydrate antigen Globo H may stimulate a cytotoxic T-lymphocyte (CTL) response against Globo H-expressing tumor cells, thereby decreasing tumor cell proliferation. Globo H is a tumor associated antigen (TAA) commonly found on a variety of tumor cells including breast cancer cells. KLH improves antigenic immune recognition and T-cell responses.",
+    "fdaUniiCode": "UCG949AA7Z",
+    "identifier": "C99766",
+    "preferredName": "Adagloxad Simolenin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2139"
+    ],
+    "synonyms": [
+      "ADAGLOXAD SIMOLENIN",
+      "Adagloxad Simolenin",
+      "OBI 822",
+      "OBI-822",
+      "OBI822"
+    ]
+  }
+}

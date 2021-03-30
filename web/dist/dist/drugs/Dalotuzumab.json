@@ -1,0 +1,33 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "HGH Plus",
+      "indication": "Uses: Temporarily supports the body to rebalance Human Growth Hormone (HGH) output. Treats symptoms associated with imbalanced HGH such as: poor muscle/fat balance, dry, wrinkled skin, low energy, sleeplessness, weak immune system.*",
+      "manufacturer": "ProBlen",
+      "splSetId": "fafef302-c7f3-4bcb-b876-c6e196b5425b"
+    }
+  ],
+  "id": "Dalotuzumab",
+  "nciThesaurus": {
+    "casRegistry": "1005389-60-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant humanized monoclonal antibody directed against the insulin-like growth factor 1 receptor (IGF1R) with potential antineoplastic activity. Dalotuzumab binds to membrane-bound IGF1R, preventing binding of the ligand IGF1 and the subsequent triggering of the PI3K/Akt signaling pathway; inhibition of this survival signaling pathway may result in the inhibition of tumor cell proliferation and the induction of tumor cell apoptosis. The activation of IGF1R, a tyrosine kinase and a member of the insulin receptor family, stimulates cell proliferation, enables oncogenic transformation, and suppresses apoptosis; IGF1R signaling has been highly implicated in tumorigenesis and metastasis.",
+    "fdaUniiCode": "6YI1L648RH",
+    "identifier": "C74011",
+    "preferredName": "Dalotuzumab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-IGF-1R Recombinant Monoclonal Antibody MK-0646",
+      "DALOTUZUMAB",
+      "Dalotuzumab",
+      "MK-0646",
+      "anti-IGF1R recombinant monoclonal antibody MK-0646"
+    ]
+  }
+}

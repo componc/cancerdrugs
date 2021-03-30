@@ -1,0 +1,36 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Azaribine",
+  "nciThesaurus": {
+    "casRegistry": "2169-64-4",
+    "chebiId": "",
+    "chemicalFormula": "C14H17N3O9",
+    "definition": "The triacetate salt of azauridine, a synthetic triazine nucleoside derivative possessing antineoplastic and anti-psoriatic activity. After metabolism to 6-azauridine-5-prime monophosphate, 6-Azauridine inhibits de novo pyrimidine biosynthesis and its 5-prime triphosphate metabolite gets incorporated into RNA, thereby preventing RNA synthesis.",
+    "fdaUniiCode": "K1U80DO9EB",
+    "identifier": "C1008",
+    "preferredName": "Azaribine",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1557",
+      "C2170"
+    ],
+    "synonyms": [
+      "1,2,4-Triazine-3,5(2H,4H)-dione, 2-Beta-D-ribofuranosyl-",
+      "2',3',4'-azauridine triacetate",
+      "2-(2,3,5-Tri-O-acetyl-beta-D-ribofuranosyl)-as-triazine-3,5(2H,4H)-dione",
+      "6-Azauridine Triacetate",
+      "6-Azauridine triacetate",
+      "AZARIBINE",
+      "Azaribine",
+      "Azauridine Triacetate",
+      "Azauridine triacetate",
+      "CB 304",
+      "SKI 28426",
+      "Triacetyl 6-azauridine",
+      "Triacetyl 6-azuridine",
+      "Triacetyl-6-azuridine",
+      "Triazure"
+    ]
+  }
+}

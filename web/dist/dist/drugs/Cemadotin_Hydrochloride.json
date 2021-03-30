@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Cemadotin_Hydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The hydrochloride salt form of cemadotin, a synthetic dolastatin 15 analogue with potential antineoplastic activity.  Cemadotin suppresses spindle microtubule dynamics by binding to tubulin, thereby blocking mitosis.",
+    "fdaUniiCode": "4LJQ1IXS6C",
+    "identifier": "C1634",
+    "preferredName": "Cemadotin Hydrochloride",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C67422"
+    ],
+    "synonyms": [
+      "CEMADOTIN HYDROCHLORIDE",
+      "Cemadotin Hydrochloride",
+      "LU-103793",
+      "LU103793"
+    ]
+  }
+}

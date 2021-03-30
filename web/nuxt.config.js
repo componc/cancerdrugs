@@ -1,6 +1,8 @@
 import colors from 'vuetify/es5/util/colors'
 
 export default {
+  dev: process.env.NODE_ENV !== 'production',
+
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
   ssr: false,
 
@@ -50,7 +52,8 @@ export default {
   ],
 
   router: {
-    base: '/cancerdrugs/'
+    base: '/cancerdrugs/',
+    mode: 'history'
   },
 
   // Content module configuration: https://go.nuxtjs.dev/config-content

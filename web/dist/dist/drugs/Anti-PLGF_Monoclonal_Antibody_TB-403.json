@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-PLGF_Monoclonal_Antibody_TB-403",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody directed against placental growth factor (PLGF) with potential anti-angiogenic and antineoplastic acivities. Anti-PLGF monoclonal antibody TB-403 binds to PLGF, inhibiting the binding of PLGF to the vascular endothelial growth factor receptor, which may result in the inhibition of tumor angiogenesis and tumor cell proliferation. PLGF is a protein that belongs to the family of vascular endothelial growth factors (VEGFs).",
+    "fdaUniiCode": "46MVG4H2LF",
+    "identifier": "C78486",
+    "preferredName": "Anti-PLGF Monoclonal Antibody TB-403",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C1742",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-PLGF Monoclonal Antibody TB-403",
+      "Anti-Placental Growth Factor Monoclonal Antibody TB-403",
+      "RG7334",
+      "TB-403"
+    ]
+  }
+}

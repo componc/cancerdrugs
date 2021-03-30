@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Aprutumab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody against the fibroblast growth factor receptor type 2 (FGFR2), with potential antineoplastic activity. Upon administration, aprutumab binds to and inhibits FGFR2, which may result in the inhibition of both FGFR2 phosphorylation and FGFR2-mediated signal transduction pathways. This results in the inhibition of cell proliferation and the induction of cell death of FGFR2-expressing tumor cells. FGFR2, upregulated in many tumor cell types, is a receptor tyrosine kinase, which is essential to tumor cellular proliferation, differentiation and survival.",
+    "fdaUniiCode": "GK8781218Z",
+    "identifier": "C107683",
+    "preferredName": "Aprutumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C133879"
+    ],
+    "synonyms": [
+      "AGC-2500",
+      "APRUTUMAB",
+      "Aprutumab",
+      "BAY-1179470",
+      "BAY1179470"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Dactolisib",
+  "nciThesaurus": {
+    "casRegistry": "915019-65-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable imidazoquinoline targeting the phosphatidylinositol 3 kinase (PI3K) and the mammalian target of rapamycin (mTOR), with potential antineoplastic activity. Dactolisib inhibits PI3K kinase and mTOR kinase in the PI3K/AKT/mTOR kinase signaling pathway, which may result in tumor cell apoptosis and growth inhibition in PI3K/mTOR-overexpressing tumor cells. Activation of the PI3K/mTOR pathway promotes cell growth, survival, and resistance to chemotherapy and radiotherapy; mTOR, a serine/threonine kinase downstream of PI3K, may also be activated independent of PI3K.",
+    "fdaUniiCode": "RUJ6Z9Y0DT",
+    "identifier": "C74072",
+    "preferredName": "Dactolisib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2152"
+    ],
+    "synonyms": [
+      "BEZ235",
+      "Benzeneacetonitrile, 4-(2,3-Dihydro-3-methyl-2-oxo-8-(3-quinolinyl)-1H-imidazo(4,5-c)quinolin-1-yl)-alpha,alpha-dimethyl-",
+      "DACTOLISIB",
+      "Dactolisib",
+      "NVPBEZ235"
+    ]
+  }
+}

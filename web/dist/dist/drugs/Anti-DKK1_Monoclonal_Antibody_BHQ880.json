@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-DKK1_Monoclonal_Antibody_BHQ880",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody directed against Wnt antagonist Dickkopf-1 (DKK1) with potential anti-osteolytic activity. Anti-DKK1 monoclonal antibody BHQ880 binds to and inhibits DKK1, enhancing signaling through the Wnt pathway, which may result in osteoblast differentiation and activation within the bone matrix and the reversal of tumor-induced osteolytic disease. DKK1 is a potent Wnt signaling pathway antagonist.",
+    "fdaUniiCode": "IS3ESI44W5",
+    "identifier": "C80040",
+    "preferredName": "Anti-DKK1 Monoclonal Antibody BHQ880",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-DKK1 Monoclonal Antibody BHQ880",
+      "BHQ-880",
+      "BHQ880"
+    ]
+  }
+}

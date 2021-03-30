@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Bizalimogene_Ralaplasmid",
+  "nciThesaurus": {
+    "casRegistry": "1977488-08-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A DNA vaccine consisting of plasmids encoding the E6 and E7 genes of human papilloma virus (HPV) subtypes 16 and 18, respectively, with potential immunostimulating and antineoplastic activities. Administered via intramuscular electroporation, bizalimogene ralaplasmid expresses E6 and E7 proteins, which may elicit a cytotoxic T-lymphocyte (CTL) response against cervical cancer cells expressing E6 and E7 proteins, resulting in tumor cell lysis. HPV type 16 and HPV type 18 are the most common HPV types involved in cervical carcinogenesis.",
+    "fdaUniiCode": "D8W2DVO5ZJ",
+    "identifier": "C77909",
+    "preferredName": "Bizalimogene Ralaplasmid",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1663",
+      "C39619"
+    ],
+    "synonyms": [
+      "BIZALIMOGENE RALAPLASMID",
+      "Bizalimogene Ralaplasmid",
+      "HPV DNA Plasmids Therapeutic Vaccine VGX-3100",
+      "VGX-3100",
+      "pGX3002"
+    ]
+  }
+}

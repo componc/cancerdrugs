@@ -1,0 +1,44 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Cyclophosphamide",
+      "indication": "1 INDICATIONS AND USAGE Cyclophosphamide capsules is an alkylating drug indicated for treatment of: Malignant Diseases: malignant lymphomas: Hodgkin's disease, lymphocytic lymphoma, mixed-cell type lymphoma, histiocytic lymphoma, Burkitt's lymphoma; multiple myeloma, leukemias, mycosis fungoides, neuroblastoma, adenocarcinoma of ovary, retinoblastoma, breast carcinoma (1.1) Minimal Change Nephrotic Syndrome in Pediatric Patients: biopsy proven minimal change nephrotic syndrome in pediatric patients who failed to adequately respond to or are unable to tolerate adrenocorticosteroid therapy (1.2) Limitations of Use: The safety and effectiveness for the treatment of nephrotic syndrome in adults or other renal disease has not been established. 1.1 Malignant Diseases Cyclophosphamide capsules are indicated for the treatment of: malignant lymphomas (Stages III and IV of the Ann Arbor staging system), Hodgkin's disease, lymphocytic lymphoma (nodular or diffuse), mixed-cell type lymphoma, histiocytic lymphoma, Burkitt's lymphoma multiple myeloma leukemias: chronic lymphocytic leukemia, chronic granulocytic leukemia (it is usually ineffective in acute blastic crisis), acute myelogenous and monocytic leukemia, acute lymphoblastic (stem-cell) leukemia (cyclophosphamide given during remission is effective in prolonging its duration) mycosis fungoides (advanced disease) neuroblastoma (disseminated disease) adenocarcinoma of the ovary retinoblastoma carcinoma of the breast Cyclophosphamide, although effective alone in susceptible malignancies, is more frequently used concurrently or sequentially with other antineoplastic drugs. 1.2 Minimal Change Nephrotic Syndrome in Pediatric Patients Cyclophosphamide capsules is indicated for the treatment of biopsy proven minimal change nephrotic syndrome in pediatric patients who failed to adequately respond to or are unable to tolerate adrenocorticosteroid therapy. Limitations of Use: The safety and effectiveness of cyclophosphamide capsules for the treatment of nephrotic syndrome in adults or other renal disease has not been established.",
+      "manufacturer": "Cipla USA Inc.",
+      "splSetId": "0e1cb955-99c8-4fe5-89d1-399c8e52174e"
+    },
+    {
+      "brand": "CYCLOPHOSPHAMIDE",
+      "indication": "1 INDICATIONS AND USAGE Cyclophosphamide is an alkylating drug indicated for treatment of: Malignant Diseases: malignant lymphomas: Hodgkin's disease, lymphocytic lymphoma, mixed-cell type lymphoma, histiocytic lymphoma, Burkitt's lymphoma; multiple myeloma, leukemias, mycosis fungoides, neuroblastoma, adenocarcinoma of ovary, retinoblastoma, breast carcinoma. ( 1.1 ) 1.1 Malignant Diseases Cyclophosphamide is indicated for the treatment of: malignant lymphomas (Stages III and IV of the Ann Arbor staging system), Hodgkin's disease, lymphocytic lymphoma (nodular or diffuse), mixed-cell type lymphoma, histiocytic lymphoma, Burkitt's lymphoma multiple myeloma leukemias: chronic lymphocytic leukemia, chronic granulocytic leukemia (it is usually ineffective in acute blastic crisis), acute myelogenous and monocytic leukemia, acute lymphoblastic (stem-cell) leukemia (cyclophosphamide given during remission is effective in prolonging its duration) mycosis fungoides (advanced disease) neuroblastoma (disseminated disease) adenocarcinoma of the ovary retinoblastoma carcinoma of the breast Cyclophosphamide, although effective alone in susceptible malignancies, is more frequently used concurrently or sequentially with other antineoplastic drugs.",
+      "manufacturer": "Ingenus Pharmaceuticals, LLC",
+      "splSetId": "783d7523-8505-4b3e-837c-cefbcec61da6"
+    },
+    {
+      "brand": "Cyclophosphamide",
+      "indication": "1 INDICATIONS AND USAGE Cyclophosphamide is an alkylating drug indicated for treatment of: Malignant Diseases: malignant lymphomas: Hodgkin's disease, lymphocytic lymphoma, mixed-cell type lymphoma, histiocytic lymphoma, Burkitt's lymphoma; multiple myeloma, leukemias, mycosis fungoides, neuroblastoma, adenocarcinoma of ovary, retinoblastoma, breast carcinoma. ( 1.1 ) 1.1 Malignant Diseases Cyclophosphamide is indicated for the treatment of: malignant lymphomas (Stages III and IV of the Ann Arbor staging system), Hodgkin's disease, lymphocytic lymphoma (nodular or diffuse), mixed-cell type lymphoma, histiocytic lymphoma, Burkitt's lymphoma multiple myeloma leukemias: chronic lymphocytic leukemia, chronic granulocytic leukemia (it is usually ineffective in acute blastic crisis), acute myelogenous and monocytic leukemia, acute lymphoblastic (stem-cell) leukemia (cyclophosphamide given during remission is effective in prolonging its duration) mycosis fungoides (advanced disease) neuroblastoma (disseminated disease) adenocarcinoma of the ovary retinoblastoma carcinoma of the breast Cyclophosphamide, although effective alone in susceptible malignancies, is more frequently used concurrently or sequentially with other antineoplastic drugs.",
+      "manufacturer": "Athenex Pharmaceutical Division, LLC.",
+      "splSetId": "a0e99679-f939-4fb3-9d38-dfdb824f89bc"
+    }
+  ],
+  "id": "Cyclophosphamide_Anhydrous",
+  "nciThesaurus": {
+    "casRegistry": "50-18-0",
+    "chebiId": "CHEBI:4027",
+    "chemicalFormula": "C7H15Cl2N2O2P",
+    "definition": "The anhydrous form of cyclophosphamide, a synthetic nitrogen mustard alkylating agent, with antineoplastic and immunosuppressive activities. In the liver, cyclophosphamide is converted to active metabolites including phosphoramide mustard, which binds to and crosslinks DNA and RNA, thereby inhibiting DNA replication and protein synthesis. This agent, at low doses, is also a potent immunosuppressant primarily by depleting T-regulatory cells.",
+    "fdaUniiCode": "6UXW23996M",
+    "identifier": "C61694",
+    "preferredName": "Cyclophosphamide Anhydrous",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C574",
+      "C697"
+    ],
+    "synonyms": [
+      "2H-1,3,2-oxazaphosphorin-2-amine, N,N-is(2-chloroethyl)tetrahydro-,2-oxide",
+      "CYCLOPHOSPHAMIDE ANHYDROUS",
+      "Cyclophosphamide Anhydrous",
+      "N,N-Bis(2-chloroethyl)tetrahydro-2H-1,3,2-oxazaphosphorin-2-amine 2-Oxide"
+    ]
+  }
+}

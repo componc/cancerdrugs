@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Coxsackievirus_V937",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A preparation of naturally occurring, oncolytic enterovirus, with potential antineoplastic activity. Upon administration, coxsackievirus V937 targets and binds to intracellular adhesion molecule 1 (ICAM-1) and decay acceleration factor (DAF), both cell surface molecules that are overexpressed on certain malignant cells. After entering the cells, coxsackievirus V937 replicates in these cancer cells, thereby causing cancer cell lysis. This results in a reduction of tumor cell growth.",
+    "fdaUniiCode": "4B57CWT710",
+    "identifier": "C61493",
+    "preferredName": "Coxsackievirus V937",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C717"
+    ],
+    "synonyms": [
+      "CAVATAK",
+      "COXSACKIEVIRUS A21",
+      "CVA21",
+      "Coxsackievirus A21",
+      "Coxsackievirus V937",
+      "V 937",
+      "V-937",
+      "V937"
+    ]
+  }
+}

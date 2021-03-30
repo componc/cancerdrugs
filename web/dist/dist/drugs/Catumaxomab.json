@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Catumaxomab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A trifunctional bispecific monoclonal antibody with potential antineoplastic activity. Catumaxomab has two antigen-recognition sites: one for human CD3, a T cell surface antigen; and one for human epithelial cell adhesion molecule (EpCAM), a cell surface antigen expressed by a variety of epithelial tumor cells. In addition, the modified Fc portion of this antibody binds Fc receptors on antigen presenting cells (APCs) such as macrophages and dendritic cells (DCs). Catumaxomab brings T cells, EpCAM-expressing epithelial tumor cells and APCs together into tricellular complexes, which may result in a potent cytotoxic T-lymphocyte (CTL) response against EpCAM-expressing epithelial tumor cells. Fc-mediated binding of APCs in the tricellular complex potentiates EpCAM antigen presentation to T cells and the activation of anti-tumor cytotoxic T cell functions.",
+    "fdaUniiCode": "M2HPV837HO",
+    "identifier": "C62445",
+    "preferredName": "Catumaxomab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1454"
+    ],
+    "synonyms": [
+      "CATUMAXOMAB",
+      "Catumaxomab",
+      "Removab"
+    ]
+  }
+}

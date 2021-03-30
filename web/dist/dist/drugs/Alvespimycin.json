@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Alvespimycin",
+  "nciThesaurus": {
+    "casRegistry": "467214-20-6",
+    "chebiId": "",
+    "chemicalFormula": "C32H48N4O8",
+    "definition": "An analogue of the antineoplastic benzoquinone antibiotic geldanamycin. Alvespimycin binds to HSP90, a chaperone protein that aids in the assembly, maturation and folding of proteins. Subsequently, the function of Hsp90 is inhibited, leading to the degradation and depletion of its client proteins such as kinases and transcription factors involved with cell cycle regulation and signal transduction.",
+    "fdaUniiCode": "001L2FE0M3",
+    "identifier": "C38142",
+    "preferredName": "Alvespimycin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C2516"
+    ],
+    "synonyms": [
+      "17-(Dimethylaminoethylamino)-17-Demethoxygeldanamycin",
+      "17-DMAG",
+      "17-dimethylaminoethylamino-17-demethoxygeldanamycin",
+      "ALVESPIMYCIN",
+      "Alvespimycin",
+      "Geldanamycin,17-demethoxy-17-((2-(dimethylamino)ethyl)amino)-"
+    ]
+  }
+}

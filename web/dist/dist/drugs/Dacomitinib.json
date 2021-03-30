@@ -1,0 +1,52 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "dacomitinib monohydrate",
+      "conditionIndication": "Vizimpro, as monotherapy, is indicated for the first-line treatment of adult patients with locally advanced or metastatic non small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) activating mutations.",
+      "inn": "dacomitinib",
+      "marketingAuthorisationDate": "2019-04-02 00:00:00",
+      "marketingAuthorisationHolder": "Pfizer Europe MA EEIG",
+      "medicineName": "Vizimpro",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vizimpro"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Vizimpro",
+      "indication": "1 INDICATIONS AND USAGE VIZIMPRO is indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 19 deletion or exon 21 L858R substitution mutations as detected by an FDA-approved test [see Dosage and Administration (2.1) ] . VIZIMPRO is a kinase inhibitor indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 19 deletion or exon 21 L858R substitution mutations as detected by an FDA-approved test. ( 1 )",
+      "manufacturer": "Pfizer Laboratories Div Pfizer Inc",
+      "splSetId": "4ab27d2f-e385-4e9c-b324-fa69c10b855a"
+    },
+    {
+      "brand": "Vizimpro",
+      "indication": "1 INDICATIONS AND USAGE VIZIMPRO is indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 19 deletion or exon 21 L858R substitution mutations as detected by an FDA-approved test [see Dosage and Administration (2.1) ] . VIZIMPRO is a kinase inhibitor indicated for the first-line treatment of patients with metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 19 deletion or exon 21 L858R substitution mutations as detected by an FDA-approved test. ( 1 )",
+      "manufacturer": "U.S. Pharmaceuticals",
+      "splSetId": "90da33c1-5689-4b4d-a2b5-377e1057a843"
+    }
+  ],
+  "id": "Dacomitinib",
+  "nciThesaurus": {
+    "casRegistry": "1042385-75-0",
+    "chebiId": "",
+    "chemicalFormula": "C24H25ClFN5O2.H2O",
+    "definition": "A highly selective, orally bioavailable small-molecule inhibitor of the HER family of tyrosine kinases with potential antineoplastic activity. Dacomitinib specifically and irreversibly binds to and inhibits human Her-1, Her-2, and Her-4, resulting in the proliferation inhibition and apoptosis of tumor cells that overexpress these receptors.",
+    "fdaUniiCode": "5092U85G58",
+    "identifier": "C53398",
+    "preferredName": "Dacomitinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2167"
+    ],
+    "synonyms": [
+      "(2E)-N-(4-((3-Chloro-4-Fluorophenyl)Amino)-7-Methoxyquinazolin-6-yl)-4-Piperidin-1-ylbut-2-Enamide",
+      "DACOMITINIB",
+      "Dacomitinib",
+      "EGFR Inhibitor PF-00299804",
+      "PF-00299804",
+      "PF-00299804-03",
+      "PF-299804",
+      "Vizimpro"
+    ]
+  }
+}

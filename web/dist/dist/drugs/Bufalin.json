@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Bufalin",
+  "nciThesaurus": {
+    "casRegistry": "465-21-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An active ingredient and one of the glycosides in the traditional Chinese medicine ChanSu; it is also a bufadienolide toxin originally isolated from the venom of the Chinese toad Bufo gargarizans, with potential cardiotonic and antineoplastic activity. Although the mechanism of action of bufalin is still under investigation, this agent is a specific Na+/K+-ATPase inhibitor and can induce apoptosis in cancer cell lines through the activation of the transcription factor AP-1 via a mitogen activated protein kinase (MAPK) pathway.",
+    "fdaUniiCode": "U549S98QLW",
+    "identifier": "C107555",
+    "preferredName": "Bufalin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C471"
+    ],
+    "synonyms": [
+      "3,14-Dihydroxy-Bufa-20,22-Dienolide",
+      "3-Beta,14-Dihydroxy-5-Beta-Bufa-20,22-Dienolide",
+      "3beta,14beta-Dihydroxy-5beta-Bufa-20,22-Dienolide",
+      "5-Beta-Bufa-20,22-Dienolide, 3-Beta,14-Dihydroxy-",
+      "5beta-Bufa-20,22-Dienolide, 3beta,14-Dihydroxy- (8CI)",
+      "BUFALIN",
+      "Bufa-20,22-Dienolide, 3,14-Dihydroxy-, (3-Beta,5-Beta)- (9CI)",
+      "Bufa-20,22-Dienolide, 3,14-Dihydroxy-, (3beta,5beta)- (9CI)",
+      "Bufalin"
+    ]
+  }
+}

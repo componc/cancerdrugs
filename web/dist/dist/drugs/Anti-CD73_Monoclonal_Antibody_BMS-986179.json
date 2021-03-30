@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-CD73_Monoclonal_Antibody_BMS-986179",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A monoclonal antibody targeting the ectoenzyme 5'-ecto-nucleotidase (cluster of differentiation 73; CD73; 5'-NT; ecto-5'-nucleotidase; NT5E), with potential immunomodulating and antineoplastic activities. Upon administration, anti-CD73 monoclonal antibody BMS-986179 targets and binds to CD73, leading to clustering and internalization of CD73. This prevents CD73-mediated conversion of extracellular adenosine monophosphate (AMP) to adenosine and decreases the amount of free adenosine. This prevents adenosine-mediated suppression of lymphocyte activity and increases the activity of CD8-positive effector cells. This also activates macrophages, and reduces the activity of both myeloid-derived suppressor cells (MDSCs) and regulatory T-lymphocytes. By abrogating the inhibitory effect on the immune system and enhancing the cytotoxic T-cell-mediated immune response against cancer cells, tumor cell growth is decreased. CD73, a plasma membrane protein belonging to the 5'-nucleotidase (NTase) family, is upregulated on a number of cancer cell types and catalyzes the conversion of extracellular nucleotides, such as AMP, to membrane-permeable nucleosides, such as adenosine; it plays a key role in adenosine-mediated immunosuppression within the tumor microenvironment.",
+    "fdaUniiCode": "7PO9B4VQ1U",
+    "identifier": "C132266",
+    "preferredName": "Anti-CD73 Monoclonal Antibody BMS-986179",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C176988"
+    ],
+    "synonyms": [
+      "Anti-CD73 Monoclonal Antibody BMS-986179",
+      "BMS 986179",
+      "BMS-986179"
+    ]
+  }
+}

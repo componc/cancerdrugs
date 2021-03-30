@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Alsevalimab",
+  "nciThesaurus": {
+    "casRegistry": "2254029-91-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fully human, glycoengineered monoclonal antibody targeting B7-H4 (V-set domain-containing T-cell activation inhibitor 1; VTCN1; B7x; B7S1) with potential antineoplastic and immune checkpoint inhibitory activities. Upon intravenous administration, alsevalimab binds to B7-H4 on the surface of tumor cells, thereby preventing B7-H4 binding to T-cells and abrogating the B7-H4-mediated negative regulation of T-cell activation. This increases a cytotoxic T-lymphocyte (CTL)-mediated immune response against B7-H4-expressing tumor cells. In addition, the afucosylated Fc region of the anti-B7-H4 monoclonal antibody FPA150 enhances its binding affinity for human FcgammaRIIIa receptors (CD16) on natural killer (NK) cells, resulting in enhanced antibody-dependent cellular cytotoxicity (ADCC) against B7-H4-expressing tumor cells. B7-H4, a member of the B7 family of immune modulators, is upregulated in a variety of tumor cell types and negatively regulates T-cell immune responses.",
+    "fdaUniiCode": "U8LYN0Y118",
+    "identifier": "C155967",
+    "preferredName": "Alsevalimab",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "ALSEVALIMAB",
+      "Alsevalimab",
+      "Anti-B7-H4 Monoclonal Antibody FPA150",
+      "FPA 150",
+      "FPA-150",
+      "FPA150"
+    ]
+  }
+}

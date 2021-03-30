@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-VEGFANG2_Nanobody_BI_836880",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A nanobody directed against angiopoietin-2 (Ang2; ANGPT2)- and vascular endothelial growth factor (VEGF)-derived peptides, with potential antiangiogenic and antineoplastic activities. Anti-VEGF/ANG2 nanobody BI 836880 binds to Ang2 and VEGF and inhibits receptor binding; this prevents Ang2- and VEGF-mediated signaling and inhibits both tumor angiogenesis and tumor cell proliferation. Both VEGF and Ang2 are upregulated in a variety of cancer cell types and play a crucial role in angiogenesis. The nanobody is based on functional fragments of single-chain antibodies.",
+    "fdaUniiCode": "IS7N1X9TSW",
+    "identifier": "C126644",
+    "preferredName": "Anti-VEGF/ANG2 Nanobody BI 836880",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1742"
+    ],
+    "synonyms": [
+      "Anti-VEGF/ANG2 BI 836880",
+      "Anti-VEGF/ANG2 Nanobody BI 836880",
+      "BI 836880",
+      "BI-836880",
+      "Bi-specific Anti-VEGF/Ang2 Nanobody BI 836880"
+    ]
+  }
+}

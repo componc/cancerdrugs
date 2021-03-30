@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-HER2PBD-MA_Antibody-drug_Conjugate_DHES0815A",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) consisting of a monoclonal antibody targeting human epidermal growth factor receptor 2 (ERBB2; EGFR2; HER2) linked to a DNA minor groove crosslinking agent pyrrolo[2,1- c][1,4]benzodiazepine monoamide (PBD-MA), with potential antineoplastic activity. Upon intravenous administration of ADC DHES0815A, the monoclonal antibody moiety targets and binds to HER2 expressed on tumor cells. Following receptor internalization and lysosome-mediated cleavage, the cytotoxic PBD-MA moiety is released. In turn, the imine groups of the PBD-MA moiety bind to and crosslink specific sites of DNA, resulting in DNA strand breaks, cell cycle arrest, and cell death in HER2 expressing tumor cells. HER2, a tyrosine kinase receptor, is overexpressed by many cancer cell types.",
+    "fdaUniiCode": "1E55T9OY5I",
+    "identifier": "C155940",
+    "preferredName": "Anti-HER2/PBD-MA Antibody-drug Conjugate DHES0815A",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C155712"
+    ],
+    "synonyms": [
+      "ADC DHES0815A",
+      "Anti-HER2/PBD-MA ADC DHES0815A",
+      "Anti-HER2/PBD-MA Antibody-drug Conjugate DHES0815A",
+      "Anti-HER2/PBD-Monoamide ADC DHES0815A",
+      "DHES-0815A",
+      "DHES0815A"
+    ]
+  }
+}
