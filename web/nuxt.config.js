@@ -53,7 +53,7 @@ export default {
 
   router: {
     base: '/cancerdrugs/',
-    mode: 'history'
+    mode: 'hash'
   },
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
