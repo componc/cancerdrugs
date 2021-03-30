@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-hepcidin_Monoclonal_Antibody_LY2787106",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody (MoAb) targeting the peptide hormone hepcidin, with potential anti-anemic activity. Upon intravenous administration, anti-hepcidin MoAb LY2787106 binds to hepcidin and prevents it from binding to the iron exporting protein ferroportin, which is expressed on both the basolateral surface of gastrointestinal (GI) enterocytes and the plasma membrane of macrophages. This prevents hepcidin-induced internalization and degradation of ferroportin and increases ferroportin-mediated iron export, thus increasing iron export from macrophages and iron absorption by enterocytes. This normalizes plasma iron levels, increases erythropoiesis and may inhibit anemia. Hepcidin, produced in hepatocytes, plays a key role in the homeostasis of systemic iron; it is upregulated during acute and chronic inflammation in response to cytokines and, in certain cancers, may contribute to cancer-associated anemia.",
+    "fdaUniiCode": "Q87RWM02HX",
+    "identifier": "C116630",
+    "preferredName": "Anti-hepcidin Monoclonal Antibody LY2787106",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-hepcidin Monoclonal Antibody LY2787106",
+      "LY-2787106",
+      "LY2787106"
+    ]
+  }
+}

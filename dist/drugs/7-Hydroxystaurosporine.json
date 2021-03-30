@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "7-Hydroxystaurosporine",
+  "nciThesaurus": {
+    "casRegistry": "112953-11-4",
+    "chebiId": "",
+    "chemicalFormula": "C28H26N4O4",
+    "definition": "A synthetic derivative of staurosporine with antineoplastic activity. 7-hydroxystaurosporine inhibits many phosphokinases, including the serine/threonine kinase AKT, calcium-dependent protein kinase C, and cyclin-dependent kinases. This agent arrests tumor cells in the G1/S of the cell cycle and prevents nucleotide excision repair by inhibiting the G2 checkpoint kinase chk1, resulting in apoptosis.",
+    "fdaUniiCode": "7BU5H4V94A",
+    "identifier": "C1271",
+    "preferredName": "7-Hydroxystaurosporine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [],
+    "synonyms": [
+      "(+)-UCN-01",
+      "2,3,9,10,11,12-Hexahydro-3-hydroxy-9-methoxy-8-methyl-10-(methylamino)-8,12-epoxy-1H,8H-2,7b,12a-triazadibenzo(a,g)cyclonona(cde)triinden-1-one",
+      "7-HYDROXYSTAUROSPORINE",
+      "7-Hydroxy-staurosporine",
+      "7-Hydroxystaurosporine",
+      "8,12-Epoxy-1H,8H-2,7b,12a-triazadibenzo[a, g]cyclonona[cde] Trinden-1-one, 2,3,9,10,11, 12-hexahydro-3-hydroxy-9-methoxy-8-methyl-10-(methylamino)",
+      "UCN-01"
+    ]
+  }
+}

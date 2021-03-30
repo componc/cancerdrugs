@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-CA19-9_Monoclonal_Antibody_5B1",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A human monoclonal antibody against the carbohydrate antigen sialyl-Lewis A (carbohydrate antigen 19-9; CA19-9), with potential antineoplastic activity. Upon administration, monoclonal antibody 5B1 binds to CA19-9 and kills CA19-9-expressing tumor cells, possibly through the induction of both complement-dependent cytotoxicity (CDC) and antibody-dependent cell-mediated cytotoxicity (ADCC). CA19-9 is overexpressed on a number of different tumor cell types, and plays a key role in tumor cell survival and metastasis.",
+    "fdaUniiCode": "KEX1QY18OH",
+    "identifier": "C125900",
+    "preferredName": "Anti-CA19-9 Monoclonal Antibody 5B1",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "5B1",
+      "Anti-CA19-9 Monoclonal Antibody 5B1",
+      "HuMab 5B1",
+      "HuMab-5B1",
+      "MVT-5873"
+    ]
+  }
+}

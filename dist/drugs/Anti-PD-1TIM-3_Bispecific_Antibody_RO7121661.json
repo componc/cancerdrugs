@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-PD-1TIM-3_Bispecific_Antibody_RO7121661",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A bispecific antibody directed against both the negative immunoregulatory human cell receptor programmed cell death protein 1 (PD-1; PDCD1; CD279) and the inhibitory T-cell receptor T-cell immunoglobulin and mucin domain-containing protein 3 (TIM-3; TIM3; hepatitis A virus cellular receptor 2; HAVCR2), with potential immune checkpoint inhibitory and antineoplastic activities. Upon administration, anti-PD-1/TIM-3 bispecific antibody RO7121661 simultaneously targets and binds to both TIM-3 and PD-1 expressed on certain T-cells. This blocks the interaction of TIM-3 with some of its physiologic ligands and prevents the activation of PD-1 by its ligands, programmed cell death-1 ligand 1 (PD-L1) or 2 (PD-L2). This abrogates T-cell inhibition, activates antigen-specific T-lymphocytes and enhances cytotoxic T-cell-mediated tumor cell lysis, which may lead to a reduction in tumor growth. TIM-3, a transmembrane protein and immune checkpoint receptor, is often co-expressed with PD-1 on tumor-antigen-specific T-cells. Dual checkpoint blockade of PD-1 and TIM-3 may enhance T-cell activation and proliferation more than the blockade of either immune checkpoint receptor alone.",
+    "fdaUniiCode": "9GAH9VG7IP",
+    "identifier": "C160714",
+    "preferredName": "Anti-PD-1/TIM-3 Bispecific Antibody RO7121661",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C1454"
+    ],
+    "synonyms": [
+      "Anti-PD-1 x TIM-3 Bispecific Antibody RO7121661",
+      "Anti-PD-1/Anti-TIM-3 Bispecific Antibody RO7121661",
+      "Anti-PD-1/TIM-3 Bispecific Antibody RO7121661",
+      "RO 7121661",
+      "RO-7121661",
+      "RO7121661"
+    ]
+  }
+}

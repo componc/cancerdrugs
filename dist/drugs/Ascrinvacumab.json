@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ascrinvacumab",
+  "nciThesaurus": {
+    "casRegistry": "1463459-96-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fully human, IgG2 monoclonal antibody directed against activin-like receptor kinase 1 (ALK-1) with potential antineoplastic activity. Ascrinvacumab binds to and neutralizes ALK-1. This may disrupt tumor endothelial cell function and inhibit tumor angiogenesis, eventually leading to an inhibition of tumor cell proliferation. ALK-1, a member of the transforming growth factor beta (TGF-b) type I receptor family, is overexpressed on endothelial cells in a variety of tumor cell types and increases endothelial cell proliferation and migration.",
+    "fdaUniiCode": "716FQ5REVO",
+    "identifier": "C91073",
+    "preferredName": "Ascrinvacumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "ASCRINVACUMAB",
+      "Anti-Activin Receptor-like Kinase 1 Monoclonal Antibody PF-03446962",
+      "Ascrinvacumab",
+      "PF-03446962"
+    ]
+  }
+}

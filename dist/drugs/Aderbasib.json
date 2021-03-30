@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Aderbasib",
+  "nciThesaurus": {
+    "casRegistry": "791828-58-5",
+    "chebiId": "",
+    "chemicalFormula": "C21H28N4O5",
+    "definition": "An orally bioavailable inhibitor of the ADAM (A Disintegrin And Metalloprotease) family of multifunctional membrane-bound proteins with potential antineoplastic activity. Aderbasib represses the metalloproteinase 'sheddase' activities of ADAM10 and ADAM17, which may result in the inhibition of tumor cell proliferation. The metalloproteinase domains of ADAMs cleave cell surface proteins at extracellular sites proximal to the cell membrane, releasing or \"\"shedding\"\" soluble protein etcodomains from the cell surface; the disintegrin domains of these multifunctional proteins interact with various components of the extracellular matrix (ECM). ADAM10 processes particular epithelial growth factor receptor (EGFR) ligands and appears to regulate Notch signaling through the cleavage of Notch and its related ligand delta-like ligand-1 (Dll-1). ADAM17 (also known as Tumor necrosis factor-Converting Enzyme or TACE) is involved in processing tumor necrosis factor (TNF) from its membrane bound precursor to its soluble circulating form and in processing ligands for the epidermal growth factor receptor (EGFR) family.",
+    "fdaUniiCode": "V9YL6NEJ3G",
+    "identifier": "C76115",
+    "preferredName": "Aderbasib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C783"
+    ],
+    "synonyms": [
+      "5-Azaspiro(2.5)octane-5-carboxylic Acid, 7-((Hydroxyamino)carbonyl)-6-((4-phenyl-1-piperazinyl)carbonyl)-, Methyl Ester, (6S,7S)-",
+      "ADERBASIB",
+      "Aderbasib",
+      "INCB007839",
+      "INCB7839",
+      "Methyl (6S,7S)-7-(Hhydroxyamino)carbonyl)-6-((4-phenylpiperazin-1-yl)carbonyl)-5-azaspiro(2.5)octane-5-carboxylate"
+    ]
+  }
+}

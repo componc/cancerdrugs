@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Bavituximab",
+  "nciThesaurus": {
+    "casRegistry": "648904-28-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A chimeric, IgG1 monoclonal antibody directed against anionic phospholipids with potential antineoplastic activity. Bavituximab binds to anionic phospholipids in a beta 2-glycoprotein I-dependent manner, inhibiting tumor growth by stimulating antibody-dependent cellular cytotoxicity (ADCC) to tumor vessels.",
+    "fdaUniiCode": "Q16CT95N25",
+    "identifier": "C49088",
+    "preferredName": "Bavituximab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "BAVITUXIMAB",
+      "Bavituximab",
+      "Chimeric Anti-Phosphotidylserine Monoclonal Antibody",
+      "Tarvacin"
+    ]
+  }
+}

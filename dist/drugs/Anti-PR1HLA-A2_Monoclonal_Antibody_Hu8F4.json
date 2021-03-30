@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-PR1HLA-A2_Monoclonal_Antibody_Hu8F4",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A T-cell receptor (TCR)-like monoclonal antibody against PR1, a 9 amino-acid (VLQELNVTV) human leukocyte antigen (HLA)-A2-restricted leukemia-associated antigen (LAA) derived from the myeloid leukemia-associated antigens proteinase 3 (P3) and neutrophil elastase (NE), with potential immunostimulating and antineoplastic activities. Upon administration, anti-PR1/HLA-A2 monoclonal antibody Hu8F4 selectively binds to a combined epitope of the PR1/HLA-A2 complex expressed on acute myeloid leukemia (AML) blasts and leukemic stem cells (LSC), and prevents PR1/HLA-A2-mediated signaling. This induces complement-dependent cytotoxicity (CDC), to a lesser extent, antibody-dependent cell-mediated cytotoxicity (ADCC), and CDC/ADCC-independent cytolysis of myeloid leukemia cells. This results in a reduction of cellular proliferation in PR1/HLA-A2-overexpressing leukemic cells. PR1 in combination with the HLA-A2 molecule is highly expressed on AML blasts and LSCs.",
+    "fdaUniiCode": "NL06848HBQ",
+    "identifier": "C123924",
+    "preferredName": "Anti-PR1/HLA-A2 Monoclonal Antibody Hu8F4",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-PR1/HLA-A2 Monoclonal Antibody Hu8F4",
+      "HU8F4",
+      "Hu8F4"
+    ]
+  }
+}

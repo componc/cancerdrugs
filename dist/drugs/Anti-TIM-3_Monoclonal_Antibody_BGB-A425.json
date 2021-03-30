@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-TIM-3_Monoclonal_Antibody_BGB-A425",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized immunoglobulin G1 (IgG1) monoclonal antibody directed against the inhibitory T-cell receptor T-cell immunoglobulin and mucin domain-containing protein 3 (TIM-3; TIM3; hepatitis A virus cellular receptor 2; HAVCR2), with potential immune checkpoint inhibitory and antineoplastic activities. Upon administration, BGB-A425 binds to TIM-3 expressed on certain T-cells, including tumor-infiltrating lymphocytes (TILs), thereby preventing the engagement of TIM-3 by its ligands, phosphatidylserine (PtdSer) and galectin-9. This abrogates T-cell inhibition, activates antigen-specific T-lymphocytes and enhances cytotoxic T-cell-mediated tumor cell lysis, which results in a reduction in tumor cell proliferation. TIM-3, a transmembrane protein and immune checkpoint receptor, is associated with tumor-mediated immune suppression.",
+    "fdaUniiCode": "53YMC3A1CU",
+    "identifier": "C157242",
+    "preferredName": "Anti-TIM-3 Monoclonal Antibody BGB-A425",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C141146"
+    ],
+    "synonyms": [
+      "Anti-TIM-3 Monoclonal Antibody BGB-A425",
+      "BGB A425",
+      "BGB-A425",
+      "BGBA425"
+    ]
+  }
+}

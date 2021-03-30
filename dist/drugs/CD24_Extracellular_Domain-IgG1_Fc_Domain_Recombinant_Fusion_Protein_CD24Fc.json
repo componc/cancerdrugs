@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "CD24_Extracellular_Domain-IgG1_Fc_Domain_Recombinant_Fusion_Protein_CD24Fc",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant fusion protein composed of the extracellular domain of the mature human glycoprotein CD24 linked to a human immunoglobulin G1 (IgG1) Fc domain, with potential immune checkpoint inhibitory, anti-inflammatory and antineoplastic activities. Upon administration, the CD24 extracellular domain-IgG1 Fc domain recombinant fusion protein CD24Fc binds to injured cell components, also called DAMPs (Danger-Associated Molecular Patterns), thereby preventing the interaction of DAMPs with toll-like receptors (TLRs) and inhibiting both nuclear factor-kappa B (NFkB) activation and secretion of inflammatory cytokines. In addition, CD24Fc binds to and activates Siglec G/10, a sialic acid-binding immunoglobulin-type lectin, and stimulates SHP-1-mediated inhibitory signaling, while also preventing NFkB activation and secretion of inflammatory mediators, which further prevents inflammatory responses. DAMPs activate the innate immune system. CD24 binds to both DAMPs and Siglec G/10 to regulate immune responses.CD24/Siglec G/10 interaction plays a key role in a number of immune-mediated diseases including graft-versus-host disease (GvHD), multiple sclerosis and rheumatoid arthritis.",
+    "fdaUniiCode": "FN12T66RMN",
+    "identifier": "C125903",
+    "preferredName": "CD24 Extracellular Domain-IgG1 Fc Domain Recombinant Fusion Protein CD24Fc",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C141144"
+    ],
+    "synonyms": [
+      "CD24 Extracellular Domain-IgG1 Fc Domain Recombinant Fusion Protein CD24Fc",
+      "CD24FC",
+      "CD24Fc",
+      "CD24Fc CD24IgG"
+    ]
+  }
+}

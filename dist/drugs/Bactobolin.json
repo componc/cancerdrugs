@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Bactobolin",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A 3-dichloromethylactinobolin antineoplastic antibiotic isolated from various Pseudomonas bacterial species.  BN-183 induces apoptosis via a caspase-dependent pathway.  This agent also has immunomodulatory properties.",
+    "fdaUniiCode": "EOF7S67HS2",
+    "identifier": "C28850",
+    "preferredName": "Bactobolin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C259"
+    ],
+    "synonyms": [
+      "(-)-Bactobolin",
+      "2-Amino-N-[3-(dichloromethyl)-3,4,4a,5,6,7- hexahydro-5,6,8-trihydroxy-3-methyl-1-oxo-1H-2- benzopyran-4-yl], Propanamide",
+      "Antibiotic BN 183B",
+      "BACTOBOLIN",
+      "BN 183B",
+      "Bactobolin",
+      "Y 12278"
+    ]
+  }
+}

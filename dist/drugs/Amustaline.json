@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Amustaline",
+  "nciThesaurus": {
+    "casRegistry": "220180-88-1",
+    "chebiId": "",
+    "chemicalFormula": "C22H25Cl2N3O2",
+    "definition": "A quinacrine mustard compound with potential antineoplastic activity. Amustaline binds to, intercalates and crosslinks DNA and RNA. This agent is mainly used for ex vivo purposes, specifically for the inactivation of pathogens such as viruses, protozoa and bacteria in red blood cells (RBCs).",
+    "fdaUniiCode": "25571657UW",
+    "identifier": "C75926",
+    "preferredName": "Amustaline",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1590"
+    ],
+    "synonyms": [
+      "(N,N-bis(2-chloroethyl))-2-aminoethyl-3-((acridin-9-yl)amino)propionate",
+      "AMUSTALINE",
+      "Amustaline",
+      "S-303"
+    ]
+  }
+}

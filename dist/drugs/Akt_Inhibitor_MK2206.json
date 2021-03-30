@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Akt_Inhibitor_MK2206",
+  "nciThesaurus": {
+    "casRegistry": "1032349-93-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable allosteric inhibitor of the serine/threonine protein kinase Akt (protein kinase B) with potential antineoplastic activity. Akt inhibitor MK2206 binds to and inhibits the activity of Akt in a non-ATP competitive manner, which may result in the inhibition of the PI3K/Akt signaling pathway and tumor cell proliferation and the induction of tumor cell apoptosis. Activation of the PI3K/Akt signaling pathway is frequently associated with tumorigenesis and dysregulated PI3K/Akt signaling may contribute to tumor resistance to a variety of antineoplastic agents.",
+    "fdaUniiCode": "51HZG6MP1K",
+    "identifier": "C90581",
+    "preferredName": "Akt Inhibitor MK2206",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C155764"
+    ],
+    "synonyms": [
+      "1,2,4-Triazolo(3,4-f)(1,6)naphthyridin-3(2H)-one, 8-(4-(1-aminocyclobutyl)phenyl)-9-phenyl-",
+      "Akt Inhibitor MK2206",
+      "Akt inhibitor MK2206",
+      "MK 2206",
+      "MK-2206",
+      "MK-2206 FREE BASE",
+      "MK2206"
+    ]
+  }
+}

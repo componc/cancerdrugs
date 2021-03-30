@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Acivicin",
+  "nciThesaurus": {
+    "casRegistry": "42228-92-2",
+    "chebiId": "",
+    "chemicalFormula": "C5H7ClN2O3",
+    "definition": "A modified amino acid and structural analog of glutamine.  Acivicin inhibits glutamine amidotransferases in the purine and pyrimidine biosynthetic pathways, thereby inhibiting tumor growth in cell lines dependent on glutamine metabolism.",
+    "fdaUniiCode": "O0X60K76I6",
+    "identifier": "C986",
+    "preferredName": "Acivicin",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C2158"
+    ],
+    "synonyms": [
+      "(S-(R*,R*))-4,5-Dihydro-alpha-amino-3-chloro-5-isoxazoleacetic Acid",
+      "ACIVICIN",
+      "AT-125",
+      "Acivicin",
+      "U-42126"
+    ]
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Clanfenur",
+  "nciThesaurus": {
+    "casRegistry": "51213-99-1",
+    "chebiId": "",
+    "chemicalFormula": "C16H15ClFN3O2",
+    "definition": "A substituted benzoylphenylurea and an analogue of the pesticide diflubenzuron with potential antineoplastic activity. Unlike most of the anti-cancer drugs causing bone marrow suppression, clanfenur stimulates hematopoiesis both in vivo and in vitro.",
+    "fdaUniiCode": "KAM54NKT1Q",
+    "identifier": "C78082",
+    "preferredName": "Clanfenur",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1557"
+    ],
+    "synonyms": [
+      "CLANFENUR",
+      "Clanfenur"
+    ]
+  }
+}

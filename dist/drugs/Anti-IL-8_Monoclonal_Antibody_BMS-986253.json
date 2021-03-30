@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-IL-8_Monoclonal_Antibody_BMS-986253",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A human monoclonal antibody against the pro-inflammatory mediator interleukin-8 (IL-8; CXCL8), with potential antineoplastic activities. Upon administration, BMS-986253 directly binds to IL-8, thereby inhibiting the binding of IL-8 to its receptors CXCR1 and CXCR2. This inhibits activation of IL-8-mediated signaling transduction pathways, which decreases proliferation of susceptible tumor cells. Also, BMS-986253 effectively blocks binding of IL-8 to neutrophils and inhibits neutrophil activation and recruitment towards sites of inflammation, which reduces inflammation. IL-8, a member of the CXC chemokine family, is upregulated in a variety of cancer cell types and inflammatory diseases; it plays a key role in tumor cell proliferation, endothelial cell proliferation, and cancer stem cell (CSC) renewal.",
+    "fdaUniiCode": "N0YWS8X3S9",
+    "identifier": "C124227",
+    "preferredName": "Anti-IL-8 Monoclonal Antibody BMS-986253",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-IL-8 Monoclonal Antibody BMS-986253",
+      "BMS 986253",
+      "BMS-986253",
+      "BMS986253",
+      "HUMAX-IL8",
+      "HuMax-IL-8",
+      "HuMax-IL8",
+      "MDX 018",
+      "MDX-018"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "belantamab mafodotin",
+      "conditionIndication": "Blenrep is indicated as monotherapy for the treatment of multiple myeloma in adult patients, who have received at least four prior therapies and whose disease is refractory to at least one proteasome inhibitor, one immunomodulatory agent, and an anti-CD38 monoclonal antibody, and who have demonstrated disease progression on the last therapy.",
+      "inn": "belantamab mafodotin",
+      "marketingAuthorisationDate": "2020-08-25 00:00:00",
+      "marketingAuthorisationHolder": "GlaxoSmithKline (Ireland) Limited",
+      "medicineName": "Blenrep",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/blenrep"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Blenrep",
+      "indication": "1 INDICATIONS AND USAGE BLENREP is indicated for the treatment of adults with relapsed or refractory multiple myeloma who have received at least 4 prior therapies, including an anti-CD38 monoclonal antibody, a proteasome inhibitor, and an immunomodulatory agent. This indication is approved under accelerated approval based on response rate [see Clinical Studies ( 14 )] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). BLENREP is a B-cell maturation antigen (BCMA)-directed antibody and microtubule inhibitor conjugate indicated for the treatment of adult patients with relapsed or refractory multiple myeloma who have received at least 4 prior therapies including an anti-CD38 monoclonal antibody, a proteasome inhibitor, and an immunomodulatory agent. This indication is approved under accelerated approval based on response rate. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s). ( 1 )",
+      "manufacturer": "GlaxoSmithKline LLC",
+      "splSetId": "16a160a4-3ec0-4ddf-99ce-05912dd3382d"
+    }
+  ],
+  "id": "Belantamab_Mafodotin",
+  "nciThesaurus": {
+    "casRegistry": "2050232-20-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) consisting of belantamab, an afucosylated, humanized monoclonal antibody, directed against the B-cell maturation antigen (BCMA), conjugated to mafodotin, an auristatin analogue and microtubule inhibitor monomethyl auristatin phenylalanine (MMAF), with potential antineoplastic activity. Upon administration of belantamab mafodotin, the anti-BCMA antibody moiety selectively binds to BCMA on tumor cell surfaces. Upon internalization, the MMAF moiety binds to tubulin and inhibits its polymerization, which results in G2/M phase arrest and induces tumor cell apoptosis. In addition, belantamab mafodotin induces antibody-dependent cellular cytotoxicity (ADCC). Altogether, this results in the inhibition of cellular proliferation in tumor cells that overexpress BCMA. BCMA, a receptor for a proliferation-inducing ligand and B-cell activating factor, is a member of the tumor necrosis factor (TNF) receptor superfamily and plays a key role in plasma cell survival; it is found on the surfaces of plasma cells and overexpressed on malignant plasma cells. Afucosylation of the antibody moiety increases ADCC.",
+    "fdaUniiCode": "DB1041CXDG",
+    "identifier": "C114299",
+    "preferredName": "Belantamab Mafodotin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C575"
+    ],
+    "synonyms": [
+      "BELANTAMAB MAFODOTIN",
+      "Belantamab Mafodotin",
+      "Belantamab Mafodotin-blmf",
+      "Blenrep",
+      "GSK2857916",
+      "J6M0-mcMMAF"
+    ]
+  }
+}

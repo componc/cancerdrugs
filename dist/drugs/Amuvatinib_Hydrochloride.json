@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Amuvatinib_Hydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "1055986-67-8",
+    "chebiId": "",
+    "chemicalFormula": "C23H21N5O3S.HCl",
+    "definition": "The hydrochloride salt of an orally bioavailable synthetic carbothioamide with potential antineoplastic activity. Multitargeted receptor tyrosine kinase inhibitor MP470 binds to mutant forms of the stem cell factor receptor (c-Kit; SCFR), inhibiting clinically relevant mutants of this receptor tyrosine kinase that may be associated with resistance to therapy. In addition, MP470 inhibits activities of other receptor tyrosine kinases, such as c-Met, Ret oncoprotein, and mutant forms of Flt3 and PDGFR alpha, which are frequently dysregulated in variety of tumors. This agent also suppresses the induction of DNA repair protein Rad51, thereby potentiating the activities of DNA damage-inducing agents. Mutant forms of c-Kit are often associated with tumor chemoresistance.",
+    "fdaUniiCode": "14L8O2K12B",
+    "identifier": "C95776",
+    "preferredName": "Amuvatinib Hydrochloride",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C159198"
+    ],
+    "synonyms": [
+      "1-Piperazinecarbothioamide, N-(1,3-Benzodioxol-5-Ylmethyl)-4-Benzofuro(3,2-D)Pyrimidin-4-Yl-, Hydrochloride (1:1)",
+      "AMUVATINIB HYDROCHLORIDE",
+      "Amuvatinib Hydrochloride",
+      "HPK56 HCl",
+      "MP-470 HCI",
+      "MP470 HCl",
+      "N-(1,3-Benzodioxol-5-Ylmethyl)-4-(Benzofuro(3,2-D)Pyrimidin-4-Yl)Piperazine-1- Carbothioamide Monohydrochloride"
+    ]
+  }
+}

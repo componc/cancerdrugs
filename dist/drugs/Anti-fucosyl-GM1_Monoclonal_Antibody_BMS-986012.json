@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-fucosyl-GM1_Monoclonal_Antibody_BMS-986012",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A monoclonal antibody directed against the ganglioside fucosyl-GM1, with potential antineoplastic and immunomodulating activities. Upon administration, anti-fucosyl-GM1 monoclonal antibody BMS-986012 binds to fucosyl-GM1 on cancer cells and may activate both antibody-dependent cellular cytotoxicity (ADCC) and complement-dependent cytotoxicity against the bound tumor cells. This may inhibit the proliferation of GM1-expressing tumor cells. Fucosyl-GM1, a sphingolipid monosialoganglioside and tumor associated antigen (TAA), is overexpressed on the surface of many cancer cells while its expression is minimal or non-existent in normal tissues.",
+    "fdaUniiCode": "Q8PK97HY9B",
+    "identifier": "C118443",
+    "preferredName": "Anti-fucosyl-GM1 Monoclonal Antibody BMS-986012",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-fucosyl-GM1 Monoclonal Antibody BMS-986012",
+      "BMS-986012"
+    ]
+  }
+}

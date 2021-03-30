@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "26-Dimethoxyquinone",
+  "nciThesaurus": {
+    "casRegistry": "530-55-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A methoxy-substituted benzoquinone and bioactive compound found in fermented wheat germ extracts, with potential antineoplastic and immune-enhancing activity. 2,6-Dimethoxyquinone (2,6-DMBQ) inhibits anaerobic glycolysis thereby preventing cellular metabolism and inducing apoptosis. As cancer cells use the anaerobic glycolysis pathway to metabolize glucose and cancer cells proliferate at an increased rate as compared to normal, healthy cells, this agent is specifically cytotoxic towards cancer cells. In addition, 2,6-DMBQ exerts immune-enhancing effects by increasing natural killer (NK) cell and T-cell activity against cancer cells.",
+    "fdaUniiCode": "1Z701W789S",
+    "identifier": "C126754",
+    "preferredName": "2,6-Dimethoxyquinone",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C796"
+    ],
+    "synonyms": [
+      "2,5-Cyclohexadiene-1,4-Dione, 2,6-Dimethoxy-",
+      "2,5-Cyclohexadiene-1,4-Dione, 2,6-Dimethoxy- (9CI)",
+      "2,6-DIMETHOXYQUINONE",
+      "2,6-DMBQ",
+      "2,6-Dimethoxy-1,4-Benzoquinone",
+      "2,6-Dimethoxy-p-Benzoquinone",
+      "2,6-Dimethoxy-p-Quinone",
+      "2,6-Dimethoxybenzoquinone",
+      "2,6-Dimethoxycyclohexa-2,5-Diene-1,4-Dione",
+      "2,6-Dimethoxyquinone",
+      "p-Benzoquinone, 2,6-Dimethoxy-"
+    ]
+  }
+}
