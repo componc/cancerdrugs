@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "PIM_Kinase_Inhibitor_TP-3654",
+  "nciThesaurus": {
+    "casRegistry": "1361951-15-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available, second-generation and selective ATP-competitive inhibitor of proviral integration site for Moloney murine leukemia virus (PIM) kinases, with potential antineoplastic activity. Upon oral administration, PIM kinase inhibitor TP-3654 selectively binds to and prevents the activation of the PIM kinases. This prevents the activation of PIM-mediated signaling pathways and inhibits proliferation in cells that overexpress PIM. PIMs, constitutively active proto-oncogenic serine/threonine kinases, are upregulated in various types of cancers and play key roles in tumor cell proliferation and survival.",
+    "fdaUniiCode": "EOB0N7BOY4",
+    "identifier": "C160203",
+    "preferredName": "PIM Kinase Inhibitor TP-3654",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C61074"
+    ],
+    "synonyms": [
+      "2-((1R,4R)-4-((3-(3-(trifluoromethyl)phenyl)imidazo[1,2-b]pyridazin-6-yl)amino)cyclohexyl)propan-2-ol",
+      "PIM Inhibitor TP-3654",
+      "PIM Kinase Inhibitor TP-3654",
+      "SGI 9481",
+      "SGI-9481",
+      "SGI9481",
+      "TP 3654",
+      "TP-3654",
+      "TP3654"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pingyangmycin",
+  "nciThesaurus": {
+    "casRegistry": "77108-50-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The naturally-occurring bleomycin antineoplastic antibiotic isolated from the bacterium Streptomyces pingyangensisn.  Pingyangmycin induces tumor cell apoptosis, possibly via a mechanism mediated by the mitogen-activated protein kinase (MAPK) pathway.",
+    "fdaUniiCode": "5DY91Y7601",
+    "identifier": "C1279",
+    "preferredName": "Pingyangmycin",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C2143",
+      "C2311"
+    ],
+    "synonyms": [
+      "BLEOMYCIN A5",
+      "Bleomycetin",
+      "Bleomycin A5",
+      "N1-(3-((4-Aminobutyl)amino)propyl)bleomycinamide",
+      "Pingyangmycin",
+      "Zhengguangmycin A5"
+    ]
+  }
+}

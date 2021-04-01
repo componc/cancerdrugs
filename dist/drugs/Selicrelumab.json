@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Selicrelumab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A monoclonal antibody agonist of the cell surface receptor CD40, with potential immunostimulatory and antineoplastic activities. Similar to the endogenous CD40 ligand (CD40L or CD154), CD40 agonist monoclonal antibody RO7009789 binds to CD40 on a variety of immune cell types. This triggers the cellular proliferation and activation of antigen-presenting cells (APCs), and activates B-cells and T-cells, resulting in an enhanced immune response. RO7009789 also binds to and activates CD40 present on the surfaces of some solid tumor cells, leading to apoptosis and decreased tumor growth. CD40, a cell surface receptor and member of the tumor necrosis factor (TNF) receptor superfamily, is expressed on various immune cells and certain cancer cells; it mediates both indirect tumor cell killing through the activation of the immune system and direct tumor cell apoptosis.",
+    "fdaUniiCode": "0O39RGI33V",
+    "identifier": "C119740",
+    "preferredName": "Selicrelumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C133877"
+    ],
+    "synonyms": [
+      "RO7009789",
+      "SELICRELUMAB",
+      "Selicrelumab"
+    ]
+  }
+}

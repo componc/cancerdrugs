@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pyroxamide",
+  "nciThesaurus": {
+    "casRegistry": "382180-17-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic derivative of hydroxamic acid with antineoplastic properties, Pyroxamide inhibits histone deacetylases involved in transcription; induces hyperacetylation of core histones, modulating chromatin structure and affecting transcription of some genes that inhibit tumor growth; and induces growth arrest and apoptosis. Pyroxamide is used in clinical studies for cancer chemotherapy.",
+    "fdaUniiCode": "12N86DSS23",
+    "identifier": "C2801",
+    "preferredName": "Pyroxamide",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1946"
+    ],
+    "synonyms": [
+      "PYROXAMIDE",
+      "Pyroxamide",
+      "Suberoyl-3-aminopyridineamide Hydroxamic Acid",
+      "pyroxamide"
+    ]
+  }
+}

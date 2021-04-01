@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ambamustine",
+  "nciThesaurus": {
+    "casRegistry": "85754-59-2",
+    "chebiId": "",
+    "chemicalFormula": "C29H39Cl2FN4O4S",
+    "definition": "A tripeptidic nitrogen mustard compound and bifunctional alkylating agent with antineoplastic activity.",
+    "fdaUniiCode": "IB1H345F24",
+    "identifier": "C73320",
+    "preferredName": "Ambamustine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C697"
+    ],
+    "synonyms": [
+      "AMBAMUSTINE",
+      "Ambamustine",
+      "N-(3-(m-(Bis(2-chloroethyl)amino)phenyl)-N-(3-(p-fluorophenyl)-L-alanyl)-L-alanyl)-L-methionine, Ethyl Ester",
+      "PTT-119"
+    ]
+  }
+}

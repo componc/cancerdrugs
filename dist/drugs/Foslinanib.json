@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Foslinanib",
+  "nciThesaurus": {
+    "casRegistry": "1256037-60-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable agent with potential antineoplastic and anti-vasculogenic mimicry activities. Upon oral administration, foslinanib targets and inhibits the formation of vasculogenic mimicry (VM; vascular mimicry). By destroying the VM channels and network, cancer cells are devoid of perfusion leading to an induction of cancer cell apoptosis and inhibition of cancer cell proliferation. VM is associated with tumor metastasis.",
+    "fdaUniiCode": "2X2DNM7NGX",
+    "identifier": "C123824",
+    "preferredName": "Foslinanib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1742"
+    ],
+    "synonyms": [
+      "4(1H)-Quinolinone, 2-(3-Fluorophenyl)-6-methoxy-5-(phosphonooxy)-",
+      "CVM 1118",
+      "CVM-1118",
+      "CVM1118",
+      "FOSLINANIB",
+      "Foslinanib",
+      "TRX 818",
+      "TRX-818",
+      "TRX818",
+      "WHO 10721"
+    ]
+  }
+}

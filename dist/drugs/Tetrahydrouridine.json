@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tetrahydrouridine",
+  "nciThesaurus": {
+    "casRegistry": "18771-50-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic pyrimidine nucleoside analogue with biomodulating activity. Tetrahydrouridine increases the efficacy of the radiosensitizer cytochlor (5-chloro-2'-deoxycytidine) by inhibiting the enzyme deoxycytidine monophosphate (dCMP) deaminase and preventing the premature deamination of the cytochlor metabolite 5-chloro-2'-deoxycytidine monophosphate (CldCMP) to 5-chloro-2'-deoxyuridine monophosphate (CldUMP); in turn, this increases tumor concentrations of CldUMP which is then further anabolized and incorporated selectively into tumor DNA as CldU (5-chloro-2'-deoxyuridine).",
+    "fdaUniiCode": "0NIZ8H6OL8",
+    "identifier": "C868",
+    "preferredName": "Tetrahydrouridine",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1557",
+      "C2135"
+    ],
+    "synonyms": [
+      "2(1H)-pyrimidinone, tetrahydro-4-hydroxy-1-beta-D-ribofuranosyl-",
+      "TETRAHYDROURIDINE",
+      "THU",
+      "Tetrahydrouridine",
+      "tetrahydrouridine"
+    ]
+  }
+}

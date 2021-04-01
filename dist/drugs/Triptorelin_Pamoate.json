@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Triptorelin_Pamoate",
+  "nciThesaurus": {
+    "casRegistry": "124508-66-3",
+    "chebiId": "",
+    "chemicalFormula": "C64H82N18O13.C23H16O6",
+    "definition": "The pamoate salt of triptorelin, a synthetic decapeptide agonist analog of luteinizing hormone releasing hormone (LHRH).  Possessing greater potency than endogenous LHRH, triptorelin reversibly represses gonadotropin secretion after prolonged administration.  After chronic, continuous administration, a sustained decrease in LH, FSH and testicular and ovarian steroidogenesis is observed.  The serum testosterone concentration may fall to levels typically seen in surgically castrated men.",
+    "fdaUniiCode": "08AN7WA2G0",
+    "identifier": "C29523",
+    "preferredName": "Triptorelin Pamoate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1910"
+    ],
+    "synonyms": [
+      "6-D-Tryptophan-, 4,4'Mmethylenebis(3-hydroxy-2-naphthalenecarboxylate) (Salt)",
+      "Decapeptyl",
+      "Diphereline",
+      "Pamorelin",
+      "TRIPTORELIN PAMOATE",
+      "Trelstar",
+      "Triptorelin Pamoate"
+    ]
+  }
+}

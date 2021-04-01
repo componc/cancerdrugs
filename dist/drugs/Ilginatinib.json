@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ilginatinib",
+  "nciThesaurus": {
+    "casRegistry": "1239358-86-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, small molecule inhibitor of Janus-associated kinase 2 (JAK2) and Src-family kinases, with potential antineoplastic activity. Ilginatinib competes with ATP for binding to JAK2 as well as the mutated form JAK2V617F, thereby inhibiting the activation of JAK2 and downstream molecules in the JAK2/STAT3 (signal transducer and activator of transcription 3) signaling pathway that plays an important role in normal development, particularly hematopoiesis. In addition, ilginatinib inhibits the Src family tyrosine kinases. This eventually leads to the induction of tumor cell apoptosis. JAK2 is the most common mutated gene in bcr-abl-negative myeloproliferative disorders (MPDs); JAK2V617F is a constitutively activated kinase that activates the JAK/STAT signaling pathway and dysregulates cell growth and function, and its expression transforms hematopoietic cells to cytokine-independent growth.",
+    "fdaUniiCode": "56R994WX4L",
+    "identifier": "C98109",
+    "preferredName": "Ilginatinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C125450"
+    ],
+    "synonyms": [
+      "(S)-N-(1-(4-Fluorophenyl)ethyl)-4-(1-methyl-1H-pyrazol-4-yl)-N'-(pyrazin-2-yl)pyridine-2,6-diamine",
+      "2,6-Pyridinediamine, N2-((1S)-1-(4-fluorophenyl)ethyl)-4-(1-methyl-1H-pyrazol-4-yl)-N6-2-pyrazinyl-",
+      "ILGINATINIB",
+      "Ilginatinib",
+      "NS-018"
+    ]
+  }
+}

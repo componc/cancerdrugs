@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Rosabulin",
+  "nciThesaurus": {
+    "casRegistry": "501948-05-6",
+    "chebiId": "",
+    "chemicalFormula": "C22H16N4O2S",
+    "definition": "A small molecule vascular disrupting agent, with potential antimitotic and antineoplastic activities. Rosabulin binds to tubulin in a similar manner as colchicine and inhibits microtubule assembly. This results in the disruption of the cytoskeleton of tumor endothelial cells, ultimately leading to cell cycle arrest and blockage of cell division. By destroying proliferating vascular cells, blood flow to the tumor is reduced and eventually leads to a decrease in tumor cell proliferation.",
+    "fdaUniiCode": "6Z674O12T6",
+    "identifier": "C77066",
+    "preferredName": "Rosabulin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C25974"
+    ],
+    "synonyms": [
+      "3-[(4-Cyanophenyl)methyl]-N-(3-methyl-5-isothiazolyl)-alpha-oxo-1-indolizineacetamide",
+      "ROSABULIN",
+      "Rosabulin",
+      "STA-5312"
+    ]
+  }
+}

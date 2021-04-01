@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mitomycin_A",
+  "nciThesaurus": {
+    "casRegistry": "4055-39-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A methylazirinopyrroloindoledione antineoplastic antibiotic isolated from the bacterium Streptomyces caespitosus.  Bioreduced mitomycin A generates oxygen radicals, alkylates DNA, and produces interstrand DNA cross-links, thereby inhibiting DNA synthesis.  Mitomycin A is more toxic than mitomycin C due to increased and nonselective DNA cross-linking in both aerobic and hypoxic cells.",
+    "fdaUniiCode": "87TMG6FJHV",
+    "identifier": "C1164",
+    "preferredName": "Mitomycin A",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C663"
+    ],
+    "synonyms": [
+      "Azirino(2',3':3,4)pyrrolo(1,2-a)indole-4,7-dione, 1,1a,2,8,8a,8b-hexahydro-8-(hydroxymethyl)-6,8a-dimethoxy-5-methyl-, carbamate (ester)",
+      "MITOMYCIN A",
+      "Mitomycin A"
+    ]
+  }
+}

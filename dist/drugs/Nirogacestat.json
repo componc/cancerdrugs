@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Nirogacestat",
+  "nciThesaurus": {
+    "casRegistry": "1290543-63-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A selective gamma secretase (GS) inhibitor with potential antitumor activity. Nirogacestat binds to GS, blocking proteolytic activation of Notch receptors; Notch signaling pathway inhibition may follow, which may result in the induction of apoptosis in tumor cells that overexpress Notch. The integral membrane protein GS is a multi-subunit protease complex that cleaves single-pass transmembrane proteins, such as Notch receptors, at residues within their transmembrane domains. Overexpression of the Notch signaling pathway has been correlated with increased tumor cell growth and survival.",
+    "fdaUniiCode": "QZ62892OFJ",
+    "identifier": "C82383",
+    "preferredName": "Nirogacestat",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C471"
+    ],
+    "synonyms": [
+      "(S)-2-(((S)-6,8-Difluoro-1,2,3,4-tetrahydronaphthalen-2-yl)amino)-N-(1-(2-methyl-1-(neopentylamino)propan-2-yl)-1H-imidazol-4-yl)pentanamide",
+      "NIROGACESTAT",
+      "Nirogacestat",
+      "PF-03084014"
+    ]
+  }
+}

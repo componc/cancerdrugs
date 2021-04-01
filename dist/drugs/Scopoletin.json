@@ -1,0 +1,39 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Scopoletin",
+  "nciThesaurus": {
+    "casRegistry": "92-61-5",
+    "chebiId": "CHEBI:17488",
+    "chemicalFormula": "",
+    "definition": "A coumarin compound found in several plants including those in the genus Scopolia and the genus Brunfelsia, as well as chicory (Cichorium), redstem wormwood (Artemisia scoparia), stinging nettle (Urtica dioica), passion flower (Passiflora), noni (Morinda citrifolia fruit) and European black nightshade (Solanum nigrum) that is comprised of umbelliferone with a methoxy group substituent at position 6. Scopoletin is used to standardize and establish pharmacokinetic properties for products derived from the plants that produce it, such as noni extract. Although the mechanism(s) of action have not yet been established, this agent has potential antineoplastic, antidopaminergic, antioxidant, anti-inflammatory and anticholinesterase effects.",
+    "fdaUniiCode": "KLF1HS0SXJ",
+    "identifier": "C126100",
+    "preferredName": "Scopoletin",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C45597"
+    ],
+    "synonyms": [
+      "2H-1-Benzopyran-2-One, 7-Hydroxy-6-Methoxy-",
+      "2H-1-Benzopyran-2-One, 7-Hydroxy-6-Methoxy- (9CI)",
+      "6-Methoxyumbelliferone",
+      "6-Methylesculetin",
+      "6-O-Methylesculetin",
+      "7-Hydroxy-5-Methoxycoumarin",
+      "7-Hydroxy-6-Methoxychromen-2-One",
+      "7-Hydroxy-6-Methoxycoumarin",
+      "Chrysatropic Acid",
+      "Coumarin, 7-Hydroxy-6-Methoxy-",
+      "Escopoletin",
+      "Esculetin-6-Methyl Ether",
+      "Gelseminic Acid",
+      "Methylesculetin",
+      "Murrayetin",
+      "SCOPOLETIN",
+      "Scopoletin",
+      "Scopoletine",
+      "Scopoletol"
+    ]
+  }
+}

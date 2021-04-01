@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Procarbazine",
+  "nciThesaurus": {
+    "casRegistry": "671-16-9",
+    "chebiId": "",
+    "chemicalFormula": "C12H19N3O",
+    "definition": "A methylhydrazine derivative with antineoplastic and mutagenic activities. Although the exact mode of cytotoxicity has not been elucidated, procarbazine, after metabolic activation, appears to inhibit the trans-methylation of methionine into transfer RNA (t-RNA), thereby preventing protein synthesis and consequently DNA and RNA synthesis. This agent may also undergo auto-oxidation, resulting in the formation of cytotoxic free radicals which damage DNA through an alkylation reaction.",
+    "fdaUniiCode": "35S93Y190K",
+    "identifier": "C62072",
+    "preferredName": "Procarbazine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C902"
+    ],
+    "synonyms": [
+      "Benzethyzin",
+      "Ibenzmethyzin",
+      "N-(1-methylethyl)-4-[(2-methylhydrazino)methyl]benzamide",
+      "N-4-isopropylcarbamoylbenzyl-N'-methylhydrazine",
+      "N-Methylhydrazine",
+      "N-isopropyl-alpha-(2-methylhydrazino)-p-toluamide",
+      "PROCARBAZINE",
+      "Procarbazin",
+      "Procarbazine",
+      "p-(N'-methylhydrazinomethyl)-N-isopropylbenzamide",
+      "procarbazine"
+    ]
+  }
+}

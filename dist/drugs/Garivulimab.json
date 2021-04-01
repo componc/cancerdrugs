@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Garivulimab",
+  "nciThesaurus": {
+    "casRegistry": "2342597-81-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized immunoglobulin G1 (IgG1)-variant monoclonal antibody directed against the immunosuppressive ligand programmed cell death-1 ligand 1 (PD-L1; cluster of differentiation 274; CD274), with potential immune checkpoint inhibitory and antineoplastic activities. Upon administration, garivulimab specifically targets and binds to PD-L1, blocking its binding to and activation of its receptor, programmed cell death 1 (PD-1; PDCD1; CD279; programmed death-1). This reverses T-cell inactivation caused by PD-L1/PD-1 signaling, increases T-cell expansion and enhances the cytotoxic T-lymphocyte (CTL)-mediated anti-tumor immune response against PD-L1-expressing tumor cells. In addition, BGB-A333 blocks the interaction between PD-L1 and its other receptor, the immunostimulatory molecule cluster of differentiation 80 (CD80; B7-1). This prevents PD-L1/CD80 signaling and inhibits the induction of PD-L1-induced apoptosis of activated CD8+ T-cells and increases T-cell proliferation. PD-L1 is overexpressed by many human cancer cell types. PD-L1 binding to PD-1 on activated T-cells suppresses the immune system and results in immune evasion. PD-1 negatively regulates T-cell activation.",
+    "fdaUniiCode": "CSJ7UEQ4D9",
+    "identifier": "C155654",
+    "preferredName": "Garivulimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C128057",
+      "C129822"
+    ],
+    "synonyms": [
+      "Anti-PD-L1 Monoclonal Antibody BGB-A333",
+      "BGB A333",
+      "BGB-A333",
+      "BGBA333",
+      "GARIVULIMAB",
+      "Garivulimab"
+    ]
+  }
+}

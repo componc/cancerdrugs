@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Incyclinide",
+  "nciThesaurus": {
+    "casRegistry": "15866-90-7",
+    "chebiId": "",
+    "chemicalFormula": "C19H17NO7",
+    "definition": "A chemically-modified tetracycline with potential antineoplastic activity. Incyclinide inhibits matrix metalloproteinases (MMPs), thereby inducing extracellular matrix degradation, and inhibiting angiogenesis, tumor growth and invasion, and metastasis. This agent also causes mitochondrial depolarization in tumor cells and induces both cellular apoptosis and tissue necrosis.",
+    "fdaUniiCode": "21G64WZQ4I",
+    "identifier": "C2454",
+    "preferredName": "Incyclinide",
+    "semanticType": "Antibiotic",
+    "subclassOf": [],
+    "synonyms": [
+      "4-Dimethlyamino Sancycline",
+      "4-Dimethlyaminosancycline",
+      "4-dedimethylamino sancycline",
+      "6-deoxy, 6-demethyl, 4-de-dimethylamino tetracycline",
+      "6-deoxy-6-demethyl-4-dedimethylaminotetracycline",
+      "CMT-3",
+      "COL 3",
+      "COL-3",
+      "INCYCLINIDE",
+      "Incyclinide",
+      "Metastat",
+      "Tetracycline CMT-3"
+    ]
+  }
+}

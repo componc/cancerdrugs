@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "HER2_Inhibitor_CP-724714",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable quinazoline with potential antineoplastic activity.  CP-724,714 selectively binds to the intracellular domain of HER2, reversibly inhibiting its tyrosine kinase activity and resulting in suppression of tumor cell growth.  HER2, a member of the epidermal growth factor receptor (EGFR) family, is overexpressed in many adenocarcinomas, particularly breast cancers.",
+    "fdaUniiCode": "I05QZ0S4V3",
+    "identifier": "C26648",
+    "preferredName": "HER2 Inhibitor CP-724,714",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C159156"
+    ],
+    "synonyms": [
+      "CP 724714",
+      "CP-724,714",
+      "CP-724-714",
+      "CP-724714",
+      "CP724714",
+      "HER2 Inhibitor CP-724,714"
+    ]
+  }
+}

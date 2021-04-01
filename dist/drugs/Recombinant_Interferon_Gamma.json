@@ -1,0 +1,41 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Cold-Fix",
+      "indication": "Shortens the durations of cold and flu symptoms Offers temporary relief of cold and flu symptoms including nasal congestion, cough and fever",
+      "manufacturer": "Seme USA Inc",
+      "splSetId": "4c09516f-28cc-20d4-e054-00144ff8d46c"
+    },
+    {
+      "brand": "Cold-Fix (for Children)",
+      "indication": "Shortens the durations of cold and flu symptoms Offers temporary relief of cold and flu symptoms including nasal congestion, cough and fever",
+      "manufacturer": "Seme USA Inc",
+      "splSetId": "4c09acda-2519-1fba-e054-00144ff88e88"
+    }
+  ],
+  "id": "Recombinant_Interferon_Gamma",
+  "nciThesaurus": {
+    "casRegistry": "82115-62-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant therapeutic agent which is chemically identical to or similar to the endogenous lymphokine interferon gamma (IFN-gamma) with antineoplastic, immunoregulatory, and antiviral activities. Therapeutic IFN-gamma binds to and activates the cell-surface IFN-gamma receptor, stimulating antibody-dependent cytotoxicity and enhances natural killer cell attachment to tumor cells. This agent also activates caspases, thereby inducing apoptosis in malignant cells.",
+    "fdaUniiCode": "P050J5FWC5",
+    "identifier": "C583",
+    "preferredName": "Recombinant Interferon Gamma",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [],
+    "synonyms": [
+      "Gamma Interferon (GEN)",
+      "Gamma Interferon-SCH",
+      "Gamma-Interferon",
+      "Ginterferon",
+      "IFN-g",
+      "INTERFERON-.GAMMA.",
+      "Interferon Gamma",
+      "Interferon Gamma (BIO)",
+      "Interferon, Gamma",
+      "Recombinant Interferon Gamma"
+    ]
+  }
+}

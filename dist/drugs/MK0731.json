@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "MK0731",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic small molecule with potential antineoplastic activity. MK0731 selectively inhibits kinesin spindle protein (KSP), which may result in the inhibition of mitotic spindle assembly, induction of cell cycle arrest during the mitotic phase, and apoptosis in tumor cells that overexpress KSP.",
+    "fdaUniiCode": "8HIJ5G3O02",
+    "identifier": "C49174",
+    "preferredName": "MK0731",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C67440"
+    ],
+    "synonyms": [
+      "MK-0731",
+      "MK0731"
+    ]
+  }
+}

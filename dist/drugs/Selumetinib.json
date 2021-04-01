@@ -1,0 +1,34 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "KOSELUGO",
+      "indication": "1 INDICATIONS AND USAGE KOSELUGO is indicated for the treatment of pediatric patients 2 years of age and older with neurofibromatosis type 1 (NF1) who have symptomatic, inoperable plexiform neurofibromas (PN). KOSELUGO is a kinase inhibitor indicated for the treatment of pediatric patients 2 years of age and older with neurofibromatosis type 1 (NF1) who have symptomatic, inoperable plexiform neurofibromas (PN). ( 1 )",
+      "manufacturer": "AstraZeneca Pharmaceuticals LP",
+      "splSetId": "7d042c61-f28f-4ab5-ab10-d7558c0d49ff"
+    }
+  ],
+  "id": "Selumetinib",
+  "nciThesaurus": {
+    "casRegistry": "606143-52-6",
+    "chebiId": "",
+    "chemicalFormula": "C17H15BrClFN4O3",
+    "definition": "An orally active, small molecule with potential antineoplastic activity. Selumetinib is an ATP-independent inhibitor of mitogen-activated protein kinase kinase (MEK or MAPK/ERK kinase) 1 and 2. MEK 1 and 2 are dual specificity kinases that are essential mediators in the activation of the RAS/RAF/MEK/ERK pathway, are often upregulated in various cancer cells, and are drivers of diverse cellular responses, including proliferation. Inhibition of both MEK1 and 2 by selumetinib prevents the activation of MEK1/2 dependent effector proteins and transcription factors, thereby leading to an inhibition of cellular proliferation in various cancers.",
+    "fdaUniiCode": "6UH91I579U",
+    "identifier": "C66939",
+    "preferredName": "Selumetinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C69145"
+    ],
+    "synonyms": [
+      "ARRY-142886",
+      "AZD6244",
+      "MEK Inhibitor AZD6244",
+      "MEK inhibitor AZD6244",
+      "SELUMETINIB",
+      "Selumetinib"
+    ]
+  }
+}

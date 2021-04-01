@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Dociparstat_sodium",
+  "nciThesaurus": {
+    "casRegistry": "177021-00-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A heparin derivative in which the 2-O and 3-O sulfate groups of heparin are removed and that lacks anticoagulant activity, with potential anti-inflammatory, immodulatory and antineoplastic activities. Upon administration, dociparstat sodium binds to both chemokine stromal cell-derived factor 1 (SDF-1 or CXCL12) and CXC chemokine receptor 4 (CXCR4). This prevents the interaction of CXCL12 with CXCR4, blocks CXCR4 activation, and may result in decreased proliferation and migration in CXCR4-overexpressing tumor cells. In addition, inhibition of CXCL12/CXCR4 interaction may induce mobilization of hematopoietic cells from the bone marrow into the blood.  In addition, dociparstat sodium prevents the interaction of the receptor for advanced glycation end-products (RAGE) with its ligands, including advanced glycation end-products (AGEs), Mac-1(CD11b/CD18), the nuclear pro-inflammatory protein high mobility group box protein-1 (HMGB-1), carboxymethyl lysine-bovine serum albumin (CML-BSA) and members of the S100 calgranulin family. In addition, this agent inhibits the enzymes heparanase, cathepsin G, and human leukocyte elastase, which are involved in inflammation and metastasis. Altogether, this may inhibit tumor cell invasiveness and metastasis. Dociparstat sodium also binds to platelet factor 4 (PF4 or CXCL4) and may prevent PF4's inhibitory effect on platelet production. This may increase platelet production. Unlike heparin, this agent does not induce heparin-induced thrombocytopenia (HIT). RAGE, a receptor belonging to the immunoglobulin superfamily, plays a key role in inflammation and is overexpressed in a variety of cancers. CXCR4 is a chemokine receptor belonging to the G protein-coupled receptor (GPCR) family that plays an important role in chemotaxis, chemoresistance and angiogenesis, and is upregulated in several tumor cell types. The interaction between CXCL12/CXCR4 induces retention of hematopoietic cells in the bone marrow.",
+    "fdaUniiCode": "4O75889WF4",
+    "identifier": "C99130",
+    "preferredName": "Dociparstat sodium",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129820"
+    ],
+    "synonyms": [
+      "2,3-o-Desulfated Heparin (12000 da)",
+      "CX 01",
+      "CX-01",
+      "CX01",
+      "DOCIPARSTAT SODIUM",
+      "Dociparstat sodium",
+      "O-desulfated Heparin",
+      "ODSH",
+      "PGX-100",
+      "PGX-ODSH",
+      "PGX100"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Cemadotin",
+  "nciThesaurus": {
+    "casRegistry": "159776-69-9",
+    "chebiId": "",
+    "chemicalFormula": "C35H56N6O5",
+    "definition": "A synthetic dolastatin 15 analogue with potential antineoplastic activity.  Cemadotin suppresses spindle microtubule dynamics by binding to tubulin, thereby blocking mitosis.",
+    "fdaUniiCode": "6SQ8M7ZSFV",
+    "identifier": "C75875",
+    "preferredName": "Cemadotin",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C67422"
+    ],
+    "synonyms": [
+      "CEMADOTIN",
+      "Cemadotin",
+      "LU-103793",
+      "LU103793"
+    ]
+  }
+}

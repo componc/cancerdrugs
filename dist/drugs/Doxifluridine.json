@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Doxifluridine",
+  "nciThesaurus": {
+    "casRegistry": "3094-09-5",
+    "chebiId": "",
+    "chemicalFormula": "C9H11FN2O5",
+    "definition": "A fluoropyrimidine derivative and oral prodrug of the antineoplastic agent 5-fluorouracil (5-FU) with antitumor activity. Doxifluridine, designed to circumvent the rapid degradation of 5-FU by dihydropyrimidine dehydrogenase in the gut wall, is converted into 5-FU in the presence of pyrimidine nucleoside phosphorylase. 5-FU interferes with DNA synthesis and subsequent cell division by reducing normal thymidine production and interferes with RNA transcription by competing with uridine triphosphate for incorporation into the RNA strand.",
+    "fdaUniiCode": "V1JK16Y2JP",
+    "identifier": "C978",
+    "preferredName": "Doxifluridine",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1557"
+    ],
+    "synonyms": [
+      "5'-Deoxy-5-fluorouridine",
+      "5-DFUR",
+      "DOXIFLURIDINE",
+      "Doxifluridine"
+    ]
+  }
+}

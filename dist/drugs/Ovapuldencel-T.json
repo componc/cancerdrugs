@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ovapuldencel-T",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A cancer vaccine consisting of autologous dendritic cells (DCs) loaded with autologous, lethally irradiated cancer cells and mixed with the cytokine granulocyte-macrophage colony stimulating factor (GM-CSF), with potential immunostimulatory and antineoplastic activities. Upon vaccination, ovapuldencel-T may stimulate the immune system to exert a cytotoxic T-lymphocyte (CTL) immune response against the repertoire of tumor associated antigens (TAAs) found in the irradiated cancer cells. GM-CSF enhances the activation of dendritic cells (DCs) and promotes antigen presentation to both B- and T-lymphocytes.",
+    "fdaUniiCode": "FK2WI4Y35P",
+    "identifier": "C113651",
+    "preferredName": "Ovapuldencel-T",
+    "semanticType": "Cell",
+    "subclassOf": [
+      "C2594"
+    ],
+    "synonyms": [
+      "OVAPULDENCEL-T",
+      "Ovapuldencel-T"
+    ]
+  }
+}

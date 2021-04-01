@@ -1,0 +1,52 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "interferon beta-1a",
+      "conditionIndication": "Avonex is indicated for the treatment of:patients diagnosed with relapsing multiple sclerosis (MS). In clinical trials, this was characterised by two or more acute exacerbations (relapses) in the previous three years without evidence of continuous progression between relapses; Avonex slows the progression of disability and decreases the frequency of relapses;patients with a single demyelinating event with an active inflammatory process, if it is severe enough to warrant treatment with intravenous corticosteroids, if alternative diagnoses have been excluded, and if they are determined to be at high risk of developing clinically definite MS.Avonex should be discontinued in patients who develop progressive MS.",
+      "inn": "interferon beta-1a",
+      "marketingAuthorisationDate": "1997-03-13 01:00:00",
+      "marketingAuthorisationHolder": "Biogen Netherlands B.V.\u00a0",
+      "medicineName": "Avonex",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/avonex"
+    },
+    {
+      "activeSubstance": "interferon beta-1a",
+      "conditionIndication": "Rebif is indicated for the treatment of:patients with a single demyelinating event with an active inflammatory process, if alternative diagnoses have been excluded, and if they are determined to be at high risk of developing clinically definite multiple sclerosis;patients with relapsing multiple sclerosis. In clinical trials, this was characterised by two or more acute exacerbations in the previous two years.Efficacy has not been demonstrated in patients with secondary progressive multiple sclerosis without ongoing relapse activity.",
+      "inn": "interferon beta-1a",
+      "marketingAuthorisationDate": "1998-05-03 00:00:00",
+      "marketingAuthorisationHolder": "Merck Europe B.V.\u00a0",
+      "medicineName": "Rebif",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/rebif"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "REBIF",
+      "indication": "1 INDICATIONS AND USAGE REBIF is indicated for the treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults. Rebif is an interferon beta indicated for the treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults. ( 1 )",
+      "manufacturer": "EMD Serono, Inc.",
+      "splSetId": "c6fcb5d2-8fcd-44fa-a838-b84ee5f44f0f"
+    }
+  ],
+  "id": "Interferon_Beta-1A",
+  "nciThesaurus": {
+    "casRegistry": "145258-61-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant form of the endogenous cytokine human interferon (IFN) beta-1a, with antiproliferative, antiviral and immunomodulating activities. Upon administration, interferon beta-1a targets and binds to specific type I IFN receptors, which eventually results in the transcription and translation of genes containing an interferon-specific response element and leads to the production of various anti-viral proteins and modulates the production of various immune-modulating proteins. This reduces the production of certain pro-inflammatory cytokines while upregulating the anti-inflammatory cytokine interleukin 10 (IL-10), upregulates the expression of major histocompatibility (MHC) I proteins which allows for increased presentation of peptides derived from viral antigens, and activates CD8+ T cells as well as other immune cells. Endogenous IFN-beta-1a is produced following viral infection and it plays a key role in innate immune response against viral pathogens.",
+    "fdaUniiCode": "XRO4566Q4R",
+    "identifier": "C1823",
+    "preferredName": "Interferon Beta-1A",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C495"
+    ],
+    "synonyms": [
+      "Avonex",
+      "BG9418",
+      "INTERFERON BETA-1A",
+      "Interferon Beta-1A",
+      "Rebif",
+      "Recombinant interferon beta-1a"
+    ]
+  }
+}

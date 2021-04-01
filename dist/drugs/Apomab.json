@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Apomab",
+  "nciThesaurus": {
+    "casRegistry": "1108170-71-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fully human monoclonal antibody directed against human death receptor 5 (DR5; TRAIL-R2; TNFRSF10B) with potential pro-apoptotic and antineoplastic activities. Mimicking the natural ligand TRAIL (tumor necrosis factor-related apoptosis inducing ligand), apomab binds to DR5, which may directly activate the extrinsic apoptosis pathway and indirectly induce the intrinsic apoptosis pathway in tumor cells. DR5 is a cell surface receptor of the TNF-receptor superfamily and is expressed in a broad range of cancers.",
+    "fdaUniiCode": "703KLX5LXZ",
+    "identifier": "C71693",
+    "preferredName": "Apomab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C20401"
+    ],
+    "synonyms": [
+      "APOMAB",
+      "Apomab"
+    ]
+  }
+}

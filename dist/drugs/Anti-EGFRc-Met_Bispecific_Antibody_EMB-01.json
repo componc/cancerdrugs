@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-EGFRc-Met_Bispecific_Antibody_EMB-01",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A human, Fabs-in-tandem immunoglobulin (FIT-Ig)-based, tetravalent, bispecific antibody targeting both the epidermal growth factor receptor EGFR and the hepatocyte growth factor receptor (HGFR;; cMet; c-Met), with potential antineoplastic activity. Upon administration, anti-EGFR/c-Met bispecific antibody EMB-01 simultaneously targets and binds to wild-type or certain mutant forms of both EGFR and c-Met expressed on cancer cells, thereby preventing receptor phosphorylation. This prevents the activation of both EGFR- and c-Met-mediated signaling pathways and results in the inhibition of tumor cell proliferation. EGFR and c-Met, both upregulated or mutated in a variety of tumor cell types, play key roles in tumor cell proliferation. In EMB-01, the two antigen-binding fragments (Fabs) are fused directly in a crisscross orientation resulting in four active and independent antigen binding sites.",
+    "fdaUniiCode": "G86X5QQ7M5",
+    "identifier": "C158085",
+    "preferredName": "Anti-EGFR/c-Met Bispecific Antibody EMB-01",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1454"
+    ],
+    "synonyms": [
+      "Anti-EGFR/Anti-c-Met Bispecific Antibody EMB-01",
+      "Anti-EGFR/c-Met Bispecific Antibody EMB-01",
+      "Anti-cMET/EGFR Bispecific Antibody EMB-01",
+      "Bispecific Antibody EMB-01",
+      "EMB 01",
+      "EMB-01",
+      "EMB01",
+      "FIT-013a"
+    ]
+  }
+}

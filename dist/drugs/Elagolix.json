@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Elagolix",
+  "nciThesaurus": {
+    "casRegistry": "834153-87-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, second-generation, non-peptide based, small molecule compound and selective gonadotropin-releasing hormone (GnRH; LHRH) receptor antagonist, with potential hormone production inhibitory activity. Upon oral administration, elagolix competes with GnRH for receptor binding and inhibits GnRH receptor signaling in the anterior pituitary gland. This inhibits the secretion of luteinizing hormone (LH) and follicle stimulating hormone (FSH). In males, the inhibition of LH secretion prevents the release of testosterone. In women, inhibition of FSH and LH prevents the production of estrogen by the ovaries. Inhibition of GnRH signaling may treat or prevent symptoms of sex hormone-dependent disease states.",
+    "fdaUniiCode": "5B2546MB5Z",
+    "identifier": "C153373",
+    "preferredName": "Elagolix",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2092",
+      "C241"
+    ],
+    "synonyms": [
+      "ABT-620",
+      "Butanoic Acid, 4-(((1R)-2-(5-(2-fluoro-3-methoxyphenyl)-3-((2-fluoro-6-(trifluoromethyl)phenyl)methyl)-3,6-dihydro-4-methyl-2,6-dioxo-1(2H)-pyrimidinyl)-1-phenylethyl)amino)-",
+      "ELAGOLIX",
+      "Elagolix",
+      "NBI 56418",
+      "NBI-56418",
+      "Orilissa"
+    ]
+  }
+}

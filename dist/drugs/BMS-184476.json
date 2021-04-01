@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "BMS-184476",
+  "nciThesaurus": {
+    "casRegistry": "160237-25-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A 7-methylthiomethyl ether derivative of paclitaxel with antineoplastic activity.  BMS-184476 binds to and stabilizes the resulting microtubules, thereby inhibiting microtubule disassembly which results in cell- cycle arrest at the G2/M phase and apoptosis. (NCI)",
+    "fdaUniiCode": "3811W2NBZ8",
+    "identifier": "C1843",
+    "preferredName": "BMS-184476",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1490",
+      "C67437"
+    ],
+    "synonyms": [
+      "7-O-[(Methylthio)methyl]paclitaxel",
+      "BMS-184476",
+      "beta-(Benzoylamino)-a-hydroxybenzenepropanoic Acid (aR,bS)-(2aR,4S,4aS,6R,9S,11S,12S,12aR,12bS)-6,12b-Bis(acetyloxy)-12-(benzoyloxy)-2a,3,4,4a,5,6,9,10,11,12,12a,12b-dodecahydro-11-hydroxy-4a,8,13,13-tetramethyl-4-[(methylthio)methoxy]-5-oxo-7,11-methano-1H",
+      "beta-(Benzoylamino)-alpha-hydroxybenzenepropanoic Acid (aR,bS)-(2aR,4S,4aS,6R,9S,11S,12S,12aR,12bS)-6,12b-Bis(acetyloxy)-12-(benzoyloxy)-2a,3,4,4a,5,6,9,10,11,12,12a,12b-dodecahydro-11-hydroxy-4a,8,13,13-tetramethyl-4-[(methylthio)methoxy]-5-oxo-7,11-methano-1H"
+    ]
+  }
+}

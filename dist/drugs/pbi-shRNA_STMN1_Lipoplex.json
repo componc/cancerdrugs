@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "pbi-shRNA_STMN1_Lipoplex",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A proprietary RNA interference construct consisting of bifunctional short hairpin RNAs (shRNA) against human stathmin 1 (STMN1) encapsulated in the cationic bilamellar invaginated vesicle lipoplex (LP) with potential antineoplastic activity. pbi-shRNA STMN1 LP contains 2 stem-loop structures encoded by a plasmid vector. Upon intratumoral administration, one shRNA unit with a perfectly matched sequence renders the suppression of STMN1 mRNA translation (mRNA sequestration and cleavage-independent degradation) while the other unit with an imperfectly matched sequence renders STMN1 mRNA degradation via RNase H-like cleavage (cleavage-dependent mRNA silencing). The suppression of STMN1 expression in tumor cells result in a reduction of tumor cell proliferation. STMN1, a ubiquitous cytosolic phosphoprotein and tubulin modulator that plays a key role in mitosis, is overexpressed in a variety of tumors and correlates with poor prognosis.",
+    "fdaUniiCode": "0TG7ZQ45R5",
+    "identifier": "C99639",
+    "preferredName": "pbi-shRNA STMN1 Lipoplex",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129821"
+    ],
+    "synonyms": [
+      "DNA PLASMID (PBI-SHRNA STMN1)",
+      "pbi-shRNA STMN1 LP",
+      "pbi-shRNA STMN1 Lipoplex"
+    ]
+  }
+}

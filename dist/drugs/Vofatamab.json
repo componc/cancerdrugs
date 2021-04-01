@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Vofatamab",
+  "nciThesaurus": {
+    "casRegistry": "1312305-12-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A human immunoglobulin G1 (IgG1) monoclonal antibody directed against the fibroblast growth factor receptor type 3 (FGFR3), with potential antineoplastic activity. Upon intravenous administration, vofatamab specifically binds to and inhibits both wild-type and mutated forms of FGFR3. This may result in the inhibition of FGFR3 phosphorylation, and thereby preventing its activation and FGFR3-mediated signal transduction pathways. This results in the inhibition of cell proliferation and the induction of cell death in FGFR3-expressing tumor cells. FGFR3, a receptor tyrosine kinase upregulated or mutated in many tumor cell types, plays a key role in tumor cell proliferation.",
+    "fdaUniiCode": "JMH6YR91PG",
+    "identifier": "C116863",
+    "preferredName": "Vofatamab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C133879"
+    ],
+    "synonyms": [
+      "B-701",
+      "MFGR-1877S",
+      "MFGR1877A",
+      "MFGR1877S",
+      "RG-7444",
+      "VOFATAMAB",
+      "Vofatamab"
+    ]
+  }
+}

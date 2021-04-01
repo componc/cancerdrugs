@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Azapicyl",
+  "nciThesaurus": {
+    "casRegistry": "17433-31-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A hydrazine compound that has been investigated for antineoplastic activity.",
+    "fdaUniiCode": "186TH42ZNH",
+    "identifier": "C1007",
+    "preferredName": "Azapicyl",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1935"
+    ],
+    "synonyms": [
+      "1-ACETYL-2-PICOLINOYLHYDRAZINE",
+      "1-Acetyl-2-picolinoylhydrazine",
+      "1-acetyl-2-picolinoylhydrazine",
+      "2-acetylhydrazide-2-pyridinecarboxylic acid",
+      "Azapicyl",
+      "P-2292"
+    ]
+  }
+}

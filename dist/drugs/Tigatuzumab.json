@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tigatuzumab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized agonistic monoclonal antibody directed against human tumor necrosis factor-related apoptosis-inducing ligand receptor 2 (TRAIL-R2) with potential antitumor activity. Mimicking the natural receptor ligand TRAIL, tigatuzumab binds to TRAIL-R2, activating signal transduction pathways that may result in tumor cell apoptosis and a reduction in tumor growth. A member of the tumor necrosis factor (TNF) receptor family, TRAIL-R2, also known as DR5 (death receptor 5), is expressed on the surfaces of many types of malignant cells.",
+    "fdaUniiCode": "237GB6IDKO",
+    "identifier": "C62482",
+    "preferredName": "Tigatuzumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-DR5 MoAb",
+      "Anti-TRAIL-R2 MoAb",
+      "CS-1008",
+      "TIGATUZUMAB",
+      "Tigatuzumab",
+      "anti-[Homo sapiens TNFRSF10B (Tumor Necrosis Factor Receptor Superfamily Member 10B, DR5, TRAIL-R2, CD262)] Humanized Monoclonal TRA-8"
+    ]
+  }
+}

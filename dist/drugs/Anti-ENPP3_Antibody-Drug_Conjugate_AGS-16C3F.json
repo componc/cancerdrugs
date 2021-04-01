@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-ENPP3_Antibody-Drug_Conjugate_AGS-16C3F",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) containing a fully human monoclonal antibody (AGS-16C) directed to the ectonucleotide pyrophosphatase/phosphodiesterase family member 3 (ENPP3), conjugated via a non-cleavable linker to monomethyl auristatin F (MMAF), an auristatin derivative and a potent microtubule inhibitor, that has potential antineoplastic activity. Upon intravenous administration of ADC AGS-16C3F, the monoclonal antibody moiety of this conjugate selectively binds to ENPP3 then is internalized and undergoes proteolytic cleavage to release MMAF. MMAF binds to and inhibits tubulin polymerization, resulting in G2/M phase arrest and tumor cell apoptosis. While normally expressed at low levels in the proximal tubules of the kidney, the type II transmembrane glycoprotein ENPP3 has been found to be overexpressed in renal neoplasms.",
+    "fdaUniiCode": "VC1D38AGN9",
+    "identifier": "C102980",
+    "preferredName": "Anti-ENPP3 Antibody-Drug Conjugate AGS-16C3F",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "ADC AGS-16C3F",
+      "AGS-16C3F",
+      "Anti-ENPP3 Antibody-Drug Conjugate AGS-16C3F"
+    ]
+  }
+}

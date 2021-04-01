@@ -1,0 +1,57 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "Mirabegron",
+      "conditionIndication": "Symptomatic treatment of urgency.Increased micturition frequency and / or urgency incontinence as may occur in adult patients with overactive-bladder syndrome.",
+      "inn": "mirabegron",
+      "marketingAuthorisationDate": "2012-12-20 01:00:00",
+      "marketingAuthorisationHolder": "Astellas Pharma Europe B.V.",
+      "medicineName": "Betmiga",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/betmiga"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Myrbetriq",
+      "indication": "1 INDICATIONS AND USAGE MYRBETRIQ is a beta-3 adrenergic agonist indicated for the treatment of overactive bladder (OAB) with symptoms of urge urinary incontinence, urgency, and urinary frequency ( 1.1 ). MYRBETRIQ, in combination with the muscarinic antagonist solifenacin succinate, is indicated for the treatment of OAB with symptoms of urge urinary incontinence, urgency, and urinary frequency ( 1.2 ). 1.1 Monotherapy MYRBETRIQ \u00ae is a beta-3 adrenergic agonist indicated for the treatment of overactive bladder (OAB) with symptoms of urge urinary incontinence, urgency, and urinary frequency. 1.2 Combination with Muscarinic Antagonist MYRBETRIQ in combination with the muscarinic antagonist solifenacin succinate is indicated for the treatment of OAB with symptoms of urge urinary incontinence, urgency, and urinary frequency.",
+      "manufacturer": "Cardinal Health",
+      "splSetId": "aaaf3bea-1b21-4edf-9300-b7159ea9ede8"
+    },
+    {
+      "brand": "Myrbetriq",
+      "indication": "1 INDICATIONS AND USAGE MYRBETRIQ is a beta-3 adrenergic agonist indicated for the treatment of overactive bladder (OAB) with symptoms of urge urinary incontinence, urgency, and urinary frequency ( 1.1 ). MYRBETRIQ, in combination with the muscarinic antagonist solifenacin succinate, is indicated for the treatment of OAB with symptoms of urge urinary incontinence, urgency, and urinary frequency ( 1.2 ). 1.1 Monotherapy MYRBETRIQ \u00ae is a beta-3 adrenergic agonist indicated for the treatment of overactive bladder (OAB) with symptoms of urge urinary incontinence, urgency, and urinary frequency. 1.2 Combination with Muscarinic Antagonist MYRBETRIQ in combination with the muscarinic antagonist solifenacin succinate is indicated for the treatment of OAB with symptoms of urge urinary incontinence, urgency, and urinary frequency.",
+      "manufacturer": "Astellas Pharma US, Inc.",
+      "splSetId": "ba9e9e15-e666-4c56-9271-2e24739cfa2d"
+    },
+    {
+      "brand": "Myrbetriq",
+      "indication": "1 INDICATIONS AND USAGE MYRBETRIQ is a beta-3 adrenergic agonist indicated for the treatment of overactive bladder (OAB) with symptoms of urge urinary incontinence, urgency, and urinary frequency ( 1.1 ). MYRBETRIQ, in combination with the muscarinic antagonist solifenacin succinate, is indicated for the treatment of OAB with symptoms of urge urinary incontinence, urgency, and urinary frequency ( 1.2 ). 1.1 Monotherapy MYRBETRIQ \u00ae is a beta-3 adrenergic agonist indicated for the treatment of overactive bladder (OAB) with symptoms of urge urinary incontinence, urgency, and urinary frequency. 1.2 Combination with Muscarinic Antagonist MYRBETRIQ in combination with the muscarinic antagonist solifenacin succinate is indicated for the treatment of OAB with symptoms of urge urinary incontinence, urgency, and urinary frequency.",
+      "manufacturer": "REMEDYREPACK INC.",
+      "splSetId": "f499d877-7699-424d-bd74-7c12d1bad129"
+    }
+  ],
+  "id": "Mirabegron",
+  "nciThesaurus": {
+    "casRegistry": "223673-61-8",
+    "chebiId": "",
+    "chemicalFormula": "C21H24N4O2S",
+    "definition": "An orally bioavailable agonist of the human beta-3 adrenergic receptor (ADRB3), with muscle relaxing, neuroprotective and potential antineoplastic activities.  Upon oral administration, mirabegron binds to and activates ADRB3, which leads to smooth muscle relaxation. Mirabegron also restores sympathetic stimulation in mesenchymal stem cell (MSC) niches, inhibits JAK2-mutated hematopoietic stem cell (HSC) expansion and blocks the progression of myeloproliferative neoplasms (MPNs). Lack of sympathetic stimulation of the MSC and HSC niche is associated with the development of MPNs.",
+    "fdaUniiCode": "MVR3JL3B2V",
+    "identifier": "C90633",
+    "preferredName": "Mirabegron",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C48149"
+    ],
+    "synonyms": [
+      "2-(2-Aminothiazol-4-yl)-N-[4-(2-{[(2R)-2-hydroxy-2-phenylethyl]amino}ethyl)phenyl] Acetamide",
+      "4-Thiazoleacetamide, 2-Amino-N-(4-(2-(((2R)-2-hydroxy-2-phenylethyl)amino)ethyl)phenyl)-",
+      "Betanis",
+      "MIRABEGRON",
+      "Mirabegron",
+      "Myrbetriq",
+      "YM-178",
+      "YM178"
+    ]
+  }
+}

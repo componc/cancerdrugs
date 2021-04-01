@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Buserelin",
+  "nciThesaurus": {
+    "casRegistry": "57982-77-1",
+    "chebiId": "",
+    "chemicalFormula": "C60H86N16O13",
+    "definition": "A synthetic analog of gonadotropin-releasing hormone (GnRH).  Buserelin binds to and activates pituitary gonadotropin releasing hormone (GnRH) receptors.  Prolonged administration of buserelin results in sustained inhibition of gonadotropin production, suppression of testicular and ovarian steroidogenesis, and reduced levels of circulating gonadotropin and gonadal steroids. Buserelin is more potent that GnRH.",
+    "fdaUniiCode": "PXW8U3YXDV",
+    "identifier": "C320",
+    "preferredName": "Buserelin",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1910"
+    ],
+    "synonyms": [
+      "6-[O-(1,1-Dimethylethyl)-D-serine]-9-(N-ethyl-L-prolinamide)-10-deglycinamide Luteinizing Hormone-Releasing Factor (Pig)",
+      "6-[O-(1,1-Dimethylethyl)-D-serine]-9-(N-ethyl-L-prolinamide)-10-deglycinamide-luteinizing Hormone-releasing Factor (Pig)",
+      "BSRL",
+      "BUSERELIN",
+      "Buserelin",
+      "Busereline",
+      "Etilamide",
+      "HOE 766",
+      "ICI 123215",
+      "S74-6766",
+      "buserelin"
+    ]
+  }
+}

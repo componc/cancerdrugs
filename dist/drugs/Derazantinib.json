@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Derazantinib",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "CHEBI:63453",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable inhibitor of the fibroblast growth factor receptor (FGFR) with potential antineoplastic activity. Derazantinib binds to and potently inhibits the activity of FGFR subtypes 1, 2 and 3. This may result in the inhibition of FGFR-mediated signal transduction pathways, tumor cell proliferation, tumor angiogenesis and tumor cell death in FGFR-overexpressing tumor cells. FGFR, a receptor tyrosine kinase, is upregulated in many tumor cell types and plays a key role in tumor cellular proliferation, differentiation, angiogenesis and survival.",
+    "fdaUniiCode": "N9B0H171MJ",
+    "identifier": "C104267",
+    "preferredName": "Derazantinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1967"
+    ],
+    "synonyms": [
+      "ARQ 087",
+      "ARQ-087",
+      "DERAZANTINIB",
+      "Derazantinib"
+    ]
+  }
+}

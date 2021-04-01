@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Atrasentan_Hydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "195733-43-8",
+    "chebiId": "",
+    "chemicalFormula": "C29H38N2O6.ClH",
+    "definition": "The orally available hydrochloride salt of pyrrolidine-3-carboxylic acid with potential antineoplastic activity.  As a selective antagonist of the endothelin-A (ETA) receptor, atrasentan binds selectively to the ETA receptor, which may result in inhibition of endothelin-induced angiogenesis and tumor cell proliferation.",
+    "fdaUniiCode": "E4G31X93ZA",
+    "identifier": "C1779",
+    "preferredName": "Atrasentan Hydrochloride",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C28334"
+    ],
+    "synonyms": [
+      "(+)-A 127722",
+      "(2R,3R,4S)-4-(1,3-Benzodioxo-5-yl)-1-(2-(dibutylamino)-2-oxoethyl)-2-(4-methoxyphenyl)-3-pyrrolidinecarboxylic Acid Monohydrochloride",
+      "ABT-627",
+      "ATRASENTAN HYDROCHLORIDE",
+      "Atrasentan Hydrochloride",
+      "Xinlay"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Lutetium_Lu_177_DOTA-Tetulomab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A radioimmunoconjugate, which consists of a monoclonal antibody against the cell-surface antigen CD37 covalently linked, via the bifunctional, macrocyclic chelating agent tetra-azacyclododecanetetra-acetic acid (DOTA), to the beta-emitting radioisotope lutetium Lu 177, with potential antineoplastic activity. The antibody moiety of lutetium Lu 177 DOTA-tetulomab binds to CD37 on tumor B-cells. Upon internalization, the radioisotope moiety delivers a cytotoxic dose of beta radiation to CD37-expressing tumor cells. CD37, a transmembrane glycoprotein, is overexpressed in B-cell malignancies.",
+    "fdaUniiCode": "CPW7BR9UY7",
+    "identifier": "C105403",
+    "preferredName": "Lutetium Lu 177 DOTA-Tetulomab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129819",
+      "C2124"
+    ],
+    "synonyms": [
+      "177Lu-DOTA-HH1",
+      "177Lu-Dota-Tetulomab",
+      "177Lu-HH1",
+      "Lutetium Lu 177 DOTA-Tetulomab",
+      "TETULOMAB TETRAXETAN LU-177"
+    ]
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "palbociclib",
+      "conditionIndication": "Ibrance is indicated for the treatment of hormone receptor (HR) positive, human epidermal growth factor receptor 2 (HER2) negative locally advanced or metastatic breast cancer:, , in combination with an aromatase inhibitor;, \tin combination with fulvestrant in women who have received prior endocrine therapy., In pre- or perimenopausal women, the endocrine therapy should be combined with a luteinizing hormone releasing hormone (LHRH) agonist., ",
+      "inn": "palbociclib",
+      "marketingAuthorisationDate": "2016-11-09 01:00:00",
+      "marketingAuthorisationHolder": "Pfizer Europe MA EEIG\u00a0",
+      "medicineName": "Ibrance",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ibrance"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Ibrance",
+      "indication": "1 INDICATIONS AND USAGE IBRANCE is indicated for the treatment of HR-positive, HER2-negative advanced or metastatic breast cancer in combination with: letrozole as initial endocrine based therapy in postmenopausal women, or fulvestrant in women with disease progression following endocrine therapy. The indication in combination with letrozole is approved under accelerated approval based on progression-free survival (PFS) [see Clinical Studies (14) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial. IBRANCE is a kinase inhibitor indicated for the treatment of hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with: letrozole as initial endocrine based therapy in postmenopausal women ( 1 ), or fulvestrant in women with disease progression following endocrine therapy. The indication in combination with letrozole is approved under accelerated approval based on progression-free survival (PFS). Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial. ( 1 )",
+      "manufacturer": "U.S. Pharmaceuticals",
+      "splSetId": "86718885-da44-4d3d-b3ca-06cbcedcffd8"
+    },
+    {
+      "brand": "Ibrance",
+      "indication": "1 INDICATIONS AND USAGE IBRANCE is indicated for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with: an aromatase inhibitor as initial endocrine-based therapy in postmenopausal women or in men; or fulvestrant in patients with disease progression following endocrine therapy. IBRANCE is a kinase inhibitor indicated for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with: an aromatase inhibitor as initial endocrine-based therapy in postmenopausal women or in men ( 1) ; or fulvestrant in patients with disease progression following endocrine therapy. ( 1 )",
+      "manufacturer": "US Pharmaceuticals",
+      "splSetId": "89a142d5-7e61-48bf-9e77-e2cd124c4792"
+    },
+    {
+      "brand": "Ibrance",
+      "indication": "1 INDICATIONS AND USAGE IBRANCE is indicated for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with: an aromatase inhibitor as initial endocrine-based therapy in postmenopausal women or in men; or fulvestrant in patients with disease progression following endocrine therapy. IBRANCE is a kinase inhibitor indicated for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with: an aromatase inhibitor as initial endocrine-based therapy in postmenopausal women or in men ( 1 ); or fulvestrant in patients with disease progression following endocrine therapy. ( 1 )",
+      "manufacturer": "Pfizer Laboratories Div Pfizer Inc",
+      "splSetId": "e0e6412f-50b4-4fd4-9364-62818d121a07"
+    },
+    {
+      "brand": "Ibrance",
+      "indication": "1 INDICATIONS AND USAGE IBRANCE is indicated for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with: an aromatase inhibitor as initial endocrine-based therapy in postmenopausal women or in men; or fulvestrant in patients with disease progression following endocrine therapy. IBRANCE is a kinase inhibitor indicated for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with: an aromatase inhibitor as initial endocrine-based therapy in postmenopausal women or in men ( 1) ; or fulvestrant in patients with disease progression following endocrine therapy. ( 1 )",
+      "manufacturer": "Pfizer Laboratories Div Pfizer Inc",
+      "splSetId": "fecbdd7d-b729-41b5-9872-231b8fe104ce"
+    }
+  ],
+  "id": "Palbociclib",
+  "nciThesaurus": {
+    "casRegistry": "571190-30-2",
+    "chebiId": "",
+    "chemicalFormula": "C24H29N7O2",
+    "definition": "An orally available cyclin-dependent kinase (CDK) inhibitor with potential antineoplastic activity. Palbociclib selectively inhibits cyclin-dependent kinase 4 (CDK4) and 6 (CDK6), thereby inhibiting retinoblastoma (Rb) protein phosphorylation early in the G1 phase leading to cell cycle arrest. This suppresses DNA replication and decreases tumor cell proliferation. CDK4 and 6 are serine/threonine kinases that are upregulated in many tumor cell types and play a key role in the regulation of cell cycle progression.",
+    "fdaUniiCode": "G9ZF61LE7G",
+    "identifier": "C49176",
+    "preferredName": "Palbociclib",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C129825",
+      "C2185"
+    ],
+    "synonyms": [
+      "6-Acetyl-8-cyclopentyl-5-methyl-2-((5-(piperazin-1-yl)pyridin-2-yl)amino)-8h-pyrido(2,3-d)pyrimidin-7-one",
+      "Ibrance",
+      "PALBOCICLIB",
+      "PD 0332991",
+      "PD 332991",
+      "PD 991",
+      "PD-0332991",
+      "Palbociclib",
+      "Pyrido(2,3-d)pyrimidin-7(8H)-one, 6-Acetyl-8-cyclopentyl-5-methyl-2-((5-(1-piperazinyl)-2-pyridinyl)amino)-"
+    ]
+  }
+}

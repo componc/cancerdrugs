@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Larotrectinib_Sulfate",
+  "nciThesaurus": {
+    "casRegistry": "1223405-08-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The sulfate salt form of larotrectinib, an orally available, tropomyosin receptor kinase (Trk) inhibitor, with potential antineoplastic activity. Upon administration, larotrectinib binds to Trk, thereby preventing neurotrophin-Trk interaction and Trk activation, which results in both the induction of cellular apoptosis and the inhibition of cell growth in tumors that overexpress Trk. Trk, a receptor tyrosine kinase activated by neurotrophins, is mutated in a variety of cancer cell types and plays an important role in tumor cell growth and survival.",
+    "fdaUniiCode": "RDF76R62ID",
+    "identifier": "C156895",
+    "preferredName": "Larotrectinib Sulfate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C155765"
+    ],
+    "synonyms": [
+      "(3S)-N-[5-[(2R)-2-(2,5-difluorophenyl)pyrrolidin-1-yl]pyrazolo[1,5-a]pyrimidin-3-yl]-3-hydroxypyrrolidine-1-carboxamide;sulfuric acid",
+      "1-Pyrrolidinecarboxamide, N-(5-((2R)-2-(2,5-Difluorophenyl)-1-pyrrolidinyl)pyrazolo(1,5-a)pyrimidin-3-yl)-3-hydroxy-, (3S)-, Sulfate (1:1)",
+      "ARRY 470 Sulfate",
+      "LAROTRECTINIB SULFATE",
+      "LOXO 101 Sulfate",
+      "LOXO-101 Sulfate",
+      "Larotrectinib Sulfate",
+      "Vitrakvi"
+    ]
+  }
+}

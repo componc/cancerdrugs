@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Canerpaturev",
+  "nciThesaurus": {
+    "casRegistry": "1662666-66-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A non-engineered, naturally oncolytic, replication-competent spontaneous herpes simplex virus (HSV) type I mutant variant. Upon intratumoral injection, canerpaturev transfects, replicates in, and lyses rapidly dividing cells such as tumor cells. In addition, this agent may increase host immune responses that may kill non-infected tumor cells.",
+    "fdaUniiCode": "O3F5D10T4M",
+    "identifier": "C88318",
+    "preferredName": "Canerpaturev",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C717"
+    ],
+    "synonyms": [
+      "CANERPATUREV",
+      "Canerpaturev",
+      "HF10",
+      "HSV1 HF10",
+      "Herpes Simplex Virus Type 1 HF10",
+      "Msc 2",
+      "TBI-1401"
+    ]
+  }
+}

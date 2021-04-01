@@ -1,0 +1,36 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "sunitinib",
+      "conditionIndication": "Gastrointestinal stromal tumour (GIST), Sutent is indicated for the treatment of unresectable and/or metastatic malignant gastrointestinal stromal tumour (GIST) in adults after failure of imatinib mesilate treatment due to resistance or intolerance.Metastatic renal cell carcinoma (MRCC), Sutent is indicated for the treatment of advanced/metastatic renal cell carcinoma (MRCC) in adults.Pancreatic neuroendocrine tumours (pNET), Sutent is indicated for the treatment of unresectable or metastatic, well-differentiated pancreatic neuroendocrine tumours with disease progression in adults., Experience with Sutent as first-line treatment is limited (see section 5.1)., ",
+      "inn": "sunitinib",
+      "marketingAuthorisationDate": "2006-07-19 00:00:00",
+      "marketingAuthorisationHolder": "Pfizer Limited",
+      "medicineName": "Sutent",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sutent"
+    }
+  ],
+  "fdaDrugLabel": [],
+  "id": "Sunitinib",
+  "nciThesaurus": {
+    "casRegistry": "557795-19-4",
+    "chebiId": "CHEBI:38940",
+    "chemicalFormula": "C22H27FN4O2",
+    "definition": "An indolinone derivative and tyrosine kinase inhibitor with potential antineoplastic activity. Sunitinib blocks the tyrosine kinase activities of vascular endothelial growth factor receptor 2 (VEGFR2), platelet-derived growth factor receptor b (PDGFRb), and c-kit, thereby inhibiting angiogenesis and cell proliferation.  This agent also inhibits the phosphorylation of Fms-related tyrosine kinase 3 (FLT3), another receptor tyrosine kinase expressed by some leukemic cells.",
+    "fdaUniiCode": "V99T50803M",
+    "identifier": "C71622",
+    "preferredName": "Sunitinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C159198",
+      "C159199",
+      "C93259"
+    ],
+    "synonyms": [
+      "1H-Pyrrole-3-carboxamide, N-(2-(diethylamino)ethyl)-5-((Z)-(5-fluoro-1,2-dihydro-2-oxo-3H-indol-3-ylidene)methyl)-2,4-dimethyl-",
+      "SUNITINIB",
+      "Sunitinib",
+      "sunitinib"
+    ]
+  }
+}

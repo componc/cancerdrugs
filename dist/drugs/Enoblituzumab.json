@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Enoblituzumab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An Fc-domain optimized, humanized monoclonal antibody directed against cancer stem cells (CSCs), with potential immunomodulating and antineoplastic activities. After binding of enoblituzumab to an as of yet not elucidated target expressed on CSCs and differentiated tumor cells, this agent may induce an antibody-dependent cell-mediated cytotoxicity (ADCC) against CSCs. CSCs are tumor initiating cells that are able to self-renew and are responsible for tumor cell growth and resistance.",
+    "fdaUniiCode": "M6030H73N9",
+    "identifier": "C97510",
+    "preferredName": "Enoblituzumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "ENOBLITUZUMAB",
+      "Enoblituzumab",
+      "MGA271"
+    ]
+  }
+}

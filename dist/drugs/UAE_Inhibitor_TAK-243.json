@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "UAE_Inhibitor_TAK-243",
+  "nciThesaurus": {
+    "casRegistry": "1450833-55-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A small molecule inhibitor of ubiquitin-activating enzyme (UAE), with potential antineoplastic activity. UAE inhibitor TAK-243 binds to and inhibits UAE, which prevents both protein ubiquitination and subsequent protein degradation by the proteasome. This results in an excess of proteins in the cells and may lead to endoplasmic reticulum (ER) stress-mediated apoptosis. This inhibits tumor cell proliferation and survival. UAE, also called ubiquitin E1 enzyme (UBA1; E1), is more active in cancer cells than in normal, healthy cells.",
+    "fdaUniiCode": "V9GGV0YCDI",
+    "identifier": "C113788",
+    "preferredName": "UAE Inhibitor TAK-243",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C471"
+    ],
+    "synonyms": [
+      "AOB87172",
+      "MLN7243",
+      "TAK-243",
+      "UAE Inhibitor  TAK-243",
+      "UAE Inhibitor TAK-243"
+    ]
+  }
+}

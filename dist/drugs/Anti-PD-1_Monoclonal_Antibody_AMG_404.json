@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-PD-1_Monoclonal_Antibody_AMG_404",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A human monoclonal antibody directed against the negative immunoregulatory human cell receptor programmed cell death protein 1 (PD-1; PDCD1; CD279), with potential immune checkpoint inhibitory and antineoplastic activities. Upon administration, anti-PD-1 monoclonal antibody AMG 404 targets, binds to and inhibits PD-1 and its downstream signaling pathways. This may restore immune function through the activation of T-cells and T-cell-mediated immune responses against tumor cells. PD-1, a transmembrane protein in the immunoglobulin superfamily (IgSF) expressed on T-cells, functions as an immune checkpoint that negatively regulates T-cell activation and effector function when activated by its ligands, programmed cell death-1 ligand 1 (PD-L1; B7-H1; CD274) and 2 (PD-L2); it plays an important role in tumor evasion from host immunity.",
+    "fdaUniiCode": "DX474PAV6P",
+    "identifier": "C161597",
+    "preferredName": "Anti-PD-1 Monoclonal Antibody AMG 404",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C128037",
+      "C129822"
+    ],
+    "synonyms": [
+      "AMG 404",
+      "AMG-404",
+      "AMG404",
+      "Anti-PD-1 Monoclonal Antibody AMG 404"
+    ]
+  }
+}

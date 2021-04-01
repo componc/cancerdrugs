@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tositumomab",
+  "nciThesaurus": {
+    "casRegistry": "192391-48-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A murine IgG2 monoclonal antibody directed against the CD20 antigen, found on the surface of B-cells.  Tositumomab binds to the CD20 surface membrane antigen, resulting in apoptosis, and may stimulate antitumoral cell-mediated and/or antibody-dependent cytotoxicity.",
+    "fdaUniiCode": "0343IGH41U",
+    "identifier": "C2543",
+    "preferredName": "Tositumomab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C141215"
+    ],
+    "synonyms": [
+      "Anti-CD20 Antibody",
+      "MoAb Anti-B1",
+      "Monoclonal Antibody Anti-B1",
+      "TOSITUMOMAB",
+      "Tositumomab",
+      "anti-B1",
+      "tositumomab"
+    ]
+  }
+}

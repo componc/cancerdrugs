@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Parsaclisib_Hydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "1995889-48-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The hydrochloride salt form of parsaclisib, an inhibitor of the delta isoform of phosphoinositide-3 kinase (PI3K) with potential antineoplastic activity. Parsaclisib inhibits the delta isoform of PI3K and prevents the activation of the PI3K/AKT signaling pathway. This both decreases proliferation and induces cell death in PI3K-delta-overexpressing tumor cells. Unlike other isoforms of PI3K, PI3K-delta is expressed primarily in hematopoietic disease and cell lineages. The targeted inhibition of PI3K-delta is designed to preserve PI3K signaling in normal, non-neoplastic cells. PI3K, an enzyme often overexpressed in cancer cells, plays a crucial role in tumor cell regulation and survival.",
+    "fdaUniiCode": "S0GJ8VM4P9",
+    "identifier": "C166387",
+    "preferredName": "Parsaclisib Hydrochloride",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2152"
+    ],
+    "synonyms": [
+      "(4R)-4-(3-((1S)-1-(4-amino-3-methyl-1h-pyrazolo(3,4-d)pyrimidin-1-yl)ethyl)-5-chloro-2-ethoxy-6-fluorophenyl)pyrrolidin-2-onehydrochloric Acid (1:1)",
+      "2-Pyrrolidinone, 4-(3-((1S)-1-(4-amino-3-methyl-1h-pyrazolo(3,4-d)pyrimidin-1-yl)ethyl)-5-chloro-2-ethoxy-6-fluorophenyl)-, Hydrochloride (1:1), (4R)-",
+      "INCB 50465 Hydrochloride",
+      "INCB050465 Hydrochloride",
+      "PARSACLISIB HYDROCHLORIDE",
+      "Parsaclisib Hydrochloride"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Interferon_Alfa-N1",
+  "nciThesaurus": {
+    "casRegistry": "308067-63-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A highly purified alpha interferon produced by a human lymphoid cell line.  Interferon alpha-n1 consists of multiple alpha interferon subtypes, at least two of which are glycosylated.  In contrast, recombinant alpha interferons are individual non-glycosylated proteins produced from individual alpha interferon genes.  Alpha interferons bind to specific cell-surface receptors, resulting in the transcription and translation of genes whose proteins have antiviral, antiproliferative, anticancer, and immune-modulating effects.",
+    "fdaUniiCode": "41697D4Z5C",
+    "identifier": "C2220",
+    "preferredName": "Interferon Alfa-N1",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C225"
+    ],
+    "synonyms": [
+      "Humoferon",
+      "INTERFERON ALFA-N1",
+      "Interferon Alfa",
+      "Interferon Alfa-N1",
+      "Wellferon"
+    ]
+  }
+}

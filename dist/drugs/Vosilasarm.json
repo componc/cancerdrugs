@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Vosilasarm",
+  "nciThesaurus": {
+    "casRegistry": "1182367-47-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, non-steroidal selective androgen receptor modulator (SARM), with potential tissue-selective androgenic/anti-androgenic activities. Upon oral administration, vosilasarm acts as an agonist in select tissues, such as skeletal muscle and bone, where it binds to and activates androgen receptors (ARs). In the prostate and breasts, RAD140 acts as an antagonist and blocks AR activation and AR-mediated cellular proliferation. Therefore, this agent may improve bone formation and muscle mass and strength, and may inhibit both the growth of the prostate in males and AR-dependent breast cancer cell proliferation. Compared to anabolic agents, SARMs have reduced androgenic properties.",
+    "fdaUniiCode": "4O87Q44KNC",
+    "identifier": "C137950",
+    "preferredName": "Vosilasarm",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129818",
+      "C147920"
+    ],
+    "synonyms": [
+      "RAD 140",
+      "RAD-140",
+      "RAD140",
+      "SARM RAD140",
+      "Selective Androgen Receptor Modulator RAD140",
+      "Testolone",
+      "VOSILASARM",
+      "Vosilasarm"
+    ]
+  }
+}

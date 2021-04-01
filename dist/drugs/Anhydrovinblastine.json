@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anhydrovinblastine",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A semisynthetic derivative of the vinca alkaloid vinblastine, with potential antineoplastic activity. Like vinblastine, anhydrovinblastine targets and binds to tubulin and inhibits microtubule formation, resulting in disruption of mitotic spindle assembly and causing tumor cell cycle arrest in the M phase.",
+    "fdaUniiCode": "5B622U08B3",
+    "identifier": "C2526",
+    "preferredName": "Anhydrovinblastine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C67422",
+      "C932"
+    ],
+    "synonyms": [
+      "ANHYDROVINBLASTINE",
+      "AVLB",
+      "Anhydrovinblastine",
+      "anhydrovinblastine"
+    ]
+  }
+}

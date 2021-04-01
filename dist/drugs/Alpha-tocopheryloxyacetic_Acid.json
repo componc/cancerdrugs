@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Alpha-tocopheryloxyacetic_Acid",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable vitamin E derivative with potential antineoplastic and immunostimulating activities. Upon administration, alpha-tocopheryloxyacetic acid (alpha-TEA) induces tumor autophagy; the autophagosomes formed, which carry tumor associated antigens (TAAs), allow for increased cross-presentation of TAAs by professional antigen-presenting cells (APCs). This activates a T cell-mediated T helper type 1 (TH1) response, generates a cytotoxic T-lymphocyte (CTL) response against cancer cells, and reduces the frequency of regulatory T-cell (Treg) differentiation. In addition, alpha-TEA modulates the release of various cytokines and chemokines and induces tumor cell apoptosis. Altogether, this results in decreased tumor cell proliferation.",
+    "fdaUniiCode": "JW7FJR3ZLY",
+    "identifier": "C117234",
+    "preferredName": "Alpha-tocopheryloxyacetic Acid",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129820"
+    ],
+    "synonyms": [
+      ".ALPHA.-TOCOPHERYLOXYACETIC ACID",
+      "2,5,7,8-Tetramethyl-(2R-(4R,8R,12-trimethyltridecyl) chroman-6-yloxy) Acetic Acid",
+      "Alpha-tocopheryloxyacetic Acid",
+      "a-TEA",
+      "alpha-TEA"
+    ]
+  }
+}

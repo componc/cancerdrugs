@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Synthetic_Alkaloid_PM00104",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic alkaloid compound, related to natural alkaloid compounds, found in molluscs (jorumycin) and sponges (renieramycins), with potential antineoplastic activity. PM00104 reversibly binds to DNA, thereby inducing cytotoxicity due to its interference with DNA replication, transcription, and translation processes. DNA binding by this agent does not trigger DNA damage checkpoint responses, hence PM00104 demonstrates a manageable and reversible cytotoxicity as part of its antitumor activity.",
+    "fdaUniiCode": "C21EZR41AY",
+    "identifier": "C62763",
+    "preferredName": "Synthetic Alkaloid PM00104",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2842"
+    ],
+    "synonyms": [
+      "PM-00104",
+      "PM00104",
+      "Synthetic Alkaloid PM00104",
+      "Zalypsis"
+    ]
+  }
+}

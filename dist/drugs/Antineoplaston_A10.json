@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Antineoplaston_A10",
+  "nciThesaurus": {
+    "casRegistry": "91531-30-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A piperidinedione antineoplaston with potential antineoplastic activity.  Antineoplaston A10 was originally isolated from human urine but is now synthetically derived.  This agent intercalates into DNA, resulting in cell cycle arrest in G1 phase, reduction of mitosis, and decreased protein synthesis.  Antineoplaston A10 may also inhibit ras-oncogene expression and activate tumor suppressor gene p53, leading to cell differentiation and apoptosis.",
+    "fdaUniiCode": "16VY3TM7ZO",
+    "identifier": "C1004",
+    "preferredName": "Antineoplaston A10",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C2500"
+    ],
+    "synonyms": [
+      "3-Phenylacetylamino-2, 6-piperidinedione",
+      "3-Phenylacetylamino-2,6-piperidinedione",
+      "A10",
+      "ANTINEOPLASTON A10",
+      "Antineoplaston A10",
+      "Atengenal",
+      "Benzeneacetamide, N-(2,6-dioxo-3-piperidinyl)-, (S)-"
+    ]
+  }
+}

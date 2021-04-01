@@ -1,0 +1,33 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Methylselenocysteine",
+  "nciThesaurus": {
+    "casRegistry": "26046-90-2",
+    "chebiId": "CHEBI:27812",
+    "chemicalFormula": "",
+    "definition": "A naturally occurring organoselenium compound found in many plants, including garlic, onions, and broccoli, with potential antioxidant and chemopreventive activities. Se-Methyl-seleno-L-cysteine (MSC) is an amino acid analogue of cysteine in which a methylselenium moiety replaces the sulphur atom of cysteine. This agent acts as an antioxidant when incorporated into glutathione peroxidase and has been shown to exhibit potent chemopreventive activity in animal models.",
+    "fdaUniiCode": "TWK220499Z",
+    "identifier": "C63678",
+    "preferredName": "Methylselenocysteine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C275",
+      "C73539"
+    ],
+    "synonyms": [
+      "3-(Methylseleno)-l-alanine",
+      "L-Se-Methylselenocysteine",
+      "METHYLSELENOCYSTEINE",
+      "MSC",
+      "Methylselenocycteine",
+      "Methylselenocysteine",
+      "Se-Methyl-seleno-L-cysteine",
+      "Se-Methylselenocysteine",
+      "Se-methyl-seleno-L-cysteine",
+      "SeMSC",
+      "Selenium-methylselenocystine",
+      "l-Se-Methylselenocysteine"
+    ]
+  }
+}

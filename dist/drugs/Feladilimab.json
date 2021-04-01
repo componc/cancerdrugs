@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Feladilimab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An agonistic antibody for the inducible T-cell co-stimulator (ICOS; CD278), with potential immune checkpoint inhibitory and antineoplastic activities. Upon administration, feladilimab targets and binds to ICOS expressed on tumor infiltrating CD4-positive T-cells. This stimulates ICOS-positive T-cell proliferation, enhances cytotoxic T-lymphocyte (CTL) survival and increases CTL-mediated immune responses against tumor cells. ICOS, a T-cell specific, CD28-superfamily costimulatory molecule and immune checkpoint protein, is normally expressed on certain activated T-cells and plays a key role in the proliferation and activation of T-cells.",
+    "fdaUniiCode": "OUP4QB2A3R",
+    "identifier": "C126804",
+    "preferredName": "Feladilimab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C141145"
+    ],
+    "synonyms": [
+      "Anti-ICOS Agonist Antibody GSK3359609",
+      "FELADILIMAB",
+      "Feladilimab",
+      "GSK3359609"
+    ]
+  }
+}

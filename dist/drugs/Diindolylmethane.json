@@ -1,0 +1,50 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Menopause Relief",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to hormone fluctuations associated with menopause, including hot flashes, mood swings, night sweats, flushing, headache, weakness, and lack of energy.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "802e3090-79fe-4daa-8b03-5843e33f6978"
+    },
+    {
+      "brand": "Menopause Relief",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to hormone fluctuations associated with menopause, including hot flashes, mood swings, night sweats, flushing, headache, weight gain, insomnia, weakness, and lack of energy.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "afb7256f-909c-47cc-9a7d-feeba98c7ba1"
+    },
+    {
+      "brand": "Menopause Relief",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to hormone fluctuations associated with menopause, including hot flashes, mood swings, night sweats, flushing, headache, weakness, and lack of energy.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "d86c620f-872b-49f8-b7e5-be151ef97061"
+    }
+  ],
+  "id": "Diindolylmethane",
+  "nciThesaurus": {
+    "casRegistry": "1968-05-4",
+    "chebiId": "CHEBI:50182",
+    "chemicalFormula": "",
+    "definition": "A phytonutrient and plant indole found in cruciferous vegetables including broccoli, Brussels sprouts, cabbage, cauliflower and kale, with potential anti-androgenic and antineoplastic activities. As a dimer of indole-3-carbinol, diindolylmethane (DIM) promotes beneficial estrogen metabolism in both sexes by reducing the levels of 16-hydroxy estrogen metabolites and increasing the formation of 2-hydroxy estrogen metabolites, resulting in increased antioxidant activity. Although this agent induces apoptosis in tumor cells in vitro, the exact mechanism by which DIM exhibits its antineoplastic activity in vivo is unknown.",
+    "fdaUniiCode": "SSZ9HQT61Z",
+    "identifier": "C53434",
+    "preferredName": "Diindolylmethane",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C54630",
+      "C54677"
+    ],
+    "synonyms": [
+      "3,3'-DIINDOLYLMETHANE",
+      "3,3'-Diindolymethane",
+      "3,3'-Methylenebis-1H-indole",
+      "CCRIS 5806",
+      "DIM",
+      "DIM-Plus",
+      "DIMPRO",
+      "Di-Indoly Methane",
+      "Diindolylmethane",
+      "diindolylmethane"
+    ]
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Fenretinide",
+  "nciThesaurus": {
+    "casRegistry": "65646-68-6",
+    "chebiId": "CHEBI:42588",
+    "chemicalFormula": "C26H33NO2",
+    "definition": "An orally-active synthetic phenylretinamide analogue of retinol (vitamin A) with potential antineoplastic and chemopreventive activities.  Fenretinide binds to and activates retinoic acid receptors (RARs), thereby inducing cell differentiation and apoptosis in some tumor cell types.  This agent also inhibits tumor growth by modulating angiogenesis-associated growth factors and their receptors and exhibits retinoid receptor-independent apoptotic properties.",
+    "fdaUniiCode": "187EJ7QEXL",
+    "identifier": "C1098",
+    "preferredName": "Fenretinide",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C804"
+    ],
+    "synonyms": [
+      "4-(all-trans-retino-yl)aminophenol",
+      "4-HPR",
+      "4-Hydroxyphenylretinamide",
+      "All-trans-4'-Hydroxyretinanilide",
+      "FENRETINIDE",
+      "Fenretinide",
+      "Fenretinimide",
+      "HPR-4",
+      "McN-R-1967",
+      "N-(4-hydroxyphenyl)retinamide",
+      "all-trans-4'-hydroxyretinanilide",
+      "all-trans-N-(4-Hydroxyphenyl)retinamide",
+      "all-trans-N-4'-hydroxyretinanilide",
+      "fenretinide"
+    ]
+  }
+}

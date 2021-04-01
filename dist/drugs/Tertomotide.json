@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tertomotide",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic peptide vaccine, containing 16 amino acid residues (611-626) of the human telomerase reverse transcriptase catalytic subunit (hTERT), with potential antineoplastic activity. Telomerase, a reverse transcriptase normally repressed in healthy cells, is overexpressed in most cancer cells and plays a key role in cellular proliferation. Vaccination with tertomotide may activate the immune system to mount a cytotoxic T-lymphocyte (CTL) response against telomerase-expressing cells.",
+    "fdaUniiCode": "55R7RG342O",
+    "identifier": "C62756",
+    "preferredName": "Tertomotide",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1663",
+      "C1752"
+    ],
+    "synonyms": [
+      "GV 1001",
+      "GV-1001",
+      "GV1001",
+      "Human Telomerase Reverse Transcriptase (EC 2.7.7.49)-(611-626)-Peptide (Telomerase Catalytic Subunit Fragment)",
+      "PrimoVax",
+      "TERTOMOTIDE",
+      "Tertomotide"
+    ]
+  }
+}

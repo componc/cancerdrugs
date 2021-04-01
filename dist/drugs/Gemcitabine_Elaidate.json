@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Gemcitabine_Elaidate",
+  "nciThesaurus": {
+    "casRegistry": "210829-30-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A lipophilic, unsaturated fatty acid ester derivative of gemcitabine (dFdC), an antimetabolite deoxynucleoside analogue, with potential antineoplastic activity. Upon hydrolysis intracellularly by esterases, the prodrug gemcitabine is converted into the active metabolites difluorodeoxycytidine di- and tri-phosphate (dFdCDP and dFdCTP) by deoxycytidine kinase. dFdCDP inhibits ribonucleotide reductase, thereby decreasing the deoxynucleotide pool available for DNA synthesis; dFdCTP is incorporated into DNA, resulting in DNA strand termination and apoptosis. Due to its lipophilicity, gemcitabine 5'-elaidic acid ester exhibits an increased cellular uptake and accumulation, resulting in an increased conversion to active metabolites, compared to gemcitabine. In addition, this formulation of gemcitabine may be less susceptible to deamination and deactivation by deoxycytidine deaminase.",
+    "fdaUniiCode": "231C73W7LG",
+    "identifier": "C79803",
+    "preferredName": "Gemcitabine Elaidate",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1557",
+      "C2150"
+    ],
+    "synonyms": [
+      "CP-4126",
+      "GEMCITABINE ELAIDATE",
+      "Gemcitabine 5'-Elaidic Acid Ester",
+      "Gemcitabine Elaidate"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Rexinoid_NRX_194204",
+  "nciThesaurus": {
+    "casRegistry": "260262-39-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable synthetic retinoid X receptor (RXR) agonist with potential antineoplastic and anti-inflammatory activities. Rexinoid NRX 194204 selectively binds to and activates RXRs. Because RXRs can form heterodimers with several nuclear receptors (NRs), RXR activation by this agent may result in a broad range of gene expression depending on the effector DNA response elements activated. Rexinoid NRX 194204 may inhibit the tumor-necrosis factor (TNF)-mediated release of nitric oxide (NO) and interleukin 6 (IL6) and may inhibit tumor cell proliferation. This agent appears to be less toxic than RAR-selective ligands.",
+    "fdaUniiCode": "877M97Z38Y",
+    "identifier": "C74076",
+    "preferredName": "Rexinoid NRX 194204",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C804"
+    ],
+    "synonyms": [
+      "AGN194204",
+      "NRX194204",
+      "Rexinoid NRX 194204",
+      "VTP-194204"
+    ]
+  }
+}

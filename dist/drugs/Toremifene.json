@@ -1,0 +1,36 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "toremifene",
+      "conditionIndication": "First line hormone treatment of hormone-dependent metastatic breast cancer in postmenopausal patients., Fareston is not recommended for patients with estrogen receptor negative tumours., ",
+      "inn": "toremifene",
+      "marketingAuthorisationDate": "1996-02-14 01:00:00",
+      "marketingAuthorisationHolder": "Orion Corporation",
+      "medicineName": "Fareston",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/fareston"
+    }
+  ],
+  "fdaDrugLabel": [],
+  "id": "Toremifene",
+  "nciThesaurus": {
+    "casRegistry": "89778-26-7",
+    "chebiId": "CHEBI:9635",
+    "chemicalFormula": "C26H28ClNO",
+    "definition": "A nonsteroidal triphenylethylene antiestrogen.  Chemically related to tamoxifen, toremifene is a selective estrogen receptor modulator (SERM).  This agent binds competitively to estrogen receptors, thereby interfering with estrogen activity.  Toremifene also has intrinsic estrogenic properties, which are manifested according to tissue type or species.",
+    "fdaUniiCode": "7NFE54O27T",
+    "identifier": "C1256",
+    "preferredName": "Toremifene",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1821"
+    ],
+    "synonyms": [
+      "(Z)-2-[4-(4-Chloro-1,2-diphenyl-1-butenyl)phenoxy]-N,N-dimethylethanamine",
+      "(Z)-4-Chloro-1,2-diphenyl-1[4-[2-(N,N-dimethylamino)ethoxy]phenyl]-1-butene",
+      "Farestone",
+      "TOREMIFENE",
+      "Toremifene",
+      "toremifene"
+    ]
+  }
+}

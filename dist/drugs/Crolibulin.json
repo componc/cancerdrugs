@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Crolibulin",
+  "nciThesaurus": {
+    "casRegistry": "1000852-17-4",
+    "chebiId": "",
+    "chemicalFormula": "C18H17BrN4O3",
+    "definition": "A small molecule tubulin polymerization inhibitor with potential antineoplastic activity. Microtubulin inhibitor EPC2407 binds to the colchicine-binding site on beta-tubulin and inhibits the polymerization of tubulin into microtubules, which may result in cell cycle arrest, the induction of apoptosis, and the inhibition of tumor cell proliferation. As a vascular disruption agent (VDA), this agent also disrupts tumor neovascularization, which may result in a reduction in tumor blood flow and tumor hypoxia and ischemic necrosis.",
+    "fdaUniiCode": "9ENT43KY91",
+    "identifier": "C66938",
+    "preferredName": "Crolibulin",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C67421"
+    ],
+    "synonyms": [
+      "CROLIBULIN",
+      "Crolibulin",
+      "EPC2407",
+      "Microtubule Inhibitor EPC2407"
+    ]
+  }
+}

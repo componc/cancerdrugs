@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Methionine_Aminopeptidase_2_Inhibitor_PPI-2458",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic derivative of fumagillin with antineoplastic and cytotoxic properties.  PPI-2458 irreversibly inhibits the enzyme methionine aminopeptidase type 2 (MetAP2), thereby preventing abnormal cell growth and angiogenesis. PPI-2458 is reported to have a better toxicity profile compared to other agents of its class.",
+    "fdaUniiCode": "NA0Y2SRR29",
+    "identifier": "C38129",
+    "preferredName": "Methionine Aminopeptidase 2 Inhibitor PPI-2458",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2143"
+    ],
+    "synonyms": [
+      "MetAP-2 Inhibitor PPI-2458",
+      "Methionine Aminopeptidase 2 Inhibitor PPI-2458",
+      "PPI-2458"
+    ]
+  }
+}

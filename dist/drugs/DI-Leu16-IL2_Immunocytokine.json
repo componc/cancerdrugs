@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "DI-Leu16-IL2_Immunocytokine",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant fusion protein consisting of de-immunized and humanized anti-CD20 monoclonal antibody Leu16 fused to human cytokine interleukin-2 (IL2) with potential antineoplastic activity. The antibody moiety of DI-Leu16-IL2 immunocytokine binds to tumor cells expressing the CD20 antigen, which may result in an antibody-dependent cell-mediated cytotoxicity (ADCC) towards CD20-expressing tumor cells; the localized IL2 moiety of this fusion protein may stimulate natural killer (NK) and T-lymphocyte mediated immune responses, enhancing the ADCC response. De-immunization involves the modification of potential helper T cell epitopes that bind to MHC class II molecules; humanization involves combining recombinant murine variable (V) regions with human immunoglobulin light and heavy chain constant regions. CD20 antigen, a hydrophobic transmembrane protein located on normal pre-B and mature B lymphocytes, is overexpressed by various cancer cell types.",
+    "fdaUniiCode": "8PQK3QPW4P",
+    "identifier": "C78451",
+    "preferredName": "DI-Leu16-IL2 Immunocytokine",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1512"
+    ],
+    "synonyms": [
+      "DI-LEU16-IL2",
+      "DI-Leu16-IL-2",
+      "DI-Leu16-IL2 Immunocytokine",
+      "De-Immunized Anti-CD20-IL-2 Immunocytokine DI-Leu16-IL-2"
+    ]
+  }
+}

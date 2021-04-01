@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Simtuzumab",
+  "nciThesaurus": {
+    "casRegistry": "1318075-13-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody against lysyl oxidase-like 2 (LOXL2), with potential antineoplastic activity. Anti-LOXL2 monoclonal antibody GS 6624 targets and specifically binds to the scavenger receptor cysteine rich domain 4 (SRCR-4) on LOXL2, thereby preventing the crosslinking of collagen and inhibiting the recruitment and activation of fibroblasts. Inhibiting fibroblast activation and the subsequent production of growth factors and chemokines may lead to an inhibition of tumor cell proliferation. LOXL2, a member of the lysyl oxidase (LO) gene family, is an extracellular, copper-dependent enzyme overexpressed in a variety of tumor cell types, and contributes to tumor cell invasion and metastasis.",
+    "fdaUniiCode": "11Z5AIU653",
+    "identifier": "C91735",
+    "preferredName": "Simtuzumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C20401"
+    ],
+    "synonyms": [
+      "AB-0024",
+      "AB0024",
+      "GS 6624",
+      "GS-6624",
+      "SIMTUZUMAB",
+      "Simtuzumab"
+    ]
+  }
+}

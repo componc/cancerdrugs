@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Talotrexin_Ammonium",
+  "nciThesaurus": {
+    "casRegistry": "648420-92-2",
+    "chebiId": "",
+    "chemicalFormula": "C27H27N9O6.H3N",
+    "definition": "An ammonium salt of tallotrexin, an analogue of aminopterin with potential antineoplastic activity. As a folate antagonist, talotrexin binds to and inhibits the function of dihydrofolate reductase, resulting in the inhibition of folate metabolism, DNA synthesis, and cell division. Hydrosoluble, talotrexin is actively transported into cells by the reduced folate carrier (RFC) and, therefore, is unlikely to be associated with P-glycoprotein-mediated multidrug resistance.",
+    "fdaUniiCode": "686WJT9102",
+    "identifier": "C80159",
+    "preferredName": "Talotrexin Ammonium",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2153"
+    ],
+    "synonyms": [
+      "2-(((4S)-4-Carboxy-4-((4-(((2,4-diaminopteridin-6-yl)methyl)amino)benzoyl)amino)butyl)carbamoyl)benzoic Acid Monoammonium Salt",
+      "PT-523",
+      "PT523",
+      "TALOTREXIN AMMONIUM",
+      "Talotrexin Ammonium"
+    ]
+  }
+}

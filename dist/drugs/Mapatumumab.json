@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mapatumumab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fully human agonistic monoclonal antibody to tumor necrosis factor-related apoptosis-inducing ligand receptor-1 (TRAIL-R1) with apoptosis promoting and potential antitumor activities. TRAIL-R1 is a cell surface receptor expressed on many malignant cell types. Mapatumumab selectively binds to and activates the TRAIL cell receptor, thereby inducing apoptosis and reducing tumor growth.",
+    "fdaUniiCode": "WZ1025JPGR",
+    "identifier": "C61502",
+    "preferredName": "Mapatumumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-TRAIL R1-mAb",
+      "HGS-ETR1",
+      "MAPATUMUMAB",
+      "Mapatumumab",
+      "TRM-1 mAb",
+      "anti-TRAIL R1-mAb"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Almurtide",
+  "nciThesaurus": {
+    "casRegistry": "61136-12-7",
+    "chebiId": "",
+    "chemicalFormula": "C18H30N4O11",
+    "definition": "A synthetic muramyl dipeptide (MDP) analogue with potential immunostimulating and antineoplastic activity. As a derivative of the mycobacterial cell wall component MDP, almurtide activates both monocytes and macrophages. This results in the secretion of cytokines and induces the recruitment and activation of other immune cells, which may result in indirect tumoricidal or cytostatic effects.",
+    "fdaUniiCode": "1DCO35D4OR",
+    "identifier": "C81667",
+    "preferredName": "Almurtide",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129820"
+    ],
+    "synonyms": [
+      "2-Acetamido-3-O-((((1S)-1-(((1R)-1-carbamoyl-3- carboxypropyl)carbamoyl)ethyl)carbamoyl)methyl)-2-deoxy-D- glucopyranose",
+      "ALMURTIDE",
+      "Almurtide",
+      "Cgp-11637",
+      "N-Acetyl-nor-muramyl-L-alanyl-D-isoglutamine",
+      "nor-MDP",
+      "norMDP"
+    ]
+  }
+}

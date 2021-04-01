@@ -1,0 +1,38 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Limonene_-",
+  "nciThesaurus": {
+    "casRegistry": "5989-27-5",
+    "chebiId": "CHEBI:15382",
+    "chemicalFormula": "C10H16",
+    "definition": "An oral dietary supplement containing a natural cyclic monoterpene, and a major component of the oil extracted from citrus peels, with potential chemopreventive and antineoplastic activities. Upon oral administration, D-limonene activates aldehyde dehydrogenase 3A1 (ALDH3A1), thereby decreasing aldehyde level. This may protect salivary stem/progenitor cells (SSPCs) from toxic aldehydes and prevent or improve radiation-induced xerostomia. Limonene and its metabolites perillic acid, dihydroperillic acid, uroterpenol and limonene 1,2-diol may also inhibit tumor growth through inhibition of p21-dependent signaling and may induce apoptosis via the induction of the transforming growth factor beta-signaling pathway. In addition, they inhibit post-translational modification of signal transduction proteins, resulting in G1 cell cycle arrest as well as differential expression of cell cycle- and apoptosis-related genes.",
+    "fdaUniiCode": "GFD7C86Q1W",
+    "identifier": "C61714",
+    "preferredName": "Limonene, (+)-",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C68542"
+    ],
+    "synonyms": [
+      "(+)-(R)-4-isopropenyl-1-methylcyclohexene",
+      "(+)-alpha-Limonene",
+      "(+)-limonene",
+      "(4R)-1-methyl-4-(1-methylethenyl)cyclohexene",
+      "(4R)-1-methyl-4-prop-1-en-2-yl-cyclohexene",
+      "(R)-(+)-limonene",
+      "(R)-1-Methyl-4-(1-methylethenyl)cyclohexene",
+      "(R)-4-isopropenyl-1-methylcyclohexene",
+      "1-methyl-4-isopropenyl-1-cyclohexene",
+      "Alda 341",
+      "Alda-341",
+      "Alda341",
+      "Cyclohexene, 1-methyl-4-(1-methylethenyl)-, (4R)-",
+      "D-Limonene",
+      "LIMONENE, (+)-",
+      "Limonene",
+      "Limonene, (+)-",
+      "Limonene, D-"
+    ]
+  }
+}

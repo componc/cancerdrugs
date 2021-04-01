@@ -1,0 +1,22 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Integrin_alpha-2_Inhibitor_E7820",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A small molecule and aromatic sulfonamide derivative with potential antiangiogenic and antitumor activities. E7820 inhibits angiogenesis by suppressing integrin alpha 2, a cell adhesion molecule expressed on endothelial cells. Inhibition of integrin alpha 2 leads to an inhibition of cell-cell interactions, endothelial cell-matrix interactions, vascular endothelial cell proliferation and angiogenesis.",
+    "fdaUniiCode": "TVH5K7949N",
+    "identifier": "C61501",
+    "preferredName": "Integrin alpha-2 Inhibitor E7820",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2144"
+    ],
+    "synonyms": [
+      "E-7820",
+      "Integrin alpha-2 Inhibitor E7820"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Odronextamab",
+  "nciThesaurus": {
+    "casRegistry": "1801338-64-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A bispecific, human monoclonal antibody with potential antineoplastic activity. Anti-CD20/CD3 monoclonal antibody REGN1979 contains two antigen-recognition sites: one for human CD3, a T cell surface antigen, and one for human CD20, a tumor-associated antigen that is exclusively expressed on B-cells during most stages of B-cell development and is often overexpressed in B-cell malignancies. Upon administration, odronextamab binds to both T-cells and CD20-expressing tumor B-cells, which cross-links the T-cells to tumor cells, and may result in a potent cytotoxic T-lymphocyte (CTL) response against CD20-expressing tumor B-cells.",
+    "fdaUniiCode": "8R5CM46UIO",
+    "identifier": "C119615",
+    "preferredName": "Odronextamab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C141215",
+      "C28227"
+    ],
+    "synonyms": [
+      "Anti-CD20 x Anti-CD3 Bispecific Monoclonal Antibody REGN1979",
+      "ODRONEXTAMAB",
+      "Odronextamab",
+      "REGN1979",
+      "WHO 11035"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "13-Deoxydoxorubicin",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An analogue of the anthracycline antineoplastic antibiotic doxorubicin.  13-Deoxydoxorubicin intercalates DNA and interacts with topoisomerase II, thereby inhibiting DNA replication and repair and RNA and protein synthesis.  This agent was designed to be a non-cardiotoxic anthracycline antibiotic.",
+    "fdaUniiCode": "1S9VO1DQG5",
+    "identifier": "C2494",
+    "preferredName": "13-Deoxydoxorubicin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C1594"
+    ],
+    "synonyms": [
+      "13-DEOXYDOXORUBICIN",
+      "13-Deoxydoxorubicin",
+      "GPX-100",
+      "GPX100"
+    ]
+  }
+}

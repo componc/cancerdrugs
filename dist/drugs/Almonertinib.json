@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Almonertinib",
+  "nciThesaurus": {
+    "casRegistry": "1899921-05-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available inhibitor of the epidermal growth factor receptor (EGFR) mutant form T790M, with potential antineoplastic activity. Upon administration, almonertinib binds to and inhibits EGFR T790M, a secondarily acquired resistance mutation, inhibits the tyrosine kinase activity of EGFR T790M, prevents EGFR T790M-mediated signaling and leads to cell death in EGFR T790M-expressing tumor cells. EGFR, a receptor tyrosine kinase that is mutated in many tumor cell types, plays a key role in tumor cell proliferation and tumor vascularization.",
+    "fdaUniiCode": "T4RS462G19",
+    "identifier": "C133691",
+    "preferredName": "Almonertinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2167"
+    ],
+    "synonyms": [
+      "ALMONERTINIB",
+      "Almonertinib",
+      "EGFR Tyrosine Kinase Inhibitor HS-10296",
+      "HS-10296"
+    ]
+  }
+}

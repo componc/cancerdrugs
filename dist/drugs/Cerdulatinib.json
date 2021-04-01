@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Cerdulatinib",
+  "nciThesaurus": {
+    "casRegistry": "1198300-79-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable dual inhibitor of spleen tyrosine kinase (Syk) and Janus-associated kinases (JAK), with potential anti-inflammatory and antineoplastic activity. Upon oral administration, cerdulatinib specifically binds to and inhibits the activity of Syk, JAK1, and JAK3 with preferential inhibition of JAK1 and JAK3-dependent cytokine-mediated signaling and functional responses. This negatively affects the downstream JAK-STAT (signal transducer and activator of transcription) pathway, and leads to both reduced inflammation in various animal models and enhanced antiproliferative activity towards non-Hodgkin's lymphoma (NHL) cell lines. Syk is a non-receptor cytoplasmic tyrosine kinase involved in signal transduction in cells of hematopoietic origin including B cells, macrophages, basophils and neutrophils. Abnormal function of Syk has been implicated in several hematopoietic malignancies including NHL and chronic lymphocytic leukemia (CLL). The JAK-STAT pathway plays a key role in the signaling of many cytokines and growth factors and is involved in cellular proliferation, growth, hematopoiesis, and the immune response; JAK kinases may be upregulated in inflammatory diseases, myeloproliferative disorders, and various malignancies.",
+    "fdaUniiCode": "D1LXQ45S1O",
+    "identifier": "C113173",
+    "preferredName": "Cerdulatinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1967"
+    ],
+    "synonyms": [
+      "CERDULATINIB",
+      "Cerdulatinib",
+      "PRT-062070",
+      "PRT062070",
+      "Syk-JAK Inhibitor PRT062070",
+      "Syk/JAK Inhibitor PRT062070"
+    ]
+  }
+}

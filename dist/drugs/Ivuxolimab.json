@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ivuxolimab",
+  "nciThesaurus": {
+    "casRegistry": "2128729-41-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An agonistic antibody that recognizes the co-stimulatory receptor OX40 (CD134; TNFRSF4), with potential immunostimulatory activity. Upon administration, ivuxolimab selectively binds to and activates OX40; which induces proliferation of memory and effector T-lymphocytes. In the presence of tumor-associated antigens (TAAs), this may promote a T-cell-mediated immune response against TAA-expressing tumor cells. OX40, a cell surface glycoprotein and member of the tumor necrosis factor receptor superfamily (TNFRSF), is expressed on T-lymphocytes and plays an essential role in T-cell activation.",
+    "fdaUniiCode": "APS3IS9D6W",
+    "identifier": "C121927",
+    "preferredName": "Ivuxolimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C96040"
+    ],
+    "synonyms": [
+      "Anti-OX40 Agonist Monoclonal Antibody PF-04518600",
+      "IVUXOLIMAB",
+      "Ivuxolimab",
+      "PF-04518600",
+      "PF-8600",
+      "PF04518600"
+    ]
+  }
+}

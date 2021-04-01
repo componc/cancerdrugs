@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pemlimogene_Merolisbac",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A proprietary, live-attenuated, double-deleted (LADD) strain of the Gram-positive bacterium Listeria monocytogenes (Lm) encoding the tumor-associated antigens (TAAs) epidermal growth factor receptor mutant form EGFRvIII and human mesothelin, with potential immunostimulatory and antineoplastic activities. Upon intravenous administration, the live-attenuated Listeria monocytogenes encoding EGFRvIII-mesothelin vaccine Pemlimogene merolisbac is taken up by antigen-presenting cells (APCs), including dendritic cells (DCs). EGFRvIII and mesothelin are subsequently expressed by the APCs and then processed and presented to the immune system by both major histocompatibility complex (MHC) class I and II molecules. This activates the immune system and leads to the recruitment and activation of cytotoxic T-lymphocytes (CTLs) against EGFRvIII- and mesothelin-expressing tumor cells, eventually resulting in tumor cell lysis. EGFRvIII and mesothelin are overexpressed in many types of cancer. Two genes contributing to the virulence of Lm have been removed to minimize the risk of infection.",
+    "fdaUniiCode": "S2EGO8116S",
+    "identifier": "C124843",
+    "preferredName": "Pemlimogene Merolisbac",
+    "semanticType": "Bacterium",
+    "subclassOf": [
+      "C1663",
+      "C62761"
+    ],
+    "synonyms": [
+      "ADU-214",
+      "JNJ-64041757",
+      "LADD Listeria monocytogenes JNJ-64041757",
+      "PEMLIMOGENE MEROLISBAC",
+      "Pemlimogene Merolisbac"
+    ]
+  }
+}

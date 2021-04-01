@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Herba_Scutellaria_Barbata",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A Chinese herb isolated from the plant Scutellaria barbata D. Don (Lamiaceae) with potential antineoplastic activity. Containing the antioxidant flavone scutellarin, herba Scutellaria barbata has been shown to induce apoptosis of ovarian and breast tumor cells in vitro.",
+    "fdaUniiCode": "DPR4R122E7",
+    "identifier": "C2661",
+    "preferredName": "Herba Scutellaria Barbata",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1931"
+    ],
+    "synonyms": [
+      "Ban Zhi Lian",
+      "Barbed Skullcap Herb",
+      "HSB",
+      "Herba Scutellaria Barbata",
+      "Herba Scutellariae Barbatae",
+      "SCUTELLARIA BARBATA WHOLE",
+      "Scutellaria barbata",
+      "Scutellaria barbata (Aqueous Extract)",
+      "herba scutellaria barbatae"
+    ]
+  }
+}

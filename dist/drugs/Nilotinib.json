@@ -1,0 +1,44 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "nilotinib",
+      "conditionIndication": "Tasigna is indicated for the treatment of:adult and paediatric patients with newly diagnosed Philadelphia chromosome positive chronic myelogenous leukaemia (CML) in the chronic phase,paediatric patients with Philadelphia chromosome positive CML in chronic phase with resistance or intolerance to prior therapy including imatinib.Tasigna is indicated for the treatment of:adult and paediatric patients with newly diagnosed Philadelphia chromosome positive chronic myelogenous leukaemia (CML) in the chronic phase,adult patients with chronic phase and accelerated phase Philadelphia chromosome positive CML with resistance or intolerance to prior therapy including imatinib. Efficacy data in patients with CML in blast crisis are not available,paediatric patients with chronic phase Philadelphia chromosome positive CML with resistance or intolerance to prior therapy including imatinib.",
+      "inn": "nilotinib",
+      "marketingAuthorisationDate": "2007-11-19 01:00:00",
+      "marketingAuthorisationHolder": "Novartis Europharm Limited",
+      "medicineName": "Tasigna",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tasigna"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Tasigna",
+      "indication": "1 INDICATIONS AND USAGE Tasigna is a kinase inhibitor indicated for the treatment of: Adult and pediatric patients greater than or equal to 1 year of age with newly diagnosed Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML) in chronic phase. ( 1.1 ) Adult patients with chronic phase (CP) and accelerated phase (AP) Ph+ CML resistant to or intolerant to prior therapy that included imatinib. ( 1.2 ) Pediatric patients greater than or equal to 1 year of age with Ph+ CML-CP resistant or intolerant to prior tyrosine-kinase inhibitor (TKI) therapy. ( 1.3 ) 1.1 Adult and Pediatric Patients With Newly Diagnosed Ph+ CML-CP Tasigna is indicated for the treatment of adult and pediatric patients greater than or equal to 1 year of age with newly diagnosed Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML) in chronic phase. 1.2 Adult Patients With Resistant or Intolerant Ph+ CML-CP and CML-AP Tasigna is indicated for the treatment of adult patients with chronic phase and accelerated phase Philadelphia chromosome positive chronic myelogenous leukemia (Ph+ CML) resistant or intolerant to prior therapy that included imatinib. 1.3 Pediatric Patients With Resistant or Intolerant Ph+ CML-CP Tasigna is indicated for the treatment of pediatric patients greater than or equal to 1 year of age with chronic phase Philadelphia chromosome positive chronic myeloid leukemia (Ph+ CML) with resistance or intolerance to prior tyrosine-kinase inhibitor (TKI) therapy.",
+      "manufacturer": "Novartis Pharmaceuticals Corporation",
+      "splSetId": "6093952a-5248-45cb-ad17-33716a411146"
+    }
+  ],
+  "id": "Nilotinib",
+  "nciThesaurus": {
+    "casRegistry": "641571-10-0",
+    "chebiId": "CHEBI:52172",
+    "chemicalFormula": "C28H22F3N7O",
+    "definition": "An orally bioavailable aminopyrimidine-derivative Bcr-Abl tyrosine kinase inhibitor with antineoplastic activity. Designed to overcome imatinib resistance, nilotinib binds to and stabilizes the inactive conformation of the kinase domain of the Abl protein of the Bcr-Abl fusion protein, resulting in the inhibition of the Bcr-Abl-mediated proliferation of Philadelphia chromosome-positive (Ph+) chronic myeloid leukemia (CML) cells. This agent also inhibits the receptor tyrosine kinases platelet-derived growth factor receptor (PDGF-R) and c-kit, a receptor tyrosine kinase mutated and constitutively activated in most gastrointestinal stromal tumors (GISTs). With a binding mode that is energetically more favorable than that of imatinib, nilotinib has been shown to have an approximately 20-fold increased potency in kinase and proliferation assays compared to imatinib.",
+    "fdaUniiCode": "F41401512X",
+    "identifier": "C48375",
+    "preferredName": "Nilotinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C155700",
+      "C159198",
+      "C159199"
+    ],
+    "synonyms": [
+      "4-Methyl-3-((4-(3-pyridinyl)-2-pyrimidinyl)amino)-N-(5-(4-methyl-1H-imidazol-1-yl)-3-(trifluoromethyl)phenyl)benzamide",
+      "AMN 107 Base Form",
+      "NILOTINIB",
+      "Nilotinib",
+      "nilotinib"
+    ]
+  }
+}

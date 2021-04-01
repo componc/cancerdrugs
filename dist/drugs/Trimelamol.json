@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Trimelamol",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic derivative of trimethylmelamine with antineoplastic properties.  An analogue of siderophores (microbial iron chelators), trimelamol induces the formation of a reactive iminium species which may crosslink DNA.",
+    "fdaUniiCode": "UST4Z70290",
+    "identifier": "C29485",
+    "preferredName": "Trimelamol",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C292"
+    ],
+    "synonyms": [
+      "BRN 4261541",
+      "Methanol, ((s-triazine-2,4,6-triyl)trimethyltrinitrilo)tri-",
+      "TRIMELAMOL",
+      "Trimelamol",
+      "Trimethyloltrimethylmelamine"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pamrevlumab",
+  "nciThesaurus": {
+    "casRegistry": "946415-13-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A human monoclonal antibody targeting connective tissue growth factor (CTGF) with potential anti-fibrotic and antineoplastic activities. Pamrevlumab binds to CTGF thereby preventing the binding of the ligand to the receptor and subsequent receptor activation. As CTGF enhances the production of collagen and fibronectin, FG-319 may prevent and reverse fibrosis. In addition, FG-3019 may prevent tumor cell proliferation in CTGF-expressing tumor cells. CTGF, a member of the CCN family (CTGF, CYR61/CEF and NOV), is expressed in a variety of tumor cell types and is involved in processes such as cell proliferation, cell migration, cell adhesion, differentiation and angiogenesis.",
+    "fdaUniiCode": "QS5F6VTS0O",
+    "identifier": "C92577",
+    "preferredName": "Pamrevlumab",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-Connective Tissue Growth Factor Monoclonal Antibody FG-3019",
+      "FG-3019",
+      "FG3019",
+      "PAMREVLUMAB",
+      "Pamrevlumab"
+    ]
+  }
+}

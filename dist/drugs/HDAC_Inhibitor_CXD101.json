@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "HDAC_Inhibitor_CXD101",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A novel histone deacetylase (HDAC) inhibitor with potential antineoplastic activity. Although the exact therapeutic mechanism of action for CXD101 is not known, oral administration of this agent should inhibit the catalytic activity of HDAC, which results in an accumulation of highly acetylated histones, followed by the induction of chromatin remodeling and an altered pattern of gene expression. HDAC, a family of enzymes upregulated in many tumor types, deacetylates chromatin-associated histone proteins.",
+    "fdaUniiCode": "5TNV87ICD2",
+    "identifier": "C112177",
+    "preferredName": "HDAC Inhibitor CXD101",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1946"
+    ],
+    "synonyms": [
+      "AZD 9468",
+      "AZD9468",
+      "CXD-101",
+      "CXD101",
+      "HDAC Inhibitor CXD101",
+      "Histone Deacetylase Inhibitor CXD101"
+    ]
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Matulane",
+      "indication": "INDICATIONS AND USAGE Matulane is indicated for use in combination with other anticancer drugs for the treatment of Stage III and IV Hodgkin's disease. Matulane is used as part of the MOPP (nitrogen mustard, vincristine, procarbazine, prednisone) regimen.",
+      "manufacturer": "Leadiant Biosciences, Inc.",
+      "splSetId": "1aa75a3a-18c9-49e1-91a6-293d0b7da756"
+    }
+  ],
+  "id": "Procarbazine_Hydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "366-70-1",
+    "chebiId": "",
+    "chemicalFormula": "C12H19N3O.HCl",
+    "definition": "The hydrochloride salt of a methylhydrazine derivative with antineoplastic and mutagenic activities. Although the exact mode of cytotoxicity has not been elucidated, procarbazine, after metabolic activation, appears to inhibit the trans-methylation of methionine into transfer RNA (t-RNA), thereby preventing protein synthesis and consequently DNA and RNA synthesis. This agent may also undergo auto-oxidation, resulting in the formation of cytotoxic free radicals which damage DNA through an alkylation reaction.",
+    "fdaUniiCode": "XH0NPH5ZX8",
+    "identifier": "C773",
+    "preferredName": "Procarbazine Hydrochloride",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C902"
+    ],
+    "synonyms": [
+      "Benzamide, N-(1-methylethyl)-4-[(2-methylhydrazino) methyl]-, monohydrochloride (9CI)",
+      "Ibenzmethyzine hydrochloride",
+      "MIH hydrochloride",
+      "Matulane",
+      "N-(1-methylethyl)-4-[(2-methylhydrazino)methyl]benzamide Hydrochloride",
+      "N-4-isopropylcarbamoylbenzyl-N'-methylhydrazine Hydrochloride",
+      "N-isopropyl-alpha-(2-methylhydrazino)-p-toluamide Hydrochloride",
+      "NCI-C01810",
+      "Natulan",
+      "Natulanar",
+      "Natunalar",
+      "PCB",
+      "PCB Hydrochloride",
+      "PCB hydrochloride",
+      "PCZ",
+      "PROCARBAZINE HYDROCHLORIDE",
+      "Procarbazine Hydrochloride",
+      "Ro 4 6467/1",
+      "Ro 4-6467/1",
+      "benzamide, N-(1-methylethyl)-4-[(2-methylhydrazino) methyl]-, monohydrochloride (9CI)",
+      "p-(N'-methylhydrazinomethyl)-N-isopropylbenzamide hydrochloride",
+      "p-Toluamide, N-isopropyl-.alpha.-(2-methylhydrazino)-, monohydrochloride (8CI)",
+      "p-toluamide, N-isopropyl-alpha-(2-methylhydrazino)-, monohydrochloride (8CI)",
+      "procarbazine hydrochloride"
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pavurutamab",
+  "nciThesaurus": {
+    "casRegistry": "2250292-39-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A bispecific T-cell engager (BiTE) antibody composed of two single-chain variable fragments (scFv), one directed against the tumor-associated antigen (TAA) human B-cell maturation antigen (BCMA; TNFRSF17), fused to one that is directed against the CD3 antigen found on T-lymphocytes, with potential immunostimulating and antineoplastic activities. Upon administration of pavurutamab, this bispecific antibody binds to both CD3 on cytotoxic T-lymphocytes (CTLs) and BCMA found on BCMA-expressing tumor cells. This activates and redirects CTLs to BCMA-expressing tumor cells, which results in the CTL-mediated cell death of BCMA-expressing tumor cells. BCMA, a member of the tumor necrosis factor receptor superfamily that is specifically overexpressed on malignant plasma cells, plays a key role in promoting plasma cell survival.",
+    "fdaUniiCode": "GLR3JG8TZU",
+    "identifier": "C147028",
+    "preferredName": "Pavurutamab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C20401"
+    ],
+    "synonyms": [
+      "AMG 701",
+      "AMG-701",
+      "AMG701",
+      "Anti-BCMA x Anti-CD3 BiTE AMG 701",
+      "Anti-BCMA/CD3 BiTE Antibody AMG 701",
+      "BCMA/CD3-directed Bispecific T-cell Engager Antibody AMG 701",
+      "BiTE Antibody AMG 701",
+      "Bispecific T-cell Engager Antibody AMG 701",
+      "PAVURUTAMAB",
+      "Pavurutamab"
+    ]
+  }
+}

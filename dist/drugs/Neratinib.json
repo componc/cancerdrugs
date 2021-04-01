@@ -1,0 +1,38 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "neratinib",
+      "conditionIndication": "Nerlynx is indicated for the extended adjuvant treatment of adult patients with early stage hormone receptor positive HER2-overexpressed/amplified breast cancer and who are less than one year from the completion of prior adjuvant trastuzumab based therapy., ",
+      "inn": "neratinib",
+      "marketingAuthorisationDate": "2018-08-31 00:00:00",
+      "marketingAuthorisationHolder": "Pierre Fabre M\u00e9dicament",
+      "medicineName": "Nerlynx",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/nerlynx"
+    }
+  ],
+  "fdaDrugLabel": [],
+  "id": "Neratinib",
+  "nciThesaurus": {
+    "casRegistry": "698387-09-6",
+    "chebiId": "CHEBI:61397",
+    "chemicalFormula": "C30H29ClN6O3",
+    "definition": "An orally available, 6,7-disubstituted-4-anilinoquinoline-3-carbonitrile irreversible inhibitor of the HER-2 receptor tyrosine kinase with potential antineoplastic activity. Neratinib binds to the HER-2 receptor irreversibly, thereby reducing autophosphorylation in cells, apparently by targeting a cysteine residue in the ATP-binding pocket of the receptor. Treatment of cells with this agent results in inhibition of downstream signal transduction events and cell cycle regulatory pathways; arrest at the G1-S (Gap 1/DNA synthesis)-phase transition of the cell division cycle; and ultimately decreased cellular proliferation. Neratinib also inhibits the epidermal growth factor receptor (EGFR) kinase and the proliferation of EGFR-dependent cells.",
+    "fdaUniiCode": "JJH94R3PWB",
+    "identifier": "C49094",
+    "preferredName": "Neratinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C159156"
+    ],
+    "synonyms": [
+      "(2E)-N-(4-((3-chloro-4-((pyridin-2-yl)methoxy)phenyl)amino)-3-cyano-7-ethoxyquinolin-6-yl)-4-(dimethylamino)but-2-enamide",
+      "2-Butenamide, N-(4-((3-chloro-4-(2-pyridinylmethoxy)phenyl)amino)-3-cyano-7-ethoxy-6-quinolinyl)-4-(dimethylamino)-, (2E)-",
+      "HKI 272",
+      "HKI-272",
+      "NERATINIB",
+      "Neratinib",
+      "PB 272",
+      "PB-272"
+    ]
+  }
+}

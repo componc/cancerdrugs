@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Navicixizumab",
+  "nciThesaurus": {
+    "casRegistry": "1638338-43-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A bispecific monoclonal antibody directed against both the Notch ligand delta-like 4 (DLL4) and the human tyrosine kinase vascular endothelial growth factor (VEGF), with potential anti-angiogenic and antineoplastic activities. The anti-DLL4 moiety of navicixizumab specifically binds to DLL4, prevents its interaction with Notch receptors, and inhibits Notch-mediated signaling and gene transcription, which may both block tumor angiogenesis and inhibit tumor cell growth. The anti-VEGF moiety binds to VEGF and prevents the binding of VEGF to its receptor, which blocks VEGF-mediated signaling and further inhibits the growth and maintenance of tumor blood vessels. The expression of DLL4 is highly restricted to the vascular endothelium; DLL4/Notch signaling is required for the development of functional tumor blood vessels. The expression of the pro-angiogenic growth factor VEGF is associated with tumor angiogenesis and tumor cell proliferation and invasion.",
+    "fdaUniiCode": "1W14T9L25W",
+    "identifier": "C119620",
+    "preferredName": "Navicixizumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C1742",
+      "C28227"
+    ],
+    "synonyms": [
+      "Immunoglobulin G2-kappa, Anti-(Homo sapiens DLL4(delta-like 4)) and Anti-(Homo sapiens VEGFA (Vascular Endothelial Growth Factor A,VEGF-a, VEGF)), Humanized and Chimeric Monoclonal Antibody, Bispecific",
+      "NAVICIXIZUMAB",
+      "Navicixizumab",
+      "OMP 305B83",
+      "OMP-305B83",
+      "OMP305B83"
+    ]
+  }
+}

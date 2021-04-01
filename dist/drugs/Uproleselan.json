@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Uproleselan",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic, glycomimetic molecule and E-selectin (CD62E) antagonist, with potential anti-thrombotic, antineoplastic and chemopotentiating activities. Upon administration, uproleselan binds to E-selectin expressed on endothelial cells and prevents their interaction with selectin-E ligand-expressing cancer cells. This may prevent tumor cell activation, migration and metastasis. GMI-1271 also interferes with the binding of selectin E-expressing vascular endothelial cells to selectin-E ligand-expressing monocytes and neutrophils, thereby disrupting their activation. Consequently, this inhibits both the activation of the coagulation cascade and thrombus formation. This agent also prevents both leukocyte activation and inflammation. E-selectin is a cell adhesion molecule involved in cell rolling, signaling and chemotaxis; it also plays a crucial role in inflammatory processes and cancer.",
+    "fdaUniiCode": "PE952ANF83",
+    "identifier": "C119743",
+    "preferredName": "Uproleselan",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129824",
+      "C29750"
+    ],
+    "synonyms": [
+      "GMI-1271",
+      "UPROLESELAN",
+      "Uproleselan"
+    ]
+  }
+}

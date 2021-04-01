@@ -1,0 +1,49 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "cabazitaxel",
+      "conditionIndication": "Jevtana in combination with prednisone or prednisolone is indicated for the treatment of patients with hormone-refractory metastatic prostate cancer previously treated with a docetaxel-containing regimen., ",
+      "inn": "cabazitaxel",
+      "marketingAuthorisationDate": "2011-03-17 01:00:00",
+      "marketingAuthorisationHolder": "sanofi-aventis groupe\u00a0",
+      "medicineName": "Jevtana",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jevtana"
+    },
+    {
+      "activeSubstance": "cabazitaxel",
+      "conditionIndication": "Treatment of patients with hormone refractory metastatic prostate cancer previously treated with a docetaxel-containing regimen., ",
+      "inn": "cabazitaxel",
+      "marketingAuthorisationDate": "2020-08-28 00:00:00",
+      "marketingAuthorisationHolder": "Accord Healthcare S.L.U.",
+      "medicineName": "Cabazitaxel Accord",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/cabazitaxel-accord"
+    }
+  ],
+  "fdaDrugLabel": [],
+  "id": "Cabazitaxel",
+  "nciThesaurus": {
+    "casRegistry": "183133-96-2",
+    "chebiId": "CHEBI:63584",
+    "chemicalFormula": "C45H57NO14",
+    "definition": "A semi-synthetic derivative of the natural taxoid 10-deacetylbaccatin III with potential antineoplastic activity. Cabazitaxel binds to and stabilizes tubulin, resulting in the inhibition of microtubule depolymerization and cell division, cell cycle arrest in the G2/M phase, and the inhibition of tumor cell proliferation. Unlike other taxane compounds, this agent is a poor substrate for the membrane-associated, multidrug resistance (MDR), P-glycoprotein (P-gp) efflux pump and may be useful for treating multidrug-resistant tumors. In addition, cabazitaxel penetrates the blood-brain barrier (BBB).",
+    "fdaUniiCode": "51F690397J",
+    "identifier": "C66937",
+    "preferredName": "Cabazitaxel",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1490",
+      "C67437"
+    ],
+    "synonyms": [
+      "1-hydroxy-7beta,10beta-dimethoxy-9-oxo-5beta,20-epoxytax-11-ene-2alpha,4,13alpha-triyl 4-acetate 2-benzoate 13-[(2R,3S)-3-{[(tertbutoxy)carbonyl]amino}-2-hydroxy-3-phenylpropanoate]",
+      "CABAZITAXEL",
+      "Cabazitaxel",
+      "Jevtana",
+      "RPR-116258A",
+      "Taxoid XRP6258",
+      "XRP-6258",
+      "cabazitaxel",
+      "taxoid XRP6258"
+    ]
+  }
+}
