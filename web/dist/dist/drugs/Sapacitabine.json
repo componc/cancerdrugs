@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Sapacitabine",
+  "nciThesaurus": {
+    "casRegistry": "151823-14-2",
+    "chebiId": "",
+    "chemicalFormula": "C26H42N4O5",
+    "definition": "An orally bioavailable pyrimidine analogue prodrug with potential antineoplastic activity. Sapacitabine is hydrolyzed by amidases to the deoxycytosine analogue CNDAC (2'-Cyano-2'-deoxyarabinofuranosylcytosine), which is then phosphorylated into the active triphosphate form. As an analogue of deoxycytidine triphosphate, CNDAC triphosphate incorporates into DNA strands during replication, resulting in single-stranded DNA breaks during polymerization due to beta-elimination during the fidelity checkpoint process; cell cycle arrest in the G2 phase and apoptosis ensue. The unmetabolized prodrug may exhibit antineoplastic activity as well.",
+    "fdaUniiCode": "W335P73C3L",
+    "identifier": "C64541",
+    "preferredName": "Sapacitabine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1557"
+    ],
+    "synonyms": [
+      "CS-682",
+      "CYC682",
+      "N-(1-(2-Cyano-2-deoxy-beta-D-arabinofuranosyl)-2-oxo-1,2-dihydropyrimidin-4-yl)-hexadecanamide",
+      "SAPACITABINE",
+      "Sapacitabine"
+    ]
+  }
+}

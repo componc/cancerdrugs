@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-CD32B_Monoclonal_Antibody_BI-1206",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fully human monoclonal antibody targeting the Fc gamma receptor IIB (FcgRIIB; CD32B) with potential immunomodulatory and antineoplastic activities. Upon intravenous administration, anti-CD32B monoclonal antibody BI-1206 selectively binds to CD32B, a receptor expressed on the surface of B-cells. This prevents CD32B-mediated internalization of anti-CD20 monoclonal antibodies, such as rituximab, which abrogates tumor cell resistance caused by CD32B-mediated monoclonal antibody internalization and degradation of CD32B-expressing B-cells. By blocking CD32B, BI-1206 may recover and enhance the activity of rituximab and other anti CD20 monoclonal antibodies. In addition, BI-1206 itself activates the immune system to exert an immune-mediated tumor cell death of B-cells. CD32B, an inhibitory member of the FcgammaR family, is implicated in immune cell desensitization and tumor cell resistance.",
+    "fdaUniiCode": "24S6PA0WXW",
+    "identifier": "C156458",
+    "preferredName": "Anti-CD32B Monoclonal Antibody BI-1206",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-CD32B Monoclonal Antibody BI-1206",
+      "Anti-hFcgRIIB Monoclonal Antibody BI-1206",
+      "Anti-hFcgammaRIIB mAb BI-1206",
+      "BI 1206",
+      "BI-1206",
+      "BI1206"
+    ]
+  }
+}

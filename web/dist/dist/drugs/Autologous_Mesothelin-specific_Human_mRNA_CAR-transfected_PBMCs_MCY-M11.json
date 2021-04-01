@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Autologous_Mesothelin-specific_Human_mRNA_CAR-transfected_PBMCs_MCY-M11",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "Autologous peripheral blood mononuclear cells (PBMCs) transfected with anti-mesothelin chimeric antigen receptor (CAR) mRNA, with potential antineoplastic activity. Upon intraperitoneal (IP) administration, the autologous mesothelin-specific human mRNA CAR-transfected PBMCs MCY-M11 recognize, bind to, phagocytose and directly kill cancer cells expressing mesothelin. In addition, MCY-M11 stimulates the immune system to induce a cytotoxic T-lymphocyte response against the mesothelin-expressing cancer cells. Mesothelin, a cell surface glycoprotein involved in cell adhesion, is overexpressed in many epithelial-derived cancers.",
+    "fdaUniiCode": "ER09HM7LIR",
+    "identifier": "C155775",
+    "preferredName": "Autologous Mesothelin-specific Human mRNA CAR-transfected PBMCs MCY-M11",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C307",
+      "C308"
+    ],
+    "synonyms": [
+      "Anti-mesothelin mRNA-transfected Autologous PBMCs MCY-M11",
+      "Autologous Mesothelin-specific Human mRNA CAR-transfected PBMCs MCY-M11",
+      "MCY-M11"
+    ]
+  }
+}

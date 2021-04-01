@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Larotaxel",
+  "nciThesaurus": {
+    "casRegistry": "156294-36-9",
+    "chebiId": "",
+    "chemicalFormula": "C45H53NO14",
+    "definition": "A semi-synthetic derivative of the taxane 10-deacetylbaccatin III with potential antineoplastic activities. Larotaxel binds to tubulin, promoting microtubule assembly and stabilization and preventing microtubule depolymerization, thereby inhibiting cell proliferation. As it represents poor substrate for P-glycoprotein-related drug resistance mechanisms, this agent may be useful for treating multi-drug resistant tumors. Larotaxel penetrates the blood brain barrier.",
+    "fdaUniiCode": "TWQ8K8A81Y",
+    "identifier": "C48427",
+    "preferredName": "Larotaxel",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1490",
+      "C67437"
+    ],
+    "synonyms": [
+      "LAROTAXEL",
+      "Larotaxel",
+      "RPR 109881A",
+      "RPR-109881",
+      "Taxoid-109881",
+      "XRP9881"
+    ]
+  }
+}

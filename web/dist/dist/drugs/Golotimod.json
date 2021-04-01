@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Golotimod",
+  "nciThesaurus": {
+    "casRegistry": "229305-39-9",
+    "chebiId": "",
+    "chemicalFormula": "C16H19N3O5",
+    "definition": "An orally bioavailable synthetic peptide containing the amino acids D-glutamine and L-tryptophan connected by a gamma-glutamyl linkage with potential immunostimulating, antimicrobial and antineoplastic activities. Although the exact mechanism of action is unknown, golotimod appears to inhibit the expression of STAT-3, reversing immunosuppression and stimulating an anti-tumor immune response. This agent may stimulate the production of T-lymphocytes, in particular the helper T (Th1) cells, activate macrophages, and increase levels of interleukin 2 and interferon gamma. STAT-3, a transcription factor upregulated in many cancer cell types, is involved in tumor cell growth and survival and immunosuppression.",
+    "fdaUniiCode": "637C487Y09",
+    "identifier": "C76497",
+    "preferredName": "Golotimod",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129820"
+    ],
+    "synonyms": [
+      "(2R)-2-Amino-5-(((1S)-1-carboxy-2-(1H-indol-3-yl)ethyl)amino)-5-oxopentanoic Acid",
+      "GOLOTIMOD",
+      "Gamma-D-Glutamyl-L-Tryptophan",
+      "Golotimod",
+      "SCV 07",
+      "SCV-07",
+      "SCV07",
+      "gamma-D-Glu-L-trp"
+    ]
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Piritrexim",
+  "nciThesaurus": {
+    "casRegistry": "72732-56-0",
+    "chebiId": "",
+    "chemicalFormula": "C17H19N5O2",
+    "definition": "A synthetic antifolate agent with antiparasitic, antipsoriatic and antitumor properties. Piritrexim inhibits the enzyme dihydrofolate reductase enzyme, thereby disrupting folate metabolism and DNA synthesis and cell division.",
+    "fdaUniiCode": "MK2A783ZUT",
+    "identifier": "C1031",
+    "preferredName": "Piritrexim",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2153",
+      "C511"
+    ],
+    "synonyms": [
+      "2,4-Diamino-6-(2,5-dimethoxybenzyl)-5-methylpyrido[2,3-d]pyrimidine",
+      "6-((2,5-Dimethoxyphenyl)methyl)-5-methylpyrido(2,3-d)pyrimidine-2,4-diamine",
+      "6-[(2,5-Dimethoxyphenyl)methyl]-5-methylpyrido[2,3-d]pyrimidine-2,4-diamine",
+      "BW 301U",
+      "BW-301U",
+      "PIRITREXIM",
+      "Piritrexim",
+      "piritrexim"
+    ]
+  }
+}

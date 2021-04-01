@@ -1,0 +1,79 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "FLUTAMIDE",
+      "indication": "INDICATIONS AND USAGE Flutamide capsules are indicated for use in combination with LHRH agonists for the management of locally confined Stage B 2 -C and Stage D 2 metastatic carcinoma of the prostate. Stage B2-C Prostatic Carcinoma Treatment with flutamide capsules and the goserelin acetate implant should start 8 weeks prior to initiating radiation therapy and continue during radiation therapy. Stage D2 Metastatic Carcinoma To achieve benefit from treatment, flutamide capsules should be initiated with the LHRH agonist and continued until progression.",
+      "manufacturer": "Cipla USA Inc.",
+      "splSetId": "328910be-4d0e-4d7b-a062-e3ce0cf793b9"
+    },
+    {
+      "brand": "Flutamide",
+      "indication": "INDICATIONS AND USAGE Flutamide capsules are indicated for use in combination with LHRH-agonists for the management of locally confined Stage B 2 -C and Stage D 2 metastatic carcinoma of the prostate. Stage B 2 -C Prostatic Carcinoma Treatment with flutamide capsules and the goserelin acetate implant should start eight weeks prior to initiating radiation therapy and continue during radiation therapy. Stage D 2 Metastatic Carcinoma To achieve benefit from treatment, flutamide capsules should be initiated with the LHRH-agonist and continued until progression.",
+      "manufacturer": "Golden State Medical Supply, Inc.",
+      "splSetId": "82bb75cc-0d36-44ab-9ea6-2bd26998ce0f"
+    },
+    {
+      "brand": "Flutamide",
+      "indication": "INDICATIONS AND USAGE Flutamide capsules are indicated for use in combination with LHRH-agonists for the management of locally confined Stage B 2 -C and Stage D 2 metastatic carcinoma of the prostate. Stage B 2 -C Prostatic Carcinoma Treatment with flutamide capsules and the goserelin acetate implant should start eight weeks prior to initiating radiation therapy and continue during radiation therapy. Stage D 2 Metastatic Carcinoma To achieve benefit from treatment, flutamide capsules should be initiated with the LHRH-agonist and continued until progression.",
+      "manufacturer": "Par Pharmaceutical, Inc.",
+      "splSetId": "8b5974d2-0f00-4201-a810-01320ac0cf13"
+    }
+  ],
+  "id": "Flutamide",
+  "nciThesaurus": {
+    "casRegistry": "13311-84-7",
+    "chebiId": "CHEBI:5132",
+    "chemicalFormula": "C11H11F3N2O3",
+    "definition": "A toluidine derivative and a nonsteroidal antiandrogen that is structurally related to bicalutamide and nilutamide. Flutamide and its more potent active metabolite 2-hydroxyflutamide competitively block dihydrotestosterone binding at androgen receptors, forming inactive complexes which cannot translocate into the cell nucleus. Formation of inactive receptors inhibits androgen-dependent DNA and protein synthesis, resulting in tumor cell growth arrest or transient tumor regression.",
+    "fdaUniiCode": "76W6J0943E",
+    "identifier": "C509",
+    "preferredName": "Flutamide",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [],
+    "synonyms": [
+      "2-Methyl-N-[4-nitro-3-(trifluoromethyl)phenyl]propanamide",
+      "4'-Nitro-3'-trifluoromethylisobutyranilide",
+      "Alpha,alpha,alpha-trifluoro-2-methy-4'-nitro-m-propionotoluidide",
+      "Apimid",
+      "Cebatrol",
+      "Chimax",
+      "Cytomid",
+      "Drogenil",
+      "Euflex",
+      "Eulexin",
+      "Eulexine",
+      "FLUT",
+      "FLUTAMIDE",
+      "Flucinom",
+      "Flucinome",
+      "Flugerel",
+      "Fluken",
+      "Flulem",
+      "Fluta-Gry",
+      "Flutabene",
+      "Flutacan",
+      "Flutamex",
+      "Flutamide",
+      "Flutamin",
+      "Flutan",
+      "Flutaplex",
+      "Fugerel",
+      "Grisetin",
+      "Niftolide",
+      "Oncosal",
+      "Profamid",
+      "Propanamide, 2-Methyl-N-(4-nitro-3-(trifluoromethyl)phenyl)-",
+      "Prostacur",
+      "Prostadirex",
+      "Prostica",
+      "Prostogenat",
+      "SCH 13521",
+      "Sch 13521",
+      "Tafenil",
+      "Tecnoflut",
+      "Testotard",
+      "flutamide"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Prexigebersen",
+  "nciThesaurus": {
+    "casRegistry": "202484-91-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A liposomal formulation containing the antisense oligodeoxynucleotide (ODN) growth factor receptor-bound protein 2 (Grb2), with potential antineoplastic activity. Upon administration, liposome-incorporated Grb2 antisense oligodeoxynucleotide binds directly to and blocks Grb2 mRNA, thereby preventing Grb2 protein synthesis, leading to inhibition of cell proliferation of cancer cells overexpressing Grb2. Grb2, an adaptor protein involved in growth signaling pathways, is upregulated in certain tumor cells.",
+    "fdaUniiCode": "8W1O4Y961B",
+    "identifier": "C91736",
+    "preferredName": "Prexigebersen",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
+    "subclassOf": [
+      "C1291"
+    ],
+    "synonyms": [
+      "BP-100-1.01",
+      "BP-1001",
+      "BP1001",
+      "Liposomal Grb2 AS ODN",
+      "Liposome-Incorporated Grb2 Antisense Oligodeoxynucleotide",
+      "PREXIGEBERSEN",
+      "Prexigebersen"
+    ]
+  }
+}

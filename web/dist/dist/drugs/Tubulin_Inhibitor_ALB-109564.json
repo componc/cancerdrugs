@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tubulin_Inhibitor_ALB-109564",
+  "nciThesaurus": {
+    "casRegistry": "854756-74-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A semi-synthetic derivative of the vinka alkaloid vinblastine with potential antineoplastic activity. Tubulin inhibitor ALB-109564 binds to tubulin monomers and inhibits microtubule formation, resulting in disruption of mitotic spindle assembly and arrest of tumor cells in the G2/M phase of the cell cycle. Check for active clinical trials using this agent.",
+    "fdaUniiCode": "EUY2631TAL",
+    "identifier": "C162527",
+    "preferredName": "Tubulin Inhibitor ALB-109564",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C25974"
+    ],
+    "synonyms": [
+      "ALB 109564",
+      "ALB-109564",
+      "ALB109564",
+      "Tubulin Inhibitor ALB-109564"
+    ]
+  }
+}

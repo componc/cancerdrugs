@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Vesencumab",
+  "nciThesaurus": {
+    "casRegistry": "1205533-60-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A human IgG1 monoclonal antibody directed against neuropilin-1 (NRP1), with potential antiangiogenic and antineoplastic activities. Upon intravenous administration, vesencumab specifically targets and binds to NRP1; the antibody-NRP1 complex prevents the subsequent coupling of NRP1 to VEGFR2, thereby potentially inhibiting VEGF-mediated signaling and potentially preventing angiogenesis. In combination with other anti-VEGF therapies, vesencumab may enhance their anti-angiogenic effect. NRP1 is a membrane-bound co-receptor normally expressed by endothelial cells and overexpressed by certain tumor cells, and plays a role in angiogenesis, cell survival, migration, and invasion.",
+    "fdaUniiCode": "7SF22186WT",
+    "identifier": "C91728",
+    "preferredName": "Vesencumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C1742",
+      "C20401"
+    ],
+    "synonyms": [
+      "Immunoglobulin GL, Anti-(Human Neuropilin 1) (Human Monoclonal MNRP1685a Heavy Chain), Disulfide with Human Monoclonal MNRP1685a Light Chain, Dimer",
+      "MNRP-1685A",
+      "MNRP1685A",
+      "VESENCUMAB",
+      "Vesencumab"
+    ]
+  }
+}

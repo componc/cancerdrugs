@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-PVRIG_Monoclonal_Antibody_COM701",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized, hybridoma monoclonal antibody against the poliovirus receptor-related immunoglobulin (PVRIG; PVR Related Immunoglobulin Domain Containing Protein; CD112R), with potential immune checkpoint inhibitory and antineoplastic activities. Upon administration, anti-PVRIG monoclonal antibody COM701 targets and binds to PVRIG expressed on cytotoxic T-lymphocytes (CTLs) and natural killer (NK) cells within the tumor microenvironment (TME). This blocks the interaction of PVRIG with its ligand nectin cell adhesion molecule 2 (poliovirus receptor-related 2; PVRL2; CD112), which is overexpressed on a variety of tumor cell types. Inhibiting the activation of PVRIG, abrogates the PVRIG-induced inhibition of T-lymphocyte and NK cell activation. This activates CTLs and NK cells, enhances anti-tumor responses and immune-mediated tumor cell killing, and inhibits tumor cell proliferation. PVRIG, a member of the B7/CD28 family and immune checkpoint receptor that, upon activation, negatively regulates the activation of various immune cells. It plays a key role in immunosuppression.",
+    "fdaUniiCode": "IAY02XUV7L",
+    "identifier": "C156791",
+    "preferredName": "Anti-PVRIG Monoclonal Antibody COM701",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C141144",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-PVRIG Monoclonal Antibody COM701",
+      "Anti-poliovirus Receptor-related Immunoglobulin COM701",
+      "COM 701",
+      "COM-701",
+      "COM701",
+      "PVRIG Inhibitor COM701"
+    ]
+  }
+}

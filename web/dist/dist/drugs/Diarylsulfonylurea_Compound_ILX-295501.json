@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Diarylsulfonylurea_Compound_ILX-295501",
+  "nciThesaurus": {
+    "casRegistry": "150869-74-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "ILX-295501 is a novel sulfonylurea compound that has demonstrated in-vivo antitumor activity against a broad spectrum of solid tumors.",
+    "fdaUniiCode": "240Y4YO0TN",
+    "identifier": "C1632",
+    "preferredName": "Diarylsulfonylurea Compound ILX-295501",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2186"
+    ],
+    "synonyms": [
+      "Diarylsulfonylurea Compound ILX-295501",
+      "ILX 295501",
+      "ILX-295501",
+      "ILX295501",
+      "LY 295501",
+      "LY-295501",
+      "LY295501",
+      "N-(((3,4-Dichlorophenyl)amino)carbonyl)-2,3-dihydro-5-benzofuransulfonamide",
+      "N-(5-(2,3-Dihydrobenzofuryl)sulfonyl)-N'-(3,4-dichlorophenyl)urea"
+    ]
+  }
+}

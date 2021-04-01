@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "gp100_Antigen",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A melanoma-associated antigen.  When administered in a vaccine formulation, gp100 antigen may stimulate a cytotoxic T cell HLA-A2.1-restricted immune response against tumors that express this antigen, which may result in a reduction in tumor size.",
+    "fdaUniiCode": "1NU720978F",
+    "identifier": "C2386",
+    "preferredName": "gp100 Antigen",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C912"
+    ],
+    "synonyms": [
+      "GP-100 ANTIGEN",
+      "glycoprotein 100",
+      "gp 100",
+      "gp100",
+      "gp100 Antigen"
+    ]
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Medorubicin",
+  "nciThesaurus": {
+    "casRegistry": "64314-52-9",
+    "chebiId": "",
+    "chemicalFormula": "C26H27NO10",
+    "definition": "A demethoxy derivative of doxorubicin with antineoplastic activity.",
+    "fdaUniiCode": "NU158DGH9E",
+    "identifier": "C87599",
+    "preferredName": "Medorubicin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1594"
+    ],
+    "synonyms": [
+      "(1S,3S)-3-Glycoloyl-1,2,3,4,6,11-Hexahydro-3,5,12-Trihydroxy-6,11-Dioxo-1-Naphthacenyl 3-Amino-2,3,6-Trideoxy-Alpha-L-Lyxo-Hexopyranoside",
+      "4-Demethoxydoxorubicin",
+      "MEDORUBICIN",
+      "Medorubicin"
+    ]
+  }
+}

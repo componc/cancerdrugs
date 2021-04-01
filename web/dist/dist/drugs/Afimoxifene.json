@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Afimoxifene",
+  "nciThesaurus": {
+    "casRegistry": "68047-06-3",
+    "chebiId": "CHEBI:44616",
+    "chemicalFormula": "",
+    "definition": "A tamoxifen metabolite with both estrogenic and anti-estrogenic effects.  Afimoxifene has a higher affinity for the estrogen receptor than tamoxifen, and functions as an antagonist in breast cancer cells.",
+    "fdaUniiCode": "17197F0KYM",
+    "identifier": "C975",
+    "preferredName": "Afimoxifene",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1821"
+    ],
+    "synonyms": [
+      "4-(1-(4-(2-(Dimethylamino)ethoxy)phenyl)-2-phenylbut-1-enyl)phenol",
+      "4-Hydroxy-Tamoxifen",
+      "4-Hydroxytamoxifen",
+      "4-OHT",
+      "4-hydroxytamoxifen",
+      "AFIMOXIFENE",
+      "Afimoxifene"
+    ]
+  }
+}

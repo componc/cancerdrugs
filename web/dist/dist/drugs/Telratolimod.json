@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Telratolimod",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A toll-like receptor type 7 and 8 (TLR7/8) agonist with potential immunostimulating and antitumor activities. Upon intratumoral administration, telratolimod binds to and activates TLR7 and 8, thereby stimulating antigen-presenting cells (APCs), including dendritic cells (DCs). Activation of DCs results in the production of proinflammatory cytokines, and the activation of cytotoxic T-lymphocyte (CTL) and B-lymphocyte immune responses. This may cause tumor cell lysis. TLR7 and 8, members of the TLR family, play fundamental roles in the activation of the immune system.",
+    "fdaUniiCode": "16598XQ2BT",
+    "identifier": "C124653",
+    "preferredName": "Telratolimod",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C177176",
+      "C177177"
+    ],
+    "synonyms": [
+      "3M 052",
+      "3M-052",
+      "MEDI 9197",
+      "MEDI-9197",
+      "MEDI9197",
+      "TELRATOLIMOD",
+      "TLR7/TLR8 Dual Agonist MEDI9197",
+      "Telratolimod",
+      "Toll-like Receptor 7/8 Agonist MEDI9197"
+    ]
+  }
+}

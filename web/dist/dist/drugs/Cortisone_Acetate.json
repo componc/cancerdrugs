@@ -1,0 +1,557 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Energize",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to the thyroid system.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "02e3d6d8-ea32-4cfa-bd9b-0d6e72bb4552"
+    },
+    {
+      "brand": "Advanced Detox Core Formula",
+      "indication": "HOMEOPATHIC INDICATIONS: Temporary relief of symptoms related to improper breakdown and excretion of allergenic substances including chronic pain, fatigue, cramping and upper respiratory allergy.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "0356b514-d329-4d20-bfc0-9eee78d28305"
+    },
+    {
+      "brand": "Bio Mood Phase",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms of emotional distress, nervous anxiety, and nervous exhaustion.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "05c50755-d7af-4682-86b1-56f8b3b2754b"
+    },
+    {
+      "brand": "Chemtox",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to chemical toxicity including fatigue, frequent colds, insomnia, headache, rash, depression, sinusitis, constipation, poor circulation, and memory difficulties.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "10d51085-8822-4eb8-8287-aa60a01906d0"
+    },
+    {
+      "brand": "Relief-Tone",
+      "indication": "Uses Temporary relief of pain, trauma, wounds, injury, bruises, swelling, aches, cramps.",
+      "manufacturer": "Energetix Corp",
+      "splSetId": "12279a0d-af0c-4983-b58d-921f2ea48478"
+    },
+    {
+      "brand": "Hormone Harmony",
+      "indication": "HOMEOPATHIC INDICATIONS: Temporary relief of symptoms related to hormone imbalances of insufficiencies in men and women, including low energy, inability to handle stress, trouble focusing, changes in mood, infertility, irregular menstrual cycles (females), and lack of libido.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Pro Weight Loss Inc.",
+      "splSetId": "123f5269-45eb-4dcd-be66-76c6665b8d13"
+    },
+    {
+      "brand": "Immune Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to infection, such as cough, fever, headache, fatigue, cold, muscle pain, sore throat, ear, nose and throat congestion.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "141d45e7-1fc7-48c6-b9e3-f65b82a3d710"
+    },
+    {
+      "brand": "Clean Sweep Formula 6",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to improper breakdown and excretion of allergenic substances, including pain, fatigue, cramping and upper respiratory allergy.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Intentional Nourishment",
+      "splSetId": "15b91e2a-ebae-4b62-ade2-dd85a2283916"
+    },
+    {
+      "brand": "Thyro Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to the thyroid system.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Pro Weight Loss Inc.",
+      "splSetId": "171e9798-35ac-498b-944e-0173c46188d7"
+    },
+    {
+      "brand": "Enviro I",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to food allergies including swelling of the lips, stomach cramps, vomiting, occasional diarrhea, and skin rashes .** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "17a11564-d8dd-45bc-a5a2-6998452682d4"
+    },
+    {
+      "brand": "Enviro I",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to food allergies including swelling of the lips, stomach cramps, vomiting, occasional diarrhea, and skin rashes .** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "1de4f602-6e3c-4142-b60a-90585ac33884"
+    },
+    {
+      "brand": "Bio Galium Phase",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms related to illness and infections such as cold and flu.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "1fcc1842-0ec7-4ec6-ac7f-6880ff5358c5"
+    },
+    {
+      "brand": "Chemstat",
+      "indication": "INDICATIONS: May temporarily relieve weakness and exhaustion, minor abdominal cramps, bloating, and vomiting.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "205f7924-35e3-422c-9996-a13a07f3b9b7"
+    },
+    {
+      "brand": "Hormone Combination",
+      "indication": "HOMEOPATHIC INDICATIONS: Temporary relief of symptoms related to hormone imbalances of insufficiencies in men and women, including low energy, inability to handle stress, trouble focusing, changes in mood, infertility, irregular menstrual cycles (females), and lack of libido.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "22908e3d-492c-4b18-a070-076f99a81314"
+    },
+    {
+      "brand": "Chemdetox",
+      "indication": "INDICATIONS: For temporary relief of symptoms related to chemical toxicity including fatigue, frequent colds, insomnia, headache, rash, constipation, and memory difficulties.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Dr. Donna Restivo DC",
+      "splSetId": "25c18237-77d6-4a1b-9a45-7ebd148341f5"
+    },
+    {
+      "brand": "Chemstat",
+      "indication": "INDICATIONS: May temporarily relieve weakness and exhaustion, minor abdominal cramps, bloating, and vomiting.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "2831d28e-9cf1-4a72-9c6c-bb014d059558"
+    },
+    {
+      "brand": "Glyreg",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to fluctuations in blood sugar or dietary patterns low in carbohydrates, including hunger, dizziness, brain fog, shakiness, fatigue, cravings and irritability.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc",
+      "splSetId": "28e670ca-ed35-4256-af20-74c25dc18099"
+    },
+    {
+      "brand": "Chemtox",
+      "indication": "HOMEOPATHIC INDICAITONS: For temporary relief of symptoms related to chemical toxicity including fatigue, frequent colds, insomnia, headache, rash, constipation, and memory difficulties.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "29b1e6a2-4646-40e6-a56e-48e22f9dac6a"
+    },
+    {
+      "brand": "Bio Galium Phase",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms related to illness and infections such as cold and flu.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "2a97d4bc-10e6-444e-abfb-e7b29c108de9"
+    },
+    {
+      "brand": "Hormone Balance",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to menstrual and cyclic related conditions including emotional swings, headache, irritability, cravings and fluid retention in both menopause and andropause.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Dr. Donna Restivo DC",
+      "splSetId": "2e77e321-a263-4918-ae40-7ca883deabbf"
+    },
+    {
+      "brand": "Energize",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to the thyroid system.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "2e84b17d-66e8-4586-98ba-64cd54c92102"
+    },
+    {
+      "brand": "Chemdetox",
+      "indication": "INDICATIONS: For temporary relief of symptoms related to chemical toxicity including fatigue, frequent colds, insomnia, headache, rash, depression, sinusitis, constipation, poor circulation, and memory difficulties.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Dr. Donna Restivo DC",
+      "splSetId": "30d63da3-9253-45fb-abb2-2854817cbf84"
+    },
+    {
+      "brand": "Regional Allergies Southern U.S.",
+      "indication": "Uses for temporary relief of allergy symptoms commonly experienced in AL, AR, DC, DE, FL, GA, KY, LA, MD, MS, NC, SC, TN, VA, WV: \u2588 itchy, watery eyes \u2588 runny nose \u2588 sneezing \u2588 sore throat \u2588 sinus congestion \u2588 cough \u2588 stuffy nose \u2588 fatigue \u2588 itchy, irritated skin \u2588 hoarseness \u2588 headache.",
+      "manufacturer": "King Bio Inc.",
+      "splSetId": "3697fcb7-4ab8-4ce4-a837-05f6a825f9ab"
+    },
+    {
+      "brand": "Adrenal Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to hypoadrenalism including fatigue, nervous exhaustion, anxiety, and forgetfulness.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "37a7f63c-4241-492b-af7c-7e5bbe0a0889"
+    },
+    {
+      "brand": "HP Axis",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to circadian rhythm imbalances such as overuse of stimulants, anxiousness, sleep disturbances, circulatory imbalances, decreased sex drive and salt cravings.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "402f5b05-c71e-4dba-bc2b-049aee42952a"
+    },
+    {
+      "brand": "Bio Glyoxal Phase",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms of viral diseases such as colds and flu, including low energy.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "420f6278-514e-4054-8ac0-b934c2f4d241"
+    },
+    {
+      "brand": "Hormone Balance",
+      "indication": "HOMEOPATHIC INDICATIONS: Temporary relief of symptoms related to hormone imbalances or insufficiencies in men and women, including low energy, inability to handle stress, trouble focusing, changes in mood, infertility, irregular menstrual cycles (females) and lack of libido.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Dr. Donna Restivo DC",
+      "splSetId": "421707d6-31c1-4d57-b017-796fc872efe4"
+    },
+    {
+      "brand": "Immune Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to infection, such as cough, fever, headache, fatigue, cold, muscle pain, sore throat, ear, nose and throat congestion.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "4669b93f-5f16-4da5-ac54-5cda2d2ef52d"
+    },
+    {
+      "brand": "Bio Tonsilla Phase",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms such as sore throat, pain, swelling, and inflammation.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration. WARNING: Severe or persistent sore throat or sore throat accompanied by high fever, headache, nausea, and vomiting may be serious. Consult a physician promptly. Do not use more than two days or administer to children under 3 years of age unless directed by a physician.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "4a8a6aaf-d676-469c-bd47-2f543332c25c"
+    },
+    {
+      "brand": "Regional Allergies Great Lakes U.S.",
+      "indication": "Uses for temporary relief of allergy symptoms commonly experienced in IA, IL, IN, MI, MN, MO, OH, WI: \u2022itchy, watery eyes \u2022runny nose \u2022sneezing \u2022sore throat \u2022sinus congestion \u2022cough \u2022stuffy nose \u2022fatigue \u2022itchy, irritated skin \u2022hoarseness \u2022headache. \u2020 as per various homeopathic materia medicas. These uses have not been evaluated by the FDA, and product has not been clinically tested.",
+      "manufacturer": "King Bio Inc.",
+      "splSetId": "4c64dfca-1e43-4486-9f63-6c0f1cccb12a"
+    },
+    {
+      "brand": "Adrenal Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to hypoadrenalism including fatigue, nervous exhaustion, anxiety, and forgetfulness.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "50f48780-b222-471a-afa5-1504960d4894"
+    },
+    {
+      "brand": "Energize",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to the thyroid system.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals",
+      "splSetId": "54e8f581-9286-4784-bd48-68f8a2e5eba4"
+    },
+    {
+      "brand": "Stomach Spleen Meridian Formula",
+      "indication": "HOMEOPATHIC INDICATIONS: Temporary relief of symptoms related to blocked energy in the region of the mid abdomen including indigestion, fatigue, bloating, cramping and abdominal anxiety.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "56fcd061-7586-4d78-9310-9c304a96f5c6"
+    },
+    {
+      "brand": "Medi-Chord",
+      "indication": "Uses Temporary relief of headache, joint pain, skin eruption, itching.",
+      "manufacturer": "Energetix Corporation",
+      "splSetId": "57bc618b-15bd-4d04-8037-fb192e743e30"
+    },
+    {
+      "brand": "D3 Organ Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to improper breakdown and excretion of allergenic substances, including pain, fatigue, cramping and upper respiratory allergy.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Dr. Donna Restivo DC",
+      "splSetId": "588160eb-e6ff-4fb4-ba72-c134947ca4fd"
+    },
+    {
+      "brand": "Allergen I",
+      "indication": "INDICATIONS: For temporary relief of gastrointestinal dyspepsia with flatulence and bloating, loss of weight and intolerance of certain foods.",
+      "manufacturer": "BioActive Nutritional",
+      "splSetId": "5c277d7f-4c4f-48e3-beed-a84b60157b60"
+    },
+    {
+      "brand": "Chemtox",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to chemical toxicity including fatigue, frequent colds, insomnia, headache, rash, occasional constipation, and memory difficulties.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "5c28053d-ebf5-4260-95f0-065568c88ad0"
+    },
+    {
+      "brand": "Cortisone Acetate",
+      "indication": "INDICATIONS AND USAGE: Endocrine Disorders Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the first choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy mineralocorticoid supplementation is of particular importance). Congenital adrenal hyperplasia Nonsuppurative thyroiditis Hypercalcemia associated with cancer Rheumatic Disorders As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in: Psoriatic arthritis Rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy) Ankylosing spondylitis Acute and subacute bursitis Acute nonspecific tenosynovitis Acute gouty arthritis Post-traumatic osteoarthritis Synovitis of osteoarthritis Epicondylitis Collagen Diseases During an exacerbation or as maintenance therapy in selected cases of: Systemic lupus erythematosus Acute rheumatic carditis Systemic dermatomyositis (polymyositis) Dermatologic Diseases Pemphigus Bullous dermatitis herpetiformis Severe erythema multiforme (Stevens-Johnson syndrome) Exfoliative dermatitis Mycosis fungoides Severe psoriasis Severe seborrheic dermatitis Allergic States Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment: Seasonal or perennial allergic rhinitis Bronchial asthma Contact dermatitis Atopic dermatitis Serum sickness Drug hypersensitivity reactions Ophthalmic Diseases Severe acute and chronic allergic and inflammatory processes involving the eye and its adnexa, such as: Allergic conjunctivitis Keratitis Allergic corneal marginal ulcers Herpes zoster ophthalmicus Iritis and iridocyclitis Chorioretinitis Anterior segment inflammation Diffuse posterior uveitis and choroiditis Optic neuritis Sympathetic ophthalmia Respiratory Diseases Symptomatic sarcoidosis Loeffler's syndrome not manageable by other means Berylliosis Fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculosis chemotherapy Aspiration pneumonitis Hematologic Disorders Idiopathic thrombocytopenic purpura in adults Secondary thrombocytopenia in adults Acquired (autoimmune) hemolytic anemia Erythroblastopenia (RBC anemia) Congenital (erythroid) hypoplastic anemia Neoplastic Diseases For palliative management of: Leukemias and lymphomas in adults Acute leukemia of childhood Edematous States To induce a diuresis or remission of proteinuria in the nephrotic syndrome, without uremia, of the idiopathic type or that due to lupus erythematosus Gastrointestinal Diseases To tide the patient over a critical period of the disease in: Ulcerative colitis Regional enteritis Miscellaneous Tuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate antituberculous chemotherapy Trichinosis with neurologic or myocardial involvement",
+      "manufacturer": "Hikma Pharmaceuticals USA Inc.",
+      "splSetId": "5d59b43c-f10d-463f-92df-6171d02b7a45"
+    },
+    {
+      "brand": "Cortisone aceticum",
+      "indication": "INDICATIONS Indications: CORTISONE ACETICUM Indigestion",
+      "manufacturer": "Washington Homeopathic Products",
+      "splSetId": "5e717331-befa-4892-9d0c-85a5ecb9f118"
+    },
+    {
+      "brand": "Hormone Combination",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to menstrual and cyclic related conditions including emotional swings, headache, irritability, cravings and fluid retention in both menopause and andropause.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "615627eb-be72-4d44-9504-fbe97b652046"
+    },
+    {
+      "brand": "Energize",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to the thyroid system.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "633f7d82-6cfd-4bc2-8fd3-a52bde0f9cd5"
+    },
+    {
+      "brand": "Hepata-Chord",
+      "indication": "Uses Temporary relief of skin rash, right-side abdominal discomfort, headache",
+      "manufacturer": "Energetix Corp",
+      "splSetId": "64655edd-9f91-4278-af1e-01a8461daf0f"
+    },
+    {
+      "brand": "Energize",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to the thyroid system.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals",
+      "splSetId": "660967d0-b2fe-4cf2-9a39-4d28454e1fdc"
+    },
+    {
+      "brand": "Immune Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to infections, such as cough, flu, fever, headache, fatigue, cold, muscle pain, sore throat, ear, nose and throat congestion.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "67baf8d0-a23e-44c5-84b7-54ec0173b78b"
+    },
+    {
+      "brand": "Cortisone aceticum",
+      "indication": "Dry skin and dry mouth*",
+      "manufacturer": "Boiron",
+      "splSetId": "68f7a30a-e372-6ee9-e053-2a91aa0a6ddf"
+    },
+    {
+      "brand": "Chemtox",
+      "indication": "INDICATIONS: For temporary relief of weakness & exhaustion, minor abdominal cramps & bloating, and vomiting.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "6945ee88-536e-4c0d-bca0-97aec81d43aa"
+    },
+    {
+      "brand": "Enviro I",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to food allergies including swelling of the lips, stomach cramps, vomiting, occasional diarrhea, and skin rashes .** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "6bd3056a-52b4-4165-a0a5-689afa9091dc"
+    },
+    {
+      "brand": "Male Stimulant",
+      "indication": "HOMEOPATHIC INDICATIONS: Temporary relief of symptoms related to male hormonal problems such as libido difficulties and fatigue.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "6d223bcb-b649-4881-928f-210c6d6d6002"
+    },
+    {
+      "brand": "Detox III",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to improper breakdown and excretion of allergenic substances, including pain, fatigue, cramping and upper respiratory allergy.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "6eb6eb26-c690-473c-a5cb-cb65613d7b96"
+    },
+    {
+      "brand": "Detox III",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to improper breakdown and excretion of allergenic substances, including pain, fatigue, cramping and upper respiratory allergy.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "6f2136ce-4763-4ebd-a9fc-cbbae1f7ce0b"
+    },
+    {
+      "brand": "Bio Tonsilla Phase",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms such as sore throat, pain, swelling, and inflammation.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration. WARNING: Severe or persistent sore throat or sore throat accompanied by high fever, headache, nausea, and vomiting may be serious. Consult a physician promptly. Do not use more than two days or administer to children under 3 years of age unless directed by a physician.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "74f899ed-8021-470a-995b-4822da412c50"
+    },
+    {
+      "brand": "Bio Mood Phase",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms of emotional distress, nervous anxiety, and nervous exhaustion.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "81d6e6db-94dc-4b6f-9ef7-9180ec54eebf"
+    },
+    {
+      "brand": "HypoGlycemx",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to fluctuations in blood sugar or dietary patterns low in carbohydrates, including hunger, dizziness, brain fog, shakiness, fatigue, cravings and irritability.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc",
+      "splSetId": "81e70a58-9c67-4ed3-99c8-97efa64e408a"
+    },
+    {
+      "brand": "Lipotox",
+      "indication": "INDICATIONS: For temporary relief of exhaustion & restlessness, metallic taste & dyspepsia & menstrual pain.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "8300f65f-5c52-41ad-8f6a-6a951ab72fb7"
+    },
+    {
+      "brand": "Chemstat",
+      "indication": "INDICATIONS: For temporary relief of weakness and exhaustion, minor abdominal cramps, bloating and vomiting.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "8423a5e1-f951-4d59-a5f6-d6fe35898eea"
+    },
+    {
+      "brand": "Cortisone aceticum",
+      "indication": "Dry skin and dry mouth*",
+      "manufacturer": "Boiron",
+      "splSetId": "85424b40-5c2b-421d-e053-2991aa0a7771"
+    },
+    {
+      "brand": "Cortisone aceticum",
+      "indication": "Dry skin and dry mouth*",
+      "manufacturer": "Boiron",
+      "splSetId": "85426060-5630-aaa0-e053-2a91aa0af8d4"
+    },
+    {
+      "brand": "Cortisone Acetate",
+      "indication": "INDICATIONS AND USAGE: 1. Endocrine Disorders Primary or secondary adrenocortical insufficiency (hydrocortisone or cortisone is the first choice; synthetic analogs may be used in conjunction with mineralocorticoids where applicable; in infancy mineralocorticoid supplementation is of particular importance). Congenital adrenal hyperplasia Nonsuppurative thyroiditis Hypercalcemia associated with cancer 2. Rheumatic Disorders As adjunctive therapy for short-term administration (to tide the patient over an acute episode or exacerbation) in: Psoriatic arthritis Rheumatoid arthritis, including juvenile rheumatoid arthritis (selected cases may require low-dose maintenance therapy) Ankylosing spondylitis Acute and subacute bursitis Acute nonspecific tenosynovitis Acute gouty arthritis Post-traumatic osteoarthritis Synovitis of osteoarthritis Epicondylitis 3. Collagen Diseases During an exacerbation or as maintenance therapy in selected cases of: Systemic lupus erythematosus Acute rheumatic carditis Systemic dermatomyositis (polymyositis) 4. Dermatologic Diseases Pemphigus Bullous dermatitis herpetiformis Severe erythema multiforme (Stevens-Johnson syndrome) Exfoliative dermatitis Mycosis fungoides Severe psoriasis Severe seborrheic dermatitis 5. Allergic States Control of severe or incapacitating allergic conditions intractable to adequate trials of conventional treatment: Seasonal or perennial allergic rhinitis Bronchial asthma Contact dermatitis Atopic dermatitis Serum sickness Drug hypersensitivity reactions 6. Ophthalmic Diseases Severe acute and chronic allergic and inflammatory processes involving the eye and its adnexa, such as: Allergic conjunctivitis Keratitis Allergic corneal marginal ulcers Herpes zoster ophthalmicus Iritis and iridocyclitis Chorioretinitis Anterior segment inflammation Diffuse posterior uveitis and choroiditis Optic neuritis Sympathetic ophthalmia 7. Respiratory Diseases Symptomatic sarcoidosis Loeffler\u2019s syndrome not manageable by other means Berylliosis Fulminating or disseminated pulmonary tuberculosis when used concurrently with appropriate antituberculosis chemotherapy Aspiration pneumonitis 8. Hematologic Disorders Idiopathic thrombocytopenic purpura in adults Secondary thrombocytopenia in adults Acquired (autoimmune) hemolytic anemia Erythroblastopenia (RBC anemia) Congenital (erythroid) hypoplastic anemia 9. Neoplastic Diseases For palliative management of: Leukemias and lymphomas in adults Acute leukemia of childhood 10. Edematous States To induce a diuresis or remission of proteinuria in the nephrotic syndrome, without uremia, of the idiopathic type or that due to lupus erythematosus 11. Gastrointestinal Diseases To tide the patient over a critical period of the disease in: Ulcerative colitis Regional enteritis 12. Miscellaneous Tuberculous meningitis with subarachnoid block or impending block when used concurrently with appropriate antituberculous chemotherapy Trichinosis with neurologic or myocardial involvement",
+      "manufacturer": "Hikma Pharmaceuticals USA Inc.",
+      "splSetId": "85cfed58-e5f1-4170-8d83-60e6bebd3610"
+    },
+    {
+      "brand": "Bio Tonsilla Phase",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms such as sore throat, pain, swelling, and inflammation.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration. WARNING: Severe or persistent sore throat or sore throat accompanied by high fever, headache, nausea, and vomiting may be serious. Consult a physician promptly. Do not use more than two days or administer to children under 3 years of age unless directed by a physician.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "878e49c2-cd17-4d8b-bfd6-8c00b4f82578"
+    },
+    {
+      "brand": "Cosmestat",
+      "indication": "INDICATIONS: For temporary relief of sinus congestion, dry cough in the evening and rhinitis.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "8a055ae7-103b-44e2-8190-b475b07e1f1d"
+    },
+    {
+      "brand": "Enviro I",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to food allergies including swelling of the lips, stomach cramps, vomiting, diarrhea, skin rashes or eczema, and wheezing or breathing problems.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "91117989-eb31-481b-a4a4-f7b62daca26d"
+    },
+    {
+      "brand": "Cortisone aceticum",
+      "indication": "INDICATIONS Indications: CORTISONE ACETICUM Indigestion",
+      "manufacturer": "Washington Homeopathic Products",
+      "splSetId": "972d6b65-e40c-49d0-b410-9a79e9891a0c"
+    },
+    {
+      "brand": "Bio Tonsilla Phase",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms such as sore throat, pain, swelling, and inflammation.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration. WARNING: Severe or persistent sore throat or sore throat accompanied by high fever, headache, nausea, and vomiting may be serious. Consult a physician promptly. Do not use more than two days or administer to children under 3 years of age unless directed by a physician.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "97e735b4-752f-4e2e-a814-d87f29559467"
+    },
+    {
+      "brand": "Immune Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to infection, such as cough, fever, headache, fatigue, cold, muscle pain, sore throat, ear, nose and throat congestion.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "9ae2bab5-a12d-4a03-8d76-79e417797e76"
+    },
+    {
+      "brand": "Regional Allergies Northeastern US",
+      "indication": "Uses for temporary relief of allergy symptoms commonly experienced in CT. DC. DE. MA. ME, MD. NH. NJ. NY. PA. RI. VT. itchy, watery eyes runny nose sneezing sore throat sinus congestion cough stuffy nose fatigue itchy, irritated skin hoarseness headache",
+      "manufacturer": "King Bio Inc,",
+      "splSetId": "9b717c32-7a7c-40e6-8fc3-4ccbb27d30ad"
+    },
+    {
+      "brand": "Adrenal Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to hypoadrenalism including fatigue, nervous exhaustion, anxiety, and forgetfulness.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "9cc7f73e-9eff-485a-88f0-1a1633a15153"
+    },
+    {
+      "brand": "Regional Allergies Desert U.S.",
+      "indication": "Uses for temporary relief of allergy symptoms commonly experienced in AZ, NM and desert areas of CA, NV, UT. itchy, watery eyes runny nose sneezing sore throat sinus congestion cough stuff nose fatigue itchy, irritated skin hoarseness headache",
+      "manufacturer": "King Bio Inc.",
+      "splSetId": "9d086869-b8af-4021-bba9-33c489913270"
+    },
+    {
+      "brand": "Adrenal Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to hypoadrenalism including fatigue, nervous exhaustion, anxiety, and forgetfulness.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "9d9d4b25-d891-4fd6-b3cb-a607e14cae09"
+    },
+    {
+      "brand": "Chemtox",
+      "indication": "INDICATIONS: For temporary relief of weakness & exhaustion, minor abdominal cramps & bloating, and vomiting.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "a48a8d59-9091-4f73-a9b0-3a699bb91d49"
+    },
+    {
+      "brand": "Immune Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to infection, such as cough, fever, headache, fatigue, cold, muscle pain, sore throat, ear, nose and throat congestion.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "af70addc-dba6-4bf6-8899-adfdb441ad91"
+    },
+    {
+      "brand": "Regional Allergies Pacific US",
+      "indication": "Uses for temporary relief of allergy symptoms commonly experienced in CA, NV, OR, WA: \u2022itchy, watery eyes \u2022runny nose \u2022sneezing \u2022sore throat \u2022sinus congestion \u2022cough \u2022stuffy nose \u2022fatigue \u2022itchy, irritated skin \u2022hoarseness \u2022headache.",
+      "manufacturer": "King Bio Inc.",
+      "splSetId": "b9dafb90-99fd-44fa-98e3-f92c0cd5d6ce"
+    },
+    {
+      "brand": "Hepatatox",
+      "indication": "INDICATIONS: For temporary relief of dyspepsia, flatulence, exhaustion, and nausea as a consequence of constipation.",
+      "manufacturer": "BioActive Nutritional, Inc",
+      "splSetId": "bb843118-ef62-4362-a7d0-f10b5f6cd132"
+    },
+    {
+      "brand": "Allergies Plains U.S.",
+      "indication": "Uses for temporary relief of allergy symptoms commonly experienced in KS, ND, NE, SD: \u2588 itchy, watery eyes \u2588 runny nose \u2588 sneezing \u2588 sore throat \u2588 sinus congestion \u2588 cough \u2588 stuffy nose \u2588 fatigue \u2588 itchy, irritated skin \u2588 hoarseness \u2588 headache.",
+      "manufacturer": "King Bio Inc.",
+      "splSetId": "bfb98751-515d-4bbe-869f-6e29b38b3de6"
+    },
+    {
+      "brand": "Grain and Soy Allergen Mix",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms related to consumption of grains, soy, and gluten, including bowel irregularity, occasional diarrhea, occasional constipation, and fatigue.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "c34957b3-d2e8-4d28-b0eb-0e96cb7b83a6"
+    },
+    {
+      "brand": "D3 Organ Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to improper breakdown and excretion of allergenic substances, including chronic pain, fatigue, cramping and upper respiratory allergy.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Dr. Donna Restivo DC",
+      "splSetId": "ca9a94a5-44e0-480c-8d59-d8da52313f70"
+    },
+    {
+      "brand": "Regional Allergies Southwestern U.S.",
+      "indication": "Uses for temporary relief of allergy symptoms commonly experienced in OK, TX: \u2588 itchy, watery eyes \u2588 runny nose \u2588 sneezing \u2588 sore throat \u2588 sinus congestion \u2588 cough \u2588 stuffy nose \u2588 fatigue \u2588 itchy, irritated skin \u2588 hoarseness \u2588 headache. \u2020 as per various homeopathic materia medicas. Claims based on traditional homeopathic practice, not accepted medical evidence. These uses have not been evaluated by the FDA, and product has not been clinically tested..",
+      "manufacturer": "King Bio Inc.",
+      "splSetId": "cad8f5c6-f6b7-46f9-9fc7-5609df3b4995"
+    },
+    {
+      "brand": "Homeoplex D",
+      "indication": "INDICATIONS: For support of body's elimination systems.",
+      "manufacturer": "Supplement Clinic, LLC.",
+      "splSetId": "cd6b48ab-3566-484d-8deb-15ef6f8e7e8f"
+    },
+    {
+      "brand": "Bio Glyoxal Phase",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms of viral diseases such as colds and flu, including low energy.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "d43db203-7756-43a5-bd68-aa070d429f60"
+    },
+    {
+      "brand": "Detox III",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to improper breakdown and excretion of allergenic substances, including pain, fatigue, cramping and upper respiratory allergy.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "d54d4427-66c2-4c9e-b33a-8f79fc001a40"
+    },
+    {
+      "brand": "Chemtox",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to chemical toxicity including fatigue, frequent colds, insomnia, headache, rash, constipation, and memory difficulties.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "de7aaa49-f509-4ce0-a2ba-dd9f3a306f25"
+    },
+    {
+      "brand": "Bio Mood Phase",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms of emotional distress, nervous anxiety, hyperactivity, and lack of concentration.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "edf90254-b37c-44ae-8512-695ae6d7192a"
+    },
+    {
+      "brand": "Detox III",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to improper breakdown and excretion of allergenic substances, including pain, fatigue, cramping and upper respiratory allergy.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "f039e62e-7c96-42f7-a514-05a02d6383b9"
+    },
+    {
+      "brand": "Hormone Combination",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to hormone imbalances of insufficiencies in men and women, including low energy, inability to handle stress, trouble focusing, changes in mood, infertility, irregular menstrual cycles (females), and lack of libido.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "f7054b6a-9abb-4baa-839b-361a05009672"
+    },
+    {
+      "brand": "BP Reg",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms related to blood pressure, such as headache, fatigue, confusion, and sexual dysfunction.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "f99833d8-d637-4c63-afe8-25eb2f05de6a"
+    },
+    {
+      "brand": "Bio Galium Phase",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms related to illness and infections such as cold and flu.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "ff0c1fc3-5fd1-4c06-87ef-499e7dc59f7b"
+    },
+    {
+      "brand": "Aller-Chord F",
+      "indication": "Uses Temporary relief of indigestion, skin irritations.",
+      "manufacturer": "Energetix Corp",
+      "splSetId": "ff4eb7b2-8272-4bd3-99a9-7e589b30d59a"
+    },
+    {
+      "brand": "Thyro Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to the thyroid system.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Pro Weight Loss Inc.",
+      "splSetId": "ffb39db7-0e4a-4193-9945-82db677d5354"
+    },
+    {
+      "brand": "Immune Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to infection, such as cough, fever, headache, fatigue, cold, muscle pain, sore throat, ear, nose and throat congestion.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "ffd2b958-c493-4d21-8641-7ec31bbe2e4b"
+    }
+  ],
+  "id": "Cortisone_Acetate",
+  "nciThesaurus": {
+    "casRegistry": "50-04-4",
+    "chebiId": "",
+    "chemicalFormula": "C23H30O6",
+    "definition": "The acetate salt form of cortisone, a synthetic or semisynthetic analog of the naturally occurring cortisone hormone produced by the adrenal glands with anti-inflammatory and immunomodulating properties. Cortisone acetate diffuses through the cell membrane and binds to nuclear glucocorticoid receptors. The receptor-ligand complex binds to promotor regions of certain genes and initiates RNA transcription. This results in an induction of synthesis of certain anti-inflammatory proteins while inhibiting the synthesis of certain inflammatory mediators.",
+    "fdaUniiCode": "883WKN7W8X",
+    "identifier": "C1058",
+    "preferredName": "Cortisone Acetate",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C521"
+    ],
+    "synonyms": [
+      "21-(Acetyloxy)-17-hydroxypregn-4-ene-3,11,20-trione",
+      "6alpha,9Difluoro-11beta,17,21-trihydroxypregna-1,4- diene-3,20-dione 21-acetate 17- Butyrate",
+      "CORTISONE ACETATE",
+      "Cortisone Acetate",
+      "Cortisone acetate",
+      "Cortogen",
+      "Cortone",
+      "Cortone acetate"
+    ]
+  }
+}

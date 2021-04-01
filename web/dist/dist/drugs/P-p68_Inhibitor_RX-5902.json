@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "P-p68_Inhibitor_RX-5902",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable small molecule inhibitor of phosphorylated-p68 RNA helicase (P-p68), with potential anti-proliferative and antineoplastic activity. Upon oral administration, P-p68 inhibitor RX-5902 may both inhibit the activity of the anti-apoptotic B-cell lymphoma 2 (Bcl-2) protein and facilitate the induction of cyclin-dependent kinase inhibitor 1 (p21). This may prevent G2/M cell cycle progression and lead to growth inhibition in tumor cells. P-p68 is overexpressed in various types of solid tumors but absent in normal tissues, and plays a role in tumor progression and metastasis. p21 is a potent cyclin-dependent kinase inhibitor which regulates cell cycle progression and mediates both growth arrest and cellular senescence.",
+    "fdaUniiCode": "ZU8OM8V5WF",
+    "identifier": "C113293",
+    "preferredName": "P-p68 Inhibitor RX-5902",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C471"
+    ],
+    "synonyms": [
+      "P-p68 Inhibitor RX-5902",
+      "RX-5902",
+      "SUPINOXIN",
+      "Supinoxin"
+    ]
+  }
+}

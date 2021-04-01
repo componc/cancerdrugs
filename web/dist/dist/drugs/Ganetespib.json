@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ganetespib",
+  "nciThesaurus": {
+    "casRegistry": "1143571-94-1",
+    "chebiId": "",
+    "chemicalFormula": "C20H20N4O3",
+    "definition": "A synthetic small-molecule inhibitor of heat shock protein 90 (Hsp90) with potential antineoplastic activity. Ganetespib binds to and inhibits Hsp90, resulting in the proteasomal degradation of oncogenic client proteins, the inhibition of cell proliferation and the elevation of heat shock protein 72 (Hsp72); it may inhibit the activity of multiple kinases, such as c-Kit, EGFR, and Bcr-Abl, which as client proteins depend on functional HsP90 for maintenance. Hsp90, a 90 kDa molecular chaperone upregulated in a variety of tumor cells, plays a key role in the conformational maturation, stability and function of \"client\" proteins within the cell, many of which are involved in signal transduction, cell cycle regulation and apoptosis, including kinases, transcription factors and hormone receptors.  Hsp72 exhibits anti-apoptotic functions; its up-regulation may be used as a surrogate marker for Hsp90 inhibition.",
+    "fdaUniiCode": "2E8412Y946",
+    "identifier": "C77872",
+    "preferredName": "Ganetespib",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C156880"
+    ],
+    "synonyms": [
+      "3-(2,4-dihydroxy-5-isopropylphenyl)-4-(1-methylindol-5-yl)-5-hydroxy-4h-1,2,4-triazole 3h-1,2,4-triazol-3-one",
+      "5-(2,4-dihydroxy-5-(1-methylethyl)phenyl)-2,4-dihydro-4-(1-methyl-1h-indol-5-yl)-",
+      "GANETESPIB",
+      "Ganetespib",
+      "Hsp90 Inhibitor STA-9090",
+      "STA-9090"
+    ]
+  }
+}

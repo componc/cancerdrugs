@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Liothyronine_I-131",
+  "nciThesaurus": {
+    "casRegistry": "20196-64-9",
+    "chebiId": "",
+    "chemicalFormula": "C15H12I3NO4",
+    "definition": "A radioconjugate of synthetic active thyroid hormone, liothyronine (T3), labeled with Iodine 131. Liothyronine involves many important metabolic functions and is essential to the proper development and differentiation of all cells. I131 liothyronine may be used in radiotherapy in thyroid cancers.",
+    "fdaUniiCode": "86AZ0G22V2",
+    "identifier": "C2396",
+    "preferredName": "Liothyronine I-131",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1553",
+      "C2124"
+    ],
+    "synonyms": [
+      "I 131 Liothyronine",
+      "LIOTHYRONINE I-131",
+      "Liothyronine I-131"
+    ]
+  }
+}

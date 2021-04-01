@@ -1,0 +1,36 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "Osilodrostat phosphate",
+      "conditionIndication": "Isturisa is indicated for the treatment of endogenous Cushing\u2019s syndrome in adults.",
+      "inn": "osilodrostat",
+      "marketingAuthorisationDate": "2020-01-09 01:00:00",
+      "marketingAuthorisationHolder": "Recordati Rare Diseases",
+      "medicineName": "Isturisa",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/isturisa"
+    }
+  ],
+  "fdaDrugLabel": [],
+  "id": "Osilodrostat",
+  "nciThesaurus": {
+    "casRegistry": "928134-65-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable inhibitor of both steroid 11beta-hydroxylase (cytochrome P450 (CYP) 11B1) and aldosterone synthase (CYP11B2; steroid 18-hydroxylase), with potential anti-adrenal activity and ability to treat Cushing disease (CD). Upon administration, osilodrostat binds to and inhibits the activity of CYP11B1, the enzyme that catalyzes the final step of cortisol synthesis from the precursor 11-deoxycortisol, and CYP11B2, the enzyme that catalyzes aldosterone synthesis from corticosterone and 11-deoxycorticosterone in the adrenal gland. The inhibition of CYP11B1 prevents the production of excess cortisol, thereby decreasing and normalizing the levels of cortisol. CD is most often caused by an adrenocorticotropic hormone (ACTH)-secreting pituitary tumor.",
+    "fdaUniiCode": "5YL4IQ1078",
+    "identifier": "C131535",
+    "preferredName": "Osilodrostat",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C471"
+    ],
+    "synonyms": [
+      "(R)-4-(6,7-Dihydro-5H-pyrrolo[1,2-c]imidazol-5-yl)-3-fluorobenzonitrile",
+      "LCI 699",
+      "LCI-699",
+      "LCI699",
+      "OSILODROSTAT",
+      "Osilodrostat"
+    ]
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Triazinate",
+  "nciThesaurus": {
+    "casRegistry": "41191-04-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic dihydrotriazine derivative with antineoplastic properties.  As an antifolate agent related to methotrexate (MTX), triazinate inhibits the enzyme dihydrofolate reductase (DHFR), resulting in decreased tetrahydrofolate production and interference with thymidylate synthesis.  Unlike MTX, this agent is not converted to polyglutamate forms. Triazinate also inhibits the transport of folates and may be selectively toxic to MTX-resistant tumor cells.",
+    "fdaUniiCode": "DD99Y262WC",
+    "identifier": "C1258",
+    "preferredName": "Triazinate",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2153",
+      "C511"
+    ],
+    "synonyms": [
+      "BAF",
+      "Baker's Antifol",
+      "Baker's Antifol soluble",
+      "Baker's Antifolate",
+      "Bakers Antifol",
+      "Bakers Antifolate",
+      "Benzenesulfonyl fluoride, 3-chloro-4-[4-[2-chloro-4-(4, 6-diamino-2,2-dimethyl-1,3,5-triazin-1(2H)-yl)phenyl]butyl]-, monoethanesulfonate (9CI)",
+      "Ethanesulfonic Acid Compound",
+      "Ethanesulfonic acid, compd. with 3-chloro-4-[4-[2-chloro-4-(4, 6-diamino-2, 2-dimethyl-s-triazin-1(2H)-yl)phenyl]butyl]benzenesulfonyl fluoride (1:1) (8CI)",
+      "Ethanesulfonic acid, compd. with 3-chloro-4-[4-[2-chloro-4-(4,6-diamino-2, 2-dimethyl-s-triazin-1(2H)-yl)phenyl]butyl]benzenesulfonyl fluoride",
+      "Ethanesulfonic acid, compd. with 3-chloro-4-[4-[2-chloro-4-(4,6-diamino-2,2-dimethyl-1,3, 5-triazin-1(2H)-yl)phenyl]butyl]benzenesulfonyl fluoride (1:1) (9CI)",
+      "Soluble Baker's Antifol",
+      "TRIAZINATE",
+      "TZT",
+      "Triazinate",
+      "alpha-(2-chloro-4-(4,6-diamino-2,2-dimethyl-s-trizin-1(2H)-yl)phenoxy)-N,N-dimethyl-m-toluamide ethanesulfonic acid",
+      "benzenesulfonyl fluoride, 3-chloro-4-[4-[2-chloro-4-(4, 6-diamino-2,2-dimethyl-1,3,5-triazin-1(2H)-yl)phenyl]butyl]-, monoethanesulfonate (9CI)",
+      "ethanesulfonic acid compound with 3-((2-chloro-4-(4,6-diamino-2,2-dimethyl-1,3,5-triazin-1(2H)-yl)phenoxy)methyl)-N,N-dimethylben zamide (1:1)",
+      "ethanesulfonic acid, compd. with 3-chloro-4-[4-[2-chloro-4-(4, 6-diamino-2, 2-dimethyl-s-triazin-1(2H)-yl)phenyl]butyl]benzenesulfonyl fluoride (1:1)(8CI)",
+      "ethanesulfonic acid, compd. with 3-chloro-4-[4-[2-chloro-4-(4,6-diamino-2, 2-dimethyl-s-triazin-1(2H)-yl)phenyl]butyl]benzenesulfonyl fluoride",
+      "ethanesulfonic acid, compd. with 3-chloro-4-[4-[2-chloro-4-(4,6-diamino-2,2-dimethyl-1,3, 5-triazin-1(2H)-yl)phenyl]butyl]benzenesulfonyl fluoride (1:1)(9CI)"
+    ]
+  }
+}

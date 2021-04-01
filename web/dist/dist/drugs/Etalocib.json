@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Etalocib",
+  "nciThesaurus": {
+    "casRegistry": "161172-51-6",
+    "chebiId": "",
+    "chemicalFormula": "C33H33FO6",
+    "definition": "A second-generation selective leukotriene B4 receptor (LTB4R) antagonist with potential antineoplastic activity. Although the exact underlying mechanism through which LY293111 exerts its effects has not been fully elucidated, this agent selectively binds to and blocks LTB4Rs, thereby inhibiting the downstream signalling pathway. LY29311 has been shown to induce apoptosis and inhibits cellular proliferation in LTB4R expressing cells, such as pancreatic cancer cells.",
+    "fdaUniiCode": "THY6RIW44R",
+    "identifier": "C1626",
+    "preferredName": "Etalocib",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C308"
+    ],
+    "synonyms": [
+      "2-[2-Propyl-3-[3-[2-ethyl-4-(4-fluorophenyl)-5-hydroxyphenoxy]propoxy]phenoxy]benzoic Acid",
+      "2-[3-[3-[(5-Ethyl-4'-fluoro-2-hydroxy[1,1'-biphenyl]-4-yl)oxy]propoxy]-2-propylphenoxy]benzoic Acid",
+      "ETALOCIB",
+      "Etalocib",
+      "LY293111"
+    ]
+  }
+}

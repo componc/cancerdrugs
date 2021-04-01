@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Lirentelimab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized, nonfucosylated immunoglobulin G1 (IgG1) monoclonal antibody directed against the inhibitory receptor sialic acid-binding immunoglobulin-like lectin 8 (Siglec-8) expressed on human mast cells and eosinophils, with potential anti-inflammatory activity. Upon administration, lirentelimab targets and binds to Siglec-8 expressed on the surface of mast cells and eosinophils. This may inhibit mast cell activation and deplete eosinophils through antibody-dependent cell-mediated cytotoxicity (ADCC) and apoptosis. This may reduce abnormal proliferation of mast cells and eosinophils, which plays a key role in allergic and inflammatory responses.",
+    "fdaUniiCode": "SWS48LJU3T",
+    "identifier": "C129591",
+    "preferredName": "Lirentelimab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "AK 002",
+      "AK002",
+      "LIRENTELIMAB",
+      "Lirentelimab",
+      "Monoclonal Antibody AK 002"
+    ]
+  }
+}

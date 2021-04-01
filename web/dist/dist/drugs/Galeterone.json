@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Galeterone",
+  "nciThesaurus": {
+    "casRegistry": "851983-85-2",
+    "chebiId": "",
+    "chemicalFormula": "C26H32N2O",
+    "definition": "An orally bioavailable small-molecule androgen receptor modulator and CYP17 lyase inhibitor with potential antiandrogen activity. Galeterone exhibits three distinct mechanisms of action: 1) as an androgen receptor antagonist, 2) as a CYP17 lyase inhibitor and 3) by decreasing overall androgen receptor levels in prostate cancer tumors, all of which may result in a decrease in androgen-dependent growth signaling. Localized to the endoplasmic reticulum (ER), the cytochrome P450 enzyme CYP17 (P450C17 or CYP17A1) exhibits both 17alpha-hydroxylase and 17,20-lyase activities, and plays a key role in the steroidogenic pathway that produces progestins, mineralocorticoids, glucocorticoids, androgens, and estrogens.",
+    "fdaUniiCode": "WA33E149SW",
+    "identifier": "C84866",
+    "preferredName": "Galeterone",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C471"
+    ],
+    "synonyms": [
+      "Androsta-5,16-dien-3-ol, 17-(1h-benzimidazol-1-yl)-, (3beta)-",
+      "GALETERONE",
+      "Galeterone",
+      "Specific Androgen Receptor Modulator/CYP17 Lyase Inhibitor TOK-001",
+      "TOK-001",
+      "VN/124",
+      "VN/124-1"
+    ]
+  }
+}

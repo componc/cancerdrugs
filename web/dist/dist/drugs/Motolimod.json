@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Motolimod",
+  "nciThesaurus": {
+    "casRegistry": "926927-61-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A small-molecule Toll-like receptor 8 (TLR8) agonist with potential immunostimulating and antineoplastic activities. Motolimod binds to TLR8, present in cutaneous dendritic cells, monocytes/macrophages, and mast cells, which may result in the activation of the central transcription factor nuclear factor-B, the secretion of proinflammatory cytokines and other mediators, and a Th1-weighted antitumoral cellular immune response. Primarily localized to endosomal membranes intracellularly, TLR8, like other TLRs, recognizes pathogen-associated molecular patterns (PAMPs) and plays a key role in the innate immune system.",
+    "fdaUniiCode": "WP6PY72ZH3",
+    "identifier": "C80521",
+    "preferredName": "Motolimod",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C177177"
+    ],
+    "synonyms": [
+      "MOTOLIMOD",
+      "Motolimod",
+      "Toll-like Receptor 8 Agonist VTX-2337",
+      "VTX-2337",
+      "VTX-378"
+    ]
+  }
+}

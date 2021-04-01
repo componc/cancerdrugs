@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Recombinant_Thyroglobulin",
+  "nciThesaurus": {
+    "casRegistry": "9010-34-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant form of thyroglobulin identical to or similar to the endogenous iodine-containing glycoprotein. Thyroglobulin is synthesized in the thyroid follicular cell, and is the precursor of thyroid hormones T3 and T4. Thyroglobulin levels can serve as a tumor marker for monitoring the status of differentiated thyroid carcinomas.",
+    "fdaUniiCode": "NN2P9VPL7M",
+    "identifier": "C884",
+    "preferredName": "Recombinant Thyroglobulin",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C1553"
+    ],
+    "synonyms": [
+      "Proloid",
+      "Recombinant Thyroglobulin",
+      "THYROGLOBULIN",
+      "Therapeutic TG",
+      "Thyroglobulin"
+    ]
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Zokinvy",
+      "indication": "1 INDICATIONS AND USAGE ZOKINVY is indicated in patients 12 months of age and older with a body surface area (BSA) of 0.39 m 2 and above: To reduce the risk of mortality in Hutchinson-Gilford Progeria Syndrome (HGPS) For the treatment of processing-deficient Progeroid Laminopathies with either: Heterozygous LMNA mutation with progerin-like protein accumulation Homozygous or compound heterozygous ZMPSTE24 mutations Limitations of Use ZOKINVY is not indicated for other Progeroid Syndromes or processing-proficient Progeroid Laminopathies. Based upon its mechanism of action, ZOKINVY would not be expected to be effective in these populations. ZOKINVY is a farnesyltransferase inhibitor indicated in patients 12 months of age and older with a body surface area of 0.39 m 2 and above ( 1 ): To reduce risk of mortality in Hutchinson-Gilford Progeria Syndrome For treatment of processing-deficient Progeroid Laminopathies with either: Heterozygous LMNA mutation with progerin-like protein accumulation Homozygous or compound heterozygous ZMPSTE24 mutations Limitations of Use Not indicated for other Progeroid Syndromes or processing-proficient Progeroid Laminopathies. Based upon its mechanism of action, ZOKINVY would not be expected to be effective in these populations ( 1 )",
+      "manufacturer": "Eiger BioPharmaceuticals, Inc.",
+      "splSetId": "956a142f-35d6-4fe3-8aef-7e4878d275ed"
+    }
+  ],
+  "id": "Lonafarnib",
+  "nciThesaurus": {
+    "casRegistry": "193275-84-2",
+    "chebiId": "",
+    "chemicalFormula": "C27H31Br2ClN4O2",
+    "definition": "A synthetic tricyclic derivative of carboxamide with antineoplastic properties.  Lonarfanib binds to and inhibits farnesyl transferase, an enzyme involved in the post-translational modification and activation of Ras proteins.  Ras proteins participate in numerous signalling pathways (proliferation, cytoskeletal organization), and play an important role in oncogenesis.  Mutated ras proteins have been found in a wide range of human cancers.",
+    "fdaUniiCode": "IOW153004F",
+    "identifier": "C1829",
+    "preferredName": "Lonafarnib",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2020"
+    ],
+    "synonyms": [
+      "4-[2-[4-(3,10-Dibromo-8-chloro-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridin-11-yl)-1-piperidinyl]-2-oxoethyl]-1-piperidinecarboxamide",
+      "4-[2-[4-[(11R)-3,10-Dibromo-8-chloro-6,11-dihydro-5H-benzo[5,6]cyclohepta[1,2-b]pyridin-11-yl]-1-piperidinyl]-2-oxoethyl]-1-piperidinecarboxamide",
+      "LONAFARNIB",
+      "Lonafarnib",
+      "SCH 66336",
+      "SCH-66336",
+      "SCH66336",
+      "Sarasar",
+      "lonafarnib"
+    ]
+  }
+}

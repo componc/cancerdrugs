@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Fursultiamine",
+  "nciThesaurus": {
+    "casRegistry": "804-30-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A nutritional supplement and vitamin B1 derivative, with potential antineoplastic activity. Upon oral administration, fursultiamine inhibits the expressions of octamer-binding transcription factor 4 (OCT-4), SRY (sex determining region Y)-box 2 (SOX-2), and Nanog homeobox (NANOG) in cancer stem cells (CSCs). This may inhibit the proliferation of CSCs thereby preventing tumor cell growth. In addition, fursultiamine inhibits the expression of ATP-binding cassette (ABC) transporters subfamily B member 1 (ABCB1) and subfamily G member 2 (ABCG2) in cancer CSCs, which may abrogate resistance to chemo- and radiotherapy in CSCs. CSCs promote tumor initiation, progression and metastasis; they play a key role in cancer recurrence and resistance to chemotherapy and radiation.",
+    "fdaUniiCode": "05J61265PX",
+    "identifier": "C121852",
+    "preferredName": "Fursultiamine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1505"
+    ],
+    "synonyms": [
+      "FURSULTIAMINE",
+      "Formamide, N-((4-amino-2-methyl-5-pyrimidinyl)methyl)-N-(4-hydroxy-1-methyl-2-(((tetrahydro-2-furanyl)methyl)dithio)-1-butenyl)-",
+      "Fursultiamine",
+      "TTFD",
+      "Thiamine Tetrahydrofurfuryl Disulfide"
+    ]
+  }
+}

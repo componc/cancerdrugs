@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Spirogermanium",
+  "nciThesaurus": {
+    "casRegistry": "41992-23-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A synthetic organometallic compound containing the element germanium with possible antineoplastic activity. Spirogermanium exhibits significant toxicity, particularly neurotoxicity.",
+    "fdaUniiCode": "1F01P3Y61E",
+    "identifier": "C1232",
+    "preferredName": "Spirogermanium",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2139"
+    ],
+    "synonyms": [
+      "2-[3-(Dimethyl-amino)propyl]-8,8-diethyl-2-aza-8-germaspiro[4,5]decane",
+      "8,8-Diethyl-N,N-dimethyl-3-aza-8-germaspiro[4,5]decane-2-propanamine",
+      "S 99 A",
+      "SPG",
+      "SPIROGERMANIUM",
+      "Spiro 32",
+      "Spiro-32",
+      "Spirogermanium",
+      "Spirogermanium Compound",
+      "Spirogermanium compound"
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "pertuzumab",
+      "conditionIndication": "Metastatic Breast Cancer:Perjeta is indicated for use in combination with trastuzumab and docetaxel in adult patients with HER2-positive metastatic or locally recurrent unresectable breast cancer, who have not received previous anti-HER2 therapy or chemotherapy for their metastatic disease.Neoadjuvant Treatment of Breast Cancer:Perjeta is indicated for use in combination with trastuzumab and chemotherapy for the neoadjuvant treatment of adult patients with HER2-positive, locally advanced, inflammatory, or early stage breast cancer at high risk of recurrence.",
+      "inn": "pertuzumab",
+      "marketingAuthorisationDate": "2013-03-04 01:00:00",
+      "marketingAuthorisationHolder": "Roche Registration GmbH\u00a0",
+      "medicineName": "Perjeta",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/perjeta"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "PERJETA",
+      "indication": "1 INDICATIONS AND USAGE PERJETA is a HER2/neu receptor antagonist indicated for: Use in combination with trastuzumab and docetaxel for treatment of patients with HER2-positive metastatic breast cancer (MBC) who have not received prior anti-HER2 therapy or chemotherapy for metastatic disease. ( 1.1 ) Use in combination with trastuzumab and chemotherapy as neoadjuvant treatment of patients with HER2-positive, locally advanced, inflammatory, or early stage breast cancer (either greater than 2 cm in diameter or node positive) as part of a complete treatment regimen for early breast cancer. ( 1.2 , 2.2 , 14.2 ) adjuvant treatment of patients with HER2-positive early breast cancer at high risk of recurrence ( 1.2 , 2.2 , 14.3 ) 1.1 Metastatic Breast Cancer (MBC) PERJETA is indicated for use in combination with trastuzumab and docetaxel for the treatment of patients with HER2-positive metastatic breast cancer who have not received prior anti-HER2 therapy or chemotherapy for metastatic disease [see Dosage and Administration (2.2) and Clinical Studies (14.1) ] . 1.2 Early Breast Cancer (EBC) PERJETA is indicated for use in combination with trastuzumab and chemotherapy for the neoadjuvant treatment of patients with HER2-positive, locally advanced, inflammatory, or early stage breast cancer (either greater than 2 cm in diameter or node positive) as part of a complete treatment regimen for early breast cancer [see Dosage and Administration (2.2) and Clinical Studies (14.2) ] . the adjuvant treatment of patients with HER2-positive early breast cancer at high risk of recurrence [see Dosage and Administration (2.2) and Clinical Studies (14.3) ] .",
+      "manufacturer": "Genentech, Inc.",
+      "splSetId": "17f85d17-ab71-4f5b-9fe3-0b8c822f69ff"
+    },
+    {
+      "brand": "Phesgo",
+      "indication": "1 INDICATIONS AND USAGE PHESGO is a combination of pertuzumab and trastuzumab, HER2/neu receptor antagonists, and hyaluronidase, an endoglycosidase, indicated for: Use in combination with chemotherapy as: neoadjuvant treatment of patients with HER2-positive, locally advanced, inflammatory, or early stage breast cancer (either greater than 2 cm in diameter or node positive) as part of a complete treatment regimen for early breast cancer. ( 1.1 ) adjuvant treatment of patients with HER2-positive early breast cancer at high risk of recurrence ( 1.1 ) Use in combination with docetaxel for treatment of patients with HER2-positive metastatic breast cancer (MBC) who have not received prior anti-HER2 therapy or chemotherapy for metastatic disease. ( 1.2 ) 1.1 Early Breast Cancer (EBC) PHESGO is indicated for use in combination with chemotherapy for the neoadjuvant treatment of adult patients with HER2-positive, locally advanced, inflammatory, or early stage breast cancer (either greater than 2 cm in diameter or node positive) as part of a complete treatment regimen for early breast cancer [see Dosage and Administration (2.2) and Clinical Studies (14.2) ] . the adjuvant treatment of adult patients with HER2-positive early breast cancer at high risk of recurrence [see Dosage and Administration (2.2) and Clinical Studies (14.2) ] . Select patients for therapy based on an FDA-approved companion diagnostic test [see Dosage and Administration (2.1) ]. 1.2 Metastatic Breast Cancer (MBC) PHESGO is indicated for use in combination with docetaxel for the treatment of adult patients with HER2-positive metastatic breast cancer who have not received prior anti-HER2 therapy or chemotherapy for metastatic disease [see Dosage and Administration (2.2) and Clinical Studies (14.1) ] . Select patients for therapy based on an FDA-approved companion diagnostic test [see Dosage and Administration (2.1) ].",
+      "manufacturer": "Genentech, Inc.",
+      "splSetId": "27dd5e6b-72cd-458d-a015-cf4dab5800da"
+    }
+  ],
+  "id": "Pertuzumab",
+  "nciThesaurus": {
+    "casRegistry": "380610-27-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized recombinant monoclonal antibody directed against the extracellular dimerization domain of the HER-2 tyrosine kinase receptor. Binding of the antibody to the dimerization domain of the HER-2 tyrosine kinase receptor protein directly inhibits the ability of the HER-2 tyrosine kinase receptor protein (the most common pairing partner) to dimerize with other HER tyrosine kinase receptor proteins; inhibiting receptor protein dimerization prevents the activation of HER signaling pathways, resulting in tumor cell apoptosis.",
+    "fdaUniiCode": "K16AIQ8CTM",
+    "identifier": "C38692",
+    "preferredName": "Pertuzumab",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C155711"
+    ],
+    "synonyms": [
+      "2C4",
+      "2C4 Antibody",
+      "Immunoglobulin G1, Anti-(Human V (Receptor)) (Human-Mouse Monoclonal 2C4 Heavy Chain), Disulfide with Human-Mouse Monoclonal 2C4 Kappa-Chain, Dimer",
+      "MoAb 2C4",
+      "Monoclonal Antibody 2C4",
+      "Omnitarg",
+      "PERTUZUMAB",
+      "Perjeta",
+      "Pertuzumab",
+      "RO4368451",
+      "pertuzumab",
+      "rhuMAb2C4"
+    ]
+  }
+}

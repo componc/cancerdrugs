@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Patritumab_Deruxtecan",
+  "nciThesaurus": {
+    "casRegistry": "2227102-46-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) composed of patritumab, a monoclonal antibody directed against the human epidermal growth factor receptor HER3 (ErbB3),linked to the topoisomerase I inhibitor DX 8951, a semisynthetic, water-soluble derivative of camptothecin, with potential antineoplastic activity. Upon administration of patritumab deruxtecan, the patritumab moiety targets and binds to HER3. After internalization, DX 8951 inhibits topoisomerase I activity by stabilizing the complex between topoisomerase I and DNA and inhibiting religation of DNA breaks, thereby inhibiting DNA replication and triggering apoptotic cell death. HER3, a member of the epidermal growth factor receptor (EGFR) family of receptor tyrosine kinases, is frequently overexpressed in tumors.",
+    "fdaUniiCode": "3XPI7EG4W8",
+    "identifier": "C136987",
+    "preferredName": "Patritumab Deruxtecan",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823"
+    ],
+    "synonyms": [
+      "Anti-HER3 Antibody-drug Conjugate U3 1402",
+      "PATRITUMAB DERUXTECAN",
+      "Patritumab Deruxtecan",
+      "U3 1402",
+      "U3-1402",
+      "U3-1402a"
+    ]
+  }
+}

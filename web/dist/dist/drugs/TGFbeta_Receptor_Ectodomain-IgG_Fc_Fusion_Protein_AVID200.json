@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "TGFbeta_Receptor_Ectodomain-IgG_Fc_Fusion_Protein_AVID200",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fusion protein composed of the ectodomain of the transforming growth factor (TGF) beta (TGF-beta; TGFb) receptor fused to the human immunoglobulin G (IgG) Fc domain, with potential antineoplastic, immunomodulating and anti-fibrotic activities. Upon administration of the TGFb receptor ectodomain-IgG Fc fusion protein AVID200, the fusion protein specifically and selectively targets, binds to and neutralizes the TGF ligands TGF-beta isoform 1 (TGFb1) and 3 (TGFb3). This prevents TGF ligands from binding to TGF receptors and prevents TGFb-mediated signaling. This abrogates TGFb1/3-mediated immunosuppression, enhances anti-tumor immunity in the tumor microenvironment (TME) and promotes a cytotoxic T-lymphocyte (CTL)-mediated immune response against tumor cells leading to tumor cell death. This may lead to a reduction in TGFb-dependent proliferation of cancer cells. By preventing TGFb1/3-mediated signaling, AVID200 also prevents bone marrow fibrosis and promotes the proliferation of normal hematopoietic progenitors. TGFb, overproduced in myelodysplastic syndrome (MDS) and in many other types of cancer, plays a key role in immunosuppression in the TME, enhances tumor cell proliferation, and promotes cancer progression. The TGFb1 and TGFb3 isoforms are negative regulators of hematopoiesis that play key roles in the pathogenesis and progression of fibrotic diseases. By selectively targeting only specific isoforms of TGFb with minimal activity against TGFb2, AVID200 minimizes the potential for cardiotoxicity and promotion of metastasis. The TGFb2 isoform promotes hematopoiesis and plays a key role in normal cardiac function while the inhibition of the TGFb2 isoform promotes metastasis.",
+    "fdaUniiCode": "6EX05GL2VK",
+    "identifier": "C159817",
+    "preferredName": "TGFbeta Receptor Ectodomain-IgG Fc Fusion Protein AVID200",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129820"
+    ],
+    "synonyms": [
+      "AVID 200",
+      "AVID-200",
+      "AVID200",
+      "TGF-beta 1/3 Inhibitor AVID200",
+      "TGFb Inhibitor AVID200",
+      "TGFbeta Ligand Trap AVID200",
+      "TGFbeta Receptor Ectodomain-IgG Fc Fusion Protein AVID200",
+      "TGFbeta-neutralizing Agent AVID200"
+    ]
+  }
+}

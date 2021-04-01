@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Recombinant_Tumor_Necrosis_Factor-Alpha",
+  "nciThesaurus": {
+    "casRegistry": "308079-78-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant therapeutic agent which is chemically identical to or similar to the endogenous cytokine tumor necrosis factor-alpha with antineoplastic properties.  Tumor necrosis factor-alpha binds to and activates \"death receptors\" on the cell surface, resulting in apoptosis and cell death by the p53-independent extrinsic pathway. This agent also disrupts tumor vascularization.",
+    "fdaUniiCode": "X2C8Z061MB",
+    "identifier": "C913",
+    "preferredName": "Recombinant Tumor Necrosis Factor-Alpha",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [],
+    "synonyms": [
+      "Cachectin",
+      "Recombinant Tumor Necrosis Factor-Alpha",
+      "SONERMIN",
+      "TNF-Alpha",
+      "TNFA",
+      "Tumor Necrosis Factor (TNF-alpha)"
+    ]
+  }
+}

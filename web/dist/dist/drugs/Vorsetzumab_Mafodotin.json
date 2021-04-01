@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Vorsetzumab_Mafodotin",
+  "nciThesaurus": {
+    "casRegistry": "1165741-01-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) consisting of a humanized monoclonal antibody, directed against the extracellular domain of the human CD70 molecule, conjugated to the auristatin analogue monomethyl auristatin phenylalanine (MMAF), with potential antineoplastic activity. The anti-CD70 antibody moiety of vorsetuzumab mafodotin selectively binds to the extracellular domain of CD70 on tumor cell surfaces. Upon internalization, the MMAF moiety is released, binds to tubulin and inhibits its polymerization, which may result in G2/M phase arrest, tumor cell apoptosis and inhibition of cellular proliferation in tumor cells that overexpress CD70. CD70, the ligand for the costimulatory receptor CD27 and a member of the tumor necrosis factor (TNF) family, is found on the surfaces of various types of cancer cells.",
+    "fdaUniiCode": "699619YVTQ",
+    "identifier": "C88315",
+    "preferredName": "Vorsetzumab Mafodotin",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "Anti-CD70 MoAb SGN70-MMAF Conjugate",
+      "SGN 75",
+      "SGN-75",
+      "VORSETUZUMAB MAFODOTIN",
+      "Vorsetzumab Mafodotin"
+    ]
+  }
+}

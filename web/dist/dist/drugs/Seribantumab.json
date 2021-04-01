@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Seribantumab",
+  "nciThesaurus": {
+    "casRegistry": "1334296-12-6",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fully human monoclonal antibody directed against the human epidermal growth factor receptor ErbB3 (Her3) with potential antineoplastic activity. Seribantumab binds to and inhibits ErbB3 activation, which may result in inhibition of ErbB3-dependent PI3K/Akt signaling and so inhibition of cellular proliferation and differentiation. ErbB3, a member of the epidermal growth factor receptor (EGFR) family of receptor tyrosine kinases, is frequently overexpressed in solid tumors, including breast, lung, and colorectal tumors of epithelial origin; it has no active kinase domain itself but is activated through heterodimerization with other members of the EGFR receptor family that do.",
+    "fdaUniiCode": "1N3L70MDFX",
+    "identifier": "C78859",
+    "preferredName": "Seribantumab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C20401"
+    ],
+    "synonyms": [
+      "MM-121",
+      "SAR 256212",
+      "SERIBANTUMAB",
+      "Seribantumab"
+    ]
+  }
+}

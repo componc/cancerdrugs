@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Imalumab",
+  "nciThesaurus": {
+    "casRegistry": "1430205-07-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A human, recombinant monoclonal antibody (MoAb) against macrophage migration inhibitory factor (MIF), with potential immunomodulating, anti-inflammatory and antineoplastic activities. Upon intravenous administration, imalumab binds to MIF, blocking its activity and preventing the MIF-mediated secretion of certain cytokines, including interleukin-1 beta and tumor necrosis factor-alpha. This may lead to an inhibition of cancer cell proliferation in MIF-overexpressing tumor cells. MIF, a pro-inflammatory cytokine overexpressed in some cancers, plays a key role in inflammation, immune responses and cancer cell proliferation.",
+    "fdaUniiCode": "22F97PC79G",
+    "identifier": "C104260",
+    "preferredName": "Imalumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "BAX-69",
+      "BAX069",
+      "BAX69",
+      "IMALUMAB",
+      "Imalumab",
+      "Immunoglobulin G1-kappa, Anti-(Homo sapiens MIF (Macrophage Migration Inhibitory Factor, Glycosylation-inhibiting Factor, GlIF, GIF)), Homo sapiens Monoclonal Antibody"
+    ]
+  }
+}

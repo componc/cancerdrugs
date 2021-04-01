@@ -1,0 +1,36 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Arthros",
+      "indication": "Uses For the relief of arthritic symptoms",
+      "manufacturer": "VIATREXX BIO INCORPORATED",
+      "splSetId": "3a54aad3-33ef-06de-f314-abbd7facb7df"
+    }
+  ],
+  "id": "Edodekin_alfa",
+  "nciThesaurus": {
+    "casRegistry": "187348-17-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant form of the endogenous heterodimeric cytokine interleukin-12 with potential antineoplastic activity.  Edodekin alfa binds to and activates its cell-surface receptor, stimulating the production of interferon-gamma (IFN) which, in turn, induces IFN-gamma-inducible protein-10 (IP-10) and so inhibits tumor angiogenesis.",
+    "fdaUniiCode": "31Z82G8ME1",
+    "identifier": "C1380",
+    "preferredName": "Edodekin alfa",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [],
+    "synonyms": [
+      "Cytotoxic Lymphocyte Maturation Factor",
+      "EDODEKIN ALFA",
+      "Edodekin alfa",
+      "IL-12",
+      "Interleukin 12",
+      "Interleukin-12",
+      "NM-IL-12",
+      "Natural Killer Cell Stimulatory Factor",
+      "Recombinant human interleukin-12 (IL-12) cytokine",
+      "Ro 24-7472",
+      "interleukin-12"
+    ]
+  }
+}

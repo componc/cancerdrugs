@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "RARalpha_Agonist_IRX5183",
+  "nciThesaurus": {
+    "casRegistry": "367273-07-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable retinoid acid receptor alpha (RARalpha) agonist and vitamin A derivative, with potential antineoplastic activity. Upon administration, RARalpha agonist IRX5183 binds to and activates RARalpha, which promotes RARalpha-mediated signaling. This results in the transcription of RARalpha-responsive genes, which are responsible for cellular differentiation and proliferation. This results in the induction of cellular differentiation and apoptosis, and leads to the inhibition of cellular proliferation and tumorigenesis. RARalpha is a nuclear receptor and a member of the steroid receptor superfamily; reduced RARalpha signaling is correlated with cancer development in a variety of cancer cell types.",
+    "fdaUniiCode": "RC87L028HU",
+    "identifier": "C77899",
+    "preferredName": "RARalpha Agonist IRX5183",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C804"
+    ],
+    "synonyms": [
+      "AGN 195183",
+      "AGN-195183",
+      "IRX 5183",
+      "IRX-5183",
+      "IRX5183",
+      "NRX 195183",
+      "NRX195183",
+      "RARa Agonist IRX5183",
+      "RARalpha Agonist IRX5183",
+      "VTP 195183",
+      "VTP-195183"
+    ]
+  }
+}

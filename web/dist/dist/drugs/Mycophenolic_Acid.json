@@ -1,0 +1,45 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Mycophenolic Acid",
+      "indication": "1 INDICATIONS AND USAGE \u2022 Mycophenolic acid delayed-release tablets are an antimetabolite immunosuppressant indicated for prophylaxis of organ rejection in adult patients receiving kidney transplants and in pediatric patients at least 5 years of age and older who are at least 6 months post kidney transplant. ( 1.1 ) \u2022 Use in combination with cyclosporine and corticosteroids. ( 1.1 ) Limitations of Use: \u2022 Mycophenolic acid delayed release tablets and mycophenolate mofetil tablets and capsules should not be used interchangeably. ( 1.2 ) 1.1 Prophylaxis of Organ Rejection in Kidney Transplant Mycophenolic acid delayed-release tablets are indicated for the prophylaxis of organ rejection in adult patients receiving a kidney transplant. Mycophenolic acid delayed-release tablets are indicated for the prophylaxis of organ rejection in pediatric patients 5 years of age and older who are at least 6 months post kidney transplant. Mycophenolic acid delayed-release tablets are to be used in combination with cyclosporine and corticosteroids. 1.2 Limitations of Use Mycophenolic acid delayed-release tablets and mycophenolate mofetil (MMF) tablets and capsules should not be used interchangeably without physician supervision because the rate of absorption following the administration of these two products is not equivalent.",
+      "manufacturer": "Mylan Pharmaceuticals Inc.",
+      "splSetId": "1da187b6-2664-4bef-8c3e-c66980bd6a33"
+    },
+    {
+      "brand": "Mycophenolic Acid",
+      "indication": "1 INDICATIONS AND USAGE Mycophenolic acid delayed-release tablets are an antimetabolite immunosuppressant indicated for prophylaxis of organ rejection in adult patients receiving kidney transplants and in pediatric patients at least 5 years of age and older who are at least 6 months post kidney transplant. ( 1.1 ) Use in combination with cyclosporine and corticosteroids. ( 1.1 ) Limitations of Use: Mycophenolic acid delayed release tablets and mycophenolate mofetil tablets and capsules should not be used interchangeably. ( 1.2 ) 1.1 Prophylaxis of Organ Rejection in Kidney Transplant Mycophenolic acid delayed-release tablets are indicated for the prophylaxis of organ rejection in adult patients receiving a kidney transplant. Mycophenolic acid delayed-release tablets are indicated for the prophylaxis of organ rejection in pediatric patients 5 years of age and older who are at least 6 months post kidney transplant. Mycophenolic acid delayed-release tablets are to be used in combination with cyclosporine and corticosteroids. 1.2 Limitations of Use Mycophenolic acid delayed-release tablets and mycophenolate mofetil (MMF) tablets and capsules should not be used interchangeably without physician supervision because the rate of absorption following the administration of these two products is not equivalent.",
+      "manufacturer": "Mylan Institutional Inc.",
+      "splSetId": "d7fbf301-0b08-4b19-bfa0-e0c0067cb5ab"
+    }
+  ],
+  "id": "Mycophenolic_Acid",
+  "nciThesaurus": {
+    "casRegistry": "24280-93-1",
+    "chebiId": "CHEBI:168396",
+    "chemicalFormula": "C17H20O6",
+    "definition": "An antineoplastic antibiotic derived from various Penicillium fungal species.  Mycophenolic acid is an active metabolite of the prodrug mycophenolate mofetil.  Mycophenolic acid inhibits inosine monophosphate dehydrogenase (IMPDH), preventing the formation of guanosine monophosphate and synthesis of lymphocyte DNA that results in inhibition of lymphocyte proliferation, antibody production, cellular adhesion, and migration of T and B lymphocytes.  Mycophenolic acid also has antibacterial, antifungal, and antiviral activities.",
+    "fdaUniiCode": "HU9DX48N0T",
+    "identifier": "C673",
+    "preferredName": "Mycophenolic Acid",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C2087",
+      "C574"
+    ],
+    "synonyms": [
+      "4-Hexenoic acid, 6-(1,3-dihydro-4-hydroxy-6-methoxy-7-methyl-3-oxo-5-isobenzofuranyl)-4-methyl-, (E)-",
+      "4-Hexenoic acid, 6-(4-hydroxy-6-methoxy-7-methyl-3-oxo-5-phthalanyl)-4-methyl-, (E)-",
+      "Acide mycophenolique",
+      "Acido micofenolico",
+      "Acidum mycophenolicum",
+      "Lilly-68618",
+      "Ly 68618",
+      "MPA",
+      "MYCOPHENOLIC ACID",
+      "Mycophenolic Acid",
+      "Myfortic"
+    ]
+  }
+}

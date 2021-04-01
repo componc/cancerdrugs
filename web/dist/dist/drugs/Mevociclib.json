@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mevociclib",
+  "nciThesaurus": {
+    "casRegistry": "1816989-16-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A selective inhibitor of cyclin-dependent kinase 7 (CDK7), with potential antineoplastic activity. Upon administration, SY-1365 binds to and inhibits CDK7, thereby inhibiting CDK7-mediated signal transduction pathways. This inhibits cell growth of CDK7-overexpressing tumor cells. CDK7, a serine/threonine kinase, plays a key role in cell proliferation; CDK7 is overexpressed in a variety of tumor cell types.",
+    "fdaUniiCode": "704LW082GI",
+    "identifier": "C139552",
+    "preferredName": "Mevociclib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825"
+    ],
+    "synonyms": [
+      "CDK7 Inhibitor SY-1365",
+      "MEVOCICLIB",
+      "Mevociclib",
+      "SY-1365",
+      "SY1365"
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Modakafusp_Alfa",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A proprietary preparation composed of an immunoglobulin G4 (IgG4) directed against the cell surface glycoprotein CD-38 (CD38) that is fused to an attenuated form of human interferon alpha (IFN alpha; IFNa), with potential immunomodulating and antineoplastic activities. Upon administration, modakafusp alfa specifically targets and binds to CD38 on CD38-positive tumor cells. In turn, the IFNa moiety binds to cell-surface IFN receptors, and activates IFN-mediated signal transduction pathways, which results in the transcription and translation of genes whose products may cause antiproliferative effects in CD38-positive tumor cells. CD38, a type II transmembrane glycoprotein, is present on various immune cells and hematologic malignancies, and its expression has been correlated with poor prognosis.",
+    "fdaUniiCode": "TN8CEX4UT2",
+    "identifier": "C140427",
+    "preferredName": "Modakafusp Alfa",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129820",
+      "C164008"
+    ],
+    "synonyms": [
+      "Anti-CD38-targeted IgG4-attenuated IFNa TAK-573",
+      "Anti-CD38-targeted IgG4-attenuated Interferon Alpha TAK-573",
+      "CD38-targeted IgG4 Fused with Attenuated IFNa",
+      "MODAKAFUSP ALFA",
+      "Modakafusp Alfa",
+      "TAK-573",
+      "TEV-48573"
+    ]
+  }
+}

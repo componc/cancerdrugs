@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Cinobufagin",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A bufadienolide compound extracted from the dried venom secreted by the parotid glands of toads and one of the glycosides in the traditional Chinese medicine ChanSu, with potential antineoplastic activity. Although the mechanism of action of cinobufagin is still under investigation, it has been found to suppress cancer cell proliferation and cause apoptosis in cancer cells via a sequence of apoptotic modulators that include mitochondrial Bax and cytosolic chromosome c, and caspases 3, 8, and 9. Possible upstream mediators of cinobufagin-induced apoptosis include Fas and p53.",
+    "fdaUniiCode": "T9PSN4R8IR",
+    "identifier": "C95021",
+    "preferredName": "Cinobufagin",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C129839",
+      "C45653"
+    ],
+    "synonyms": [
+      "CINOBUFAGIN",
+      "Cinobufacini",
+      "Cinobufagin"
+    ]
+  }
+}

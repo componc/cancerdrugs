@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Parsatuzumab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized IgG1 monoclonal antibody directed against the epidermal growth factor-like domain multiple 7 (EGFL7) with potential antineoplastic activity. Parsatuzumab binds to EGFL7, thereby preventing the activities of EGFL7 on endothelial cells and inhibiting the survival and migration of endothelial cells during angiogenesis. EGFL7, a vascular-restricted extracellular matrix protein which is upregulated during angiogenesis and which regulates vascular development, may be overexpressed on the cell surfaces of various solid tumor cell types.",
+    "fdaUniiCode": "435M4HCP2M",
+    "identifier": "C90567",
+    "preferredName": "Parsatuzumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-Epidermal Growth Factor-like Domain 7 Monoclonal Antibody MEGF0444A",
+      "MEGF 0444A",
+      "MEGF0444A",
+      "PARSATUZUMAB",
+      "Parsatuzumab",
+      "RG 7414",
+      "RG7414"
+    ]
+  }
+}

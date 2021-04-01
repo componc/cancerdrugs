@@ -1,0 +1,38 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "dabrafenib mesilate",
+      "conditionIndication": "MelanomaDabrafenib as monotherapy or in combination with trametinib is indicated for the treatment of adult patients with unresectable or metastatic melanoma with a BRAF V600 mutation.Adjuvant treatment of melanomaDabrafenib in combination with trametinib is indicated for the adjuvant treatment of adult patients with Stage III melanoma with a BRAF V600 mutation, following complete resection.Non small cell lung cancer (NSCLC)Dabrafenib in combination with trametinib is indicated for the treatment of adult patients with advanced non small cell lung cancer with a BRAF V600 mutation.",
+      "inn": "dabrafenib",
+      "marketingAuthorisationDate": "2013-08-26 00:00:00",
+      "marketingAuthorisationHolder": "Novartis Europharm Limited",
+      "medicineName": "Tafinlar",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/tafinlar"
+    }
+  ],
+  "fdaDrugLabel": [],
+  "id": "Dabrafenib",
+  "nciThesaurus": {
+    "casRegistry": "1195765-45-7",
+    "chebiId": "",
+    "chemicalFormula": "C23H20F3N5O2S2",
+    "definition": "An orally bioavailable inhibitor of B-raf (BRAF) protein with potential antineoplastic activity. Dabrafenib selectively binds to and inhibits the activity of B-raf, which may inhibit the proliferation of tumor cells which contain a mutated BRAF gene. B-raf belongs to the raf/mil family of serine/threonine protein kinases and plays a role in regulating the MAP kinase/ERKs signaling pathway, which may be constitutively activated due to BRAF gene mutations.",
+    "fdaUniiCode": "QGP4HA4G1B",
+    "identifier": "C82386",
+    "preferredName": "Dabrafenib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C155322"
+    ],
+    "synonyms": [
+      "BRAF Inhibitor GSK2118436",
+      "Benzenesulfonamide, N-(3-(5-(2-amino-4-pyrimidinyl)-2-(1,1-dimethylethyl)-4-thiazolyl)-2-fluorophenyl)-2,6-difluoro-",
+      "DABRAFENIB",
+      "Dabrafenib",
+      "GSK-2118436",
+      "GSK-2118436A",
+      "GSK2118436"
+    ]
+  }
+}

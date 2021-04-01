@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Losoxantrone",
+  "nciThesaurus": {
+    "casRegistry": "88303-60-0",
+    "chebiId": "",
+    "chemicalFormula": "C22H27N5O4",
+    "definition": "An anthrapyrazole-based antineoplastic antibiotic. Losoxantrone intercalates into DNA, induces single- and double-stranded DNA breaks and inhibits topoisomerase II, thereby inhibiting DNA replication and repair as well as RNA and protein synthesis. Losoxantrone is less cardiotoxic than doxorubicin.",
+    "fdaUniiCode": "47KPH00809",
+    "identifier": "C1521",
+    "preferredName": "Losoxantrone",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2107"
+    ],
+    "synonyms": [
+      "Biantrazole",
+      "CI-941",
+      "DuP 941",
+      "LOSOXANTRONE",
+      "Losoxantrone",
+      "losoxantrone"
+    ]
+  }
+}

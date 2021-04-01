@@ -1,0 +1,38 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Lutathera",
+      "indication": "1 INDICATIONS AND USAGE LUTATHERA is indicated for the treatment of somatostatin receptor-positive gastroenteropancreatic neuroendocrine tumors (GEP-NETs), including foregut, midgut, and hindgut neuroendocrine tumors in adults. LUTATHERA is a radiolabeled somatostatin analog indicated for the treatment of somatostatin receptor-positive gastroenteropancreatic neuroendocrine tumors (GEP-NETs), including foregut, midgut, and hindgut neuroendocrine tumors in adults.",
+      "manufacturer": "Advanced Accelerator Applications USA, Inc",
+      "splSetId": "72d1a024-00b7-418a-b36e-b2cb48f2ab55"
+    }
+  ],
+  "id": "Lutetium_Lu_177_Dotatate",
+  "nciThesaurus": {
+    "casRegistry": "437608-50-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A radioconjugate consisting of the tyrosine-containing somatostatin analog Tyr3-octreotate (TATE) conjugated with the bifunctional, macrocyclic chelating agent tetra-azacyclododecanetetra-acetic acid (DOTA) and radiolabeled with the beta-emitting radioisotope lutetium Lu 177, with potential imaging and antineoplastic activities. Lutetium Lu 177 dotatate binds to somatostatin receptors (SSTRs), with high affinity to type 2 SSTR, present on the cell membranes of many types of neuroendocrine tumor (NET) cells. Upon binding and internalization, this radioconjugate specifically delivers a cytotoxic dose of beta radiation to SSTR-positive cells. Tyr3-octreotate (TATE) is an octreotide derivative in which phenylalanine at position 3 is substituted by tyrosine and position 8 threoninol is replaced with threonine. SSTRs have been shown to be present in large numbers on NET and their metastases, while most other normal tissues express low levels of SSTRs.",
+    "fdaUniiCode": "AE221IM3BB",
+    "identifier": "C95020",
+    "preferredName": "Lutetium Lu 177 Dotatate",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129819",
+      "C2124"
+    ],
+    "synonyms": [
+      "177 Lu-DOTA-TATE",
+      "177 Lu-DOTA-Tyr3-Octreotate",
+      "177Lu-DOTA0-Tyr3-Octreotate",
+      "LUTETIUM OXODOTREOTIDE LU-177",
+      "Lutathera",
+      "Lutetium Lu 177 DOTA(0)-Tyr(3)-Octreotate",
+      "Lutetium Lu 177 Dotatate",
+      "Lutetium Lu 177-DOTA-Tyr3-Octreotate",
+      "Lutetium Oxodotreotide Lu-177",
+      "lutetium Lu 177-DOTATATE"
+    ]
+  }
+}

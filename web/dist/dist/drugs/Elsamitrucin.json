@@ -1,0 +1,32 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Elsamitrucin",
+  "nciThesaurus": {
+    "casRegistry": "97068-30-9",
+    "chebiId": "",
+    "chemicalFormula": "C33H35NO13",
+    "definition": "An heterocyclic antineoplastic antibiotic isolated from the bacterium Actinomycete strain J907-21.  Elsamitrucin intercalates into DNA at guanine-cytosine (G-C)-rich sequences and inhibits topoisomerase I and II, resulting in single-strand breaks and inhibition of DNA replication.",
+    "fdaUniiCode": "ZTV0FOB6NU",
+    "identifier": "C1080",
+    "preferredName": "Elsamitrucin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C1968",
+      "C259"
+    ],
+    "synonyms": [
+      "10-O-Elsaminosylelsarosylchartarin",
+      "BBM 2478A",
+      "BMY-28090",
+      "BRN 5214813",
+      "Benzo(h)(1)benzopyrano(5,4,3-cde)(1)ebnzopyran-5,12-dione,10((2-O-(2-amino-2,6-dideoxy-3-O-methyl-alpha-D-galactopyranosyl)-6-deoxy-3-C-methyl-beta-D-galactopyranosyl)oxy)-6-hydroxy-1-methyl",
+      "ELSAMITRUCIN",
+      "Elsamicin A",
+      "Elsamitrucin",
+      "Elsamitrucina",
+      "Elsamitrucine",
+      "Elsamitrucinum"
+    ]
+  }
+}

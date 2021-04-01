@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pibrozelesin",
+  "nciThesaurus": {
+    "casRegistry": "154889-68-6",
+    "chebiId": "",
+    "chemicalFormula": "C32H36BrN5O8",
+    "definition": "A semisynthetic water-soluble derivative of the antineoplastic antibiotic duocarmycin B2.  Activated by carboxyl esterase, pibrozelesin alkylates DNA by binding to adenine-thymine (A-T)-rich sequences in the minor groove of DNA, thereby inhibiting DNA replication and inducing apoptosis.",
+    "fdaUniiCode": "IHK933KCIC",
+    "identifier": "C1542",
+    "preferredName": "Pibrozelesin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C2156"
+    ],
+    "synonyms": [
+      "Benzo(1,2-b:4,3-b')dipyrrole-1-carboxylic Acid, 8-(bromomethyl)-3,6,7,8-tetrahydro-2-methy-4-(((4-methyl-1-piperazinyl)carbonyl)oxy)-6-((5,6,7,-trimethoxy-1H-indol-2-yl)carbonyl)-, Methyl Ester (S)",
+      "Duocamycin B2 Analog",
+      "KW 2189",
+      "KW-2189",
+      "KW2189",
+      "PIBROZELESIN",
+      "Pibrozelesin"
+    ]
+  }
+}

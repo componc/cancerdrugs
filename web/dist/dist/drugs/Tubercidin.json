@@ -1,0 +1,32 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tubercidin",
+  "nciThesaurus": {
+    "casRegistry": "69-33-0",
+    "chebiId": "CHEBI:48267",
+    "chemicalFormula": "C11H14N4O4",
+    "definition": "An antibiotic and adenosine analog isolated from the bacterium Streptomyces tubercidicus with potential antineoplastic activity.  Tubercidin is incorporated into DNA and inhibits polymerases, thereby inhibiting DNA replication and RNA and protein synthesis.  This agent also exhibits antifungal and antiviral activities.",
+    "fdaUniiCode": "M351LCX45Y",
+    "identifier": "C911",
+    "preferredName": "Tubercidin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C1556"
+    ],
+    "synonyms": [
+      "4-Amino-7-.beta.-D-ribofuranosyl-7H-pyrrolo[2, 3-d]pyrimidine",
+      "4-Amino-7.beta.-D-ribofuranosyl-7H-pyrrolo(2, 3-d)pyrimidine",
+      "4-amino-7-beta-D-ribofuranosyl-7H-pyrrolo[2,3-d]pyrimidine",
+      "7-Deazaadenosine",
+      "7-beta-D-ribofuranosyl-7H-pyrrolo[2,3-d]pyrimidin-4-amine",
+      "7-deazaadenosine",
+      "7H-Pyrrolo(2,3-d)pyrimidine, 4-amino-7.beta.-D-ribofuranosyl-",
+      "7H-Pyrrolo[2,3-d]pyrimidine, 4-amino-7-.beta.-D-ribofuranosyl-",
+      "TUBERCIDIN",
+      "Tubercidin",
+      "U 10071",
+      "U-10071"
+    ]
+  }
+}

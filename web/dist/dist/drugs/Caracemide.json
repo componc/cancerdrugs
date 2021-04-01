@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Caracemide",
+  "nciThesaurus": {
+    "casRegistry": "81424-67-1",
+    "chebiId": "",
+    "chemicalFormula": "C6H11N3O4",
+    "definition": "An agent derived from acetohydroxamic acid with potential antineoplastic activity.  Caracemide inhibits ribonuclease reductase, resulting in decreased DNA synthesis and tumor growth; it also inhibits acetylcholinesterase.  In vivo, caracemide contributes to the formation of the neurotoxin methyl isocyanate; this effect, along with the agent's acetylcholinesterase activity, may be responsible for the severe central nervous system toxicity observed in clinical trials.",
+    "fdaUniiCode": "H74F6J185A",
+    "identifier": "C1037",
+    "preferredName": "Caracemide",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2150"
+    ],
+    "synonyms": [
+      "Acetamide, N-[(Methylamino)carbonyl]-N-[[(methylamino)carbonyl]oxy]-(9CI)",
+      "Acetamide, N-[(methylamino)carbonyl]-N-[[(methylamino)carbonyl]oxy]- (9CI)",
+      "CARACEMIDE",
+      "Caracemide",
+      "N-Acetyl-N-(methylcarbamoyloxy)-N'-methylurea"
+    ]
+  }
+}

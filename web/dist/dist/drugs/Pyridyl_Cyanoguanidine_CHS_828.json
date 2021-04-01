@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pyridyl_Cyanoguanidine_CHS_828",
+  "nciThesaurus": {
+    "casRegistry": "200484-11-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A pyridyl cyanoguanidine that exhibits antitumor activity by an unknown mechanism. (NCI)",
+    "fdaUniiCode": "8LAP87DNSZ",
+    "identifier": "C1852",
+    "preferredName": "Pyridyl Cyanoguanidine CHS 828",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C129825"
+    ],
+    "synonyms": [
+      "CHS 828",
+      "CHS-828",
+      "N-(6-(4-Chlorophenoxy)hexyl)-N'-Cyano-N''-4-Pyridylcyanoguanidine",
+      "Pyridyl Cyanoguanidine CHS 828"
+    ]
+  }
+}

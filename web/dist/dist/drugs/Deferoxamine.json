@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Deferoxamine",
+  "nciThesaurus": {
+    "casRegistry": "70-51-9",
+    "chebiId": "CHEBI:4356",
+    "chemicalFormula": "C25H48N6O8",
+    "definition": "An iron-chelating agent that binds free iron in a stable complex, preventing it from engaging in chemical reactions. Deferoxamine chelates iron from intra-lysosomal ferritin and siderin forming ferrioxamine, a water-soluble chelate excreted by the kidneys and in the feces via the bile.  This agent does not readily bind iron from transferrin, hemoglobin, myoglobin or cytochrome.",
+    "fdaUniiCode": "J06Y7MXW4D",
+    "identifier": "C416",
+    "preferredName": "Deferoxamine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C360"
+    ],
+    "synonyms": [
+      "1-Amino-6,17-dihydroxy-7,10,18,21-tetraoxo-27-(n-acetylhydroxylamino)-6,11,17,22-tetraazaheptaeicosane",
+      "DEFEROXAMINE",
+      "Deferoxamine",
+      "Desferrioxamine",
+      "N'-[5-[[4-[[5-(Acetylhydroxyamino)pentyl]amino]-1,4-dioxobutyl]hydroxyamino]pentyl]-N-(5-aminopentyl)-N-hydroxybutanediamide",
+      "N-[5-[3-[(5-Aminopentyl)hydroxycarbamoyl]propionamido]pentyl]-3-[[5-(N-hydroxyacetamido)pentyl]carbamoyl]propionohydroxamic Acid",
+      "deferoxamine"
+    ]
+  }
+}

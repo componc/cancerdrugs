@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Exisulind",
+  "nciThesaurus": {
+    "casRegistry": "59973-80-7",
+    "chebiId": "CHEBI:64212",
+    "chemicalFormula": "C20H17FO4S",
+    "definition": "An inactive metabolite of the nonsteroidal, anti-inflammatory agent sulindac.  After oral administration, sulindac undergoes extensive biotransformation including irreversible oxidation to sulindac sulfone.  Approximately, one half of an administered dose of sulindac is eliminated through the urine, mostly as the conjugated sulfone metabolite.",
+    "fdaUniiCode": "K619IIG2R9",
+    "identifier": "C1239",
+    "preferredName": "Exisulind",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1323"
+    ],
+    "synonyms": [
+      "(Z)-5-Fluoro-2-methyl-1-[[4-(methylsulfonyl)phenyl]methylene]-1H-indene-3-acetic Acid",
+      "1H-Indene-3-acetic Acid, 5-Fluoro-2-methyl-1-((4-(methylsulfonyl)phenyl)methylene), (Z)",
+      "Aptosyn",
+      "EXISULIND",
+      "Exisulind",
+      "FGN-1",
+      "Sulindac Sulfone",
+      "Sulindac sulfone",
+      "exisulind"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pirarubicin",
+  "nciThesaurus": {
+    "casRegistry": "72496-41-4",
+    "chebiId": "",
+    "chemicalFormula": "C32H37NO12",
+    "definition": "An analogue of the anthracycline antineoplastic antibiotic doxorubicin.  Pirarubicin intercalates into DNA and interacts with topoisomerase II, thereby inhibiting DNA replication and repair and RNA and protein synthesis.  This agent is less cardiotoxic than doxorubicin and exhibits activity against some doxorubicin-resistant cell lines.",
+    "fdaUniiCode": "D58G680W0G",
+    "identifier": "C1197",
+    "preferredName": "Pirarubicin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C1594"
+    ],
+    "synonyms": [
+      "(2\"R)-4'-O-Tetrahydropyranyladriamycin",
+      "(8S,10S)-10-[[3-Amino-2,3,6-trideoxy-4-O-(tetrahydro-2H-pyran-3-yl)-alpha-L-lyxo-hexopyranosyl]oxy]-8-glycoloyl-7,8,9,10-tetrahydro-6,8,11-trihydroxy-1-methoxy-5,12-naphthacenedione",
+      "1609RB",
+      "4'-O-Tetrahydropyranyl Doxorubicin",
+      "PIRARUBICIN",
+      "Pinorubicin",
+      "Pirarubicin",
+      "THP-ADM",
+      "THP-Adriamycin",
+      "THP-DOX",
+      "THP-Doxorubicin",
+      "Tepirubicin",
+      "Tetrahydropyranyl-Doxorubicin",
+      "Theprubicin",
+      "Theprubicine",
+      "Therarubicin",
+      "[8S-[8Alpha,10alpha(S*)]]-10-[[3-amino-2,3,6-trideoxy-4-O-(tetrahydro-2H-pyran-2-yl)-alpha-L-lyxo-hexopyranosyl]oxy]-7,8,9,10-tetrahydro-6,8,11-trihydroxy-8-(hydroxyacetyl)-1-methoxy-5,12-naphthacenedione"
+    ]
+  }
+}

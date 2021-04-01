@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Configuration
-RELEASE = '2021-03'
+RELEASE = '2021-04'
 
 BASE_PATH = os.path.dirname(os.path.realpath(__file__))
 DIST_FOLDER = os.path.join(BASE_PATH, 'dist')

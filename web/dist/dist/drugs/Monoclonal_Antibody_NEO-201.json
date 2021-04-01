@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Monoclonal_Antibody_NEO-201",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized immunoglobulin G1 (IgG1) monoclonal antibody derived from an immunogenic preparation of tumor-associated antigens (TAAs) from pooled allogeneic colon cancer tissue extracts, with potential antineoplastic and immunomodulatory activities. Upon intravenous administration, monoclonal antibody NEO-201 targets and binds to malignant tissues with tumor-specific mutations in the membrane-anchored proteins, carcinoembryonic antigen-related cell adhesion molecules 5 and 6 (CEACAM5 and CEACAM6). This prevents the interaction between tumor cell CEACAM 5 and natural killer (NK) cell CEACAM1, and reverses CEACAM1-dependent inhibition of NK cytotoxicity. This may result in the activation of NKs and results in NK-mediated tumor cell killing. Additionally, monoclonal antibody NEO-201 may activate innate immune responses against tumor cells such as antibody-dependent cellular cytotoxicity (ADCC) and complement-dependent cytotoxicity (CDC). CEACAM 5, and 6 are members of the CEA family of proteins. These membrane proteins are over expressed in a variety of cancer cell types and play a key role in cell migration, invasion, and adhesion.",
+    "fdaUniiCode": "41E6FO0DX2",
+    "identifier": "C156398",
+    "preferredName": "Monoclonal Antibody NEO-201",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C20401"
+    ],
+    "synonyms": [
+      "Monoclonal Antibody NEO-201",
+      "NEO 201",
+      "NEO-201",
+      "NEO201",
+      "Neoantigen-targeting Antibody NEO-201",
+      "h16C3",
+      "h16C3 Antibody"
+    ]
+  }
+}

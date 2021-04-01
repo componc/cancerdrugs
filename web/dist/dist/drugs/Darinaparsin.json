@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Darinaparsin",
+  "nciThesaurus": {
+    "casRegistry": "69819-86-9",
+    "chebiId": "",
+    "chemicalFormula": "C12H22AsN3O6S",
+    "definition": "A small-molecule organic arsenical with potential antineoplastic activity. Although the exact mechanism of action is unclear, darinaparsin, a highly toxic metabolic intermediate of inorganic arsenicals (iAs) that occurs in vivo, appears to generate volatile cytotoxic arsenic compounds when glutathione (GSH) concentrations are low. The arsenic compounds generated from darinaparsin disrupt mitochondrial bioenergetics, producing reactive oxygen species (ROS) and inducing ROS-mediated tumor cell apoptosis; in addition, this agent or its byproducts may initiate cell death by interrupting the G2/M phase of the cell cycle and may exhibit antiangiogenic effects. Compared to inorganic arsenic compounds such as arsenic trioxide (As2O3), darinaparsin appears to exhibit a wide therapeutic window.",
+    "fdaUniiCode": "9XX54M675G",
+    "identifier": "C61490",
+    "preferredName": "Darinaparsin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C177298"
+    ],
+    "synonyms": [
+      "DARINAPARSIN",
+      "DMAIII(SG)",
+      "Darinaparsin",
+      "S-Dimethylarsino-Glutathione",
+      "ZIO-101"
+    ]
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Yttrium_Y_90-Edotreotide",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A radioconjugate consisting of the octreotide derivative edotreotide labeled with yttrium 90 (Y-90) with potential radiotherapeutic uses. Similar to octreotide, yttrium Y 90-edotreotide binds to somatostatin receptors (SSTRs), especially type 2 receptors, present on the cell membranes of many types of neuroendocrine tumor cells, delivering tissue-specific, beta-emitting nuclide Y-90-mediated cytotoxicity to SSTR-positive cells. Yttrium Y 90-edotreotide is produced by substituting tyrosine for phenylalanine at the 3 position of the somatostatin analogue octreotide and chelating the substituted octreotide to Y-90 via dodecanetetraacetic acid (DOTA).",
+    "fdaUniiCode": "ABF7OG3FA3",
+    "identifier": "C2601",
+    "preferredName": "Yttrium Y 90-Edotreotide",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129819",
+      "C2124"
+    ],
+    "synonyms": [
+      "90Y-DOTA-3-Tyr-Octreotide",
+      "EDOTREOTIDE YTTRIUM Y-90",
+      "OctreoTher",
+      "Onalta",
+      "Yttrium Y 90 -DOTATOC",
+      "Yttrium Y 90 SMT 487",
+      "Yttrium Y 90-DOTA-3-tyrosine-octreotide",
+      "Yttrium Y 90-DOTA-Tyr3-Octreotide",
+      "Yttrium Y 90-Edotreotide",
+      "yttrium Y 90 SMT 487",
+      "yttrium Y 90 edotreotide",
+      "yttrium Y 90-DOTA-tyr3-octreotide"
+    ]
+  }
+}

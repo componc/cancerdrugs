@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "FarnesyltransferaseGeranylgeranyltransferase_Inhibitor_L-778123",
+  "nciThesaurus": {
+    "casRegistry": "253863-00-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A benzonitrile derivative capable of inhibiting some prenyltransferases. L-778,123 is a dual inhibitor of farnesyl:protein and geranylgeranyl:protein transferases; both enzymes catalyze prenylation of oncoprotein KRAS, a prerequisite step in activation of KRAS in signal transduction pathway of apoptosis. Although this agent was developed in part as an anti-KRAS agent, L-778,123 failed in a Phase I trial to inhibit KRAS, which is associated with many types of solid tumors.",
+    "fdaUniiCode": "2A2059P49U",
+    "identifier": "C1840",
+    "preferredName": "Farnesyltransferase/Geranylgeranyltransferase Inhibitor L-778,123",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2020"
+    ],
+    "synonyms": [
+      "4-[[5-[[4-(3-Chlorophenyl)-3-oxo-1-piperazinyl]methyl]-1H-imidazol-1-yl]methyl]benzonitrile Monohydrochloride",
+      "Farnesyltransferase/Geranylgeranyltransferase Inhibitor L-778,123",
+      "L 778123",
+      "L-778,123",
+      "L-778123"
+    ]
+  }
+}

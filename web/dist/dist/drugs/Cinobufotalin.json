@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Cinobufotalin",
+  "nciThesaurus": {
+    "casRegistry": "1108-68-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A bufadienolide isolated from toad venom and utilized in traditional Chinese medicine (TCM) for its cardiotonic, diuretic and hemostatic effects, with potential cytotoxic and antineoplastic activities. Upon administration and although the exact mechanism of action(s) (MoAs) through which this agent exerts its effects have yet to be fully discovered, cinobufotalin causes DNA fragmentation, decreases mitochondrial membrane potential (MMP), increases intracellular calcium (Ca2+) ion concentrations and reactive oxygen species (ROS) production, upregulates Fas protein and activates cytochrome C, various caspases, Bid and Bax. This causes cell cycle arrest, induces apoptosis and inhibits tumor cell growth and survival. In addition, cinobufotalin inhibits the activity of sphingosine kinase 1 (SphK1) and induces pro-apoptotic ceramide production, which further promotes tumor cell apoptosis. Cinobufotalin also induces mitochondrial protein cyclophilin D (Cyp-D)-dependent opening of the mitochondrial permeability transition pore (mPTP), which may contribute to cinobufotalin-induced non-apoptotic death of certain tumor cells.",
+    "fdaUniiCode": "L0QBZ37386",
+    "identifier": "C151929",
+    "preferredName": "Cinobufotalin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129986"
+    ],
+    "synonyms": [
+      "14,15b-Epoxy-3b,5a,16b-trihydroxy-5b,20(22)-bufadienolide 16-Acetate",
+      "5-Beta-bufa-20,22-dienolide, 14,15-beta-epoxy-3-beta,5,16-beta-trihydroxy-, 16-Acetate",
+      "5b,20(22)-Bufadienolide-14,15b-epoxy-3b,5a,16b-triol 16-Acetate",
+      "CB",
+      "CINOBUFOTALIN",
+      "Cinobufotalin"
+    ]
+  }
+}

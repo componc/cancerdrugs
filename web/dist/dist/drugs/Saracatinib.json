@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Saracatinib",
+  "nciThesaurus": {
+    "casRegistry": "379231-04-6",
+    "chebiId": "",
+    "chemicalFormula": "C27H32ClN5O5",
+    "definition": "An orally available 5-, 7-substituted anilinoquinazoline with anti-invasive and anti-tumor activities. Saracatinib is a dual-specific inhibitor of Src and Abl, protein tyrosine kinases that are overexpressed in chronic myeloid leukemia cells. This agent binds to and inhibits these tyrosine kinases and affects cell motility, cell migration, adhesion, invasion, proliferation, differentiation, and survival. Specifically, Saracatinib inhibits Src kinase-mediated osteoclast bone resorption.",
+    "fdaUniiCode": "9KD24QGH76",
+    "identifier": "C48378",
+    "preferredName": "Saracatinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1967"
+    ],
+    "synonyms": [
+      "4-Quinazolinamine, N-(5-chloro-1,3-benzodioxol-4-yl)-7-[2-(4-methyl-1-piperazinyl)ethoxy]-5-[(tetrahydro-2H-pyran-4-yl)oxy]-",
+      "AZD0530",
+      "N-(5-Chloro-1,3-Benzodioxol-4-Yl)-7-(2-(4-Methylpiperazin-1-yl)Ethoxy)-5-((Oxan-4-yl)Oxy)Quinazolin-4-Amine",
+      "SARACATINIB",
+      "SRC Kinase Inhibitor AZD0530",
+      "Saracatinib"
+    ]
+  }
+}

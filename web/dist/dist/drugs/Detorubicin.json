@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Detorubicin",
+  "nciThesaurus": {
+    "casRegistry": "66211-92-5",
+    "chebiId": "",
+    "chemicalFormula": "C33H39NO14",
+    "definition": "A semi-synthetic derivative of the anthracycline antineoplastic antibiotic daunorubicin. Detorubicin intercalates into DNA and interacts with topoisomerase II, thereby inhibiting DNA replication and repair and RNA and protein synthesis. This agent also produces toxic free-radical intermediates and interacts with cell membrane lipids causing lipid peroxidation. Detorubicin is less toxic than daunorubicin.",
+    "fdaUniiCode": "822EC3XEJZ",
+    "identifier": "C1066",
+    "preferredName": "Detorubicin",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C1594"
+    ],
+    "synonyms": [
+      "14-Diethoxyacetoxydaunorubicin",
+      "DETORUBICIN",
+      "Detorubicin",
+      "Diethoxy-,2-(4-((3-amino-2,3,6-trideoxy-alpha-L-lyxo-hexopyranosyl)oxy)-1,2,3,4,6,11-hexahydro-2,5,12-trihydroxy-7-methoxy-6,11-dioxo-2-naphthacenyl)-2-oxoethyl ester,(2S-cis) Acetic Acid"
+    ]
+  }
+}

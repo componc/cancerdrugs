@@ -1,0 +1,54 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "raloxifene hydrochloride",
+      "conditionIndication": "Evista is indicated for the treatment and prevention of osteoporosis in post-menopausal women. A significant reduction in the incidence of vertebral, but not hip fractures has been demonstrated. When determining the choice of Evista or other therapies, including oestrogens, for an individual postmenopausal woman, consideration should be given to menopausal symptoms, effects on uterine and breast tissues, and cardiovascular risks and benefits., ",
+      "inn": "raloxifene",
+      "marketingAuthorisationDate": "1998-08-05 00:00:00",
+      "marketingAuthorisationHolder": "Substipharm",
+      "medicineName": "Evista",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/evista"
+    },
+    {
+      "activeSubstance": "raloxifene hydrochloride",
+      "conditionIndication": "Raloxifene is indicated for the treatment and prevention of osteoporosis in postmenopausal women. A significant reduction in the incidence of vertebral, but not hip fractures has been demonstrated.When determining the choice of raloxifene or other therapies, including oestrogens, for an individual postmenopausal woman, consideration should be given to menopausal symptoms, effects on uterine and breast tissues, and cardiovascular risks and benefits.",
+      "inn": "raloxifene",
+      "marketingAuthorisationDate": "2010-04-29 00:00:00",
+      "marketingAuthorisationHolder": "Teva B.V.",
+      "medicineName": "Raloxifene Teva",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/raloxifene-teva"
+    },
+    {
+      "activeSubstance": "raloxifene hydrochloride",
+      "conditionIndication": "Optruma is indicated for the treatment and prevention of osteoporosis in post-menopausal women. A significant reduction in the incidence of vertebral, but not hip fractures has been demonstrated. When determining the choice of Optruma or other therapies, including oestrogens, for an individual postmenopausal woman, consideration should be given to menopausal symptoms, effects on uterine and breast tissues, and cardiovascular risks and benefits (see section 5.1).",
+      "inn": "raloxifene",
+      "marketingAuthorisationDate": "1998-08-05 00:00:00",
+      "marketingAuthorisationHolder": "Eli Lilly Nederland B.V.",
+      "medicineName": "Optruma",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/optruma"
+    }
+  ],
+  "fdaDrugLabel": [],
+  "id": "Raloxifene",
+  "nciThesaurus": {
+    "casRegistry": "84449-90-1",
+    "chebiId": "CHEBI:8772",
+    "chemicalFormula": "C28H27NO4S",
+    "definition": "A selective benzothiophene estrogen receptor modulator (SERM).  Raloxifene binds to estrogen receptors (ER) as a mixed estrogen agonist/antagonist; it displays both an ER-alpha-selective partial agonist/antagonist effect and a pure ER-beta-selective antagonist effect.  This agent functions as an estrogen agonist in some tissues (bones, lipid metabolism) and as an estrogen antagonist in others (endometrium and breasts), with the potential for producing some of estrogen's beneficial effects without producing its adverse effects.",
+    "fdaUniiCode": "YX9162EO3I",
+    "identifier": "C1518",
+    "preferredName": "Raloxifene",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C1821"
+    ],
+    "synonyms": [
+      "Keoxifene",
+      "LY 139481",
+      "RALOXIFENE",
+      "Raloxifene",
+      "[6-Hydroxy-2-(4-hydroxyphenyl)-benzo[b]thien-3-yl][4-[2-(1-piperidinyl)ethoxy]phenyl]methanone",
+      "raloxifene"
+    ]
+  }
+}

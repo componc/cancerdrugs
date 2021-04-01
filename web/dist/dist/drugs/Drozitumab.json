@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Drozitumab",
+  "nciThesaurus": {
+    "casRegistry": "912628-39-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "",
+    "fdaUniiCode": "SQ67484MA7",
+    "identifier": "C95784",
+    "preferredName": "Drozitumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C20401"
+    ],
+    "synonyms": [
+      "Anti-DR5 Monoclonal Antibody",
+      "DROZITUMAB",
+      "Drozitumab",
+      "Immunoglobulin G1, anti-(human tumor necrosis factor receptor superfamily member 10B (death receptor 5, TRAIL-R2, CD262 antigen)); [113-lysine,116-threonine,360-glutamic acid,362-methionine]human monoclonal gamma-1 heavy chain (224-212')-disulfide with human monoclonal lambda-3 light chain (230-230'':233-233'')-bisdisulfide dimer",
+      "PRO95780",
+      "rhuMAb DR5"
+    ]
+  }
+}

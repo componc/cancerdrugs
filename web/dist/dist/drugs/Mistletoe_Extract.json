@@ -1,0 +1,635 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Viscum Quercus (I) 0.01",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "000a0275-cf01-488e-a54c-be7bdf9e8f0d"
+    },
+    {
+      "brand": "Viscum Abietis",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc",
+      "splSetId": "015de29e-9658-4868-94ca-9096b3f0b7a9"
+    },
+    {
+      "brand": "Energize",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to the thyroid system.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "02e3d6d8-ea32-4cfa-bd9b-0d6e72bb4552"
+    },
+    {
+      "brand": "Viscum Pini",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc",
+      "splSetId": "03ba9cf0-46c0-416a-b5bf-11ea5b5cdc4f"
+    },
+    {
+      "brand": "Bambusa Pulsatilla",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "0776c3be-088d-422c-9c12-08fcaae823e1"
+    },
+    {
+      "brand": "Viscum Abietis 5",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "0af15879-5c5c-472b-9968-1de0ac47dea1"
+    },
+    {
+      "brand": "Viscum Crataegus",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "0f5dab7b-bcb2-462c-b975-c1b7fea16f4f"
+    },
+    {
+      "brand": "Viscum Abietis Series 1 7ml",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "1079dfb7-f046-4949-a3c8-0b57336add4e"
+    },
+    {
+      "brand": "Viscum Abietis Series 2",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "13e32aee-e1f6-4e2d-9064-a9bccdc7ee69"
+    },
+    {
+      "brand": "Immune Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to infection, such as cough, fever, headache, fatigue, cold, muscle pain, sore throat, ear, nose and throat congestion.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "141d45e7-1fc7-48c6-b9e3-f65b82a3d710"
+    },
+    {
+      "brand": "Bio Thalamus Phase",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms such as discomfort, swelling and joint pain that result from arthritis or neurological diseases.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "15062c49-4a76-404d-b952-37c7da9b120a"
+    },
+    {
+      "brand": "Viscum Populi Series 1",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "165ebe12-3c64-4180-b5ed-b1ed0f6280e6"
+    },
+    {
+      "brand": "Thyro Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to the thyroid system.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Pro Weight Loss Inc.",
+      "splSetId": "171e9798-35ac-498b-944e-0173c46188d7"
+    },
+    {
+      "brand": "co-HYPERT",
+      "indication": "Indications For relief of occasional nervous tension. Application of this homeopathic remedy for the designated usage is exclusively based on homeopathic experience. With severe forms of this disease, a clinically proven therapy is indicated.",
+      "manufacturer": "PEKANA Naturheilmittel GmbH",
+      "splSetId": "19ba62c0-2c49-47c4-9406-0e637df04b75"
+    },
+    {
+      "brand": "EBV/CFS Plus",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to viral infections such as fever, fatigue, lack of appetite, rash, sore throat, weakness of muscles, sore muscles, swelling of tonsils, chills, headaches.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "1c744874-554e-4039-b72c-24bb59e5021f"
+    },
+    {
+      "brand": "Renes Mesenchyme",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "1cdf5f04-90f2-43c7-a7ae-c56e6f23ab60"
+    },
+    {
+      "brand": "Viscum Pini (I) 2",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "1d508b86-22d7-41ce-84be-8c3ef90c9a9d"
+    },
+    {
+      "brand": "Cerebellum Thalamus B",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "1e89ad67-fd08-44c3-933e-d23bd6c10ea2"
+    },
+    {
+      "brand": "Viracomp",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of the symptoms of viral infections such as congestion, coughing, fever, fatigue, ongoing muscle or joint pain, lesions, lack of appetite, and GI discomfort.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "1fa5bb94-f497-4490-bdc0-f6b89ea14f7c"
+    },
+    {
+      "brand": "Viracomp",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of the symptoms of viral infections such as congestion, coughing, fever, fatigue, ongoing muscle or joint pain, lesions, lack of appetite, and GI discomfort.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "2039884c-6203-4b49-878e-8cc4d3c6338b"
+    },
+    {
+      "brand": "Rheumatism Cough",
+      "indication": "Indications Indications: To be used for acute self-limiting conditions according to standard homeopathic indications",
+      "manufacturer": "Natural Health Supply",
+      "splSetId": "2298f7f0-a1a8-4c80-8dcf-c7ec2d303a0a"
+    },
+    {
+      "brand": "Viscum Quercus (I) 1",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "2877b2dd-c293-4f84-95dd-b811751b7fc0"
+    },
+    {
+      "brand": "Viscum Populi Series 2",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "2a2c7248-b9b3-4e87-9948-1eda55fcff6a"
+    },
+    {
+      "brand": "Energize",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to the thyroid system.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "2e84b17d-66e8-4586-98ba-64cd54c92102"
+    },
+    {
+      "brand": "Berberis Viscum",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "30abbbd6-1657-4959-9f07-85ddf45f1119"
+    },
+    {
+      "brand": "Magnesium sulf. Bryonia",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "312c250c-e464-41fc-8cc6-e53eb66d6944"
+    },
+    {
+      "brand": "Apizelen",
+      "indication": "INDICATIONS: For temporary relief of fatigue, indigestion, and flatulent colic.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "3162459e-681f-4a8a-82f1-2dcf8f5c14dd"
+    },
+    {
+      "brand": "Viscum album",
+      "indication": "INDICATIONS Indications: VISCUM Tearing pain",
+      "manufacturer": "Washington Homeopathic Products",
+      "splSetId": "341f2db1-1ad9-471b-ba00-277e5f03a3fc"
+    },
+    {
+      "brand": "Viscum Mali 1",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "374ee67c-6837-4618-b3a1-9f875af11301"
+    },
+    {
+      "brand": "Viscum Pini Series 1",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "38322f9f-6396-45a9-b3e3-4b50d9a8b810"
+    },
+    {
+      "brand": "Viscum Crataegi",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc",
+      "splSetId": "39aa8b8e-26b6-49c7-9259-5a00d6525fa6"
+    },
+    {
+      "brand": "Viscum Mali 20",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "3e961f78-56dc-4882-9169-027e36e9bd84"
+    },
+    {
+      "brand": "Liver Drainage",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms related to the cleansing and detoxifying of the liver, such as poor digestion, irregularity and low energy levels.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "3f8db86f-6324-42fa-8da1-74a9e9503aba"
+    },
+    {
+      "brand": "Viscum Abietis 100",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "41aea12a-e79c-45b0-9d2a-938f1d8bab67"
+    },
+    {
+      "brand": "Chavita 6",
+      "indication": "\u200bUses: \u200b(\u2020) Homeopathic remedy for headache and sinus pain.",
+      "manufacturer": "RUBIMED AG",
+      "splSetId": "41fbd328-cc30-49d0-a077-d5982d50c0b1"
+    },
+    {
+      "brand": "Argentum Viscum",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "443fe934-f658-41b3-ad7c-f4ae765e0299"
+    },
+    {
+      "brand": "Immune Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to infection, such as cough, fever, headache, fatigue, cold, muscle pain, sore throat, ear, nose and throat congestion.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "4669b93f-5f16-4da5-ac54-5cda2d2ef52d"
+    },
+    {
+      "brand": "Viscum Mali 5",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "4743b0b4-e192-46da-84c8-16e36c5479af"
+    },
+    {
+      "brand": "Viscum Mali (I) 2",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "49365e6e-2714-46b6-86f7-97caaf604845"
+    },
+    {
+      "brand": "Viscum Mali (I) 1",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "4ba62e25-d465-4778-8f36-f7357c3bb9ea"
+    },
+    {
+      "brand": "Lymph-Tone III",
+      "indication": "Uses Temporary relief of muscle and joint discomfort, low vitality, disrupted sleep, disturbed digestion.",
+      "manufacturer": "Energetix Corporation",
+      "splSetId": "4c9ae54c-ce7d-4276-add7-2922a8f0e310"
+    },
+    {
+      "brand": "Viscum Echinacea",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "4f1e8a2b-8a1d-463b-ad85-8b07bfb0199c"
+    },
+    {
+      "brand": "Viscum Mali 4",
+      "indication": "Directions: ONLY FOR USE AS A NASAL SPRAY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "4fb3cc30-1b67-4a96-88a6-80aff66097e3"
+    },
+    {
+      "brand": "Viscum Abietis 100mg",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "543479f4-23b0-6a80-e054-00144ff88e88"
+    },
+    {
+      "brand": "Viscum Abietis 50mg",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "5434dea2-c3ba-0324-e054-00144ff88e88"
+    },
+    {
+      "brand": "Viscum Pini 50mg",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "54351529-07bf-0624-e054-00144ff88e88"
+    },
+    {
+      "brand": "Viscum Mali 100mg",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "543515c9-9c63-1948-e054-00144ff88e88"
+    },
+    {
+      "brand": "Viscum Pini 100mg",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "543515c9-9c82-1948-e054-00144ff88e88"
+    },
+    {
+      "brand": "Energize",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to the thyroid system.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals",
+      "splSetId": "54e8f581-9286-4784-bd48-68f8a2e5eba4"
+    },
+    {
+      "brand": "Viscum Mali e pl. tota 6",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "55b38445-0a81-4148-84a7-371ead864fc2"
+    },
+    {
+      "brand": "Viscum Populi",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc",
+      "splSetId": "55dc1aae-380f-4e11-80da-db4747bf528b"
+    },
+    {
+      "brand": "Viscum Quercus (I) 2",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "56a2f2ab-f5ef-4cbf-a4dc-53c66a12a692"
+    },
+    {
+      "brand": "Energy Catalyst",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to mineral imbalance in the body including fatigue, dehydration, nervousness and cramping pains.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "56e45b1a-44ff-46b9-b301-331bd3c9c5c2"
+    },
+    {
+      "brand": "VISCUM",
+      "indication": "Indications For relief of minor dizziness and nausea. Application of this homeopathic remedy for the designated usage is exclusively based on homeopathic experience. With severe forms of this disease, a clinically proven therapy is indicated.",
+      "manufacturer": "PEKANA Natuheilmittel GmbH",
+      "splSetId": "57e8c581-afeb-42a6-a012-a09d658c6bb6"
+    },
+    {
+      "brand": "Viscumforce",
+      "indication": "INDICATIONS: For temporary relief of buzzing and stopped-up feeling in ears, cold feet, and numbness in the limbs.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "5848e409-f0b5-4323-ad00-8d058e85aaf4"
+    },
+    {
+      "brand": "inflamyar",
+      "indication": "Uses Application of this homeopathic remedy for the designated usage is exclusively based on homeopathic experience. These \"Uses\" have not been evaluated by the Food and Drug Administration. With severe forms of this disease, a clinically proven therapy is indicated. For relief of minor sports injuries, including muscle strains, joint pain, sprains, and bruises",
+      "manufacturer": "PEKANA Naturheilmittel GmbH",
+      "splSetId": "5852fec1-b05f-4e06-ba3b-8aae9f2d55e5"
+    },
+    {
+      "brand": "Bio Thalamus Phase",
+      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms such as discomfort, swelling and joint pain that result from arthritis or neurological diseases.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "5a403d4e-fb05-4934-8f6b-3100a266a81f"
+    },
+    {
+      "brand": "Viscum 3",
+      "indication": "Directions: FOR TOPICAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "5c1404c0-5255-4bf8-9671-d5bc78aa4453"
+    },
+    {
+      "brand": "Viscum Album",
+      "indication": "Use: Homeopathic support for whole body health of multiple organ systems. May also be used for standard homeopathic indications or as directed by your physician.",
+      "manufacturer": "True Botanica, LLC",
+      "splSetId": "61992670-f775-7448-e053-2a91aa0acf79"
+    },
+    {
+      "brand": "Viscum Mali e pl. tota 30",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6270c1de-6824-4a77-8025-84c4bdb59aa3"
+    },
+    {
+      "brand": "Equisetum Viscum",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "62efe564-58db-4250-b8a4-2a4e62545b9e"
+    },
+    {
+      "brand": "Energize",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to the thyroid system.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "633f7d82-6cfd-4bc2-8fd3-a52bde0f9cd5"
+    },
+    {
+      "brand": "Viscum Abietis Series 2 7ml",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "647e906b-71cb-482b-8f75-a00bf2180fe9"
+    },
+    {
+      "brand": "Viscum Crataegus",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "64860e61-2938-4ac7-8072-da1a58946327"
+    },
+    {
+      "brand": "Visconsin Mali 0.1",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "65049d3d-75fb-186f-e053-2991aa0aa108"
+    },
+    {
+      "brand": "Viscum Pini e pl. tota 4",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "659c465d-a359-47df-9776-8a66c3628653"
+    },
+    {
+      "brand": "Energize",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to the thyroid system.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals",
+      "splSetId": "660967d0-b2fe-4cf2-9a39-4d28454e1fdc"
+    },
+    {
+      "brand": "Immune Support",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to infections, such as cough, flu, fever, headache, fatigue, cold, muscle pain, sore throat, ear, nose and throat congestion.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "67baf8d0-a23e-44c5-84b7-54ec0173b78b"
+    },
+    {
+      "brand": "Viscum album",
+      "indication": "Dizziness and fatigue improved by fresh air*",
+      "manufacturer": "Boiron",
+      "splSetId": "68598135-4163-9972-e053-2a91aa0ac65c"
+    },
+    {
+      "brand": "Viscum Tiliae Series 1",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "69b58b06-2456-442b-8417-7835f77b9ea4"
+    },
+    {
+      "brand": "Bambusa Argentum",
+      "indication": "Directions: FOR RECTAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6b51413d-74db-cfd2-e053-2a91aa0a5ad4"
+    },
+    {
+      "brand": "Renes Veratrum Special Order",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6bb510ca-2e9a-063a-e053-2a91aa0a1d82"
+    },
+    {
+      "brand": "Visconsin Mali 1",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6bcc1a02-d105-25a2-e053-2a91aa0aeaed"
+    },
+    {
+      "brand": "Visconsin Mali 5",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6bd96e6b-883a-6f53-e053-2a91aa0abb91"
+    },
+    {
+      "brand": "Visconsin Mali 30",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6bda4098-ab6d-69e1-e053-2991aa0a4ab2"
+    },
+    {
+      "brand": "Visconsin Mali 10",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6bda6007-a585-2b08-e053-2991aa0a9224"
+    },
+    {
+      "brand": "Visconsin Mali 20",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6bda95a3-b3f1-0e97-e053-2a91aa0a10a2"
+    },
+    {
+      "brand": "Visconsin Mali 50",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6bdac64a-165e-2617-e053-2a91aa0a0fe7"
+    },
+    {
+      "brand": "Viscum Quercus 1%",
+      "indication": "Directions: ONLY FOR USE AS A NASAL SPRAY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6c2a8386-cb0a-745e-e053-2a91aa0af0af"
+    },
+    {
+      "brand": "Viscum Abietis Special Series 2",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6c2cbf19-d274-e8e6-e053-2991aa0acadb"
+    },
+    {
+      "brand": "Viscum Crataegi 10 Special Order",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6c2da50b-a6e5-699d-e053-2a91aa0a0cc0"
+    },
+    {
+      "brand": "Viscum Mali Special Series 1 7ml",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6c2f3305-fa38-7bd4-e053-2991aa0a1fa0"
+    },
+    {
+      "brand": "Viscum Pini Special Series 2",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6c2fe3ca-a4b1-2cac-e053-2a91aa0aa4be"
+    },
+    {
+      "brand": "Viscum Tiliae Special Series 2",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6c303517-4662-6533-e053-2991aa0a4c40"
+    },
+    {
+      "brand": "Viscum Special Series C",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6c53d03a-84c4-dc8b-e053-2991aa0aa1e3"
+    },
+    {
+      "brand": "Viscum Quercus Special Series 2",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6c544eed-a9e4-d8d2-e053-2a91aa0aec74"
+    },
+    {
+      "brand": "Viscum Mali Special Series 1",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6c66e32c-51ae-c70b-e053-2991aa0ab258"
+    },
+    {
+      "brand": "Viscum Mali Special Series 2",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6c671f9c-ab70-c070-e053-2a91aa0abdf6"
+    },
+    {
+      "brand": "Viscum Pini (I) 0.01 Special Order",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6c677d17-80ec-508f-e053-2991aa0a2953"
+    },
+    {
+      "brand": "Viscum Pini Special Series 4 7ml",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6c67a057-57bc-268d-e053-2a91aa0afce8"
+    },
+    {
+      "brand": "Viscum Crataegi Special Series 2",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6c67fe9d-55aa-0d5e-e053-2991aa0a09bc"
+    },
+    {
+      "brand": "Viscum Pini (I) 0.1",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6d7039a3-ad1d-1838-e053-2a91aa0ac689"
+    },
+    {
+      "brand": "Viscum Tiliae Series 2",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6dabd8ca-20eb-4b2d-a59c-a4ca70babfac"
+    },
+    {
+      "brand": "Viscum Pini Series 2",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "6f9711fb-1f1a-4b42-8753-33646b6bdc84"
+    },
+    {
+      "brand": "Viscum Abietis 50",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "70b9dffb-a98b-4810-8ee8-af30fd4a0b73"
+    },
+    {
+      "brand": "Viscum Abietis 10",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "70c0766a-3965-49bd-9d9e-e87a299b18ba"
+    },
+    {
+      "brand": "Bio Viscum Phase",
+      "indication": "HOMEOPATHIC INDICATIONS: For the termporary relief of frontal headache, rheumatism, and neuralgia.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "7140b843-b19c-4759-8165-3b80f8adb0bb"
+    },
+    {
+      "brand": "Viscum Pini 30",
+      "indication": "Directions: FOR ORAL USE.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "71868acd-a0d2-40e5-a201-f757dd2dff5a"
+    },
+    {
+      "brand": "Estrogen and Progesterone",
+      "indication": "INDICATIONS: Temporarily supports the body to rebalance estrogen output. Symptoms may include: mood swings, hot flashes, irritability, lack of energy.",
+      "manufacturer": "ProBLEN",
+      "splSetId": "71fec93b-43b7-4ebb-ab5c-5f544d8e6cbf"
+    }
+  ],
+  "id": "Mistletoe_Extract",
+  "nciThesaurus": {
+    "casRegistry": "84929-55-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An extract of the whole plant Viscum album (mistletoe) with potential biological response modifier (BRM) activity. Mistletoe extract may both stimulate the antitumoral functions of the immune system and have a direct toxic effect on tumor cells.",
+    "fdaUniiCode": "BK9092J5MP",
+    "identifier": "C2703",
+    "preferredName": "Mistletoe Extract",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C106105"
+    ],
+    "synonyms": [
+      "Abnobaviscum",
+      "Apotheker Bauer's Misteltinktur",
+      "Cefalektin",
+      "Eurixor",
+      "Helixor",
+      "Iscador",
+      "Isorel",
+      "Isugran",
+      "Lektinol",
+      "Mistel Curarina",
+      "Mistel- Krautertabletten",
+      "Mistelol-Kapseln",
+      "Mistletoe Extract",
+      "Plenosol N",
+      "VISCUM ALBUM FRUITING TOP",
+      "Viscum",
+      "Viscum Album Extract",
+      "Viscum album Extract",
+      "Viscysat",
+      "mistletoe lectin"
+    ]
+  }
+}

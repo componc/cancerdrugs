@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Dilpacimab",
+  "nciThesaurus": {
+    "casRegistry": "1791420-09-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A dual-specific, tetravalent immunoglobulin (Ig) G-like molecule targeting two as of yet not publicly known targets, with potential antineoplastic activity. The target-binding variable domains of two monoclonal antibodies, which are not publicly known, are combined, via linkers, to create the tetravalent, dual-targeting single agent ABT-165. Upon administration of dual variable domain immunoglobulin (DVD-Ig) ABT-165, the target-binding variable domains specifically recognize and simultaneously bind to their two antigens expressed on tumor cells. This may both prevent antigen-mediated signaling and lead to an inhibition of cellular proliferation in susceptible tumor cells. The antigen targets are overexpressed on certain tumor cell types. The DVD-Ig may have enhanced physicochemical and pharmacokinetic properties as compared to their antibody counterparts.",
+    "fdaUniiCode": "F27LAH6D5O",
+    "identifier": "C116750",
+    "preferredName": "Dilpacimab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129820",
+      "C129821"
+    ],
+    "synonyms": [
+      "ABT-165",
+      "DILPACIMAB",
+      "DVD-Ig ABT-165",
+      "Dilpacimab",
+      "Immunoglobulin, Anti-(Notch Ligand DLL4/Vascular Endothelial Growth Factor) (Synthetic Human PR-1283233 Heavy Chain), Disulfide with Synthetic Human PR-1283233 Light Chain, Dimer",
+      "PR-1283233",
+      "WHO 10863"
+    ]
+  }
+}

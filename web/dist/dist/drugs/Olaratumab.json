@@ -1,0 +1,36 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "LARTRUVO",
+      "indication": "1 INDICATIONS AND USAGE LARTRUVO\u2122 is indicated, in combination with doxorubicin, for the treatment of adult patients with soft tissue sarcoma (STS) with a histologic subtype for which an anthracycline-containing regimen is appropriate and which is not amenable to curative treatment with radiotherapy or surgery. This indication is approved under accelerated approval [see Clinical Studies ( 14 )] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trial. LARTRUVO\u2122 is a platelet-derived growth factor receptor alpha (PDGFR-\u03b1) blocking antibody indicated, in combination with doxorubicin, for the treatment of adult patients with soft tissue sarcoma (STS) with a histologic subtype for which an anthracycline-containing regimen is appropriate and which is not amenable to curative treatment with radiotherapy or surgery. ( 1 ) This indication is approved under accelerated approval. Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trial. ( 14 )",
+      "manufacturer": "Eli Lilly and Company",
+      "splSetId": "6a5bff43-f922-46ae-a727-d54d9138c46e"
+    }
+  ],
+  "id": "Olaratumab",
+  "nciThesaurus": {
+    "casRegistry": "1024603-93-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A fully human IgG1 monoclonal antibody directed against the platelet-derived growth factor receptor alpha (PDGFR alpha) with potential antineoplastic activity. Anti-PDGFR alpha monoclonal antibody IMC-3G3 selectively binds to PDGFR alpha, .blocking the binding of its ligand, PDGF; signal transduction downstream of PDGFR through the MAPK and PI3K pathways is inhibited, which may result in inhibition of angiogenesis and tumor cell proliferation. Overexpressed by various cancer cell types, PDGFR is a transmembrane protein tyrosine kinase receptor, consisting of isoforms A and B that is important in regulating cellular growth and differentiation and angiogenesis.",
+    "fdaUniiCode": "TT6HN20MVF",
+    "identifier": "C79825",
+    "preferredName": "Olaratumab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C164036"
+    ],
+    "synonyms": [
+      "Anti-PDGFR alpha Monoclonal Antibody IMC-3G3",
+      "Anti-Platelet-Derived Growth Factor Receptor alpha Monoclonal Antibody IMC-3G3",
+      "IMC-3G3",
+      "Lartruvo",
+      "OLARATUMAB",
+      "Olaratumab",
+      "anti-PDGFR alpha monoclonal antibody IMC-3G3",
+      "anti-platelet-derived growth factor receptor alpha monoclonal antibody IMC-3G3"
+    ]
+  }
+}

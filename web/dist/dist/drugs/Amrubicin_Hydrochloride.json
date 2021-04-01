@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Amrubicin_Hydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "110311-30-3",
+    "chebiId": "",
+    "chemicalFormula": "C25H25NO9.ClH",
+    "definition": "The hydrochloride salt of a third-generation synthetic 9-amino-anthracycline with antineoplastic activity. Amrubicin intercalates into DNA and inhibits the activity of topoisomerase II, resulting in inhibition of DNA replication, and RNA and protein synthesis, followed by cell growth inhibition and cell death. This agent has demonstrated a higher level of anti-tumor activity than conventional anthracycline drugs without exhibiting any indication of the cumulative cardiac toxicity common to this class of compounds.",
+    "fdaUniiCode": "EUL6MP8FZW",
+    "identifier": "C47948",
+    "preferredName": "Amrubicin Hydrochloride",
+    "semanticType": "Antibiotic",
+    "subclassOf": [
+      "C1594"
+    ],
+    "synonyms": [
+      "(+)-(7S,9S)-9-Acetyl-9-amino-7-((2-deoxy-beta-D-erythro-pentopyranosyl)oxy)- 6,11-dihydroxy-7,8,9,10-tetrahydrotetracene-5,12-dione hydrochloride",
+      "AMRUBICIN HYDROCHLORIDE",
+      "Amrubicin Hydrochloride",
+      "Calsed",
+      "SM-5887",
+      "SMP-5887"
+    ]
+  }
+}

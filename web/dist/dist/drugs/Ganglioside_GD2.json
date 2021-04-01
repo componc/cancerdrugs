@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Ganglioside_GD2",
+  "nciThesaurus": {
+    "casRegistry": "65988-71-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A cell surface antigen expressed on all tumors of neuroectodermal origin, including melanoma, neuroblastomas, sarcoma, astrocytomas, and small cell lung cancer. GD2, an O-acetylated disialoganglioside, belongs to the group of glycosphingolipids that are widely expressed in many tissues and organs in vertebrates and have been suggested to be involved in the regulation of development and differentiation as recognition molecules or signal modulators. Due to its high level of expression in neuroblastoma, GD2 has the potential to be used as a component of anti-neuroblastoma vaccines, in addition to being used in polyvalent anti-melanoma vaccines.",
+    "fdaUniiCode": "FUI2V09E1C",
+    "identifier": "C1110",
+    "preferredName": "Ganglioside GD2",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C518",
+      "C912"
+    ],
+    "synonyms": [
+      "DISIALOGANGLIOSIDE GD-2",
+      "Disialoganglioside GD-2",
+      "GD2",
+      "GD2 ganglioside",
+      "GalNAc(beta 1->4)-[NeuAc(alpha 2->8)NeuAc(alpha 2->3)]Gal(beta 1->4)GlcCer",
+      "Ganglioside GD2"
+    ]
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-GD3_Antibody-drug_Conjugate_PF-06688992",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An antibody-drug conjugate (ADC) composed of a monoclonal antibody against the ganglioside GD3, a surface antigen expressed on many malignant melanoma cells, and linked to an as of yet not fully elucidated chemotherapeutic agent, with potential antineoplastic activity. Upon administration of the ADC PF-06688992, the antibody moiety targets and binds to GD3 expressed on melanoma cells. Upon internalization, the chemotherapeutic agent specifically kills the GD3-positive cells. GD3 represents a major surface marker on most human melanoma cells and is not expressed on most other types of normal, healthy cells.",
+    "fdaUniiCode": "X6L6R3CFT8",
+    "identifier": "C136426",
+    "preferredName": "Anti-GD3 Antibody-drug Conjugate PF-06688992",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129823",
+      "C1512"
+    ],
+    "synonyms": [
+      "Anti-GD3 ADC PF-06688992",
+      "Anti-GD3 Antibody-drug Conjugate PF-06688992",
+      "GD3 ADC PF-06688992",
+      "PF 06688992",
+      "PF-06688992"
+    ]
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "7-Ethyl-10-Hydroxycamptothecin",
+  "nciThesaurus": {
+    "casRegistry": "86639-52-3",
+    "chebiId": "",
+    "chemicalFormula": "C22H20N2O5",
+    "definition": "",
+    "fdaUniiCode": "0H43101T0J",
+    "identifier": "C61618",
+    "preferredName": "7-Ethyl-10-Hydroxycamptothecin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2843"
+    ],
+    "synonyms": [
+      "7-ETHYL-10-HYDROXYCAMPTOTHECIN",
+      "7-Ethyl-10-Hydroxycamptothecin",
+      "7-Ethyl-10-hydroxy-20(S)-camptothecin",
+      "SN 38",
+      "SN-38"
+    ]
+  }
+}

@@ -1,0 +1,35 @@
+{
+  "emaEpar": [
+    {
+      "activeSubstance": "Pegvisomant",
+      "conditionIndication": "Treatment of adult patients with acromegaly who have had an inadequate response to surgery and/or radiation therapy and in whom an appropriate medical treatment with somatostatin analogues did not normalize IGF-I concentrations or was not tolerated., , Treatment of adult patients with acromegaly who have had an inadequate response to surgery and/or radiation therapy and in whom an appropriate medical treatment with somatostatin analogues did not normalize IGF -I concentrations or was not tolerated., ",
+      "inn": "pegvisomant",
+      "marketingAuthorisationDate": "2002-11-12 01:00:00",
+      "marketingAuthorisationHolder": "Pfizer Europe MA EEIG",
+      "medicineName": "Somavert",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/somavert"
+    }
+  ],
+  "fdaDrugLabel": [],
+  "id": "Pegvisomant",
+  "nciThesaurus": {
+    "casRegistry": "218620-50-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A pegylated, recombinant, human growth hormone (GH) structural analog with GH receptor antagonist activity. As a GH analog, the structure of pegvisomant is similar to that of native GH with the exception of 9 amino acid substitutions. Pegvisomant selectively binds to GH receptors on cell surfaces, interfering with endogenous GH receptor binding and so GH signal transduction. Inhibition of GH signal transduction results in decreased serum concentrations of insulin-like growth factor-I (IGF-I), and other GH-responsive serum proteins, including IGF binding protein-3 (IGFBP-3) and the acid-labile subunit (ALS), and may inhibit the growth of cancers in which IGF-1 is upregulated.",
+    "fdaUniiCode": "N824AOU5XV",
+    "identifier": "C61881",
+    "preferredName": "Pegvisomant",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C63347"
+    ],
+    "synonyms": [
+      "PEGVISOMANT",
+      "Pegvisomant",
+      "Somatotropin (18-Aspartic Acid, 21-Asparagine, 120-Lysine, 167-Asparagine, 168-Alanine, 171-Serine, 172-Arginine, 174-Serine, 179-Threonine) (Human), Pegylated",
+      "Somavert",
+      "Trovert"
+    ]
+  }
+}

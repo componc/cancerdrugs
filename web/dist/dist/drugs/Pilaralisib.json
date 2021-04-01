@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pilaralisib",
+  "nciThesaurus": {
+    "casRegistry": "934526-89-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable small molecule, targeting the class I phosphatidylinositol 3 kinase (PI3K) family of lipid kinases, with potential antineoplastic activity. Pilaralisib reversibly binds to class 1 PI3Ks in an ATP-competitive manner, inhibiting the production of the secondary messenger phosphatidylinositol-3,4,5-trisphosphate (PIP3) and activation of the PI3K signaling pathway; this may result in inhibition of tumor cell growth and survival in susceptible tumor cell populations. Activation of the PI3K signaling pathway is frequently associated with tumorigenesis. Dysregulated PI3K signaling may contribute to tumor resistance to a variety of antineoplastic agents including genotoxic agents and receptor tyrosine kinase inhibitors.",
+    "fdaUniiCode": "60ES45KTMK",
+    "identifier": "C71705",
+    "preferredName": "Pilaralisib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2152"
+    ],
+    "synonyms": [
+      "2-Amino-N-(3-(N-(3-((2-chloro-5-methoxyphenyl)amino)quinoxalin-2-yl)sulfamoyl)phenyl)-2-methylpropanamide",
+      "PILARALISIB",
+      "Pilaralisib",
+      "SAR245408",
+      "XL 147",
+      "XL-147",
+      "XL147"
+    ]
+  }
+}

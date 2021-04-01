@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Globo_H-DT_Vaccine_OBI-833",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A carbohydrate-based vaccine comprised of the Globo H hexasaccharide 1 (Globo H) antigen conjugated to DT-CRM197, a non-toxic, mutated form of diphtheria toxin (DT), with potential immunostimulating and antineoplastic activities. Upon administration of Globo H-DT vaccine OBI-833, the carbohydrate antigen Globo H may stimulate a cytotoxic T-lymphocyte (CTL) response against Globo H-expressing tumor cells, thereby decreasing tumor cell proliferation. The hexasaccharide Globo H is a tumor-associated antigen (TAA) commonly found on a variety of tumor cells. DT-CRM197, also called diphtheria toxin cross-reacting material 197, is used to increase the immunogenicity of the Globo H carbohydrate antigen.",
+    "fdaUniiCode": "NC1XBS5AET",
+    "identifier": "C119745",
+    "preferredName": "Globo H-DT Vaccine OBI-833",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C1455",
+      "C1663"
+    ],
+    "synonyms": [
+      "Globo H-CRM197 Vaccine",
+      "Globo H-DT Vaccine OBI-833",
+      "OBI-833"
+    ]
+  }
+}

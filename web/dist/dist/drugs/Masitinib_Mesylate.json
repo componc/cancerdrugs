@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Masitinib_Mesylate",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The orally bioavailable mesylate salt of masatinib, a multi-targeted protein tyrosine kinase inhibitor with potential antineoplastic activity. Masitinib selectively binds to and inhibits both the wild-type and mutated forms of the stem cell factor receptor (c-Kit; SCFR); platelet-derived growth factor receptor (PDGFR); fibroblast growth factor receptor 3 (FGFR3); and, to a lesser extent, focal adhesion kinase (FAK). As a consequence, tumor cell proliferation may be inhibited in cancer cell types that overexpress these receptor tyrosine kinases (RTKs).",
+    "fdaUniiCode": "ZK89EG3A18",
+    "identifier": "C79831",
+    "preferredName": "Masitinib Mesylate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C1967"
+    ],
+    "synonyms": [
+      "4-[(4-Methylpiperazin-1-yl)methyl]-N-(4-methyl-3-{[4-(pyridin-3-yl)-1,3-thiazol-2-yl]amino}phenyl)benzamide Mesylate",
+      "AB1010",
+      "MASITINIB MESYLATE",
+      "Masitinib Mesylate"
+    ]
+  }
+}

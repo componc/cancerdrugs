@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "KRAS_G12C_Inhibitor_MRTX849",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available, small molecule inhibitor that targets the oncogenic KRAS substitution mutation, G12C, with potential antineoplastic activity. Upon oral administration MRTX849 covalently binds to cytosine 12 within the switch II pocket of GDP-bound KRAS G12C, thereby inhibiting mutant KRAS-dependent signaling. KRAS, a member of the RAS family of oncogenes, serves an important role in cell signaling, division and differentiation. Mutations of KRAS may induce constitutive signal transduction leading to tumor cell growth, proliferation, invasion, and metastasis.",
+    "fdaUniiCode": "8EOO6HQF8Y",
+    "identifier": "C157493",
+    "preferredName": "KRAS G12C Inhibitor MRTX849",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1902"
+    ],
+    "synonyms": [
+      "KRAS G12C Inhibitor MRTX849",
+      "MRTX 849",
+      "MRTX-849",
+      "MRTX849"
+    ]
+  }
+}

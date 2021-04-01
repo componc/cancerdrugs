@@ -1,0 +1,35 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Phenesterin",
+  "nciThesaurus": {
+    "casRegistry": "3546-10-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A steroidal nitrogen mustard with antineoplastic and mutagenic activities. After attachment to cell-surface steroid receptors and uptake, phenesterin enters the nucleus where it alkylates macromolecules, resulting in decreased cell proliferation.",
+    "fdaUniiCode": "34021JC2Z6",
+    "identifier": "C1190",
+    "preferredName": "Phenesterin",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C697"
+    ],
+    "synonyms": [
+      "(3-beta)-cholest-5-en-3-ol 4-(bis(2-chloroethyl)amino)benzeneacetate",
+      "(4-(bis(2-chloroethyl)amino)phenyl)acetic acid cholesteryl ester",
+      "(p-(bis(2-chloroethyl)amino)phenyl) acetate cholesterol",
+      "(p-(bis(2-chloroethyl)amino)phenyl)acetic acid cholesteryl ester",
+      "5-Cholesten-3-beta-ol 3-(p-(bis(2-chloroethyl)amino)phenyl)acetate",
+      "Cholest-5-en-3-ol, (3.beta.)-, 4-[bis(2-chloroethyl)amino]benzeneacetate",
+      "Cholest-5-en-3beta-ol 4-(bis(2-chloroethyl)amino)benzeneacetate",
+      "Cholesteryl p-bis(2-chloroethyl)aminophenylacetate",
+      "Fenesterin",
+      "Fenestrin",
+      "NCI-C01558",
+      "PHENESTERINE",
+      "Phenesterin",
+      "Phenesterine",
+      "p-bis(2-chloroethyl)amino phenylacetate cholesterol"
+    ]
+  }
+}

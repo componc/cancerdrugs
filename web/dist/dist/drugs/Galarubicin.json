@@ -1,0 +1,23 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Galarubicin",
+  "nciThesaurus": {
+    "casRegistry": "140637-86-1",
+    "chebiId": "",
+    "chemicalFormula": "C30H32FNO13",
+    "definition": "An anthracycline derivative with antineoplastic activity developed to circumvent doxorubicin resistance.",
+    "fdaUniiCode": "6F39648E92",
+    "identifier": "C81422",
+    "preferredName": "Galarubicin",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1594"
+    ],
+    "synonyms": [
+      "(8S,10S)-10-((2.6-Dideoxy-2-fluoro-alpha-L-talopyranosyl)oxy)-8-glycoloyl-7,8,9,10-tetrahydro-6,8,11-trihydroxy-1-methoxy-5,12-naphthacenedione 8(sup 2)-ester with Beta-alanine",
+      "GALARUBICIN",
+      "Galarubicin"
+    ]
+  }
+}

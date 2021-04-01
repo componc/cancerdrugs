@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Lenvatinib_Mesylate",
+  "nciThesaurus": {
+    "casRegistry": "857890-39-2",
+    "chebiId": "",
+    "chemicalFormula": "C21H19ClN4O4.CH4O3S",
+    "definition": "A synthetic, orally available inhibitor of vascular endothelial growth factor receptor 2 (VEGFR2, also known as KDR/FLK-1) tyrosine kinase with potential antineoplastic activity. E7080 blocks VEGFR2 activation by VEGF, resulting in inhibition of the VEGF receptor signal transduction pathway, decreased vascular endothelial cell migration and proliferation, and vascular endothelial cell apoptosis.",
+    "fdaUniiCode": "3J78384F61",
+    "identifier": "C48636",
+    "preferredName": "Lenvatinib Mesylate",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C93259"
+    ],
+    "synonyms": [
+      "4-[3-Chloro-4-(N'-cyclopropylureido)phenoxy]7-methoxyquinoline-6-carboxamide Mesylate",
+      "6-Quinolinecarboxamide, 4-[3-chloro-4-[[(cyclopropylamino)carbonyl]amino]phenoxy]- 7-methoxy-, methanesulfonate (1:1)",
+      "E7080",
+      "LENVATINIB MESYLATE",
+      "Lenvatinib Mesylate",
+      "Lenvima",
+      "Multi-Kinase Inhibitor E7080"
+    ]
+  }
+}
