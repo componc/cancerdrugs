@@ -2,12 +2,6 @@
   "emaEpar": [],
   "fdaDrugLabel": [
     {
-      "brand": "NMN",
-      "indication": "Resveratrol is an antioxidant thatinhibits the growth of cancer cells.This product is an human OTC drug,which has been evaluated by the Foodand Drug Administration .",
-      "manufacturer": "Universe (International) Group Co., Ltd.",
-      "splSetId": "b62a5b8a-0eb6-4441-e053-2995a90a2802"
-    },
-    {
       "brand": "Alpha9",
       "indication": "This product is not recommended for cancer patients,women, and people age below 18 years oldbased on scientific research. lf you have any questions,please consult doctors or professionals for more information.",
       "manufacturer": "Golden Life Health Products Limited",
@@ -18,6 +12,18 @@
       "indication": "Boost Energy Metabolism Repair damaged DNA Activate longevity protein Eliminate free radicals",
       "manufacturer": "Chengdu Heqi Cosmetics Co., Ltd",
       "splSetId": "bcc4055d-af3a-8f10-e053-2a95a90abc46"
+    },
+    {
+      "brand": "NMN",
+      "indication": "NMN might increase cellar levels of NAD+ , activating long-evity proteins,Sirtl to Sirt7.Resveratrol is an antioxidant that inhibits the growth ofcancer cells. Pyrroloquinoline quineone might strengthen myocardial function, protect'heart and brain nerve cells,promotenerve conduction function, reduce functional degrada-tion caused by aging and free radicals, improve memoryand cognitive'ability.",
+      "manufacturer": "IDun Bio-Technology Limited",
+      "splSetId": "cb8813b0-1793-24aa-e053-2a95a90acf01"
+    },
+    {
+      "brand": "NMN",
+      "indication": "Resveratrol is an antioxidant thatinhibits the growth of cancer cells.This product is an human OTC drug,which has been evaluated by the Foodand Drug Administration .",
+      "manufacturer": "Cosmic (Worldwide) Group Company Limited",
+      "splSetId": "cb8b5717-bfe6-31e3-e053-2995a90a842e"
     }
   ],
   "id": "Resveratrol",

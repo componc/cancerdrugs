@@ -2,7 +2,7 @@
   "emaEpar": [
     {
       "activeSubstance": "bortezomib",
-      "conditionIndication": "Bortezomib SUN as monotherapy or in combination with pegylated liposomal doxorubicin or dexamethasone is indicated for the treatment of adult patients with progressive multiple myeloma who have received at least 1 prior therapy and who have already undergone or are unsuitable for haematopoietic stem cell transplantation., , Bortezomib SUN in combination with melphalan and prednisone is indicated for the treatment of adult patients with previously untreated multiple myeloma who are not eligible for high-dose chemotherapy with haematopoietic stem cell transplantation., , Bortezomib SUN in combination with dexamethasone, or with dexamethasone and thalidomide, is indicated for the induction treatment of adult patients with previously untreated multiple myeloma who are eligible for high-dose chemotherapy with haematopoietic stem cell transplantation., , Bortezomib SUN in combination with rituximab, cyclophosphamide, doxorubicin and prednisone is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma who are unsuitable for haematopoietic stem cell transplantation., ",
+      "conditionIndication": "Bortezomib SUN as monotherapy or in combination with pegylated liposomal doxorubicin or dexamethasone is indicated for the treatment of adult patients with progressive multiple myeloma who have received at least 1 prior therapy and who have already undergone or are unsuitable for haematopoietic stem cell transplantation.Bortezomib SUN in combination with melphalan and prednisone is indicated for the treatment of adult patients with previously untreated multiple myeloma who are not eligible for high-dose chemotherapy with haematopoietic stem cell transplantation.Bortezomib SUN in combination with dexamethasone, or with dexamethasone and thalidomide, is indicated for the induction treatment of adult patients with previously untreated multiple myeloma who are eligible for high-dose chemotherapy with haematopoietic stem cell transplantation.Bortezomib SUN in combination with rituximab, cyclophosphamide, doxorubicin and prednisone is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma who are unsuitable for haematopoietic stem cell transplantation.",
       "inn": "bortezomib",
       "marketingAuthorisationDate": "2016-07-22 00:00:00",
       "marketingAuthorisationHolder": "SUN Pharmaceutical Industries (Europe) B.V.",
@@ -11,12 +11,12 @@
     },
     {
       "activeSubstance": "bortezomib",
-      "conditionIndication": "Velcade as monotherapy or in combination with pegylated liposomal doxorubicin or dexamethasone is indicated for the treatment of adult patients with progressive multiple myeloma who have received at least 1 prior therapy and who have already undergone or are unsuitable for haematopoietic stem cell transplantation.Velcade in combination with melphalan and prednisone is indicated for the treatment of adult patients with previously untreated multiple myeloma who are not eligible for high dose chemotherapy with haematopoietic stem cell transplantation.Velcade in combination with dexamethasone, or with dexamethasone and thalidomide, is indicated for the induction treatment of adult patients with previously untreated multiple myeloma who are eligible for high dose chemotherapy with haematopoietic stem cell transplantation.Velcade in combination with rituximab, cyclophosphamide, doxorubicin and prednisone is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma who are unsuitable for haematopoietic stem cell transplantation.",
+      "conditionIndication": "Bortezomib as monotherapy or in combination with pegylated liposomal doxorubicin or dexamethasone is indicated for the treatment of adult patients with progressive multiple myeloma who have received at least 1 prior therapy and who have already undergone or are unsuitable for haematopoietic stem cell transplantation.Bortezomib in combination with melphalan and prednisone is indicated for the treatment of adult patients with previously untreated multiple myeloma who are not eligible for high-dose chemotherapy with haematopoietic stem cell transplantation.Bortezomib in combination with dexamethasone, or with dexamethasone and thalidomide, is indicated for the induction treatment of adult patients with previously untreated multiple myeloma who are eligible for high-dose chemotherapy with haematopoietic stem cell transplantation.Bortezomib in combination with rituximab, cyclophosphamide, doxorubicin and prednisone is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma who are unsuitable for haematopoietic stem cell transplantation.",
       "inn": "bortezomib",
-      "marketingAuthorisationDate": "2004-04-26 00:00:00",
-      "marketingAuthorisationHolder": "Janssen-Cilag International NV",
-      "medicineName": "Velcade",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/velcade"
+      "marketingAuthorisationDate": "2019-11-14 01:00:00",
+      "marketingAuthorisationHolder": "Fresenius Kabi Deutschland GmbH",
+      "medicineName": "Bortezomib Fresenius Kabi",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bortezomib-fresenius-kabi"
     },
     {
       "activeSubstance": "bortezomib",
@@ -29,12 +29,12 @@
     },
     {
       "activeSubstance": "bortezomib",
-      "conditionIndication": "Bortezomib as monotherapy or in combination with pegylated liposomal doxorubicin or dexamethasone is indicated for the treatment of adult patients with progressive multiple myeloma who have received at least 1 prior therapy and who have already undergone or are unsuitable for haematopoietic stem cell transplantation.Bortezomib in combination with melphalan and prednisone is indicated for the treatment of adult patients with previously untreated multiple myeloma who are not eligible for high-dose chemotherapy with haematopoietic stem cell transplantation.Bortezomib in combination with dexamethasone, or with dexamethasone and thalidomide, is indicated for the induction treatment of adult patients with previously untreated multiple myeloma who are eligible for high-dose chemotherapy with haematopoietic stem cell transplantation.Bortezomib in combination with rituximab, cyclophosphamide, doxorubicin and prednisone is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma who are unsuitable for haematopoietic stem cell transplantation.",
+      "conditionIndication": "Velcade as monotherapy or in combination with pegylated liposomal doxorubicin or dexamethasone is indicated for the treatment of adult patients with progressive multiple myeloma who have received at least 1 prior therapy and who have already undergone or are unsuitable for haematopoietic stem cell transplantation.Velcade in combination with melphalan and prednisone is indicated for the treatment of adult patients with previously untreated multiple myeloma who are not eligible for high dose chemotherapy with haematopoietic stem cell transplantation.Velcade in combination with dexamethasone, or with dexamethasone and thalidomide, is indicated for the induction treatment of adult patients with previously untreated multiple myeloma who are eligible for high dose chemotherapy with haematopoietic stem cell transplantation.Velcade in combination with rituximab, cyclophosphamide, doxorubicin and prednisone is indicated for the treatment of adult patients with previously untreated mantle cell lymphoma who are unsuitable for haematopoietic stem cell transplantation.",
       "inn": "bortezomib",
-      "marketingAuthorisationDate": "2019-11-14 01:00:00",
-      "marketingAuthorisationHolder": "Fresenius Kabi Deutschland GmbH",
-      "medicineName": "Bortezomib Fresenius Kabi",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/bortezomib-fresenius-kabi"
+      "marketingAuthorisationDate": "2004-04-26 00:00:00",
+      "marketingAuthorisationHolder": "Janssen-Cilag International NV",
+      "medicineName": "Velcade",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/velcade"
     },
     {
       "activeSubstance": "bortezomib",
@@ -56,7 +56,7 @@
     {
       "brand": "VELCADE",
       "indication": "1 INDICATIONS AND USAGE VELCADE is a proteasome inhibitor indicated for: treatment of adult patients with multiple myeloma ( 1.1 ) treatment of adult patients with mantle cell lymphoma ( 1.2 ) 1.1 Multiple Myeloma VELCADE is indicated for the treatment of adult patients with multiple myeloma. 1.2 Mantle Cell Lymphoma VELCADE is indicated for the treatment of adult patients with mantle cell lymphoma.",
-      "manufacturer": "Millennium Pharmaceuticals, Inc.",
+      "manufacturer": "Takeda Pharmaceuticals America, Inc.",
       "splSetId": "1521d321-e724-4ffc-adad-34bf4f44fac7"
     },
     {

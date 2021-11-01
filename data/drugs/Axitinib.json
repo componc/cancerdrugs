@@ -2,7 +2,7 @@
   "emaEpar": [
     {
       "activeSubstance": "axitinib",
-      "conditionIndication": "Inlyta is indicated for the treatment of adult patients with advanced renal-cell carcinoma (RCC) after failure of prior treatment with sunitinib or a cytokine., ",
+      "conditionIndication": "Inlyta is indicated for the treatment of adult patients with advanced renal cell carcinoma (RCC) after failure of prior treatment with sunitinib or a cytokine.",
       "inn": "axitinib",
       "marketingAuthorisationDate": "2012-09-03 00:00:00",
       "marketingAuthorisationHolder": "Pfizer Europe MA EEIG\u00a0",
@@ -19,7 +19,7 @@
     },
     {
       "brand": "INLYTA",
-      "indication": "1 INDICATIONS AND USAGE INLYTA is indicated for the treatment of advanced renal cell carcinoma (RCC) after failure of one prior systemic therapy. INLYTA is a kinase inhibitor indicated for the treatment of advanced renal cell carcinoma after failure of one prior systemic therapy. ( 1 )",
+      "indication": "1 INDICATIONS AND USAGE INLYTA is a kinase inhibitor indicated: in combination with avelumab, for the first-line treatment of patients with advanced renal cell carcinoma (RCC). ( 1.1 ) in combination with pembrolizumab, for the first-line treatment of patients with advanced RCC. ( 1.1 ) as a single agent, for the treatment of advanced renal cell carcinoma (RCC) after failure of one prior systemic therapy. ( 1.2 ) 1.1 First-Line Advanced Renal Cell Carcinoma INLYTA in combination with avelumab is indicated for the first-line treatment of patients with advanced renal cell carcinoma (RCC). INLYTA in combination with pembrolizumab is indicated for the first-line treatment of patients with advanced renal cell carcinoma. 1.2 Second-Line Advanced Renal Cell Carcinoma INLYTA as a single agent is indicated for the treatment of advanced renal cell carcinoma (RCC) after failure of one prior systemic therapy.",
       "manufacturer": "U.S. Pharmaceuticals",
       "splSetId": "8a903e31-936e-4ed7-8a59-59f32374f338"
     }

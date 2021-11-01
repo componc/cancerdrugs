@@ -2,21 +2,30 @@
   "emaEpar": [
     {
       "activeSubstance": "temozolomide",
-      "conditionIndication": "For the treatment of adult patients with newly diagnosed glioblastoma multiforme concomitantly with radiotherapy (RT) and subsequently as monotherapy treatment.For the treatment of children from the age of three years, adolescents and adult patients with malignant glioma, such as glioblastoma multiforme or anaplastic astrocytoma, showing recurrence or progression after standard therapy.",
-      "inn": "temozolomide",
-      "marketingAuthorisationDate": "2010-03-15 01:00:00",
-      "marketingAuthorisationHolder": "Accord Healthcare S.L.U.",
-      "medicineName": "Temozolomide Accord",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/temozolomide-accord"
-    },
-    {
-      "activeSubstance": "temozolomide",
       "conditionIndication": "Temodal hard capsules is indicated for the treatment of:adult patients with newly diagnosed glioblastoma multiforme concomitantly with radiotherapy and subsequently as monotherapy treatment;children from the age of three years, adolescents and adult patients with malignant glioma, such as glioblastoma multiforme or anaplastic astrocytoma, showing recurrence or progression after standard therapy.",
       "inn": "temozolomide",
       "marketingAuthorisationDate": "1999-01-26 01:00:00",
       "marketingAuthorisationHolder": "Merck Sharp & Dohme B.V.\u00a0",
       "medicineName": "Temodal",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/temodal"
+    },
+    {
+      "activeSubstance": "temozolomide",
+      "conditionIndication": "Temozolomide Sun is indicated for the treatment of:adult patients with newly diagnosed glioblastoma multiforme concomitantly with radiotherapy (RT) and subsequently as monotherapy treatment;children from the age of three years, adolescents and adult patients with malignant glioma, such as glioblastoma multiforme or anaplastic astrocytoma, showing recurrence or progression after standard therapy.",
+      "inn": "temozolomide",
+      "marketingAuthorisationDate": "2011-07-13 00:00:00",
+      "marketingAuthorisationHolder": "Sun Pharmaceutical Industries Europe B.V.",
+      "medicineName": "Temozolomide Sun",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/temozolomide-sun"
+    },
+    {
+      "activeSubstance": "temozolomide",
+      "conditionIndication": "For the treatment of adult patients with newly diagnosed glioblastoma multiforme concomitantly with radiotherapy (RT) and subsequently as monotherapy treatment.For the treatment of children from the age of three years, adolescents and adult patients with malignant glioma, such as glioblastoma multiforme or anaplastic astrocytoma, showing recurrence or progression after standard therapy.",
+      "inn": "temozolomide",
+      "marketingAuthorisationDate": "2010-03-15 01:00:00",
+      "marketingAuthorisationHolder": "Accord Healthcare S.L.U.",
+      "medicineName": "Temozolomide Accord",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/temozolomide-accord"
     },
     {
       "activeSubstance": "temozolomide",
@@ -47,15 +56,6 @@
     },
     {
       "activeSubstance": "temozolomide",
-      "conditionIndication": "Temozolomide Sun is indicated for the treatment of:adult patients with newly diagnosed glioblastoma multiforme concomitantly with radiotherapy (RT) and subsequently as monotherapy treatment;children from the age of three years, adolescents and adult patients with malignant glioma, such as glioblastoma multiforme or anaplastic astrocytoma, showing recurrence or progression after standard therapy.",
-      "inn": "temozolomide",
-      "marketingAuthorisationDate": "2011-07-13 00:00:00",
-      "marketingAuthorisationHolder": "Sun Pharmaceutical Industries Europe B.V.",
-      "medicineName": "Temozolomide Sun",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/temozolomide-sun"
-    },
-    {
-      "activeSubstance": "temozolomide",
       "conditionIndication": "For the treatment of adult patients with newly diagnosed glioblastoma multiforme concomitantly with radiotherapy (RT) and subsequently as monotherapy treatment.For the treatment of children from the age of three years, adolescents and adult patients with malignant glioma, such as glioblastoma multiforme or anaplastic astrocytoma, showing recurrence or progression after standard therapy.",
       "inn": "temozolomide",
       "marketingAuthorisationDate": "2010-03-15 01:00:00",
@@ -82,6 +82,12 @@
       "indication": "1 INDICATIONS AND USAGE Temozolomide is an alkylating drug indicated for the treatment of adult patients with: Newly diagnosed glioblastoma concomitantly with radiotherapy and then as maintenance treatment. ( 1.1 ) Refractory anaplastic astrocytoma who have experienced disease progression on a drug regimen containing nitrosourea and procarbazine. ( 1.2 ) 1.1 Newly Diagnosed Glioblastoma Temozolomide capsule is indicated for the treatment of adult patients with newly diagnosed glioblastoma concomitantly with radiotherapy and then as maintenance treatment. 1.2 Refractory Anaplastic Astrocytoma Temozolomide capsule is indicated for the treatment of adult patients with refractory anaplastic astrocytoma who have experienced disease progression on a drug regimen containing nitrosourea and procarbazine.",
       "manufacturer": "Accord Healthcare Inc.",
       "splSetId": "2d599ccf-8e63-4ff1-aa52-4809744ea97a"
+    },
+    {
+      "brand": "Temozolomide",
+      "indication": "1. INDICATIONS AND USAGE TEMOZOLOMIDE Capsules, USP are an alkylating drug indicated for the treatment of adult patients with: \u2022 Newly diagnosed glioblastoma concomitantly with radiotherapy and then as maintenance treatment. ( 1.1 ) \u2022 Refractory anaplastic astrocytoma who have experienced disease progression on a drug regimen containing nitrosourea and procarbazine. ( 1.2 ) 1.1 Newly Diagnosed Glioblastoma TEMOZOLOMIDE Capsules, USP is indicated for the treatment of adult patients with newly diagnosed glioblastoma concomitantly with radiotherapy and then as maintenance treatment. 1.2 Refractory Anaplastic Astrocytoma TEMOZOLOMIDE Capsules , USP is indicated for the treatment of adult patients with refractory anaplastic astrocytoma who have experienced disease progression on a drug regimen containing nitrosourea and procarbazine.",
+      "manufacturer": "Ascend Laboratories, LLC",
+      "splSetId": "33d67bce-38ae-45fc-a858-d51167b0ecfd"
     },
     {
       "brand": "Temozolomide",

@@ -1,5 +1,15 @@
 {
-  "emaEpar": [],
+  "emaEpar": [
+    {
+      "activeSubstance": "idecabtagene vicleucel",
+      "conditionIndication": "Abecma is indicated for the treatment of adult patients with relapsed and refractory multiple myeloma who have received at least three prior therapies, including an immunomodulatory agent, a proteasome inhibitor and an anti CD38 antibody and have demonstrated disease progression on the last therapy.",
+      "inn": "idecabtagene vicleucel",
+      "marketingAuthorisationDate": "2021-08-18 00:00:00",
+      "marketingAuthorisationHolder": "Celgene Europe B.V.",
+      "medicineName": "Abecma",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abecma"
+    }
+  ],
   "fdaDrugLabel": [],
   "id": "Idecabtagene_Vicleucel",
   "nciThesaurus": {
@@ -13,9 +23,10 @@
     "semanticType": "Cell",
     "subclassOf": [
       "C129826",
-      "C137999"
+      "C176023"
     ],
     "synonyms": [
+      "Abecma",
       "Anti-BCMA CAR T Cells BB2121",
       "Anti-BCMA-CAR-transduced T Cells BB2121",
       "BB2121",

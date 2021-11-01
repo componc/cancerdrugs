@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Allitinib",
+  "nciThesaurus": {
+    "casRegistry": "897383-62-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable and irreversible inhibitor of the receptor tyrosine kinases (RTKs) epidermal growth factor receptors 1 (EGFR; ErbB1) and 2 (ErbB2; HER2; HER-2), with potential antineoplastic activity. Upon oral administration, allitinib selectively and irreversibly binds to and inhibits the activity of both EGFR and HER2, which prevents signaling mediated by EGFR and HER2. This may inhibit tumor growth and angiogenesis in tumor cells overexpressing these RTKs. EGFR and HER2 are RTKs that belong to the EGFR superfamily; they play major roles in both tumor cell proliferation and tumor vascularization and are overexpressed in many cancer cell types.",
+    "fdaUniiCode": "CX0M5RO7CY",
+    "identifier": "C179280",
+    "preferredName": "Allitinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C2167"
+    ],
+    "synonyms": [
+      "ALLITINIB",
+      "ALS 1306",
+      "ALS-1306",
+      "ALS1306",
+      "AST 1306",
+      "AST-1306",
+      "AST1306",
+      "Allitinib",
+      "N-(4-(4-(3-Fluorobenzyloxy)-3-chlorophenylamino)quinazolin-6-yl) Acrylamide",
+      "N-[4-[3-Chloro-4-[(3-fluorophenyl)methoxy]anilino]quinazolin-6-yl]prop-2-enamide"
+    ]
+  }
+}

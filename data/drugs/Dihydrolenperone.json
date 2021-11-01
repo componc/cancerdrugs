@@ -12,7 +12,8 @@
     "preferredName": "Dihydrolenperone",
     "semanticType": "Organic Chemical",
     "subclassOf": [
-      "C274"
+      "C274",
+      "C323"
     ],
     "synonyms": [
       "1-Butanone, 1-(4-fluorophenyl)-4-[4-[(4-fluorophenyl)hydroxymethyl]-1-piperidi nyl]-",

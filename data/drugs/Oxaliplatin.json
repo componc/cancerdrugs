@@ -2,12 +2,6 @@
   "emaEpar": [],
   "fdaDrugLabel": [
     {
-      "brand": "oxaliplatin",
-      "indication": "1 INDICATIONS AND USAGE Oxaliplatin injection, used in combination with infusional 5-fluorouracil/leucovorin, is indicated for: \u2022 adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. \u2022 treatment of advanced colorectal cancer. Oxaliplatin injection is a platinum-based drug used in combination with infusional 5\u2011fluorouracil /leucovorin, which is indicated for: \u2022 adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. ( 1 ) \u2022 treatment of advanced colorectal cancer. ( 1 )",
-      "manufacturer": "BluePoint Laboratories",
-      "splSetId": "153be3f9-43ed-45ce-8099-6904ab729de7"
-    },
-    {
       "brand": "Oxaliplatin",
       "indication": "1 INDICATIONS AND USAGE Oxaliplatin injection, in combination with infusional fluorouracil and leucovorin, is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. treatment of advanced colorectal cancer. Oxaliplatin injection is a platinum-based drug used in combination with infusional fluorouracil and leucovorin, which is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor.( 1 ) treatment of advanced colorectal cancer. ( 1 )",
       "manufacturer": "AuroMedics Pharma LLC",
@@ -27,7 +21,7 @@
     },
     {
       "brand": "Oxaliplatin",
-      "indication": "1 INDICATIONS AND USAGE Oxaliplatin Injection USP, used in combination with infusional 5-fluorouracil/leucovorin, is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. treatment of advanced colorectal cancer. Oxaliplatin Injection USP is a platinum-based drug used in combination with infusional 5-fluorouracil /leucovorin, which is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. ( 1 ) treatment of advanced colorectal cancer. ( 1 )",
+      "indication": "1 INDICATIONS AND USAGE Oxaliplatin Injection USP, in combination with infusional fluorouracil and leucovorin, is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. treatment of advanced colorectal cancer. Oxaliplatin Injection USP is a platinum-based drug used in combination with infusional fluorouracil and leucovorin, which is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. ( 1 ) treatment of advanced colorectal cancer. ( 1 )",
       "manufacturer": "Qilu Pharmaceutical Co., Ltd.",
       "splSetId": "33d4f4b4-bb4e-46af-9e89-df20154436d0"
     },
@@ -38,8 +32,8 @@
       "splSetId": "36e7a154-759a-487b-b67f-6c605d017c7d"
     },
     {
-      "brand": "OXALIPLATIN",
-      "indication": "1 INDICATIONS AND USAGE Oxaliplatin injection, used in combination with infusional 5-fluorouracil/leucovorin, is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. treatment of advanced colorectal cancer. Oxaliplatin injection is a platinum-based drug used in combination with infusional 5-fluorouracil /leucovorin, which is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. ( 1 ) treatment of advanced colorectal cancer. ( 1 )",
+      "brand": "oxaliplatin",
+      "indication": "1 INDICATIONS AND USAGE Oxaliplatin injection, in combination with infusional fluorouracil and leucovorin, is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. treatment of advanced colorectal cancer. Oxaliplatin injection is a platinum-based drug used in combination with infusional fluorouracil and leucovorin, which is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. ( 1 ) treatment of advanced colorectal cancer. ( 1 )",
       "manufacturer": "Accord Healthcare Inc.",
       "splSetId": "4b805925-beb1-2bac-e054-00144ff88e88"
     },
@@ -63,6 +57,12 @@
     },
     {
       "brand": "Oxaliplatin",
+      "indication": "1 INDICATIONS AND USAGE Oxaliplatin Injection, in combination with infusional fluorouracil and leucovorin, is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. treatment of advanced colorectal cancer. Oxaliplatin Injection is a platinum-based drug used in combination with infusional fluorouracil and leucovorin, which is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. ( 1 ) treatment of advanced colorectal cancer. ( 1 )",
+      "manufacturer": "Meitheal Pharmaceuticals Inc.",
+      "splSetId": "7e38318e-c569-4ad4-8f10-a235f30444d1"
+    },
+    {
+      "brand": "Oxaliplatin",
       "indication": "1 INDICATIONS & USAGE Oxaliplatin Injection, USP used in combination with infusional 5-fluorouracil/leucovorin, is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. treatment of advanced colorectal cancer. Oxaliplatin Injection, USP is a platinum-based drug used in combination with infusional 5-fluorouracil /leucovorin, which is indicated for: \u2022 adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. (1) \u2022 treatment of advanced colorectal cancer. (1)",
       "manufacturer": "Fosun Pharma USA Inc.",
       "splSetId": "81b8aae5-a4db-e89d-e053-2a91aa0a3072"
@@ -81,7 +81,7 @@
     },
     {
       "brand": "Oxaliplatin",
-      "indication": "1 INDICATIONS AND USAGE Oxaliplatin for Injection, USP, in combination with infusional fluorouracil and leucovorin, is indicated for: \u2022 adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. \u2022 treatment of advanced colorectal cancer. Oxaliplatin for Injection, USP is a platinum-based drug used in combination with infusional fluorouracil and leucovorin, which is indicated for: \u2022 adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. (1)\u2022 treatment of advanced colorectal cancer. (1)",
+      "indication": "1 INDICATIONS AND USAGE Oxaliplatin for Injection, USP, in combination with infusional fluorouracil and leucovorin, is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. treatment of advanced colorectal cancer. Oxaliplatin for Injection, USP is a platinum-based drug used in combination with infusional fluorouracil and leucovorin, which is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. ( 1 ) treatment of advanced colorectal cancer. ( 1 )",
       "manufacturer": "Nextgen Pharmaceuticals LLC",
       "splSetId": "95b05292-36a1-4946-b8b3-835a3a77f4a7"
     },
@@ -141,7 +141,7 @@
     },
     {
       "brand": "Oxaliplatin",
-      "indication": "1 INDICATIONS AND USAGE Oxaliplatin Injection used in combination with infusional 5-fluorouracil/leucovorin, is indicated for: \u2022 adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. \u2022 treatment of advanced colorectal cancer. Oxaliplatin Injection is a platinum-based drug used in combination with infusional 5-fluorouracil/leucovorin, which is indicated for: \u2022 adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. ( 1 ) \u2022 treatment of advanced colorectal cancer. ( 1 )",
+      "indication": "1 INDICATIONS AND USAGE Oxaliplatin Injection, in combination with infusional fluorouracil and leucovorin, is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. treatment of advanced colorectal cancer. Oxaliplatin Injection is a platinum-based drug used in combination with infusional fluorouracil and leucovorin, which is indicated for: adjuvant treatment of stage III colon cancer in patients who have undergone complete resection of the primary tumor. ( 1 ) treatment of advanced colorectal cancer. ( 1 )",
       "manufacturer": "Fresenius Kabi USA, LLC",
       "splSetId": "e12e2850-4980-48de-af58-15e559fb921f"
     },

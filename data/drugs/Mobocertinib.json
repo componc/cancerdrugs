@@ -1,19 +1,26 @@
 {
   "emaEpar": [],
-  "fdaDrugLabel": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "EXKIVITY",
+      "indication": "1 INDICATIONS AND USAGE EXKIVITY is indicated for the treatment of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 20 insertion mutations, as detected by an FDA-approved test [see Dosage and Administration (2.1) ] , whose disease has progressed on or after platinum-based chemotherapy. This indication is approved under accelerated approval based on overall response rate and duration of response [see Clinical Studies (14) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s). EXKIVITY is a kinase inhibitor indicated for the treatment of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 20 insertion mutations, as detected by an FDA-approved test, whose disease has progressed on or after platinum-based chemotherapy. This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s). ( 1 , 2.1 )",
+      "manufacturer": "Takeda Pharmaceuticals America, Inc.",
+      "splSetId": "f1a91500-a944-4cb8-b4a8-ae278bcf728d"
+    }
+  ],
   "id": "Mobocertinib",
   "nciThesaurus": {
     "casRegistry": "1847461-43-1",
     "chebiId": "",
     "chemicalFormula": "",
-    "definition": "An orally available inhibitor of specific mutant forms of both human epidermal growth factor receptor (EGFR) and human epidermal growth factor receptor 2 (HER2; ERBB2), with potential antineoplastic activity. Upon oral administration, mobocertinib specifically and irreversibly binds to and inhibits certain mutant forms of EGFR and HER2. This prevents EGFR- and HER2-mediated signaling and leads to cell death in EGFR mutant- and HER2 mutant-expressing tumor cells. EGFR and HER2, receptor tyrosine kinases mutated in many tumor cell types, play key roles in tumor cell proliferation and tumor vascularization.",
+    "definition": "An orally available inhibitor of human epidermal growth factor receptor (EGFR) exon 20 insertion mutations, with antineoplastic activity. Upon oral administration, mobocertinib, and its active metabolites, specifically and irreversibly binds to and inhibits exon 20 insertion mutations of EGFR. This prevents EGFR-mediated signaling and leads to cell death in tumor cells expressing exon 20 insertion mutations. In addition, mobocertinib may inhibit the activity of other EGFR family members, such as human epidermal growth factor receptor 2 (HER2; ERBB2) and HER4. EGFR, HER-2 and -4 are receptor tyrosine kinases often mutated in numerous tumor cell types. They play key roles in tumor cell proliferation and tumor vascularization.",
     "fdaUniiCode": "39HBQ4A67L",
     "identifier": "C126752",
     "preferredName": "Mobocertinib",
     "semanticType": "Pharmacologic Substance",
     "subclassOf": [
       "C129825",
-      "C1967"
+      "C2167"
     ],
     "synonyms": [
       "AP 32788",

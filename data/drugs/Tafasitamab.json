@@ -1,5 +1,15 @@
 {
-  "emaEpar": [],
+  "emaEpar": [
+    {
+      "activeSubstance": "Tafasitamab",
+      "conditionIndication": "Minjuvi is indicated in combination with lenalidomide followed by Minjuvi monotherapy for the treatment of adult patients with relapsed or refractory diffuse large B-cell lymphoma (DLBCL) who are not eligible for autologous stem cell transplant (ASCT).",
+      "inn": "tafasitamab",
+      "marketingAuthorisationDate": "2021-08-26 00:00:00",
+      "marketingAuthorisationHolder": "Incyte Biosciences Distribution B.V.",
+      "medicineName": "Minjuvi",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/minjuvi"
+    }
+  ],
   "fdaDrugLabel": [
     {
       "brand": "MONJUVI",

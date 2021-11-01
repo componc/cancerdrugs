@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pucotenlimab",
+  "nciThesaurus": {
+    "casRegistry": "2403647-03-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant human monoclonal antibody directed against the negative immunoregulatory human cell receptor programmed cell death protein 1 (PD-1; PDCD1; CD279), with potential immune checkpoint inhibitory and antineoplastic activities. Upon administration, pucotenlimab targets, binds to and inhibits PD-1 and its downstream signaling pathways. This may restore immune function through the activation of T-cells and T-cell-mediated immune responses against tumor cells. PD-1, a transmembrane protein in the immunoglobulin superfamily (IgSF) expressed on T-cells, functions as an immune checkpoint that negatively regulates T-cell activation and effector function when activated by its ligands programmed cell death-1 ligand 1 (PD-L1) or 2 (PD-L2); it plays an important role in tumor evasion from host immunity.",
+    "fdaUniiCode": "CGA81G3KR5",
+    "identifier": "C160717",
+    "preferredName": "Pucotenlimab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C128037",
+      "C129822"
+    ],
+    "synonyms": [
+      "Anti-PD-1 Monoclonal Antibody HX008",
+      "HX 008",
+      "HX-008",
+      "HX008",
+      "PUCOTENLIMAB",
+      "Pucotenlimab"
+    ]
+  }
+}

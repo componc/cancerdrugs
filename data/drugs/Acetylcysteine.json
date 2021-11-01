@@ -8,6 +8,12 @@
       "splSetId": "4072b547-c242-4a40-8c91-5481b86cbf1e"
     },
     {
+      "brand": "Acetylcysteine",
+      "indication": "1 INDICATIONS AND USAGE Acetylcysteine injection is indicated to prevent or lessen hepatic injury after ingestion of a potentially hepatotoxic quantity of acetaminophen in patients with acute ingestion or from repeated supratherapeutic ingestion (RSI). Acetylcysteine injection is an antidote for acetaminophen overdose indicated to prevent or lessen hepatic injury after ingestion of a potentially hepatotoxic quantity of acetaminophen in patients with an acute ingestion or from repeated supratherapeutic ingestion (RSI) ( 1 ).",
+      "manufacturer": "Exela Pharma Sciences, LLC",
+      "splSetId": "4505de2a-ef6f-4bb7-9845-1228afbe0a0e"
+    },
+    {
       "brand": "ACETADOTE",
       "indication": "1 INDICATIONS AND USAGE ACETADOTE is indicated to prevent or lessen hepatic injury after ingestion of a potentially hepatotoxic quantity of acetaminophen in patients with acute ingestion or from repeated supratherapeutic ingestion (RSI). ACETADOTE is an antidote for acetaminophen overdose indicated to prevent or lessen hepatic injury after ingestion of a potentially hepatotoxic quantity of acetaminophen in patients with an acute ingestion or from repeated supratherapeutic ingestion (RSI) ( 1 ).",
       "manufacturer": "Cumberland Pharmaceuticals Inc.",
@@ -55,7 +61,7 @@
     "casRegistry": "616-91-1",
     "chebiId": "CHEBI:28939",
     "chemicalFormula": "C5H9NO3S",
-    "definition": "A synthetic N-acetyl derivative of the endogenous amino acid L-cysteine, a precursor of the antioxidant enzyme glutathione.  Acetylcysteine regenerates liver stores of glutathione. This agent also reduces disulfide bonds in mucoproteins, resulting in liquification of mucus.  Some evidence suggests that acetylcysteine may exert an anti-apoptotic effect due to its antioxidant activity, possibly preventing cancer cell development or growth.  In addition, acetylcysteine has inhibited viral stimulation by reactive oxygen intermediates, thereby producing antiviral activity in HIV patients.",
+    "definition": "A synthetic N-acetyl derivative and prodrug of the endogenous amino acid L-cysteine, a precursor of the antioxidant glutathione (GSH), with mucolytic, antioxidant, and potential cytoprotective, cancer-preventive, and anti-inflammatory activities.  Upon administration, acetylcysteine exerts its mucolytic activity by reducing disulfide bonds in mucoproteins, resulting in liquification of mucus and reducing its viscosity. It is also used for the treatment of acetaminophen overdose as it can restore the depleted GSH reserves in the hepatocytes during the process of detoxification.  The antioxidant activity is attributed to the ability of GSH to scavenge reactive oxygen species (ROS), thereby preventing ROS-mediated cell damage, decreasing oxidative stress, protecting cells against the damaging effects of free radicals and preventing apoptosis in these cells. In addition, this may inhibit tumor cell proliferation, progression and survival, in susceptible tumor cells that rely on ROS-mediated signaling for their proliferation and malignant behavior. Under certain circumstances, acetylcysteine is able to induce apoptosis in susceptible cells, including certain tumor cells, via the intrinsic mitochondria-dependent pathway but not involving endoplasmic reticulum stress. Also, acetylcysteine may also be able to degrade Notch2, thereby preventing proliferation, migration, and invasion in Notch2-overexpressing glioblastoma cells. In addition, acetylcysteine may inhibit viral stimulation by reactive oxygen intermediates, thereby producing antiviral activity in HIV patients. Acetylcysteine also possesses anti-inflammatory activity through modulation of the nuclear factor-kappa B (NF-kB) pathway and the modulation of cytokine synthesis.",
     "fdaUniiCode": "WYQ7N0BPYC",
     "identifier": "C200",
     "preferredName": "Acetylcysteine",

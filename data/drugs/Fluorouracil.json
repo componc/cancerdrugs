@@ -9,6 +9,12 @@
     },
     {
       "brand": "Fluorouracil",
+      "indication": "1 INDICATIONS & USAGE Fluorouracil is indicated for the treatment of patients with: 1.1Adenocarcinoma of the Colon and Rectum 1.2Adenocarcinoma of the Breast 1.3Gastric Adenocarcinoma 1.4Pancreatic Adenocarcinoma Fluorouracil is a nucleoside metabolic inhibitor indicated for the treatment of patients with \u2022Adenocarcinoma of the Colon and Rectum (1.1) \u2022Adenocarcinoma of the Breast (1.2) \u2022Gastric Adenocarcinoma (1.3) \u2022Pancreatic Adenocarcinoma (1.4)",
+      "manufacturer": "Xiromed LLC",
+      "splSetId": "19735014-c6fb-0a05-c330-2e9389c71216"
+    },
+    {
+      "brand": "Fluorouracil",
       "indication": "INDICATIONS AND USAGE Fluorouracil is recommended for the topical treatment of multiple actinic or solar keratoses. In the 5% strength it is also useful in the treatment of superficial basal cell carcinomas when conventional methods are impractical, such as with multiple lesions or difficult treatment sites. Safety and efficacy in other indications have not been established. The diagnosis should be established prior to treatment, since this method has not been proven effective in other types of basal cell carcinomas. With isolated, easily accessible basal cell carcinomas, surgery is preferred since success with such lesions is almost 100%. The success rate with fluorouracil topical solution is approximately 93%, based on 113 lesions in 54 patients. Twenty-five lesions treated with the solution produced 1 failure.",
       "manufacturer": "Taro Pharmaceuticals U.S.A., Inc.",
       "splSetId": "1b2f6145-b338-42ed-88a7-f4da65c59164"
@@ -21,7 +27,7 @@
     },
     {
       "brand": "Fluoroplex",
-      "indication": "INDICATIONS AND USAGE FLUOROPLEX \u00ae Cream is indicated for the topical treatment of multiple actinic (solar) keratoses.",
+      "indication": "INDICATIONS AND USAGE FLUOROPLEX Cream is indicated for the topical treatment of multiple actinic (solar) keratoses.",
       "manufacturer": "Almirall, LLC",
       "splSetId": "258bb79a-56b3-4f46-ade6-7331ec031074"
     },
@@ -30,138 +36,6 @@
       "indication": "INDICATIONS AND USAGE Fluorouracil cream, 0.5% is indicated for the topical treatment of multiple actinic or solar keratoses of the face and anterior scalp.",
       "manufacturer": "Mylan Pharmaceuticals Inc.",
       "splSetId": "2e7939fa-eadb-459e-be03-99b74273b393"
-    },
-    {
-      "brand": "Efudex",
-      "indication": "INDICATIONS AND USAGE: EFUDEX is recommended for the topical treatment of multiple actinic or solar keratoses. In the 5% strength, it is also useful in the treatment of superficial basal cell carcinomas when conventional methods are impractical, such as with multiple lesions or difficult treatment sites. Safety and efficacy in other indications have not been established. The diagnosis should be established prior to treatment, since this method has not been proven effective in other types of basal cell carcinomas. With isolated, easily accessible basal cell carcinomas, surgery is preferred since success with such lesions is almost 100%. The success rate with EFUDEX Cream and Solution is approximately 93%, based on 113 lesions in 54 patients. Twenty-five lesions treated with the solution produced 1 failure and 88 lesions treated with the cream produced 7 failures.",
-      "manufacturer": "Bausch Health US LLC",
-      "splSetId": "35de1c1c-bef5-46c5-b6f8-ea032147411c"
-    },
-    {
-      "brand": "fluorouracil",
-      "indication": "1 INDICATIONS AND USAGE Fluorouracil Injection is indicated for the treatment of patients with: Fluorouracil Injection is a nucleoside metabolic inhibitor indicated for the treatment of patients with Adenocarcinoma of the Colon and Rectum ( 1.1 ) Adenocarcinoma of the Breast ( 1.2 ) Gastric Adenocarcinoma ( 1.3 ) Pancreatic Adenocarcinoma ( 1.4 ) 1.1 Adenocarcinoma of the Colon and Rectum 1.2 Adenocarcinoma of the Breast 1.3 Gastric Adenocarcinoma 1.4 Pancreatic Adenocarcinoma",
-      "manufacturer": "Sagent Pharmaceuticals",
-      "splSetId": "37e35e8c-5d51-413b-a3a0-b72a18caaf65"
-    },
-    {
-      "brand": "Fluorouracil",
-      "indication": "1 INDICATIONS AND USAGE Fluorouracil is indicated for the treatment of patients with: Fluorouracil is a nucleoside metabolic inhibitor indicated for the treatment of patients with \u2022 Adenocarcinoma of the Colon and Rectum ( 1.1 ) \u2022 Adenocarcinoma of the Breast ( 1.2 ) \u2022 Gastric Adenocarcinoma ( 1.3 ) \u2022 Pancreatic Adenocarcinoma ( 1.4 ) 1.1 Adenocarcinoma of the Colon and Rectum 1.2 Adenocarcinoma of the Breast 1.3 Gastric Adenocarcinoma 1.4 Pancreatic Adenocarcinoma",
-      "manufacturer": "BluePoint Laboratories",
-      "splSetId": "513ca7e7-6867-4f15-b688-6469bb8c82de"
-    },
-    {
-      "brand": "FLUOROURACIL",
-      "indication": "1 INDICATIONS AND USAGE Fluorouracil is indicated for the treatment of patients with: Fluorouracil is a nucleoside metabolic inhibitor indicated for the treatment of patients with Adenocarcinoma of the Colon and Rectum (1.1) Adenocarcinoma of the Breast (1.2) Gastric Adenocarcinoma (1.3) Pancreatic Adenocarcinoma (1.4) 1.1 Adenocarcinoma of the Colon and Rectum 1.2 Adenocarcinoma of the Breast 1.3 Gastric Adenocarcinoma 1.4 Pancreatic Adenocarcinoma",
-      "manufacturer": "Ingenus Pharmaceuticals, LLC",
-      "splSetId": "55dbd7b2-f9f1-4863-82b5-d4d85bd5d28b"
-    },
-    {
-      "brand": "Fluorouracil",
-      "indication": "1 INDICATIONS & USAGE Fluorouracil is indicated for the treatment of patients with: 1.1Adenocarcinoma of the Colon and Rectum 1.2Adenocarcinoma of the Breast 1.3Gastric Adenocarcinoma 1.4Pancreatic Adenocarcinoma Fluorouracil is a nucleoside metabolic inhibitor indicated for the treatment of patients with \u2022Adenocarcinoma of the Colon and Rectum (1.1) \u2022Adenocarcinoma of the Breast (1.2) \u2022Gastric Adenocarcinoma (1.3) \u2022Pancreatic Adenocarcinoma (1.4)",
-      "manufacturer": "Gland Pharma Limited",
-      "splSetId": "572b710e-8e2b-46eb-bd80-648ad769d34d"
-    },
-    {
-      "brand": "TOLAK",
-      "indication": "1 INDICATIONS AND USAGE Tolak (fluorouracil) Cream is indicated for the topical treatment of actinic keratosis lesions of the face, ears, and/or scalp. Tolak (fluorouracil) Cream, 4%, is a nucleoside metabolic inhibitor indicated for the topical treatment of actinic keratosis lesions of the face, ears, and scalp ( 1 ).",
-      "manufacturer": "HILL DERMACEUTICALS, INC.",
-      "splSetId": "59de2709-00b8-4f0a-867c-f0dfeb947192"
-    },
-    {
-      "brand": "Fluorouracil",
-      "indication": "1 INDICATIONS AND USAGE Fluorouracil is indicated for the treatment of patients with: Fluorouracil is a nucleoside metabolic inhibitor indicated for the treatment of patients with \u2022 Adenocarcinoma of the Colon and Rectum ( 1.1 ) \u2022 Adenocarcinoma of the Breast ( 1.2 ) \u2022 Gastric Adenocarcinoma ( 1.3 ) \u2022 Pancreatic Adenocarcinoma ( 1.4 ) 1.1 Adenocarcinoma of the Colon and Rectum 1.2 Adenocarcinoma of the Breast 1.3 Gastric Adenocarcinoma 1.4 Pancreatic Adenocarcinoma",
-      "manufacturer": "Accord Healthcare, Inc.",
-      "splSetId": "66d451fe-2436-494c-80c5-4528c8e34369"
-    },
-    {
-      "brand": "Carac",
-      "indication": "INDICATIONS AND USAGE Carac is indicated for the topical treatment of multiple actinic or solar keratoses of the face and anterior scalp.",
-      "manufacturer": "Bausch Health US LLC",
-      "splSetId": "6795f2b1-1381-4a4f-ad34-2c28ebd1cfaf"
-    },
-    {
-      "brand": "FLUOROURACIL",
-      "indication": "1 INDICATIONS AND USAGE Fluorouracil is a nucleoside metabolic inhibitor indicated for the treatment of patients with Fluorouracil is a nucleoside metabolic inhibitor indicated for the treatment of patients with Adenocarcinoma of the Colon and Rectum (1.1) Adenocarcinoma of the Breast (1.2) Gastric Adenocarcinoma (1.3) Pancreatic Adenocarcinoma (1.4) 1.1 Adenocarcinoma of the Colon and Rectum 1.2 Adenocarcinoma of the Breast 1.3 Gastric Adenocarcinoma 1.4 Pancreatic Adenocarcinoma",
-      "manufacturer": "Ingenus Pharmaceuticals, LLC",
-      "splSetId": "69e7d2c8-1909-49b0-b298-9b2715dfe253"
-    },
-    {
-      "brand": "Fluorouracil",
-      "indication": "INDICATIONS AND USAGE Fluorouracil 5% Topical Cream is recommended for the topical treatment of multiple actinic or solar keratoses. In the 5% strength, it is also useful in the treatment of superficial basal cell carcinomas when conventional methods are impractical, such as with multiple lesions or difficult treatment sites. Safety and efficacy in other indications have not been established. The diagnosis should be established prior to treatment, since this method has not been proven effective in other types of basal cell carcinomas. With isolated, easily accessible basal cell carcinomas, surgery is preferred since success with such lesions is almost 100%. The success rate with Fluorouracil 5% Topical Cream is approximately 93%, based on 113 lesions in 54 patients. Twenty-five lesions treated with the solution produced 1 failure and 88 lesions treated with the cream produced 7 failures.",
-      "manufacturer": "Mylan Pharmaceuticals Inc.",
-      "splSetId": "744737c5-0d96-4214-82ab-6cff016b1ea0"
-    },
-    {
-      "brand": "FLUOROURACIL",
-      "indication": "INDICATIONS AND USAGE Fluorouracil Cream is recommended for the topical treatment of multiple actinic or solar keratoses. In the 5% strength it is also useful in the treatment of superficial basal cell carcinomas when conventional methods are impractical, such as with multiple lesions or difficult treatment sites. Safety and efficacy in other indications have not been established. The diagnosis should be established prior to treatment, since this method has not been proven effective in other types of basal cell carcinomas. With isolated, easily accessible basal cell carcinomas, surgery is preferred since success with such lesions is almost 100%. The success rate with Fluorouracil Cream is approximately 93%, based on 113 lesions in 54 patients. Eighty-eight lesions treated with the cream produced 7 failures.",
-      "manufacturer": "Spear Dermatology Products",
-      "splSetId": "85ab7938-377f-497d-aab0-6a1223396372"
-    },
-    {
-      "brand": "Fluorouracil",
-      "indication": "1 INDICATIONS AND USAGE Fluorouracil is indicated for the treatment of patients with: Fluorouracil is a nucleoside metabolic inhibitor indicated for the treatment of patients with \u2022 Adenocarcinoma of the Colon and Rectum ( 1.1 ) \u2022 Adenocarcinoma of the Breast ( 1.2 ) \u2022 Gastric Adenocarcinoma ( 1.3 ) \u2022 Pancreatic Adenocarcinoma ( 1.4 ) 1.1 Adenocarcinoma of the Colon and Rectum 1.2 Adenocarcinoma of the Breast 1.3 Gastric Adenocarcinoma 1.4 Pancreatic Adenocarcinoma",
-      "manufacturer": "Accord Healthcare, Inc.",
-      "splSetId": "8eff167f-203a-4a81-b2fc-d8773bc3555e"
-    },
-    {
-      "brand": "Fluorouracil",
-      "indication": "1 INDICATIONS AND USAGE Fluorouracil is indicated for the treatment of patients with: \u2022 Adenocarcinoma of the Colon and Rectum \u2022 Adenocarcinoma of the Breast \u2022 Gastric Adenocarcinoma \u2022 Pancreatic Adenocarcinoma Fluorouracil is a nucleoside metabolic inhibitor indicated for the treatment of patients with Adenocarcinoma of the Colon and Rectum ( 1 ) Adenocarcinoma of the Breast ( 1 ) Gastric Adenocarcinoma ( 1 ) Pancreatic Adenocarcinoma ( 1 )",
-      "manufacturer": "Fresenius Kabi USA, LLC",
-      "splSetId": "a85ab26a-05ea-498f-8f34-564a925fa9d9"
-    },
-    {
-      "brand": "Fluorouracil",
-      "indication": "INDICATIONS AND USAGE Fluououracil cream 0.5% is indicated for the topical treatment of multiple actinic or solar keratoses of the face and anterior scalp.",
-      "manufacturer": "Spear Dermatology Products Inc",
-      "splSetId": "a8857fe2-0bd1-4111-9eba-1eac25516e2e"
-    },
-    {
-      "brand": "Fluorouracil",
-      "indication": "INDICATIONS AND USAGE Fluorouracil is recommended for the topical treatment of multiple actinic or solar keratoses. In the 5% strength it is also useful in the treatment of superficial basal cell carcinomas when conventional methods are impractical, such as with multiple lesions or difficult treatment sites. Safety and efficacy in other indications have not been established. The diagnosis should be established prior to treatment, since this method has not been proven effective in other types of basal cell carcinomas. With isolated, easily accessible basal cell carcinomas, surgery is preferred since success with such lesions is almost 100%. The success rate with Fluorouracil Cream and Solution is approximately 93%, based on 113 lesions in 54 patients. Twenty-five lesions treated with the solution produced 1 failure and 88 lesions treated with the cream produced 7 failures.",
-      "manufacturer": "Taro Pharmaceuticals U.S.A., Inc.",
-      "splSetId": "acca0036-f19c-459b-9dfc-9592f1cd588d"
-    },
-    {
-      "brand": "Fluorouracil",
-      "indication": "1 INDICATIONS AND USAGE Fluorouracil is indicated for the treatment of patients with: \u2022 Adenocarcinoma of the Colon and Rectum \u2022 Adenocarcinoma of the Breast \u2022 Gastric Adenocarcinoma \u2022 Pancreatic Adenocarcinoma Fluorouracil is a nucleoside metabolic inhibitor indicated for the treatment of patients with Adenocarcinoma of the Colon and Rectum ( 1 ) Adenocarcinoma of the Breast ( 1 ) Gastric Adenocarcinoma ( 1 ) Pancreatic Adenocarcinoma ( 1 )",
-      "manufacturer": "Fresenius Kabi USA, LLC",
-      "splSetId": "b4328ae3-f48f-40b1-9719-1c1aced7c734"
-    },
-    {
-      "brand": "Fluorouracil",
-      "indication": "1 INDICATIONS AND USAGE Fluorouracil is indicated for the treatment of patients with: \u2022 Adenocarcinoma of the Colon and Rectum \u2022 Adenocarcinoma of the Breast \u2022 Gastric Adenocarcinoma \u2022 Pancreatic Adenocarcinoma Fluorouracil is a nucleoside metabolic inhibitor indicated for the treatment of patients with Adenocarcinoma of the Colon and Rectum ( 1 ) Adenocarcinoma of the Breast ( 1 ) Gastric Adenocarcinoma ( 1 ) Pancreatic Adenocarcinoma ( 1 )",
-      "manufacturer": "Fresenius Kabi USA, LLC",
-      "splSetId": "beb8c6c5-4b6e-4770-b6d4-718e33c7a2ff"
-    },
-    {
-      "brand": "Fluorouracil",
-      "indication": "1 INDICATIONS AND USAGE Fluorouracil is indicated for the treatment of patients with: \u2022 Adenocarcinoma of the Colon and Rectum \u2022 Adenocarcinoma of the Breast \u2022 Gastric Adenocarcinoma \u2022 Pancreatic Adenocarcinoma Fluorouracil is a nucleoside metabolic inhibitor indicated for the treatment of patients with Adenocarcinoma of the Colon and Rectum ( 1 ) Adenocarcinoma of the Breast ( 1 ) Gastric Adenocarcinoma ( 1 ) Pancreatic Adenocarcinoma ( 1 )",
-      "manufacturer": "Fresenius Kabi USA, LLC",
-      "splSetId": "c45f5286-a52b-43e5-8a6f-d0312e7da0c8"
-    },
-    {
-      "brand": "Fluorouracil",
-      "indication": "1 INDICATIONS AND USAGE Fluorouracil is indicated for the treatment of patients with: Fluorouracil is a nucleoside metabolic inhibitor indicated for the treatment of patients with \u2022 Adenocarcinoma of the Colon and Rectum ( 1.1 ) \u2022 Adenocarcinoma of the Breast ( 1.2 ) \u2022 Gastric Adenocarcinoma ( 1.3 ) \u2022 Pancreatic Adenocarcinoma ( 1.4 ) 1.1 Adenocarcinoma of the Colon and Rectum 1.2 Adenocarcinoma of the Breast 1.3 Gastric Adenocarcinoma 1.4 Pancreatic Adenocarcinoma",
-      "manufacturer": "BluePoint Laboratories",
-      "splSetId": "d91670fd-7825-4fb9-afc7-a03a595fc70c"
-    },
-    {
-      "brand": "Fluorouracil",
-      "indication": "1 INDICATIONS & USAGE Fluorouracil is indicated for the treatment of patients with: 1.1 Adenocarcinoma of the Colon and Rectum 1.2 Adenocarcinoma of the Breast 1.3 Gastric Adenocarcinoma 1.4 Pancreatic Adenocarcinoma Fluorouracil is a nucleoside metabolic inhibitor indicated for the treatment of patients with \u2022 Adenocarcinoma of the Colon and Rectum (1.1) \u2022 Adenocarcinoma of the Breast (1.2) \u2022 Gastric Adenocarcinoma (1.3) \u2022 Pancreatic Adenocarcinoma (1.4)",
-      "manufacturer": "Gland Pharma Limited",
-      "splSetId": "ea3497db-23b9-4ace-9a6f-b54853d04a82"
-    },
-    {
-      "brand": "Fluorouracil",
-      "indication": "INDICATIONS AND USAGE Fluorouracil is recommended for the topical treatment of multiple actinic or solar keratoses. In the 5% strength it is also useful in the treatment of superficial basal cell carcinomas when conventional methods are impractical, such as with multiple lesions or difficult treatment sites. Safety and efficacy in other indications have not been established. The diagnosis should be established prior to treatment, since this method has not been proven effective in other types of basal cell carcinomas. With isolated, easily accessible basal cell carcinomas, surgery is preferred since success with such lesions is almost 100%. The success rate with Fluorouracil Cream and Solution is approximately 93%, based on 113 lesions in 54 patients. Twenty-five lesions treated with the solution produced 1 failure and 88 lesions treated with the cream produced 7 failures.",
-      "manufacturer": "A-S Medication Solutions",
-      "splSetId": "ef67a3ae-144e-46db-836e-905e16e6d4c2"
-    },
-    {
-      "brand": "Fluorouracil",
-      "indication": "1 INDICATIONS AND USAGE Fluorouracil is indicated for the treatment of patients with: \u2022 Adenocarcinoma of the Colon and Rectum \u2022 Adenocarcinoma of the Breast \u2022 Gastric Adenocarcinoma \u2022 Pancreatic Adenocarcinoma Fluorouracil is a nucleoside metabolic inhibitor indicated for the treatment of patients with Adenocarcinoma of the Colon and Rectum ( 1 ) Adenocarcinoma of the Breast ( 1 ) Gastric Adenocarcinoma ( 1 ) Pancreatic Adenocarcinoma ( 1 )",
-      "manufacturer": "Fresenius Kabi USA, LLC",
-      "splSetId": "fdf2a165-2ca4-48be-89c1-570e6010b47c"
     }
   ],
   "id": "Fluorouracil",

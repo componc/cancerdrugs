@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Talquetamab",
+  "nciThesaurus": {
+    "casRegistry": "2226212-40-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A bispecific humanized monoclonal antibody against human CD3, a T-cell surface antigen, and human G-protein coupled receptor family C group 5 member D (GPRC5D), a tumor-associated antigen (TAA), with potential antineoplastic activity. Upon administration, talquetamab binds to both CD3 on T-cells and GPRC5D expressed on certain tumor cells. This results in the cross-linking of T-cells and tumor cells, and induces a potent cytotoxic T-lymphocyte (CTL) response against GPRC5D-expressing tumor cells. GPRC5D is overexpressed on certain tumors, such as multiple myeloma, while minimally expressed on normal, healthy cells, and plays a key role in tumor cell proliferation.",
+    "fdaUniiCode": "4W3KFI3TN3",
+    "identifier": "C171840",
+    "preferredName": "Talquetamab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129822",
+      "C28227"
+    ],
+    "synonyms": [
+      "Anti-CD3/Anti-GPRC5D Bispecific Monoclonal Antibody JNJ-64407564",
+      "GPRC5D x CD3 Bispecific Antibody JNJ-64407564",
+      "GPRC5D x CD3 DuoBody Antibody JNJ-64407564",
+      "GPRC5D/CD3 DuoBody Antibody JNJ-64407564",
+      "Humanized GPRC5D x CD3 DuoBody Antibody JNJ-64407564",
+      "JNJ 64407564",
+      "JNJ-64407564",
+      "JNJ64407564",
+      "TALQUETAMAB",
+      "Talquetamab"
+    ]
+  }
+}

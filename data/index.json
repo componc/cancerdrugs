@@ -250,6 +250,16 @@
       ]
     },
     {
+      "fdaUniiCode": "A49037RP1E",
+      "id": "Multi-AGC_Kinase_Inhibitor_AT13148",
+      "preferredName": "Multi-AGC Kinase Inhibitor AT13148",
+      "synonyms": [
+        "AT-13148",
+        "AT13148",
+        "Multi-AGC Kinase Inhibitor AT13148"
+      ]
+    },
+    {
       "fdaUniiCode": "LIJ4CT1Z3Y",
       "id": "Alectinib",
       "preferredName": "Alectinib",
@@ -1384,6 +1394,18 @@
       ]
     },
     {
+      "fdaUniiCode": "3YH0N35CE3",
+      "id": "Mocravimod_Hydrochloride",
+      "preferredName": "Mocravimod Hydrochloride",
+      "synonyms": [
+        "2-Amino-2-propanediol Hydrochloride",
+        "KRP-203",
+        "KRP203",
+        "MOCRAVIMOD HYDROCHLORIDE",
+        "Mocravimod Hydrochloride"
+      ]
+    },
+    {
       "fdaUniiCode": "A3749M6582",
       "id": "Anlotinib_Hydrochloride",
       "preferredName": "Anlotinib Hydrochloride",
@@ -2203,7 +2225,9 @@
       "synonyms": [
         "HuMax-TF-ADC",
         "TISOTUMAB VEDOTIN",
-        "Tisotumab Vedotin"
+        "Tisotumab Vedotin",
+        "Tisotumab Vedotin-tftv",
+        "Tivdak"
       ]
     },
     {
@@ -3263,6 +3287,22 @@
       ]
     },
     {
+      "fdaUniiCode": "DRL23N424R",
+      "id": "Osugacestat",
+      "preferredName": "Osugacestat",
+      "synonyms": [
+        "AL 101",
+        "AL-101",
+        "AL101",
+        "BM-0018",
+        "BM0018",
+        "BMS-906024",
+        "GS/pan-Notch Inhibitor AL101",
+        "OSUGACESTAT",
+        "Osugacestat"
+      ]
+    },
+    {
       "fdaUniiCode": "L08J2O299M",
       "id": "Taselisib",
       "preferredName": "Taselisib",
@@ -3436,6 +3476,7 @@
       "id": "Idecabtagene_Vicleucel",
       "preferredName": "Idecabtagene Vicleucel",
       "synonyms": [
+        "Abecma",
         "Anti-BCMA CAR T Cells BB2121",
         "Anti-BCMA-CAR-transduced T Cells BB2121",
         "BB2121",
@@ -4084,6 +4125,21 @@
         "Fc-Fusion Protein BMS986004",
         "LETOLIZUMAB",
         "Letolizumab"
+      ]
+    },
+    {
+      "fdaUniiCode": "M2LBQ7RN2X",
+      "id": "Eltrapuldencel-T",
+      "preferredName": "Eltrapuldencel-T",
+      "synonyms": [
+        "Autologous DCs Loaded with Irradiated Autologous Tumor Cells in GM-CSF",
+        "Autologous Dendritic Cells Loaded with Irradiated Autologous Tumor Cells in Granulocyte-macrophage Colony-stimulating Factor",
+        "DC-TC",
+        "ELTRAPULDENCEL-T",
+        "Eltrapuldencel-T",
+        "Melapuldencel-T",
+        "NBS-20",
+        "NBS20"
       ]
     },
     {
@@ -5059,6 +5115,18 @@
       ]
     },
     {
+      "fdaUniiCode": "2LHZ9ZC3YO",
+      "id": "Tolinapant",
+      "preferredName": "Tolinapant",
+      "synonyms": [
+        "ASTX 660",
+        "ASTX660",
+        "TOLINAPANT",
+        "Tolinapant",
+        "XIAP/cIAP1 Antagonist ASTX660"
+      ]
+    },
+    {
       "fdaUniiCode": "5CRY01URYQ",
       "id": "Oleclumab",
       "preferredName": "Oleclumab",
@@ -5389,11 +5457,15 @@
       "id": "Amivantamab",
       "preferredName": "Amivantamab",
       "synonyms": [
-        "2171511-58-1",
         "AMIVANTAMAB",
         "Amivantamab",
+        "Amivantamab-vmjw",
         "Anti-EGFR/c-Met Bispecific Antibody JNJ-61186372",
-        "JNJ-61186372"
+        "CNTO-4424",
+        "JNJ-611",
+        "JNJ-61186372",
+        "JNJ61186372",
+        "Rybrevant"
       ]
     },
     {
@@ -5518,6 +5590,9 @@
       "preferredName": "Eltanexor",
       "synonyms": [
         "(2E)-3-(3-(3,5-Bis(trifluoromethyl)phenyl)-1H-1,2,4-triazol-1-yl)-2-(pyrimidin-5-yl)prop-2-enamide",
+        "ATG 016",
+        "ATG-016",
+        "ATG016",
         "ELTANEXOR",
         "Eltanexor",
         "Exportin 1 Inhibitor KPT-8602",
@@ -5578,7 +5653,9 @@
         "ADCT-402",
         "Anti-CD19 PBD-conjugate ADCT-402",
         "LONCASTUXIMAB TESIRINE",
-        "Loncastuximab Tesirine"
+        "Loncastuximab Tesirine",
+        "Loncastuximab Tesirine-lpyl",
+        "Zynlonta"
       ]
     },
     {
@@ -5768,7 +5845,8 @@
         "CD24 Extracellular Domain-IgG1 Fc Domain Recombinant Fusion Protein CD24Fc",
         "CD24FC",
         "CD24Fc",
-        "CD24Fc CD24IgG"
+        "CD24Fc CD24IgG",
+        "MK-7110"
       ]
     },
     {
@@ -6090,7 +6168,9 @@
         "ANB011",
         "DOSTARLIMAB",
         "Dostarlimab",
+        "Dostarlimab-gxly",
         "Immunoglobulin G4, Anti-programmed Cell Death Protein 1 (PDCD1) (Humanized Clone ABT1 Gamma4-chain), Disulfide with Humanized Clone ABT1 Kappa-chain, Dimer",
+        "Jemperli",
         "TSR 042",
         "TSR-042",
         "TSR042"
@@ -6130,6 +6210,20 @@
       ]
     },
     {
+      "fdaUniiCode": "EJ48MR05C3",
+      "id": "Ordesekimab",
+      "preferredName": "Ordesekimab",
+      "synonyms": [
+        "AMG 714",
+        "AMG714",
+        "Anti-IL-15 Monoclonal Antibody AMG 714",
+        "HUMAX-IL 15",
+        "HuMab-IL15 AMG 714",
+        "ORDESEKIMAB",
+        "Ordesekimab"
+      ]
+    },
+    {
       "fdaUniiCode": "ISP4442I3Y",
       "id": "Baricitinib",
       "preferredName": "Baricitinib",
@@ -6140,7 +6234,8 @@
         "INCB 028050",
         "INCB028050",
         "LY 3009104",
-        "LY3009104"
+        "LY3009104",
+        "Olumiant"
       ]
     },
     {
@@ -6683,6 +6778,23 @@
       ]
     },
     {
+      "fdaUniiCode": "2WZP8A9VFN",
+      "id": "Vebreltinib",
+      "preferredName": "Vebreltinib",
+      "synonyms": [
+        "6-(1-Cyclopropyl-1h-pyrazol-4-yl)-3-(difluoro(6-fluoro-2-methyl-2H-indazol-5-yl)methyl)-1,2,4-triazolo(4,3-b)pyridazine",
+        "APL-101",
+        "APL101",
+        "Bozitinib",
+        "CBI-3103",
+        "CBT-101",
+        "PLB-1001",
+        "PLB1001",
+        "VEBRELTINIB",
+        "Vebreltinib"
+      ]
+    },
+    {
       "fdaUniiCode": "X47GR46481",
       "id": "O-Chloroacetylcarbamoylfumagillol",
       "preferredName": "O-Chloroacetylcarbamoylfumagillol",
@@ -6877,6 +6989,20 @@
       ]
     },
     {
+      "fdaUniiCode": "W6F4FRQ5QC",
+      "id": "Pulrodemstat",
+      "preferredName": "Pulrodemstat",
+      "synonyms": [
+        "CC 90011",
+        "CC-90011",
+        "CC90011",
+        "LSD1 Inhibitor CC-90011",
+        "Lysine-specific Demethylase 1 Inhibitor CC-90011",
+        "PULRODEMSTAT",
+        "Pulrodemstat"
+      ]
+    },
+    {
       "fdaUniiCode": "8JXN261VVA",
       "id": "Toripalimab",
       "preferredName": "Toripalimab",
@@ -6887,6 +7013,19 @@
         "TAB-001",
         "TORIPALIMAB",
         "Toripalimab"
+      ]
+    },
+    {
+      "fdaUniiCode": "V0Q46LFE6F",
+      "id": "Temuterkib",
+      "preferredName": "Temuterkib",
+      "synonyms": [
+        "ERK1/2 Inhibitor LY3214996",
+        "LY 3214996",
+        "LY-3214996",
+        "LY3214996",
+        "TEMUTERKIB",
+        "Temuterkib"
       ]
     },
     {
@@ -6938,6 +7077,20 @@
         "FAZ 053",
         "FAZ-053",
         "FAZ053"
+      ]
+    },
+    {
+      "fdaUniiCode": "L8993M383E",
+      "id": "Nendratareotide_Uzatansine",
+      "preferredName": "Nendratareotide Uzatansine",
+      "synonyms": [
+        "NENDRATAREOTIDE UZATANSINE",
+        "Nendratareotide Uzatansine",
+        "PEN 221",
+        "PEN-221",
+        "PEN221",
+        "SSTR2-targeting Protein/DM1 Conjugate PEN-221",
+        "SSTR2PEN-221"
       ]
     },
     {
@@ -7057,6 +7210,21 @@
       ]
     },
     {
+      "fdaUniiCode": "Q26B92650V",
+      "id": "Abequolixron",
+      "preferredName": "Abequolixron",
+      "synonyms": [
+        "ABEQUOLIXRON",
+        "Abequolixron",
+        "LXR-b Agonist RGX-104",
+        "Liver X Receptor beta Agonist RGX-104",
+        "RGX 104",
+        "RGX-104",
+        "RGX104",
+        "SB-742881"
+      ]
+    },
+    {
       "fdaUniiCode": "43HH4XYH2N",
       "id": "Enapotamab_Vedotin",
       "preferredName": "Enapotamab Vedotin",
@@ -7152,6 +7320,19 @@
         "Cyclosporin A, 2-(O-(2-hydroxyethyl)-D-serine)-",
         "OXECLOSPORIN",
         "Oxeclosporin"
+      ]
+    },
+    {
+      "fdaUniiCode": "D19V7048JK",
+      "id": "Teverelix",
+      "preferredName": "Teverelix",
+      "synonyms": [
+        "ANB019",
+        "Ac-D-Nal-D-cpa-D-pal-ser-tyr-D-hci-leu-lys(ipr)-pro-D-ala-NH2",
+        "D-Alaninamide, N-acetyl-3-(2-naphthalenyl)-D-alanyl-4-chloro-D-phenylalanyl-3-(3-pyridinyl)-D-alanyl-L-seryl-L-tyrosyl-N6-(aminocarbonyl)-D-lysyl-L-leucyl-N6-(1-methylethyl)-L-lysyl-L-prolyl-",
+        "EP 24332",
+        "TEVERELIX",
+        "Teverelix"
       ]
     },
     {
@@ -7367,9 +7548,10 @@
       "synonyms": [
         "ALFLUTINIB MESYLATE",
         "ASK120067",
-        "AST 2818",
-        "AST2818",
-        "Alflutinib Mesylate"
+        "AST 2818 Mesylate",
+        "AST2818 Mesylate",
+        "Alflutinib Mesylate",
+        "Furmonertinib Mesylate"
       ]
     },
     {
@@ -7504,7 +7686,8 @@
         "MK 6482",
         "MK-6482",
         "MK6482",
-        "PT2977"
+        "PT2977",
+        "Welireg"
       ]
     },
     {
@@ -7832,6 +8015,21 @@
         "Recombinant human interleukin-12 (IL-12) cytokine",
         "Ro 24-7472",
         "interleukin-12"
+      ]
+    },
+    {
+      "fdaUniiCode": "JTZ51LIXN4",
+      "id": "Nemtabrutinib",
+      "preferredName": "Nemtabrutinib",
+      "synonyms": [
+        "ARQ 531",
+        "ARQ-531",
+        "ARQ531",
+        "BTK Inhibitor ARQ 531",
+        "Bruton's Tyrosine Kinase Inhibitor ARQ 531",
+        "MK-1026",
+        "NEMTABRUTINIB",
+        "Nemtabrutinib"
       ]
     },
     {
@@ -8179,13 +8377,14 @@
     },
     {
       "fdaUniiCode": "TB50XV90MW",
-      "id": "Immune_Checkpoint_Inhibitor_ASP8374",
-      "preferredName": "Immune Checkpoint Inhibitor ASP8374",
+      "id": "Anti-TIGIT_Monoclonal_Antibody_ASP8374",
+      "preferredName": "Anti-TIGIT Monoclonal Antibody ASP8374",
       "synonyms": [
         "ASP 8374",
         "ASP-8374",
         "ASP8374",
-        "Immune Checkpoint Inhibitor ASP8374"
+        "Anti-TIGIT Monoclonal Antibody ASP8374",
+        "PTZ-201"
       ]
     },
     {
@@ -8687,6 +8886,21 @@
       ]
     },
     {
+      "fdaUniiCode": "LA88IH4O02",
+      "id": "Mezigdomide",
+      "preferredName": "Mezigdomide",
+      "synonyms": [
+        "CC 92480",
+        "CC-92480",
+        "CELMoD CC-92480",
+        "Cereblon E3 Ligase Modulation Drug CC-92480",
+        "Cereblon E3 Ubiquitin Ligase Modulating Agent CC-92480",
+        "Cereblon Modulator CC-92480",
+        "MEZIGDOMIDE",
+        "Mezigdomide"
+      ]
+    },
+    {
       "fdaUniiCode": "7N13IK9LNH",
       "id": "Elimusertib",
       "preferredName": "Elimusertib",
@@ -9068,6 +9282,19 @@
       ]
     },
     {
+      "fdaUniiCode": "3ZQ57V6YWZ",
+      "id": "Delolimogene_Mupadenorepvec",
+      "preferredName": "Delolimogene Mupadenorepvec",
+      "synonyms": [
+        "DELOLIMOGENE MUPADENOREPVEC",
+        "Delolimogene Mupadenorepvec",
+        "LOAd 703",
+        "LOAd-703",
+        "LOAd703",
+        "Oncolytic Adenovirus LOAd703"
+      ]
+    },
+    {
       "fdaUniiCode": "0L1F17908Q",
       "id": "Ciltacabtagene_Autoleucel",
       "preferredName": "Ciltacabtagene Autoleucel",
@@ -9076,6 +9303,7 @@
         "Autologous Bi-epitope BCMA-targeted CAR T-cells JNJ-68284528",
         "Autologous Bi-epitope CAR T-cells JNJ-68284528",
         "CILTACABTAGENE AUTOLEUCEL",
+        "Cilta-cel",
         "Ciltacabtagene Autoleucel",
         "JNJ-68284528",
         "LCAR-B38M",
@@ -9290,6 +9518,17 @@
         "MEDI 2228",
         "MEDI-2228",
         "MEDI2228"
+      ]
+    },
+    {
+      "fdaUniiCode": "CI43QFE22O",
+      "id": "ATM_Kinase_Inhibitor_AZD1390",
+      "preferredName": "ATM Kinase Inhibitor AZD1390",
+      "synonyms": [
+        "7-Fluoro-1-isopropyl-3-methyl-8-(6-(3-(piperidin-1-yl)propoxy)pyridin-3-yl)-1H-imidazo[4,5-c]quinolin-2(3H)-one",
+        "ATM Kinase Inhibitor AZD1390",
+        "AZD-1390",
+        "AZD1390"
       ]
     },
     {
@@ -9514,6 +9753,20 @@
       ]
     },
     {
+      "fdaUniiCode": "UQE6KP7T0D",
+      "id": "Onilcamotide",
+      "preferredName": "Onilcamotide",
+      "synonyms": [
+        "ONILCAMOTIDE",
+        "Onilcamotide",
+        "RV 001",
+        "RV 001V",
+        "RV001 Vaccine",
+        "RV001V",
+        "RhoC Peptide Vaccine RV001V"
+      ]
+    },
+    {
       "fdaUniiCode": "PNW7GBB44P",
       "id": "Cosibelimab",
       "preferredName": "Cosibelimab",
@@ -9538,6 +9791,20 @@
         "OXS 3550",
         "OXS-3550",
         "OXS3550"
+      ]
+    },
+    {
+      "fdaUniiCode": "K424WH3WU0",
+      "id": "Trotabresib",
+      "preferredName": "Trotabresib",
+      "synonyms": [
+        "4-(2-(Cyclopropylmethoxy)-5-methylsulfonylphenyl)-2-methylisoquinolin-1-one",
+        "BET Inhibitor CC-90010",
+        "CC 90010",
+        "CC-90010",
+        "CC90010",
+        "TROTABRESIB",
+        "Trotabresib"
       ]
     },
     {
@@ -9693,6 +9960,17 @@
       ]
     },
     {
+      "fdaUniiCode": "R1ZJT87990",
+      "id": "Tigilanol_Tiglate",
+      "preferredName": "Tigilanol Tiglate",
+      "synonyms": [
+        "EBC-46",
+        "EBI-46",
+        "TIGILANOL TIGLATE",
+        "Tigilanol Tiglate"
+      ]
+    },
+    {
       "fdaUniiCode": "7LKK855W8I",
       "id": "Letrozole",
       "preferredName": "Letrozole",
@@ -9713,6 +9991,16 @@
         "Mekinist",
         "TRAMETINIB DIMETHYL SULFOXIDE",
         "Trametinib Dimethyl Sulfoxide"
+      ]
+    },
+    {
+      "fdaUniiCode": "FU8XW5V3FS",
+      "id": "Umbralisib_Tosylate",
+      "preferredName": "Umbralisib Tosylate",
+      "synonyms": [
+        "UMBRALISIB TOSYLATE",
+        "Ukoniq",
+        "Umbralisib Tosylate"
       ]
     },
     {
@@ -9874,6 +10162,21 @@
       ]
     },
     {
+      "fdaUniiCode": "2UG29YVL56",
+      "id": "Guretolimod",
+      "preferredName": "Guretolimod",
+      "synonyms": [
+        "(((4-((2-Amino-4-(((3s)-1-hydroxyhexan-3-yl)amino)-6-methylpyrimidin-5-yl)methyl)-3- methoxyphenyl)methyl)(2,2,2-trifluoroethyl)amino)acetic Acid",
+        "DSP 0509",
+        "DSP-0509",
+        "DSP0509",
+        "GURETOLIMOD",
+        "Guretolimod",
+        "TLR7 Agonist DSP-0509",
+        "Toll-like Receptor 7 Agonist DSP-0509"
+      ]
+    },
+    {
       "fdaUniiCode": "JL7V54Z2BR",
       "id": "Aspacytarabine",
       "preferredName": "Aspacytarabine",
@@ -10003,6 +10306,7 @@
         "AMG 510",
         "AMG-510",
         "AMG510",
+        "Lumakras",
         "SOTORASIB",
         "Sotorasib"
       ]
@@ -10156,6 +10460,21 @@
       ]
     },
     {
+      "fdaUniiCode": "K5CXA4X5U8",
+      "id": "Relmacabtagene_Autoleucel",
+      "preferredName": "Relmacabtagene Autoleucel",
+      "synonyms": [
+        "Autologous Anti-CD19 CAR T-cells JWCAR029",
+        "Autologous CD19-targeted CAR T Cells JWCAR029",
+        "JWCAR 029",
+        "JWCAR-029",
+        "JWCAR029",
+        "RELMACABTAGENE AUTOLEUCEL",
+        "Relma-cel",
+        "Relmacabtagene Autoleucel"
+      ]
+    },
+    {
       "fdaUniiCode": "IBS1BZ4E4I",
       "id": "Penpulimab",
       "preferredName": "Penpulimab",
@@ -10261,6 +10580,20 @@
         "BATIRAXCEPT",
         "Batiraxcept",
         "RUGA-S6"
+      ]
+    },
+    {
+      "fdaUniiCode": "23ET6940RM",
+      "id": "Mupadolimab",
+      "preferredName": "Mupadolimab",
+      "synonyms": [
+        "Anti-CD73 Monoclonal Antibody CPI-006",
+        "CPI 006",
+        "CPI-006",
+        "CPI006",
+        "CPX-006",
+        "MUPADOLIMAB",
+        "Mupadolimab"
       ]
     },
     {
@@ -10449,6 +10782,25 @@
       ]
     },
     {
+      "fdaUniiCode": "F8Z9VSZ0K1",
+      "id": "Runimotamab",
+      "preferredName": "Runimotamab",
+      "synonyms": [
+        "Anti-HER2 x Anti-CD3 Bispecific Monoclonal Antibody BTRC 4017A",
+        "Anti-HER2 x Anti-CD3 Bispecific Monoclonal Antibody RG 6194",
+        "Anti-HER2/Anti-CD3 Bispecific Monoclonal Antibody 4017A",
+        "Anti-HER2/Anti-CD3 Bispecific Monoclonal Antibody BTRC 4017A",
+        "BTRC 4017A",
+        "BTRC-4017A",
+        "BTRC4017A",
+        "RG 6194",
+        "RG-6194",
+        "RG6194",
+        "RUNIMOTAMAB",
+        "Runimotamab"
+      ]
+    },
+    {
       "fdaUniiCode": "QCA97P3GSS",
       "id": "Anti-GCC_Antibody-Drug_Conjugate_TAK-164",
       "preferredName": "Anti-GCC Antibody-Drug Conjugate TAK-164",
@@ -10562,6 +10914,19 @@
         "COM-701",
         "COM701",
         "PVRIG Inhibitor COM701"
+      ]
+    },
+    {
+      "fdaUniiCode": "ND1SOF0DLU",
+      "id": "Elraglusib",
+      "preferredName": "Elraglusib",
+      "synonyms": [
+        "9 ING 41",
+        "9-ING-41",
+        "ELRAGLUSIB",
+        "Elraglusib",
+        "GSK-3 Inhibitor 9-ING-41",
+        "Glycogen Synthase Kinase-3 Inhibitor 9-ING-41"
       ]
     },
     {
@@ -10884,6 +11249,21 @@
       ]
     },
     {
+      "fdaUniiCode": "9NP50O6YSA",
+      "id": "Erfonrilimab",
+      "preferredName": "Erfonrilimab",
+      "synonyms": [
+        "Anti-PD-L1 x CTLA-4 Bispecific Antibody KN046",
+        "Anti-PD-L1/Anti-CTLA-4 Bispecific Antibody KN046",
+        "Anti-PD-L1/CTLA-4 Bispecific Antibody KN046",
+        "ERFONRILIMAB",
+        "Erfonrilimab",
+        "KN 046",
+        "KN-046",
+        "KN046"
+      ]
+    },
+    {
       "fdaUniiCode": "1XA69O733O",
       "id": "Nolatrexed_Dihydrochloride",
       "preferredName": "Nolatrexed Dihydrochloride",
@@ -10917,6 +11297,22 @@
       ]
     },
     {
+      "fdaUniiCode": "45KLN7N6UV",
+      "id": "Vusolimogene_Oderparepvec",
+      "preferredName": "Vusolimogene Oderparepvec",
+      "synonyms": [
+        "Genetically Modified HSV-1 Oncolytic Immunotherapeutic RP1",
+        "HSV-1 Engineered RP1",
+        "HSV-1 Oncolytic Viral Strain RP1",
+        "HSV-1 RP1",
+        "Oncolytic Virus RP1",
+        "RP-1",
+        "RP1",
+        "VUSOLIMOGENE ODERPAREPVEC",
+        "Vusolimogene Oderparepvec"
+      ]
+    },
+    {
       "fdaUniiCode": "G86X5QQ7M5",
       "id": "Anti-EGFRc-Met_Bispecific_Antibody_EMB-01",
       "preferredName": "Anti-EGFR/c-Met Bispecific Antibody EMB-01",
@@ -10929,6 +11325,22 @@
         "EMB-01",
         "EMB01",
         "FIT-013a"
+      ]
+    },
+    {
+      "fdaUniiCode": "EP0P7SHM0U",
+      "id": "Zeteletinib",
+      "preferredName": "Zeteletinib",
+      "synonyms": [
+        "BOS 172738",
+        "BOS-172738",
+        "BOS172738",
+        "DS 5010",
+        "DS-5010",
+        "DS5010",
+        "RET Inhibitor DS-5010",
+        "ZETELETINIB",
+        "Zeteletinib"
       ]
     },
     {
@@ -10988,6 +11400,20 @@
       ]
     },
     {
+      "fdaUniiCode": "8RV18E4A94",
+      "id": "Nivatrotamab",
+      "preferredName": "Nivatrotamab",
+      "synonyms": [
+        "Anti-GD2 hu3F8/Anti-CD3 huOKT3 Bispecific Antibody",
+        "Humanized 3F8 Bispecific Antibody",
+        "Humanized Anti-GD2 x Anti-CD3 Bispecific Antibody",
+        "NIVATROTAMAB",
+        "Nivatrotamab",
+        "hu3F8 x huOKT3 Bispecific Antibody",
+        "hu3F8-BsAb"
+      ]
+    },
+    {
       "fdaUniiCode": "DT958C4NWR",
       "id": "Cudarolimab",
       "preferredName": "Cudarolimab",
@@ -11030,6 +11456,32 @@
       ]
     },
     {
+      "fdaUniiCode": "1Z5YC3ME5N",
+      "id": "Botensilimab",
+      "preferredName": "Botensilimab",
+      "synonyms": [
+        "AGEN 1181",
+        "AGEN-1181",
+        "AGEN1181",
+        "Anti-CTLA-4 Monoclonal Antibody AGEN1181",
+        "BOTENSILIMAB",
+        "Botensilimab"
+      ]
+    },
+    {
+      "fdaUniiCode": "PFZ3AP93TA",
+      "id": "Azercabtagene_Zapreleucel",
+      "preferredName": "Azercabtagene Zapreleucel",
+      "synonyms": [
+        "AZERCABTAGENE ZAPRELEUCEL",
+        "Allogeneic Anti-CD19-CAR T-cells PBCAR0191",
+        "Allogeneic Anti-CD19-CAR T-lymphocytes PBCAR0191",
+        "Anti-CD19-CAR Allogeneic T-cells PBCAR0191",
+        "Azercabtagene Zapreleucel",
+        "PBCAR0191"
+      ]
+    },
+    {
       "fdaUniiCode": "JCL936W835",
       "id": "PI3K-alpha_Inhibitor_MEN1611",
       "preferredName": "PI3K-alpha Inhibitor MEN1611",
@@ -11047,6 +11499,21 @@
         "PA799",
         "PI3K-alpha Inhibitor MEN1611",
         "PI3Kalpha Inhibitor MEN1611"
+      ]
+    },
+    {
+      "fdaUniiCode": "JNA39I7ZVB",
+      "id": "Pirtobrutinib",
+      "preferredName": "Pirtobrutinib",
+      "synonyms": [
+        "5-Amino-3-(4-((5-fluoro-2-methoxybenzamido)methyl)phenyl)-1-((2S)-1,1,1-trifluoropropan-2-yl)-1h-pyrazole-4-carboxamide",
+        "BTK Inhibitor LOXO-305",
+        "LOXO 305",
+        "LOXO-305",
+        "LOXO305",
+        "LY3527727",
+        "PIRTOBRUTINIB",
+        "Pirtobrutinib"
       ]
     },
     {
@@ -11080,6 +11547,19 @@
       ]
     },
     {
+      "fdaUniiCode": "49X2Q41T99",
+      "id": "Pegsitacianine",
+      "preferredName": "Pegsitacianine",
+      "synonyms": [
+        "Indocyanine Green-labeled Polymeric Micelles ONM-100",
+        "ONM 100",
+        "ONM-100",
+        "ONM100",
+        "PEGSITACIANINE",
+        "Pegsitacianine"
+      ]
+    },
+    {
       "fdaUniiCode": "XZG407XE0Y",
       "id": "Itacitinib_Adipate",
       "preferredName": "Itacitinib Adipate",
@@ -11088,6 +11568,23 @@
         "INCB039110 Adipate",
         "ITACITINIB ADIPATE",
         "Itacitinib Adipate"
+      ]
+    },
+    {
+      "fdaUniiCode": "3OX1DBR75G",
+      "id": "Uliledlimab",
+      "preferredName": "Uliledlimab",
+      "synonyms": [
+        "Anti-CD73 Monoclonal Antibody TJ4309",
+        "TJ 004309",
+        "TJ 4309",
+        "TJ-004309",
+        "TJ-4309",
+        "TJ004309",
+        "TJ4309",
+        "TJD5",
+        "ULILEDLIMAB",
+        "Uliledlimab"
       ]
     },
     {
@@ -11164,6 +11661,26 @@
       ]
     },
     {
+      "fdaUniiCode": "102VUR9WQE",
+      "id": "Pacanalotamab",
+      "preferredName": "Pacanalotamab",
+      "synonyms": [
+        "AMG 420",
+        "AMG-420",
+        "AMG420",
+        "Anti-BCMA x Anti-CD3 BiTE AMG 420",
+        "Anti-BCMA/CD3 BiTE Antibody AMG 420",
+        "BCMA/CD3-directed Bispecific T-cell Engager Antibody AMG 420",
+        "BI 836909",
+        "BI-836909",
+        "BI836909",
+        "BiTE Antibody AMG 420",
+        "Bispecific T-cell Engager Antibody AMG 420",
+        "PACANALOTAMAB",
+        "Pacanalotamab"
+      ]
+    },
+    {
       "fdaUniiCode": "5DVS457HEG",
       "id": "Cantrixil",
       "preferredName": "Cantrixil",
@@ -11210,16 +11727,19 @@
     },
     {
       "fdaUniiCode": "6EX05GL2VK",
-      "id": "TGFbeta_Receptor_Ectodomain-IgG_Fc_Fusion_Protein_AVID200",
-      "preferredName": "TGFbeta Receptor Ectodomain-IgG Fc Fusion Protein AVID200",
+      "id": "TGFbeta_Receptor_Ectodomain-IgG_Fc_Fusion_Protein_BMS-986416",
+      "preferredName": "TGFbeta Receptor Ectodomain-IgG Fc Fusion Protein BMS-986416",
       "synonyms": [
         "AVID 200",
         "AVID-200",
         "AVID200",
+        "BMS 986416",
+        "BMS-986416",
+        "BMS986416",
         "TGF-beta 1/3 Inhibitor AVID200",
         "TGFb Inhibitor AVID200",
         "TGFbeta Ligand Trap AVID200",
-        "TGFbeta Receptor Ectodomain-IgG Fc Fusion Protein AVID200",
+        "TGFbeta Receptor Ectodomain-IgG Fc Fusion Protein BMS-986416",
         "TGFbeta-neutralizing Agent AVID200"
       ]
     },
@@ -11289,6 +11809,22 @@
         "NJH 395",
         "NJH-395",
         "NJH395"
+      ]
+    },
+    {
+      "fdaUniiCode": "JUP57A8EPZ",
+      "id": "Camizestrant",
+      "preferredName": "Camizestrant",
+      "synonyms": [
+        "AZ-14066724",
+        "AZD 9833",
+        "AZD-9833",
+        "AZD9833",
+        "CAMIZESTRANT",
+        "Camizestrant",
+        "N-(1-(3-Fluoropropyl)-3-azetidinyl)-6-((6S,8R)-8-methyl-7-(2,2,2-trifluoroethyl)-6,7,8,9-tetrahydro-3H-pyrazolo(4,3-f)isoquinolin-6-yl)-3-pyridinamine",
+        "SERD AZD9833",
+        "Selective Estrogen Receptor Degrader AZD9833"
       ]
     },
     {
@@ -11364,6 +11900,35 @@
       ]
     },
     {
+      "fdaUniiCode": "CGA81G3KR5",
+      "id": "Pucotenlimab",
+      "preferredName": "Pucotenlimab",
+      "synonyms": [
+        "Anti-PD-1 Monoclonal Antibody HX008",
+        "HX 008",
+        "HX-008",
+        "HX008",
+        "PUCOTENLIMAB",
+        "Pucotenlimab"
+      ]
+    },
+    {
+      "fdaUniiCode": "NP6CFH3G8H",
+      "id": "Gavocabtagene_Autoleucel",
+      "preferredName": "Gavocabtagene Autoleucel",
+      "synonyms": [
+        "Autologous Anti-mesothelin T-cell Receptor Fusion Construct T-cells TC-210",
+        "Autologous Anti-mesothelin TRuC T-cells TC-210",
+        "GAVOCABTAGENE AUTOLEUCEL",
+        "Gavo-cel",
+        "Gavocabtagene Autoleucel",
+        "TC 210",
+        "TC-210",
+        "TC-210 T Cells",
+        "TC210"
+      ]
+    },
+    {
       "fdaUniiCode": "28DZS29F59",
       "id": "Avadomide",
       "preferredName": "Avadomide",
@@ -11426,13 +11991,15 @@
     },
     {
       "fdaUniiCode": "DX474PAV6P",
-      "id": "Anti-PD-1_Monoclonal_Antibody_AMG_404",
-      "preferredName": "Anti-PD-1 Monoclonal Antibody AMG 404",
+      "id": "Zeluvalimab",
+      "preferredName": "Zeluvalimab",
       "synonyms": [
         "AMG 404",
         "AMG-404",
         "AMG404",
-        "Anti-PD-1 Monoclonal Antibody AMG 404"
+        "Anti-PD-1 Monoclonal Antibody AMG 404",
+        "ZELUVALIMAB",
+        "Zeluvalimab"
       ]
     },
     {
@@ -11603,6 +12170,19 @@
       ]
     },
     {
+      "fdaUniiCode": "D2OPG50FF7",
+      "id": "Alomfilimab",
+      "preferredName": "Alomfilimab",
+      "synonyms": [
+        "ALOMFILIMAB",
+        "Alomfilimab",
+        "Anti-ICOS Monoclonal Antibody KY1044",
+        "KY 1044",
+        "KY-1044",
+        "KY1044"
+      ]
+    },
+    {
       "fdaUniiCode": "EUY2631TAL",
       "id": "Tubulin_Inhibitor_ALB-109564",
       "preferredName": "Tubulin Inhibitor ALB-109564",
@@ -11738,6 +12318,40 @@
       ]
     },
     {
+      "fdaUniiCode": "TQ6PBX1JU0",
+      "id": "Luxeptinib",
+      "preferredName": "Luxeptinib",
+      "synonyms": [
+        "32,72,74,76-Tetrafluoro-14-methyl-21,23-dihydro-11h-4,6-diaza-2(4,7)-isoindola- 1(2)-imidazola-3(1,4),7(1)-dibenzenaheptaphane-2,35-dione",
+        "CG 806",
+        "CG'806",
+        "CG-026806",
+        "CG-806",
+        "CG806",
+        "FLT3/BTK Inhibitor CG 806",
+        "LUXEPTINIB",
+        "Luxeptinib",
+        "Pan-FLT3/BTK Multi-Kinase Inhibitor CG 806",
+        "Pan-FLT3/Pan-BTK Inhibitor CG-806",
+        "Pan-FLT3/Pan-BTK Multi-kinase Inhibitor CG-806"
+      ]
+    },
+    {
+      "fdaUniiCode": "RHS90QRF9E",
+      "id": "Anbenitamab",
+      "preferredName": "Anbenitamab",
+      "synonyms": [
+        "ANBENITAMAB",
+        "Anbenitamab",
+        "Anti-HER-2 Bispecific Antibody KN026",
+        "Anti-HER2 Heterodimeric Antibody KN026",
+        "HER2 Bispecific Antibody KN026",
+        "KN 026",
+        "KN-026",
+        "KN026"
+      ]
+    },
+    {
       "fdaUniiCode": "THY6RIW44R",
       "id": "Etalocib",
       "preferredName": "Etalocib",
@@ -11750,15 +12364,34 @@
       ]
     },
     {
+      "fdaUniiCode": "45X7OU8C4J",
+      "id": "Domvanalimab",
+      "preferredName": "Domvanalimab",
+      "synonyms": [
+        "AB 154",
+        "AB-154",
+        "AB154",
+        "Anti-TIGIT Monoclonal Antibody AB154",
+        "DOMVANALIMAB",
+        "Domvanalimab"
+      ]
+    },
+    {
       "fdaUniiCode": "1P05PW62F3",
       "id": "Conbercept",
       "preferredName": "Conbercept",
       "synonyms": [
         "CONBERCEPT",
         "Conbercept",
+        "FP 3",
+        "FP-3",
+        "FP3",
         "KH 902",
+        "KH 903",
         "KH-902",
-        "KH902"
+        "KH-903",
+        "KH902",
+        "KH903"
       ]
     },
     {
@@ -11822,7 +12455,6 @@
       "preferredName": "Epcoritamab",
       "synonyms": [
         "Anti-CD20/CD3 Bispecific Antibody GEN3013",
-        "Anti-CD33/CD3 Antibody GEM 333",
         "DuoBody-CD3xCD20",
         "EPCORITAMAB",
         "Epcoritamab",
@@ -11888,6 +12520,20 @@
         "Iodine I-131",
         "Iodotope",
         "Iodotrope"
+      ]
+    },
+    {
+      "fdaUniiCode": "0H2XLR2IKW",
+      "id": "Lemzoparlimab",
+      "preferredName": "Lemzoparlimab",
+      "synonyms": [
+        "Anti-CD47 Monoclonal Antibody TJC4",
+        "LEMZOPARLIMAB",
+        "Lemzoparlimab",
+        "TJ 011133",
+        "TJ-011133",
+        "TJ011133",
+        "TJC4"
       ]
     },
     {
@@ -12117,6 +12763,24 @@
       ]
     },
     {
+      "fdaUniiCode": "GMV2GFP3G2",
+      "id": "Zevorcabtagene_Autoleucel",
+      "preferredName": "Zevorcabtagene Autoleucel",
+      "synonyms": [
+        "Anti-BCMA-CAR-41BB-CD3zeta-expressing T-cells CT053",
+        "Autologous Anti-BCMA-CAR-4-1BB-CD3zeta-expressing T-cells CT053",
+        "BCMA Car-T (CT053)",
+        "CAR-BCMA T-cells CT053",
+        "CT 053",
+        "CT-053",
+        "CT053",
+        "CT053 CAR-BCMA T",
+        "CT053 CAR-BCMA T Cells",
+        "ZEVORCABTAGENE AUTOLEUCEL",
+        "Zevorcabtagene Autoleucel"
+      ]
+    },
+    {
       "fdaUniiCode": "KV1M7Q3CBP",
       "id": "Olverembatinib",
       "preferredName": "Olverembatinib",
@@ -12196,6 +12860,18 @@
       ]
     },
     {
+      "fdaUniiCode": "6HXC0O6JMV",
+      "id": "Onfekafusp_Alfa",
+      "preferredName": "Onfekafusp Alfa",
+      "synonyms": [
+        "Fibromun",
+        "L19-TNF-alpha",
+        "ONFEKAFUSP ALFA",
+        "Onfekafusp Alfa",
+        "Recombinant Human Fusion Protein L19TNFalpha"
+      ]
+    },
+    {
       "fdaUniiCode": "J12U072QL0",
       "id": "Ibandronate_Sodium",
       "preferredName": "Ibandronate Sodium",
@@ -12205,6 +12881,19 @@
         "IBANDRONATE SODIUM",
         "Ibandronate Sodium",
         "ibandronate"
+      ]
+    },
+    {
+      "fdaUniiCode": "J6K8WSV73A",
+      "id": "Quemliclustat",
+      "preferredName": "Quemliclustat",
+      "synonyms": [
+        "AB 680",
+        "AB-680",
+        "AB680",
+        "CD73 Inhibitor AB680",
+        "QUEMLICLUSTAT",
+        "Quemliclustat"
       ]
     },
     {
@@ -12444,6 +13133,19 @@
       ]
     },
     {
+      "fdaUniiCode": "Y8KTZ6Y35U",
+      "id": "Pegcrisantaspase",
+      "preferredName": "Pegcrisantaspase",
+      "synonyms": [
+        "JZP 416",
+        "JZP-416",
+        "JZP416",
+        "PEGCRISANTASPASE",
+        "Pegcrisantaspase",
+        "Pegylated Erwinia asparaginase"
+      ]
+    },
+    {
       "fdaUniiCode": "MAT637500A",
       "id": "Tipifarnib",
       "preferredName": "Tipifarnib",
@@ -12550,6 +13252,32 @@
       ]
     },
     {
+      "fdaUniiCode": "533Z4G2286",
+      "id": "Finotonlimab",
+      "preferredName": "Finotonlimab",
+      "synonyms": [
+        "Anti-PD-1 Monoclonal Antibody SCT-I10A",
+        "FINOTONLIMAB",
+        "Finotonlimab",
+        "SCT I10A",
+        "SCT-I10A",
+        "SCTI10A"
+      ]
+    },
+    {
+      "fdaUniiCode": "B1MW2ME77A",
+      "id": "Atamparib",
+      "preferredName": "Atamparib",
+      "synonyms": [
+        "ATAMPARIB",
+        "Atamparib",
+        "PARP7 Inhibitor RBN-2397",
+        "RBN 2397",
+        "RBN-2397",
+        "RBN2397"
+      ]
+    },
+    {
       "fdaUniiCode": "7JNY4KV3NK",
       "id": "Ociperlimab",
       "preferredName": "Ociperlimab",
@@ -12615,6 +13343,39 @@
       ]
     },
     {
+      "fdaUniiCode": "4W3KFI3TN3",
+      "id": "Talquetamab",
+      "preferredName": "Talquetamab",
+      "synonyms": [
+        "Anti-CD3/Anti-GPRC5D Bispecific Monoclonal Antibody JNJ-64407564",
+        "GPRC5D x CD3 Bispecific Antibody JNJ-64407564",
+        "GPRC5D x CD3 DuoBody Antibody JNJ-64407564",
+        "GPRC5D/CD3 DuoBody Antibody JNJ-64407564",
+        "Humanized GPRC5D x CD3 DuoBody Antibody JNJ-64407564",
+        "JNJ 64407564",
+        "JNJ-64407564",
+        "JNJ64407564",
+        "TALQUETAMAB",
+        "Talquetamab"
+      ]
+    },
+    {
+      "fdaUniiCode": "923X28214S",
+      "id": "Crenigacestat",
+      "preferredName": "Crenigacestat",
+      "synonyms": [
+        "4,4,4-Trifluoro-N-((S)-1-(((S)-5-(2-hydroxyethyl)-6-oxo-6,7-dihydro-5H-benzo[d]pyrido[2,3-b]azepin-7-yl)amino)-1-oxopropan-2-yl)butanamide",
+        "BMS-986405",
+        "CRENIGACESTAT",
+        "Crenigacestat",
+        "Gamma-Secretase Inhibitor LY3039478",
+        "JSMD194",
+        "LY 3039478",
+        "LY-3039478",
+        "LY3039478"
+      ]
+    },
+    {
       "fdaUniiCode": "963AI80S1B",
       "id": "Borofalan_10B",
       "preferredName": "Borofalan (10B)",
@@ -12628,6 +13389,19 @@
         "SPM 011",
         "SPM-011",
         "SPM011"
+      ]
+    },
+    {
+      "fdaUniiCode": "HQ700V0X06",
+      "id": "Inupadenant",
+      "preferredName": "Inupadenant",
+      "synonyms": [
+        "A2A Receptor Antagonist EOS100850",
+        "EOS 100850",
+        "EOS-100850",
+        "EOS100850",
+        "INUPADENANT",
+        "Inupadenant"
       ]
     },
     {
@@ -12660,6 +13434,26 @@
         "PERIFOSINE",
         "Perifosine",
         "perifosine"
+      ]
+    },
+    {
+      "fdaUniiCode": "760HJB0YRD",
+      "id": "Obecabtagene_Autoleucel",
+      "preferredName": "Obecabtagene Autoleucel",
+      "synonyms": [
+        "AUTO 1",
+        "AUTO-1",
+        "AUTO1",
+        "AUTO1 CAR-T Cells",
+        "Autologous Anti-CD19 CAR T-cells AUTO1",
+        "Autologous Anti-CD19 Chimeric Antigen Receptor T-cells AUTO1",
+        "Autologous Anti-CD19 Chimeric Antigen Receptor T-lymphocytes AUTO1",
+        "Autologous CD19-targeted CAR T-cells AUTO1",
+        "CD19CAR T-cells AUTO1",
+        "CD19CAT-41BBZ CAR T-cells AUTO1",
+        "OBECABTAGENE AUTOLEUCEL",
+        "Obe-cel",
+        "Obecabtagene Autoleucel"
       ]
     },
     {
@@ -12729,6 +13523,40 @@
       ]
     },
     {
+      "fdaUniiCode": "J2Y9QT3BWL",
+      "id": "Frenlosirsen",
+      "preferredName": "Frenlosirsen",
+      "synonyms": [
+        "Anti-IRF4 ASO ION251",
+        "Anti-IRF4 ASO IONIS-IRF4-2.5Rx",
+        "Anti-IRF4 Antisense Oligonucleotide ION251",
+        "FRENLOSIRSEN",
+        "Frenlosirsen",
+        "ION 251",
+        "ION-251",
+        "ION251",
+        "IONIS-IRF4-2.5Rx",
+        "ON-935918"
+      ]
+    },
+    {
+      "fdaUniiCode": "XO25H8E4QP",
+      "id": "Taniraleucel",
+      "preferredName": "Taniraleucel",
+      "synonyms": [
+        "Allogeneic CD56+/CD3- Natural Killer Cells CYNK-001",
+        "Allogeneic CD56-positive CD3-negative Natural Killer Cells CYNK-001",
+        "Allogeneic Human Placental Hematopoietic Stem Cell Derived Natural Killer Cells CYNK-001",
+        "CD56+/CD3- NK Cells CYNK-001 (SY); Natural Killer Cells CYNK-001",
+        "CYNK 001",
+        "CYNK-001",
+        "CYNK001",
+        "Human Placental HSC-derived CD56+/CD3- NKs CYNK-001",
+        "TANIRALEUCEL",
+        "Taniraleucel"
+      ]
+    },
+    {
       "fdaUniiCode": "T5IRO3534A",
       "id": "Vincristine_Sulfate",
       "preferredName": "Vincristine Sulfate",
@@ -12749,6 +13577,77 @@
       ]
     },
     {
+      "fdaUniiCode": "9GGE6A0ZMK",
+      "id": "Sirpiglenastat",
+      "preferredName": "Sirpiglenastat",
+      "synonyms": [
+        "(S)-Isopropyl 2-((S)-2-acetamido-3-(1h-indol-3-yl)propanamido)-6-diazo-5-oxohexanoate",
+        "DRP 104",
+        "DRP-104",
+        "DRP104",
+        "Glutamine Antagonist DRP-104",
+        "SIRPIGLENASTAT",
+        "Sirpiglenastat"
+      ]
+    },
+    {
+      "fdaUniiCode": "N8Q12KU2SW",
+      "id": "Vodobatinib",
+      "preferredName": "Vodobatinib",
+      "synonyms": [
+        "4-Methyl-3-quinolin-3-ylethynylbenzoic Acid N'-(2-chloro-6-methylbenzoyl) Hydrazide",
+        "Bcr-Abl Kinase Inhibitor K0706",
+        "K-0706",
+        "K0706",
+        "SCO-088",
+        "SUN K706",
+        "SUN-K0706",
+        "SUN-K706",
+        "VODOBATINIB",
+        "Vodobatinib",
+        "WHO 11506"
+      ]
+    },
+    {
+      "fdaUniiCode": "TBF1NHY02O",
+      "id": "Amcenestrant",
+      "preferredName": "Amcenestrant",
+      "synonyms": [
+        "AMCENESTRANT",
+        "Amcenestrant",
+        "SAR 439859",
+        "SAR-439859",
+        "SAR439859",
+        "Selective Estrogen Receptor Degrader SAR439859",
+        "Selective Estrogen Receptor Downregulator SAR439859"
+      ]
+    },
+    {
+      "fdaUniiCode": "58BH47BV6S",
+      "id": "Infigratinib_Phosphate",
+      "preferredName": "Infigratinib Phosphate",
+      "synonyms": [
+        "INFIGRATINIB PHOSPHATE",
+        "Infigratinib Phosphate",
+        "N'-(2,6-Dichloro-3,5-dimethoxyphenyl)-N-(6-(4-(4-ethylpiperazin-1-yl)anilino)pyrimidin-4-yl)-N-methylurea Phosphate (1:1)",
+        "Truseltiq"
+      ]
+    },
+    {
+      "fdaUniiCode": "L4D9X59F34",
+      "id": "Zelenoleucel",
+      "preferredName": "Zelenoleucel",
+      "synonyms": [
+        "Allogeneic MultiTAA-specific T-lymphocytes MT-401",
+        "Donor-Derived Multi-Tumor-Associated Antigen-specific T Cells",
+        "MT 401",
+        "MT-401",
+        "MT401",
+        "ZELENOLEUCEL",
+        "Zelenoleucel"
+      ]
+    },
+    {
       "fdaUniiCode": "2498Y783QT",
       "id": "Toremifene_Citrate",
       "preferredName": "Toremifene Citrate",
@@ -12762,6 +13661,43 @@
         "TOREMIFENE CITRATE",
         "Toremifene Citrate",
         "Toremifene citrate"
+      ]
+    },
+    {
+      "fdaUniiCode": "G8FR269QPQ",
+      "id": "Fosciclopirox",
+      "preferredName": "Fosciclopirox",
+      "synonyms": [
+        "CPX POM",
+        "CPX-POM",
+        "CPXPOM",
+        "Ciclopirox Prodrug",
+        "Ciclopirox Prodrug CPX-POM",
+        "Ciclopirox-POM",
+        "FOSCICLOPIROX",
+        "Fosciclopirox"
+      ]
+    },
+    {
+      "fdaUniiCode": "3412470A0V",
+      "id": "Melphalan_Flufenamide_Hydrochloride",
+      "preferredName": "Melphalan Flufenamide Hydrochloride",
+      "synonyms": [
+        "MELPHALAN FLUFENAMIDE HYDROCHLORIDE",
+        "Melphalan Flufenamide Hydrochloride",
+        "Pepaxto"
+      ]
+    },
+    {
+      "fdaUniiCode": "IZK2TH7X5M",
+      "id": "Tilvestamab",
+      "preferredName": "Tilvestamab",
+      "synonyms": [
+        "BGB 149",
+        "BGB-149",
+        "BGB149",
+        "TILVESTAMAB",
+        "Tilvestamab"
       ]
     },
     {
@@ -12867,6 +13803,20 @@
       ]
     },
     {
+      "fdaUniiCode": "CAN96F6UCF",
+      "id": "Anti-OX40CD137_Bispecific_Antibody_FS120",
+      "preferredName": "Anti-OX40/CD137 Bispecific Antibody FS120",
+      "synonyms": [
+        "Anti-OX40/Anti-CD137 Bispecific Antibody FS120",
+        "Anti-OX40/CD137 Bispecific Antibody FS120",
+        "Bispecific Antibody FS120",
+        "FS 120",
+        "FS-120",
+        "FS120",
+        "OX40 x CD137 Bispecific Antibody FS120"
+      ]
+    },
+    {
       "fdaUniiCode": "FMT95051CQ",
       "id": "Aprinocarsen",
       "preferredName": "Aprinocarsen",
@@ -12895,6 +13845,47 @@
         "Remsima",
         "cA2",
         "infliximab"
+      ]
+    },
+    {
+      "fdaUniiCode": "84MI6OYN4Z",
+      "id": "Omacetaxine",
+      "preferredName": "Omacetaxine",
+      "synonyms": [
+        "Cephalotaxine",
+        "OMACETAXINE",
+        "Omacetaxine"
+      ]
+    },
+    {
+      "fdaUniiCode": "E35ZN95LMT",
+      "id": "SERD_ZB-716",
+      "preferredName": "SERD ZB-716",
+      "synonyms": [
+        "Borestrant",
+        "SERD ZB-716",
+        "Selective Estrogen Receptor Alpha Degrader ZB716",
+        "Selective Estrogen Receptor Degrader ZB716",
+        "ZB 716",
+        "ZB-716",
+        "ZB716"
+      ]
+    },
+    {
+      "fdaUniiCode": "CX0M5RO7CY",
+      "id": "Allitinib",
+      "preferredName": "Allitinib",
+      "synonyms": [
+        "ALLITINIB",
+        "ALS 1306",
+        "ALS-1306",
+        "ALS1306",
+        "AST 1306",
+        "AST-1306",
+        "AST1306",
+        "Allitinib",
+        "N-(4-(4-(3-Fluorobenzyloxy)-3-chlorophenylamino)quinazolin-6-yl) Acrylamide",
+        "N-[4-[3-Chloro-4-[(3-fluorophenyl)methoxy]anilino]quinazolin-6-yl]prop-2-enamide"
       ]
     },
     {
@@ -12948,6 +13939,17 @@
       ]
     },
     {
+      "fdaUniiCode": "J5OUL9SHW5",
+      "id": "Teverelix_Trifluoroacetate",
+      "preferredName": "Teverelix Trifluoroacetate",
+      "synonyms": [
+        "TEVERELIX TRIFLUOROACETATE",
+        "Teverelix TFA",
+        "Teverelix Trifluoroacetate",
+        "d-Alaninamide, N-acetyl-3-(2-naphthalenyl)-d-alanyl-4-chloro-d-phenylalanyl-3-(3-pyridinyl)-d-alanyl-l-seryl-l-tyrosyl-N6-(aminocarbonyl)-d-lysyl-l-leucyl-n6-(1-methylethyl)-l-lysyl-l-prolyl-, Bis(trifluoroacetate) (Salt)"
+      ]
+    },
+    {
       "fdaUniiCode": "41W9MFI160",
       "id": "Etaracizumab",
       "preferredName": "Etaracizumab",
@@ -12991,6 +13993,47 @@
       ]
     },
     {
+      "fdaUniiCode": "A49A7A5YN4",
+      "id": "Alflutinib",
+      "preferredName": "Alflutinib",
+      "synonyms": [
+        "2-Propenamide, N-(2-((2-(dimethylamino)ethyl)methylamino)-5-((4-(1-methyl-1H-indol-3-yl)-2-pyrimidinyl)amino)-6-(2,2,2-trifluoroethoxy)-3-pyridinyl)-",
+        "ALFLUTINIB",
+        "AST 2818",
+        "AST-2818",
+        "AST2818",
+        "Alflutinib",
+        "Furmonertinib"
+      ]
+    },
+    {
+      "fdaUniiCode": "M6LC47TUG3",
+      "id": "Gamitrinib",
+      "preferredName": "Gamitrinib",
+      "synonyms": [
+        "17-Demethoxy-17-((6-(triphenylphosphonio)hexyl)amino)geldanamycin",
+        "G-TPP",
+        "GAMITRINIB",
+        "Gamitrinib",
+        "Gamitrinib-TPP",
+        "Geldanamycin, 17-Demethoxy-17-((6-(triphenylphosphonio)hexyl)amino)-"
+      ]
+    },
+    {
+      "fdaUniiCode": "NT3BAN5MDV",
+      "id": "Zamtocabtagene_Autoleucel",
+      "preferredName": "Zamtocabtagene Autoleucel",
+      "synonyms": [
+        "Autologous Anti-CD20/CD19-targeting Tandem CAR T Cells MB-CART2019.1",
+        "Autologous pLTG1497-transduced CAR T-cells MB-CART2019.1",
+        "MB CART2019.1",
+        "MB-CART2019.1",
+        "MBCART2019.1",
+        "ZAMTOCABTAGENE AUTOLEUCEL",
+        "Zamtocabtagene Autoleucel"
+      ]
+    },
+    {
       "fdaUniiCode": "8GZG754X6M",
       "id": "Gemtuzumab_Ozogamicin",
       "preferredName": "Gemtuzumab Ozogamicin",
@@ -13005,6 +14048,19 @@
         "gemtuzumab",
         "gemtuzumab ozogamicin",
         "hP67.6-Calicheamicin"
+      ]
+    },
+    {
+      "fdaUniiCode": "34M62WSA87",
+      "id": "Temuterkib_Mesylate",
+      "preferredName": "Temuterkib Mesylate",
+      "synonyms": [
+        "ERK1/2 Inhibitor LY3214996 Mesylate",
+        "LY 3214996 Mesylate",
+        "LY-3214996 Mesylate",
+        "LY3214996 Mesylate",
+        "TEMUTERKIB MESYLATE",
+        "Temuterkib Mesylate"
       ]
     },
     {
@@ -13835,6 +14891,7 @@
       "id": "Bevacizumab",
       "preferredName": "Bevacizumab",
       "synonyms": [
+        "ABP 215",
         "Anti-VEGF",
         "Anti-VEGF Humanized Monoclonal Antibody",
         "Anti-VEGF rhuMAb",
@@ -13843,6 +14900,7 @@
         "BP102",
         "BP102 Biosimilar",
         "Bevacizumab",
+        "Bevacizumab Biosimilar ABP 215",
         "Bevacizumab Biosimilar BEVZ92",
         "Bevacizumab Biosimilar BI 695502",
         "Bevacizumab Biosimilar CBT 124",
@@ -13854,6 +14912,7 @@
         "Bevacizumab Biosimilar IBI305",
         "Bevacizumab Biosimilar LY01008",
         "Bevacizumab Biosimilar MIL60",
+        "Bevacizumab Biosimilar MYL-1402O",
         "Bevacizumab Biosimilar Mvasi",
         "Bevacizumab Biosimilar QL 1101",
         "Bevacizumab Biosimilar RPH-001",
@@ -13864,6 +14923,7 @@
         "Bevacizumab-bvzr",
         "HD204",
         "Immunoglobulin G1 (Human-Mouse Monoclonal rhuMab-VEGF Gamma-Chain Anti-Human Vascular Endothelial Growth Factor), Disulfide With Human-Mouse Monoclonal rhuMab-VEGF Light Chain, Dimer",
+        "MYL-1402O",
         "Mvasi",
         "Recombinant Humanized Anti-VEGF Monoclonal Antibody",
         "SCT501",
@@ -14067,6 +15127,19 @@
         "PR1 LEUKEMIA PEPTIDE VACCINE",
         "PR1 Leukemia Peptide Vaccine",
         "Proteinase 3:PR1 Peptide"
+      ]
+    },
+    {
+      "fdaUniiCode": "WQQ9XZH2CC",
+      "id": "Mesmulogene_Ancovacivec",
+      "preferredName": "Mesmulogene Ancovacivec",
+      "synonyms": [
+        "MESMULOGENE ANCOVACIVEC",
+        "MVA-MUC1-IL2",
+        "MVA-MUC1-IL2 Vaccine",
+        "Mesmulogene Ancovacivec",
+        "Modified Vaccinia Ankara Encoding Human MUC-1 Antigen and Interleukin-2 Suspension",
+        "TG4010"
       ]
     },
     {
@@ -16790,6 +17863,7 @@
       "synonyms": [
         "2C4",
         "2C4 Antibody",
+        "HS627",
         "Immunoglobulin G1, Anti-(Human V (Receptor)) (Human-Mouse Monoclonal 2C4 Heavy Chain), Disulfide with Human-Mouse Monoclonal 2C4 Kappa-Chain, Dimer",
         "MoAb 2C4",
         "Monoclonal Antibody 2C4",
@@ -16797,6 +17871,7 @@
         "PERTUZUMAB",
         "Perjeta",
         "Pertuzumab",
+        "Pertuzumab Biosimilar HS627",
         "RO4368451",
         "pertuzumab",
         "rhuMAb2C4"
@@ -16824,6 +17899,22 @@
         "Liposome-encapsulated OSI-7904",
         "OSI-7904",
         "OSI-7904L"
+      ]
+    },
+    {
+      "fdaUniiCode": "JB9647672Z",
+      "id": "Lutetium_Lu_177_Rosopatamab_Tetraxetan",
+      "preferredName": "Lutetium Lu 177 Rosopatamab Tetraxetan",
+      "synonyms": [
+        "177Lu-DOTA-TLX591",
+        "DOTA-HUJ-591 LU-177",
+        "Lu 177 MOAB J591",
+        "Lutetium Lu 177 Monoclonal Antibody J591",
+        "Lutetium Lu 177 Rosopatamab",
+        "Lutetium Lu 177 Rosopatamab Tetraxetan",
+        "Lutetium Lu 177-DOTA-Rosopatamab",
+        "Lutetium Lu 177-DOTA-TLX591",
+        "ROSOPATAMAB TETRAXETAN LUTETIUM LU-177"
       ]
     },
     {
@@ -17244,6 +18335,7 @@
         "Fluorodelta",
         "Fortecortin",
         "Gammacorten",
+        "Hemady",
         "Hexadecadrol",
         "Hexadrol",
         "Lokalison-F",
@@ -19140,6 +20232,8 @@
         "AMG-162",
         "DENOSUMAB",
         "Denosumab",
+        "Denosumab Biosimilar MW032",
+        "Denosumab Biosimilar QL1206",
         "Denosumab Biosimilar TK-006",
         "Prolia",
         "TK-006",
@@ -19997,7 +21091,6 @@
         "1h-pyrazole-3-acetamide, 5-((7-(3-(ethyl(2-(phosphonooxy)ethyl)amino)propoxy)-4-quinazolinyl)amino)-n-(3-fluorophenyl)-",
         "AZD-1152",
         "AZD1152",
-        "AZD2811",
         "Aurora Kinase Inhibitor AZD1152",
         "BARASERTIB",
         "Barasertib"
@@ -20178,6 +21271,21 @@
         "Maytansin",
         "Maytansine",
         "alanine, N-acetyl-N-methyl-, 6-ester with 11-chloro-6, 21-dihydroxy-12,20-dimethoxy-2,5,9,16-tetramethyl-4,24-dioxa-9,22-diazatetracyclo[19.3.1.1(10,24).0(3,5)]hexacosa-10,12,14[26], 16,18-pentaene-8,23-dione"
+      ]
+    },
+    {
+      "fdaUniiCode": "NFH8D7ZGF5",
+      "id": "Davamotecan_Pegadexamer",
+      "preferredName": "Davamotecan Pegadexamer",
+      "synonyms": [
+        "CRLX101",
+        "Camptothecin-Polymer Conjugate IT-101",
+        "Cyclodextrin-Based Polymer-Camptothecin CRLX101",
+        "DAVAMOTECAN PEGADEXAMER",
+        "Davamotecan Pegadexamer",
+        "EP0057",
+        "IT-101",
+        "Linear Cyclodextrin-cysteine-PEG Based Polymer Conjugate of Camptothecin"
       ]
     },
     {
@@ -21425,6 +22533,7 @@
         "GSK1841157",
         "HuMax-CD20",
         "HuMax-CD20, 2F2",
+        "Kesimpta",
         "OFATUMUMAB",
         "Ofatumumab",
         "ofatumumab"
@@ -21648,10 +22757,12 @@
       "preferredName": "Nivolumab",
       "synonyms": [
         "BMS-936558",
+        "CMAB819",
         "MDX-1106",
         "NIVO",
         "NIVOLUMAB",
         "Nivolumab",
+        "Nivolumab Biosimilar CMAB819",
         "ONO-4538",
         "Opdivo"
       ]
@@ -21682,7 +22793,10 @@
         "ABIRATERONE ACETATE",
         "Abiraterone Acetate",
         "Androsta-5,16-dien-3-ol, 17-(3-pyridinyl)-, acetate (ester), (3beta)-",
+        "BR9004",
+        "BR9004-1",
         "CB7630",
+        "JNJ-212082",
         "Yonsa",
         "Zytiga",
         "abiraterone acetate"
@@ -26544,7 +27658,11 @@
       "id": "Lutetium_Lu_177-Edotreotide",
       "preferredName": "Lutetium Lu 177-Edotreotide",
       "synonyms": [
+        "177Lu-DOTATOC",
+        "177Lu-Edo",
+        "177Lu-Edotreotide",
         "EDOTREOTIDE LUTETIUM LU-177",
+        "Lutetium 177Lu-Edotreotide",
         "Lutetium Lu 177 DOTA-Tyr3-octreotide",
         "Lutetium Lu 177-Edotreotide",
         "[177LuDOTA]-TOC"
@@ -26765,6 +27883,24 @@
       ]
     },
     {
+      "fdaUniiCode": "P34L5Y2SR5",
+      "id": "Tipapkinogene_Sovacivec",
+      "preferredName": "Tipapkinogene Sovacivec",
+      "synonyms": [
+        "HPV16 E6/E7-encoding MVA Vaccine TG4001",
+        "MVA-HPV-IL2",
+        "MVA-HPV16E6/E7-IL2",
+        "R3484",
+        "RG3484",
+        "RO5217790",
+        "TG 4001",
+        "TG-4001",
+        "TG4001",
+        "TIPAPKINOGENE SOVACIVEC",
+        "Tipapkinogene Sovacivec"
+      ]
+    },
+    {
       "fdaUniiCode": "MP3N1L4OR6",
       "id": "Bersanlimab",
       "preferredName": "Bersanlimab",
@@ -26832,6 +27968,20 @@
         "Fimaporfin A",
         "TPCS2a",
         "Tetraphenyl Chlorin Disulfonate"
+      ]
+    },
+    {
+      "fdaUniiCode": "L32IM11DV4",
+      "id": "Onzigolide",
+      "preferredName": "Onzigolide",
+      "synonyms": [
+        "BIM-23A760",
+        "Dopamine-Somatostatin Chimeric Molecule TBR-760",
+        "ONZIGOLIDE",
+        "Onzigolide",
+        "TBR 760",
+        "TBR-760",
+        "TBR760"
       ]
     },
     {
@@ -27036,6 +28186,19 @@
       ]
     },
     {
+      "fdaUniiCode": "27RU78H2H9",
+      "id": "Gemogenovatucel-T",
+      "preferredName": "Gemogenovatucel-T",
+      "synonyms": [
+        "FANG Vaccine",
+        "GEMOGENOVATUCEL-T",
+        "Gemogenovatucel-T",
+        "Vigil",
+        "bi-shRNA-Furin and Granulocyte Macrophage Colony Stimulating Factor Augmented Autologous Tumor Cell Vaccine",
+        "bi-shRNA-Furin/GM-CSF-Expressing Autologous Tumor Cell Vaccine"
+      ]
+    },
+    {
       "fdaUniiCode": "Q032I35QMX",
       "id": "Mipsagargin",
       "preferredName": "Mipsagargin",
@@ -27081,6 +28244,7 @@
       "id": "Buparlisib",
       "preferredName": "Buparlisib",
       "synonyms": [
+        "AN2025",
         "BKM120",
         "BUPARLISIB",
         "Buparlisib",
@@ -27278,6 +28442,21 @@
         "TGTX-1101",
         "UBLITUXIMAB",
         "Ublituximab"
+      ]
+    },
+    {
+      "fdaUniiCode": "072702W9QD",
+      "id": "CENP-E_Inhibitor_GSK-923295A",
+      "preferredName": "CENP-E Inhibitor GSK-923295A",
+      "synonyms": [
+        "CENP-E Inhibitor GSK-923295A",
+        "Centromere-Associated Protein E Inhibitor GSK-923295",
+        "GSK 923295",
+        "GSK 923295A",
+        "GSK-923295",
+        "GSK-923295A",
+        "GSK923295",
+        "GSK923295A"
       ]
     },
     {
@@ -27504,6 +28683,20 @@
         "Coicis Semen Oil",
         "KLT",
         "Kanglaite"
+      ]
+    },
+    {
+      "fdaUniiCode": "LD93JWY9D9",
+      "id": "Quaratusugene_Ozeplasmid",
+      "preferredName": "Quaratusugene Ozeplasmid",
+      "synonyms": [
+        "GPX 001",
+        "GPX-001",
+        "GPX001",
+        "INGN 401",
+        "QUARATUSUGENE OZEPLASMID",
+        "Quaratusugene Ozeplasmid",
+        "Reqorsa"
       ]
     },
     {
@@ -28562,7 +29755,7 @@
         "R1507",
         "RG1507",
         "RO4858696-000",
-        "RV001",
+        "RV001 Monoclonal",
         "TEPROTUMUMAB",
         "Teprotumumab"
       ]
@@ -28622,6 +29815,17 @@
         "AMG-319",
         "PI3K Inhibitor ACP-319",
         "PI3K-delta Inhibitor AMG 319"
+      ]
+    },
+    {
+      "fdaUniiCode": "43Y934BBZ6",
+      "id": "Foscenvivint",
+      "preferredName": "Foscenvivint",
+      "synonyms": [
+        "CBP/beta-catenin Antagonist PRI-724",
+        "FOSCENVIVINT",
+        "Foscenvivint",
+        "PRI-724"
       ]
     },
     {
@@ -29662,6 +30866,17 @@
       ]
     },
     {
+      "fdaUniiCode": "PY29292DVJ",
+      "id": "Ilixadencel",
+      "preferredName": "Ilixadencel",
+      "synonyms": [
+        "COMBIG-DC",
+        "ILIXADENCEL",
+        "Ilixadencel",
+        "Intuvax"
+      ]
+    },
+    {
       "fdaUniiCode": "72AH61702G",
       "id": "Rociletinib",
       "preferredName": "Rociletinib",
@@ -29673,5 +30888,5 @@
       ]
     }
   ],
-  "release": "2021-04"
+  "release": "2021-10"
 }

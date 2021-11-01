@@ -10,7 +10,7 @@
     "fdaUniiCode": "25DT549L0G",
     "identifier": "C61080",
     "preferredName": "ISS 1018 CpG Oligodeoxynucleotide",
-    "semanticType": "Chemical Viewed Structurally",
+    "semanticType": "Nucleic Acid, Nucleoside, or Nucleotide",
     "subclassOf": [
       "C2139",
       "C2164"

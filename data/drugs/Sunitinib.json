@@ -2,12 +2,21 @@
   "emaEpar": [
     {
       "activeSubstance": "sunitinib",
-      "conditionIndication": "Gastrointestinal stromal tumour (GIST), Sutent is indicated for the treatment of unresectable and/or metastatic malignant gastrointestinal stromal tumour (GIST) in adults after failure of imatinib mesilate treatment due to resistance or intolerance.Metastatic renal cell carcinoma (MRCC), Sutent is indicated for the treatment of advanced/metastatic renal cell carcinoma (MRCC) in adults.Pancreatic neuroendocrine tumours (pNET), Sutent is indicated for the treatment of unresectable or metastatic, well-differentiated pancreatic neuroendocrine tumours with disease progression in adults., Experience with Sutent as first-line treatment is limited (see section 5.1)., ",
+      "conditionIndication": "Gastrointestinal stromal tumour (GIST)Sutent is indicated for the treatment of unresectable and/or metastatic malignant gastrointestinal stromal tumour (GIST) in adults after failure of imatinib mesilate treatment due to resistance or intolerance.Metastatic renal cell carcinoma (MRCC)Sutent is indicated for the treatment of advanced/metastatic renal cell carcinoma (MRCC) in adults.Pancreatic neuroendocrine tumours (pNET)Sutent is indicated for the treatment of unresectable or metastatic, well-differentiated pancreatic neuroendocrine tumours with disease progression in adults.Experience with Sutent as first-line treatment is limited (see section 5.1).",
       "inn": "sunitinib",
       "marketingAuthorisationDate": "2006-07-19 00:00:00",
       "marketingAuthorisationHolder": "Pfizer Limited",
       "medicineName": "Sutent",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sutent"
+    },
+    {
+      "activeSubstance": "sunitinib",
+      "conditionIndication": "Gastrointestinal stromal tumour (GIST)Sunitinib Accord is indicated for the treatment of unresectable and/or metastatic malignant gastrointestinal stromal tumour (GIST) in adults after failure of imatinib treatment due to resistance or intolerance.Metastatic renal cell carcinoma (MRCC)Sunitinib Accord is indicated for the treatment of advanced/metastatic renal cell carcinoma (MRCC) in adults.Pancreatic neuroendocrine tumours (pNET)Sunitinib Accord is indicated for the treatment of unresectable or metastatic, well-differentiated pancreatic neuroendocrine tumours (pNET) with disease progression in adults.",
+      "inn": "sunitinib",
+      "marketingAuthorisationDate": "2021-02-11 01:00:00",
+      "marketingAuthorisationHolder": "Accord Healthcare S.L.U.",
+      "medicineName": "Sunitinib Accord",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/sunitinib-accord"
     }
   ],
   "fdaDrugLabel": [],

@@ -2,7 +2,7 @@
   "emaEpar": [
     {
       "activeSubstance": "Isatuximab",
-      "conditionIndication": "Sarclisa is indicated, in combination with pomalidomide and dexamethasone, for the treatment of adult patients with relapsed and refractory multiple myeloma (MM) who have received at least two prior therapies including lenalidomide and a proteasome inhibitor (PI) and have demonstrated disease progression on the last therapy.",
+      "conditionIndication": "Sarclisa is indicated:\u00a0in combination with pomalidomide and dexamethasone, for the treatment of adult patients with relapsed and refractory multiple myeloma (MM) who have received at least two prior therapies including lenalidomide and a proteasome inhibitor (PI) and have demonstrated disease progression on the last therapy.in combination with carfilzomib and dexamethasone, for the treatment of adult patients with multiple myeloma who have received at least one prior therapy (see section 5.1).",
       "inn": "isatuximab",
       "marketingAuthorisationDate": "2020-05-30 00:00:00",
       "marketingAuthorisationHolder": "sanofi-aventis groupe\u00a0",
@@ -13,7 +13,7 @@
   "fdaDrugLabel": [
     {
       "brand": "Sarclisa",
-      "indication": "1 INDICATIONS AND USAGE SARCLISA is indicated, in combination with pomalidomide and dexamethasone, for the treatment of adult patients with multiple myeloma who have received at least two prior therapies including lenalidomide and a proteasome inhibitor. SARCLISA is a CD38-directed cytolytic antibody indicated, in combination with pomalidomide and dexamethasone, for the treatment of adult patients with multiple myeloma who have received at least two prior therapies including lenalidomide and a proteasome inhibitor. ( 1 )",
+      "indication": "1 INDICATIONS AND USAGE SARCLISA is indicated: in combination with pomalidomide and dexamethasone, for the treatment of adult patients with multiple myeloma who have received at least 2 prior therapies including lenalidomide and a proteasome inhibitor. in combination with carfilzomib and dexamethasone, for the treatment of adult patients with relapsed or refractory multiple myeloma who have received 1 to 3 prior lines of therapy. SARCLISA is a CD38-directed cytolytic antibody indicated: in combination with pomalidomide and dexamethasone, for the treatment of adult patients with multiple myeloma who have received at least 2 prior therapies including lenalidomide and a proteasome inhibitor. in combination with carfilzomib and dexamethasone, for the treatment of adult patients with relapsed or refractory multiple myeloma who have received 1 to 3 prior lines of therapy. ( 1 )",
       "manufacturer": "sanof-aventis U.S. LLC",
       "splSetId": "a0473462-6f9d-4eca-a5bf-8620aea68e8a"
     }

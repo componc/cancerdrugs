@@ -8,6 +8,12 @@
       "splSetId": "03ce1f50-6af5-4640-825f-67fcb25e76e6"
     },
     {
+      "brand": "Complexion Tone",
+      "indication": "INDICATIONS: May temporarily relieve eruptions on face and head, burning and itching.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "06f2159d-4b1d-4486-9f84-502ae04f02b7"
+    },
+    {
       "brand": "OHM Menopause",
       "indication": "USES: Temporarily relieves symptoms caused by common menopause, hormonal imbalances. ** \u200bThis statement has not been evaluated by the FDA. It is based on documented Homeopathic Materia Medica.",
       "manufacturer": "OHM PHARMA INC.",
@@ -15,7 +21,7 @@
     },
     {
       "brand": "Menotone",
-      "indication": "INDICATIONS: May temporarily relieve flushes of heat with attacks of perspiration, headaches, moodiness, with symptoms ever changing.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "indication": "INDICATIONS: May temporarily relieve flushes of heat with attacks of perspiration, headaches, and moodiness with symptoms ever changing.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
       "manufacturer": "Energique, Inc.",
       "splSetId": "0921be57-44b4-4d1c-a50a-7886fc807d00"
     },
@@ -30,12 +36,6 @@
       "indication": "Uses For temporary relief of minor symptoms of menopausal discomfort, such as: hot flashes mild mood changes These statements have not been evaluated by the Food and Drug Administration. They are supported by traditional homeopathic principles.",
       "manufacturer": "Hevert Pharmaceuticals LLC",
       "splSetId": "0ecefc5f-f941-4b8e-b2a8-708775a64996"
-    },
-    {
-      "brand": "Painazol Pain Relief",
-      "indication": "Uses to temporarily relieve symptoms commonly associated with minor aches, such as: \u2022 pain \u2022 bruising \u2022 swelling \u2022 stiffness \u2022 tingling",
-      "manufacturer": "Hello Life, Inc.",
-      "splSetId": "14a18fc9-9384-4b33-958f-727df3593366"
     },
     {
       "brand": "ACTAEA RACEMOSA",
@@ -60,6 +60,12 @@
       "indication": "INDICATIONS Indications: CIMICIFUGA low back pain COLCHICUM pain in lumbar KALI IOD lower leg pain",
       "manufacturer": "Washington Homeopathic Products",
       "splSetId": "2609a5d2-f5eb-4359-a3e2-66e3890dd932"
+    },
+    {
+      "brand": "Jointforce R",
+      "indication": "INDICATIONS: For temporary relief of pains throughout shoulder joint, arm, fingers, and small joints generally; swelling and tenderness of the finger and toe joints; and swellings in the joints with heat.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "26a45f44-4c9e-420d-aa76-9d3a67326d12"
     },
     {
       "brand": "Cimicifuga racemosa",
@@ -392,12 +398,6 @@
       "splSetId": "99706ce2-d555-88ca-e053-2a95a90abb4b"
     },
     {
-      "brand": "Insomnia",
-      "indication": "INDICATIONS & USAGE SECTION Formulated for associated symptoms such as frequent waking, restlessness and the inability to fall asleep or return to sleep after waking.",
-      "manufacturer": "Newton Laboratories, Inc.",
-      "splSetId": "99861359-a704-2b53-e053-2995a90a23ae"
-    },
-    {
       "brand": "Menopause Relief",
       "indication": "Indications & Usage: For the temporary relief of hot flashes, mood swings, depression and fatigue associated with hormonal changes.",
       "manufacturer": "Homeocare Laboratories",
@@ -471,7 +471,7 @@
     },
     {
       "brand": "Cyclease Menopause",
-      "indication": "temporarily relieves symptoms associated with perimenopause and menopause such as: hot flashes, red, blotchy or flushed face, night sweats, mood changes, irritability, occasional sleeplessness, temporarily reduces the intensity and frequency of hot flashes associated with perimenopause and menopause",
+      "indication": "Uses* temporarily relieves symptoms associated with perimenopause and menopause such as: hot flashes red, blotchy or flushed face night sweats mood changes irritability occasional sleeplessness temporarily reduces the intensity and frequency of hot flashes associated with perimenopause and menopause",
       "manufacturer": "Boiron",
       "splSetId": "a227e8d8-27a3-592f-e053-2a95a90ab31c"
     },
@@ -560,16 +560,28 @@
       "splSetId": "b479ab40-2534-a354-e053-2995a90ae562"
     },
     {
-      "brand": "Insomnia",
-      "indication": "INDICATIONS & USAGE SECTION Formulated for associated symptoms such as frequent waking, restlessness and the inability to fall asleep or return to sleep after waking.",
-      "manufacturer": "Newton Laboratories, Inc.",
-      "splSetId": "b5a73fce-c53d-45f2-e053-2995a90ae440"
-    },
-    {
       "brand": "Spinalmax",
       "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to spine issues including spasm, pain, anxiety, nervousness and the inability to hold chiropractic spinal adjustments.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
       "manufacturer": "Deseret Biologicals, Inc.",
       "splSetId": "b5a8a3a3-c09a-4429-8e2c-21f77515be01"
+    },
+    {
+      "brand": "A09 FEMALE BALANCE",
+      "indication": "Uses: For temporary relief of minor: \u2022 menstrual irregularity* \u2022 headache* \u2022 fatigue* \u2022 menstrual cramps* \u2022 backache during menstruation* \u2022 irritability* *Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Apex Energetics Inc.",
+      "splSetId": "b8e1ba2a-f80f-158e-e053-2a95a90aacd1"
+    },
+    {
+      "brand": "Joint Tone AI",
+      "indication": "INDICATIONS: May temporarily relieve pain and swelling of shoulder, arm, fingers, and small joints, and stiffness of the hands and feet.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "bcd543aa-eb43-455e-9a73-37323f050e24"
+    },
+    {
+      "brand": "F22 SOMATICA",
+      "indication": "Uses: For temporary relief of minor: tension* headache* sleep disturbances* fear* fatigue* sluggish mind* *Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Apex Energetics Inc.",
+      "splSetId": "bed99bed-3902-5278-e053-2a95a90aeab6"
     },
     {
       "brand": "Endoplex F",
@@ -578,22 +590,10 @@
       "splSetId": "bfe6d42a-a3e5-44b3-ab8f-b08ad4e2b66f"
     },
     {
-      "brand": "PMS Relief",
-      "indication": "HOMEOPATHIC INDICATIONS: For the temporary relief of symptoms related to premenstrual syndrome, such as mood swings, irritability, anger, sadness, weeping, anxiety, acne, bowel congestion, head pain, muscle pain before menses.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
-      "manufacturer": "Deseret Biologicals, Inc.",
-      "splSetId": "ca073beb-330d-406c-9bf5-196a89f3ab58"
-    },
-    {
-      "brand": "Headache",
-      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to headache including exhaustion, fever, chills, head and muscle pain.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
-      "manufacturer": "Deseret Biologicals, Inc.",
-      "splSetId": "cb9102bd-0e51-4e31-9c55-db215240d37d"
-    },
-    {
-      "brand": "Female Support",
-      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to hormonal dysfunction including fluid retention, hot flashes, painful menses, irregular and painful menstruation, and mood swings.** ** These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
-      "manufacturer": "Deseret Biologicals, Inc.",
-      "splSetId": "cbcd6d41-354a-42cd-9a97-db910339ed05"
+      "brand": "My Cycles BFF",
+      "indication": "Uses Relieves [reduces the severity of] premenstrual syndrome (PMS) symptoms: acne, backache, breast tenderness & swelling, cramping, fatigue, gastic symptoms, headache, mood changes, nausea",
+      "manufacturer": "Knockout Remedy, LLC",
+      "splSetId": "c29e2c3a-9ec8-0b62-e053-2a95a90ac69c"
     }
   ],
   "id": "Black_Cohosh",

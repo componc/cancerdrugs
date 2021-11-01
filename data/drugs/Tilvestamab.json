@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tilvestamab",
+  "nciThesaurus": {
+    "casRegistry": "2226775-26-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized immunoglobulin (Ig) G1 monoclonal antibody directed against AXL receptor tyrosine kinase (AXL; UFO), with potential immunomodulating and antineoplastic activities. Upon administration, tilvestamab targets, binds to and inhibits the activity of AXL, which is expressed on the surfaces of a variety of cancer cell types. This prevents AXL-mediated signaling, and may inhibit tumor cell proliferation, migration and invasion. AXL, a member of the TAM (TYRO3, AXL and MER) family of receptor tyrosine kinases, is overexpressed by many tumor cell types, and plays a key role in tumor cell proliferation, survival, invasion and metastasis; its expression is associated with drug resistance, tumor immune evasion and poor prognosis.",
+    "fdaUniiCode": "IZK2TH7X5M",
+    "identifier": "C175866",
+    "preferredName": "Tilvestamab",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129822"
+    ],
+    "synonyms": [
+      "BGB 149",
+      "BGB-149",
+      "BGB149",
+      "TILVESTAMAB",
+      "Tilvestamab"
+    ]
+  }
+}

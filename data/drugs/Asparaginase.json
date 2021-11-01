@@ -10,7 +10,14 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/spectrila"
     }
   ],
-  "fdaDrugLabel": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Rylaze",
+      "indication": "1 INDICATIONS AND USAGE RYLAZE is indicated as a component of a multi-agent chemotherapeutic regimen for the treatment of acute lymphoblastic leukemia (ALL) and lymphoblastic lymphoma (LBL) in adult and pediatric patients 1 month or older who have developed hypersensitivity to E. coli -derived asparaginase. RYLAZE is an asparagine specific enzyme indicated as a component of a multi-agent chemotherapeutic regimen for the treatment of acute lymphoblastic leukemia (ALL) and lymphoblastic lymphoma (LBL) in adult and pediatric patients 1 month or older who have developed hypersensitivity to E. coli -derived asparaginase. ( 1 )",
+      "manufacturer": "Jazz Pharmaceuticals, Inc.",
+      "splSetId": "857e53aa-1098-4dad-b654-0276cdd43e03"
+    }
+  ],
   "id": "Asparaginase",
   "nciThesaurus": {
     "casRegistry": "9015-68-3",

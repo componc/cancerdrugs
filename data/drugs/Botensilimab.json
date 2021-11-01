@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Botensilimab",
+  "nciThesaurus": {
+    "casRegistry": "2408310-37-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An Fc-engineered recombinant human immunoglobulin (Ig) G1 monoclonal antibody directed against the human T-cell receptor cytotoxic T-lymphocyte-associated antigen 4 (CTLA-4), with immune checkpoint inhibitory and antineoplastic activities. Upon administration, anti-CTLA-4 monoclonal antibody  botensilimab binds to CTLA-4 expressed on T-cells and inhibits the CTLA-4-mediated downregulation of T-cell activation. This leads to a cytotoxic T-lymphocyte (CTL)-mediated immune response against cancer cells. CTLA-4, an inhibitory receptor and member of the immunoglobulin superfamily, plays a key role in the downregulation of the immune system. The engineered Fc domain increases the stability and half-life of the antibody.",
+    "fdaUniiCode": "1Z5YC3ME5N",
+    "identifier": "C158557",
+    "preferredName": "Botensilimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C128036",
+      "C129822"
+    ],
+    "synonyms": [
+      "AGEN 1181",
+      "AGEN-1181",
+      "AGEN1181",
+      "Anti-CTLA-4 Monoclonal Antibody AGEN1181",
+      "BOTENSILIMAB",
+      "Botensilimab"
+    ]
+  }
+}

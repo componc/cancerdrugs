@@ -2,7 +2,7 @@
   "emaEpar": [
     {
       "activeSubstance": "Cladribine",
-      "conditionIndication": "Treatment of adult patients with highly active relapsing multiple sclerosis (MS) as defined by clinical or imaging features",
+      "conditionIndication": "Treatment of adult patients with highly active relapsing multiple sclerosis (MS) as defined by clinical or imaging features.",
       "inn": "cladribine",
       "marketingAuthorisationDate": "2017-08-22 00:00:00",
       "marketingAuthorisationHolder": "Merck Europe B.V.",
@@ -11,7 +11,7 @@
     },
     {
       "activeSubstance": "Cladribine",
-      "conditionIndication": "Litak is indicated for the treatment of hairy-cell leukaemia., ",
+      "conditionIndication": "Litak is indicated for the treatment of hairy-cell leukaemia.",
       "inn": "cladribine",
       "marketingAuthorisationDate": "2004-04-14 00:00:00",
       "marketingAuthorisationHolder": "Lipomed GmbH",

@@ -2,12 +2,21 @@
   "emaEpar": [
     {
       "activeSubstance": "azacitidine",
-      "conditionIndication": "Vidaza is indicated for the treatment of adult patients who are not eligible for haematopoietic stem cell transplantation (HSCT) with:intermediate-2 and high-risk myelodysplastic syndromes (MDS) according to the International Prognostic Scoring System (IPSS);chronic myelomonocytic leukaemia (CMML) with 10-29% marrow blasts without myeloproliferative disorder;acute myeloid leukaemia (AML) with 20-30% blasts and multi-lineage dysplasia, according to World Health Organization (WHO) classification.AML with >30% marrow blasts according to the WHO classification.",
+      "conditionIndication": "Azacitidine Mylan is indicated for the treatment of adult patients who are not eligible for haematopoietic stem cell transplantation (HSCT) with:intermediate 2 and high risk myelodysplastic syndromes (MDS) according to the International Prognostic Scoring System (IPSS),chronic myelomonocytic leukaemia (CMML) with 10 29% marrow blasts without myeloproliferative disorder,acute myeloid leukaemia (AML) with 20 30% blasts and multi lineage dysplasia, according to World Health Organisation (WHO) classification,AML with > 30% marrow blasts according to the WHO classification.",
       "inn": "azacitidine",
-      "marketingAuthorisationDate": "2008-12-17 01:00:00",
-      "marketingAuthorisationHolder": "Celgene Europe B.V.\u00a0",
-      "medicineName": "Vidaza",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vidaza"
+      "marketingAuthorisationDate": "2020-03-27 01:00:00",
+      "marketingAuthorisationHolder": "Mylan Ireland Limited",
+      "medicineName": "Azacitidine Mylan",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/azacitidine-mylan"
+    },
+    {
+      "activeSubstance": "azacitidine",
+      "conditionIndication": "Onureg is indicated as maintenance therapy in adult patients with acute myeloid leukaemia (AML) who achieved complete remission (CR) or complete remission with incomplete blood count recovery (CRi) following induction therapy with or without consolidation treatment and who are not candidates for, including those who choose not to proceed to, hematopoietic stem cell transplantation (HSCT).",
+      "inn": "azacitidine",
+      "marketingAuthorisationDate": "2021-06-17 00:00:00",
+      "marketingAuthorisationHolder": "Bristol-Myers Squibb Pharma EEIG",
+      "medicineName": "Onureg",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/onureg"
     },
     {
       "activeSubstance": "azacitidine",
@@ -20,15 +29,6 @@
     },
     {
       "activeSubstance": "azacitidine",
-      "conditionIndication": "Azacitidine Mylan is indicated for the treatment of adult patients who are not eligible for haematopoietic stem cell transplantation (HSCT) with:, , intermediate 2 and high risk myelodysplastic syndromes (MDS) according to the International Prognostic Scoring System (IPSS),, \tchronic myelomonocytic leukaemia (CMML) with 10 29% marrow blasts without myeloproliferative disorder,, \tacute myeloid leukaemia (AML) with 20 30% blasts and multi lineage dysplasia, according to World Health Organisation (WHO) classification,, \tAML with > 30% marrow blasts according to the WHO classification., ",
-      "inn": "azacitidine",
-      "marketingAuthorisationDate": "2020-03-27 01:00:00",
-      "marketingAuthorisationHolder": "Mylan Ireland Limited",
-      "medicineName": "Azacitidine Mylan",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/azacitidine-mylan"
-    },
-    {
-      "activeSubstance": "azacitidine",
       "conditionIndication": "Azacitidine Accord is indicated for the treatment of adult patients who are not eligible for haematopoietic stem cell transplantation (HSCT) with:- intermediate-2 and high-risk myelodysplastic syndromes (MDS) according to the International Prognostic Scoring System (IPSS),- chronic myelomonocytic leukaemia (CMML) with 10-29 % marrow blasts without myeloproliferative disorder,- acute myeloid leukaemia (AML) with 20-30 % blasts and multi-lineage dysplasia, according to World Health Organisation (WHO) classification,- AML with >30% marrow blasts according to the WHO classification.",
       "inn": "azacitidine",
       "marketingAuthorisationDate": "2020-02-13 01:00:00",
@@ -38,12 +38,12 @@
     },
     {
       "activeSubstance": "azacitidine",
-      "conditionIndication": "Azacitidine Celgene is indicated for the treatment of adult patients who are not eligible for haematopoietic stem cell transplantation (HSCT) with:intermediate\u20112 and high-risk myelodysplastic syndromes (MDS) according to the International Prognostic Scoring System (IPSS),chronic myelomonocytic leukaemia (CMML) with 10\u201129\u00a0% marrow blasts without myeloproliferative disorder,acute myeloid leukaemia (AML) with 20\u201130\u00a0% blasts and multi-lineage dysplasia, according to World Health Organisation (WHO) classification,AML with >30% marrow blasts according to the WHO classification.",
+      "conditionIndication": "Vidaza is indicated for the treatment of adult patients who are not eligible for haematopoietic stem cell transplantation (HSCT) with:\u00a0intermediate 2 and high-risk myelodysplastic syndromes (MDS) according to the International Prognostic Scoring System (IPSS),chronic myelomonocytic leukaemia (CMML) with 10 29 % marrow blasts without myeloproliferative disorder,acute myeloid leukaemia (AML) with 20 30 % blasts and multi-lineage dysplasia, according to World Health Organisation (WHO) classification.Vidaza is indicated for the treatment of adult patients aged 65 years or older who are not eligible for HSCT with AML with >30% marrow blasts according to the WHO classification.",
       "inn": "azacitidine",
-      "marketingAuthorisationDate": "2019-08-02 00:00:00",
-      "marketingAuthorisationHolder": "Celgene Europe BV",
-      "medicineName": "Azacitidine Celgene",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/azacitidine-celgene"
+      "marketingAuthorisationDate": "2008-12-17 01:00:00",
+      "marketingAuthorisationHolder": "Bristol-Myers Squibb Pharma EEIG",
+      "medicineName": "Vidaza",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/vidaza"
     }
   ],
   "fdaDrugLabel": [
@@ -84,6 +84,12 @@
       "splSetId": "3b96b508-046b-49ae-aefe-6d39c89a1d0e"
     },
     {
+      "brand": "Azacitidine",
+      "indication": "1 INDICATIONS AND USAGE Azacitidine for injection is a nucleoside metabolic inhibitor indicated for the treatment of patients with the following FAB myelodysplastic syndrome (MDS) subtypes: Refractory anemia (RA) or refractory anemia with ringed sideroblasts (RARS) (if accompanied by neutropenia or thrombocytopenia or requiring transfusions), refractory anemia with excess blasts (RAEB), refractory anemia with excess blasts in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL). ( 1 ) 1.1 Myelodysplastic Syndromes (MDS) Azacitidine for injection is indicated for treatment of patients with the following French-American-British (FAB) myelodysplastic syndrome subtypes: refractory anemia (RA) or refractory anemia with ringed sideroblasts (if accompanied by neutropenia or thrombocytopenia or requiring transfusions), refractory anemia with excess blasts (RAEB), refractory anemia with excess blasts in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL).",
+      "manufacturer": "BluePoint Laboratories",
+      "splSetId": "5235e12f-7198-47e1-a7e3-d3982b367e95"
+    },
+    {
       "brand": "azacitidine for",
       "indication": "1 INDICATIONS AND USAGE Azacitidine for injection is a nucleoside metabolic inhibitor indicated for the treatment of patients with the following FAB myelodysplastic syndrome (MDS) subtypes: Refractory anemia (RA) or refractory anemia with ringed sideroblasts (RARS) (if accompanied by neutropenia or thrombocytopenia or requiring transfusions), refractory anemia with excess blasts (RAEB), refractory anemia with excess blasts in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL). 1.1 Myelodysplastic Syndromes (MDS) Azacitidine for injection is indicated for treatment of patients with the following French-American-British (FAB) myelodysplastic syndrome subtypes: refractory anemia (RA) or refractory anemia with ringed sideroblasts (if accompanied by neutropenia or thrombocytopenia or requiring transfusions), refractory anemia with excess blasts (RAEB), refractory anemia with excess blasts in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL).",
       "manufacturer": "Cipla USA Inc.",
@@ -103,7 +109,7 @@
     },
     {
       "brand": "Azacitidine",
-      "indication": "1 INDICATIONS AND USAGE Azacitidine for Injection is a nucleoside metabolic inhibitor indicated for the treatment of patients with the following FAB myelodysplastic syndrome (MDS) subtypes: Refractory anemia (RA) or refractory anemia with ringed sideroblasts (RARS) (if accompanied by neutropenia or thrombocytopenia or requiring transfusions), refractory anemia with excess blasts (RAEB), refractory anemia with excess blasts in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL) ( 1 ). 1.1 Myelodysplastic Syndromes (MDS) Azacitidine for Injection is indicated for treatment of patients with the following French-American-British (FAB) myelodysplastic syndrome subtypes: refractory anemia (RA) or refractory anemia with ringed sideroblasts (if accompanied by neutropenia or thrombocytopenia or requiring transfusions), refractory anemia with excess blasts (RAEB), refractory anemia with excess blasts in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL).",
+      "indication": "1 INDICATIONS AND USAGE Azacitidine for Injection is a nucleoside metabolic inhibitor indicated for the treatment of patients with the following FAB myelodysplastic syndrome (MDS) subtypes: Refractory anemia (RA) or refractory anemia with ringed sideroblasts (RARS) (if accompanied by neutropenia or thrombocytopenia or requiring transfusions), refractory anemia with excess blasts (RAEB), refractory anemia with excess blasts in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMMoL) ( 1 ). 1.1 Myelodysplastic Syndromes (MDS) Azacitidine for Injection is indicated for treatment of patients with the following French-American-British (FAB) myelodysplastic syndrome subtypes: refractory anemia (RA) or refractory anemia with ringed sideroblasts (if accompanied by neutropenia or thrombocytopenia or requiring transfusions), refractory anemia with excess blasts (RAEB), refractory anemia with excess blasts in transformation (RAEB-T), and chronic myelomonocytic leukemia (CMML).",
       "manufacturer": "BluePoint Laboratories",
       "splSetId": "5f0f9ee3-a5b1-4a25-a34c-7f38c8433f4a"
     },

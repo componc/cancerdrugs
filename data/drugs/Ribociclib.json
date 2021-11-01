@@ -10,14 +10,7 @@
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kisqali"
     }
   ],
-  "fdaDrugLabel": [
-    {
-      "brand": "KISQALI",
-      "indication": "1 INDICATIONS AND USAGE KISQALI is indicated in combination with: an aromatase inhibitor for the treatment of pre/perimenopausal or postmenopausal women, with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer, as initial endocrine-based therapy; or fulvestrant for the treatment of postmenopausal women with HR-positive, HER2-negative advanced or metastatic breast cancer, as initial endocrine-based therapy or following disease progression on endocrine therapy. KISQALI is a kinase inhibitor indicated in combination with: an aromatase inhibitor for the treatment of pre/perimenopausal or postmenopausal women with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer, as initial endocrine-based therapy; or fulvestrant for the treatment of postmenopausal women with HR-positive, HER2-negative advanced or metastatic breast cancer, as initial endocrine-based therapy or following disease progression on endocrine therapy. ( 1 )",
-      "manufacturer": "Novartis Pharmaceuticals Corporation",
-      "splSetId": "aaeaef94-f3f5-4367-8ea2-b181d7be2da8"
-    }
-  ],
+  "fdaDrugLabel": [],
   "id": "Ribociclib",
   "nciThesaurus": {
     "casRegistry": "1211441-98-3",

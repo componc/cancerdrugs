@@ -44,6 +44,12 @@
       "splSetId": "077137a4-fcf8-437d-82ac-582308845394"
     },
     {
+      "brand": "METFORMIN HYDROCHLORIDE",
+      "indication": "1 INDICATIONS AND USAGE Metformin hydrochloride extended-release tablets, USP are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Metformin hydrochloride is a biguanide indicated as an adjunct to diet and exe rcise to i m p rove gl yc e mic cont rol in adults with t ype 2 diabetes m ellitus. (1)",
+      "manufacturer": "REMEDYREPACK INC.",
+      "splSetId": "09475b4c-4066-4290-8cbc-07ac9b527442"
+    },
+    {
       "brand": "Metformin Hydrochloride",
       "indication": "INDICATIONS AND USAGE Metformin hydrochloride extended-release tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.",
       "manufacturer": "AvKARE, Inc.",
@@ -70,12 +76,6 @@
     {
       "brand": "METFORMIN HYDROCHLORIDE",
       "indication": "1 INDICATIONS AND USAGE Metformin hydrochloride extended-release tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Metformin hydrochloride extended-release tablets are a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 )",
-      "manufacturer": "A-S Medication Solutions",
-      "splSetId": "0cd086d6-3ae2-476e-b93e-29055e67e8fc"
-    },
-    {
-      "brand": "METFORMIN HYDROCHLORIDE",
-      "indication": "1 INDICATIONS AND USAGE Metformin hydrochloride extended-release tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Metformin hydrochloride extended-release tablets are a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 )",
       "manufacturer": "GLENMARK PHARMACEUTICALS INC., USA",
       "splSetId": "0ef9de1a-b786-4b6c-a250-3f5ac532b16a"
     },
@@ -87,7 +87,7 @@
     },
     {
       "brand": "Synjardy",
-      "indication": "1 INDICATIONS AND USAGE SYNJARDY is a combination of empagliflozin and metformin hydrochloride indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus when treatment with both empagliflozin and metformin hydrochloride is appropriate . Empagliflozin is indicated to reduce the risk of cardiovascular death in adults with type 2 diabetes mellitus and established cardiovascular disease [see Clinical Studies (14.2) ] . However, the effectiveness of SYNJARDY on reducing the risk of cardiovascular death in adults with type 2 diabetes mellitus and cardiovascular disease has not been established. SYNJARDY is a combination of empagliflozin, a sodium-glucose co-transporter 2 (SGLT2) inhibitor and metformin hydrochloride, a biguanide, indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus when treatment with both empagliflozin and metformin hydrochloride is appropriate. Empagliflozin is indicated to reduce the risk of cardiovascular death in adults with type 2 diabetes mellitus and established cardiovascular disease. However, the effectiveness of SYNJARDY on reducing the risk of cardiovascular death in adults with type 2 diabetes mellitus and cardiovascular disease has not been established. ( 1 ) Limitations of Use : Not recommended for patients with type 1 diabetes or for the treatment of diabetic ketoacidosis ( 1 ) Limitations of Use SYNJARDY is not recommended for patients with type 1 diabetes or for the treatment of diabetic ketoacidosis [see Warnings and Precautions (5.3) ] .",
+      "indication": "1 INDICATIONS AND USAGE SYNJARDY is a combination of empagliflozin and metformin hydrochloride (HCl) indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus . Empagliflozin is indicated to reduce the risk of cardiovascular death in adults with type 2 diabetes mellitus and established cardiovascular disease [see Clinical Studies (14) ] . SYNJARDY is a combination of empagliflozin, a sodium-glucose co-transporter 2 (SGLT2) inhibitor and metformin hydrochloride (HCl), a biguanide, indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Empagliflozin is indicated to reduce the risk of cardiovascular death in adults with type 2 diabetes mellitus and established cardiovascular disease. ( 1 ) Limitation of Use : Not recommended in patients with type 1 diabetes mellitus. It may increase the risk of diabetic ketoacidosis in these patients ( 1 ) Limitation of Use SYNJARDY is not recommended in patients with type 1 diabetes mellitus. It may increase the risk of diabetic ketoacidosis in these patients [see Warnings and Precautions (5.2) ] .",
       "manufacturer": "Boehringer Ingelheim Pharmaceuticals, Inc.",
       "splSetId": "0fdd0255-0055-65f3-b2c0-db8fbb87beae"
     },
@@ -110,10 +110,22 @@
       "splSetId": "1200ea71-8a9e-4e49-bb77-7d9fe0d84ae7"
     },
     {
+      "brand": "Metformin Hydrochloride",
+      "indication": "1 INDICATIONS AND USAGE Metformin Hydrochloride Tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. Metformin is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. ( 1 )",
+      "manufacturer": "REMEDYREPACK INC.",
+      "splSetId": "13235d8e-ac3a-45b4-9c5d-9a9012951dfe"
+    },
+    {
       "brand": "Glipizide and Metformin Hydrochloride",
       "indication": "INDICATIONS AND USAGE Glipizide and metformin hydrochloride tablets USP are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.",
-      "manufacturer": "AvKARE, Inc.",
+      "manufacturer": "AvKARE",
       "splSetId": "13be49d2-0ce9-a78a-e557-ded85ddc808f"
+    },
+    {
+      "brand": "Metformin Hydrochloride",
+      "indication": "1 INDICATIONS AND USAGE Metformin hydrochloride extended-release tablet is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Metformin hydrochloride extended-release tablets is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 )",
+      "manufacturer": "ScieGen Pharmaceuticals, Inc.",
+      "splSetId": "1452fbb1-e591-4a51-9f83-8a8a6a780b52"
     },
     {
       "brand": "Metformin Hydrochloride",
@@ -144,12 +156,6 @@
       "indication": "1 INDICATIONS AND USAGE Metformin hydrochloride extended-release tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Metformin hydrochloride extended-release tablets are a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 )",
       "manufacturer": "REMEDYREPACK INC.",
       "splSetId": "1503bbe4-0ac5-479b-9900-d38e49236bf0"
-    },
-    {
-      "brand": "METFORMIN HYDROCHLORIDE EXTENDED RELEASE",
-      "indication": "Metformin Hydrochloride Extended-Release Tablets, USP is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.",
-      "manufacturer": "Preferred Pharmaceuticals Inc.",
-      "splSetId": "15a25bd2-cf9e-45ab-980f-360fdd843137"
     },
     {
       "brand": "Metformin hydrochloride",
@@ -218,6 +224,18 @@
       "splSetId": "1e0f6733-7ec2-47ce-802a-6132a701e1b3"
     },
     {
+      "brand": "Metformin Hydrochloride",
+      "indication": "1 INDICATIONS & USAGE Metformin hydrochloride tablets is indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. Metformin hydrochloride extended-release tablets is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Metformin is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. (1) Metformin is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. (1)",
+      "manufacturer": "Aphena Pharma Solutions - Tennessee, LLC",
+      "splSetId": "1e298db3-439e-4e91-8f9e-01c3cdc4d552"
+    },
+    {
+      "brand": "Metformin Hydrochloride",
+      "indication": "1 INDICATIONS & USAGE Metformin hydrochloride tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. Metformin hydrochloride tablets are biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. ( 1 )",
+      "manufacturer": "REMEDYREPACK INC.",
+      "splSetId": "1e8136e0-cc98-41e4-ad4b-a8fc27fb4daa"
+    },
+    {
       "brand": "Metformin hydrochloride",
       "indication": "1 INDICATIONS AND USAGE Metformin hydrochloride extended-release tablets, USP are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Metformin hydrochloride extended-release tablets, USP are a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 )",
       "manufacturer": "Ajanta Pharma Limited",
@@ -240,6 +258,12 @@
       "indication": "1 INDICATIONS AND USAGE Glyburide and metformin hydrochloride tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Glyburide and metformin hydrochloride tablets are a combination of glyburide, a sulfonylurea, and metformin hydrochloride (HCl), a biguanide, indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. (1)",
       "manufacturer": "Zydus Pharmaceuticals (USA) Inc.",
       "splSetId": "2239742b-74e1-4bc2-b5a8-15c4758d6f7b"
+    },
+    {
+      "brand": "Metformin HCl",
+      "indication": "INDICATIONS & USAGE Metformin Hydrochloride Tablets USP are indicated as an adjunct to diet and exercise to improve glycemic control in adults and children with type 2 diabetes mellitus.",
+      "manufacturer": "PD-Rx Pharmaceuticals, Inc.",
+      "splSetId": "235680e6-1c3e-45b8-902e-866583f1aef3"
     },
     {
       "brand": "Metformin Hydrochloride",
@@ -297,21 +321,15 @@
     },
     {
       "brand": "Metformin Hydrochloride",
+      "indication": "1 INDICATIONS AND USAGE Metformin hydrochloride extended-release tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Metformin hydrochloride extended-release tablets are a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 )",
+      "manufacturer": "REMEDYREPACK INC.",
+      "splSetId": "2a0cef6d-f7d0-432c-9146-6529bb25a4f2"
+    },
+    {
+      "brand": "Metformin Hydrochloride",
       "indication": "1 INDICATIONS AND USAGE Metformin hydrochloride extended-release tablets, USP are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Metformin hydrochloride extended-release tablet is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 )",
       "manufacturer": "Lupin Pharmaceuticals, Inc.",
       "splSetId": "2a84c550-aed8-4058-961f-351a5e4cf7a1"
-    },
-    {
-      "brand": "Metformin Hydrochloride Oral Solution",
-      "indication": "1 INDICATIONS AND USAGE Metformin hydrochloride oral solution is indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. Metformin hydrochloride is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. ( 1 )",
-      "manufacturer": "Bryant Ranch Prepack",
-      "splSetId": "2acfc6b3-6efa-40cc-9a82-667e758e9ceb"
-    },
-    {
-      "brand": "metformin hydrochloride",
-      "indication": "1 INDICATIONS AND USAGE Metformin hydrochloride extended release tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Metformin hydrochloride extended release tablets are a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 )",
-      "manufacturer": "Eon Labs, Inc.",
-      "splSetId": "2b01a50f-e517-4f6c-bee5-9925ff029e55"
     },
     {
       "brand": "Metformin hydrochloride",
@@ -344,16 +362,28 @@
       "splSetId": "2f71afe5-b072-4ff2-a6fb-76894a8f6335"
     },
     {
+      "brand": "Jentadueto",
+      "indication": "1 INDICATIONS AND USAGE JENTADUETO is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus [see Dosage and Administration (2.1) and Clinical Studies (14.1) ]. JENTADUETO contains linagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor and metformin hydrochloride (HCl), a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus ( 1 ) Limitations of Use Not for treatment of type 1 diabetes or diabetic ketoacidosis ( 1 ) Has not been studied in patients with a history of pancreatitis ( 1 ) Limitations of Use JENTADUETO should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis, as it would not be effective in these settings. JENTADUETO has not been studied in patients with a history of pancreatitis. It is unknown whether patients with a history of pancreatitis are at an increased risk for the development of pancreatitis while using JENTADUETO [see Warnings and Precautions (5.2) ].",
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "3010d452-dab5-44c5-b8d0-bdc725679f07"
+    },
+    {
       "brand": "Metformin Hydrochloride",
       "indication": "1 INDICATIONS & USAGE Metformin hydrochloride tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. Metformin hydrochloride tablets are biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. ( 1 )",
       "manufacturer": "REMEDYREPACK INC.",
       "splSetId": "30658e19-8e6e-49aa-a007-e414224797c5"
     },
     {
-      "brand": "Glipizide and Metformin HCl",
+      "brand": "glipizide and metformin hcl",
       "indication": "INDICATIONS AND USAGE Glipizide and Metformin HCl Tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.",
       "manufacturer": "REMEDYREPACK INC.",
       "splSetId": "328b702b-d901-4d74-b395-6ebb9e65f125"
+    },
+    {
+      "brand": "METFORMIN HYDROCHLORIDE",
+      "indication": "1 INDICATIONS AND USAGE Metformin Hydrochloride Tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. Metformin is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. ( 1 )",
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "32d6c5f4-0116-4e38-b179-e1967ae63e66"
     },
     {
       "brand": "Metformin Hydrochloride",
@@ -372,12 +402,6 @@
       "indication": "INDICATIONS AND USAGE Metformin hydrochloride tablets USP is indicated as an adjunct to diet and exercise to improve glycemic control in adults and children with type 2 diabetes mellitus.",
       "manufacturer": "Aphena Pharma Solutions - Tennessee, LLC",
       "splSetId": "3395325a-35bd-4bda-bed3-81eb6153ed12"
-    },
-    {
-      "brand": "Metformin Hydrochloride Oral Solution",
-      "indication": "1 INDICATIONS AND USAGE Metformin hydrochloride oral solution is indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. Metformin hydrochloride is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. ( 1 )",
-      "manufacturer": "Bryant Ranch Prepack",
-      "splSetId": "34b14257-715c-47d0-bc7d-ac6cd9695db2"
     },
     {
       "brand": "metformin hydrochloride",
@@ -417,7 +441,7 @@
     },
     {
       "brand": "Jentadueto XR",
-      "indication": "1 INDICATIONS AND USAGE JENTADUETO XR is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus [see Dosage and Administration (2.1) and Clinical Studies (14.1) ]. JENTADUETO XR contains linagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor and metformin hydrochloride (HCl), a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus ( 1 ) Limitations of Use Not for treatment of type 1 diabetes or diabetic ketoacidosis ( 1 ) Has not been studied in patients with a history of pancreatitis ( 1 ) Limitations of Use JENTADUETO XR should not be used in patients with type 1 diabetes or for the treatment of diabetic ketoacidosis, as it would not be effective in these settings. JENTADUETO XR has not been studied in patients with a history of pancreatitis. It is unknown whether patients with a history of pancreatitis are at an increased risk for the development of pancreatitis while using JENTADUETO XR [see Warnings and Precautions (5.2) ].",
+      "indication": "1 INDICATIONS AND USAGE JENTADUETO XR is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus . JENTADUETO XR is a combination of linagliptin, a dipeptidyl peptidase-4 (DPP-4) inhibitor and metformin hydrochloride (HCl), a biguanide, indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus ( 1 ) Limitations of Use Not for treatment of type 1 diabetes ( 1 ) Has not been studied in patients with a history of pancreatitis ( 1 ) Limitations of Use JENTADUETO XR should not be used in patients with type 1 diabetes. JENTADUETO XR has not been studied in patients with a history of pancreatitis. It is unknown whether patients with a history of pancreatitis are at an increased risk for the development of pancreatitis while using JENTADUETO XR [see Warnings and Precautions (5.2) ].",
       "manufacturer": "Boehringer Ingelheim Pharmaceuticals, Inc.",
       "splSetId": "3d02a4d4-d312-80b4-05c4-691b8f0aa7aa"
     },
@@ -464,6 +488,12 @@
       "splSetId": "42e49120-6f3f-11db-9fe1-0800200c9a66"
     },
     {
+      "brand": "Metformin Hydrochloride",
+      "indication": "1 INDICATIONS & AND USAGE Metformin hydrochloride tablets is indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. Metformin hydrochloride extended-release tablets is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Metformin is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. ( 1 ) Metformin is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 )",
+      "manufacturer": "American Health Packaging",
+      "splSetId": "42e9644e-299d-4033-9a73-54c183d6ccea"
+    },
+    {
       "brand": "METFORMIN HYDROCHLORIDE",
       "indication": "1 INDICATIONS AND USAGE Metformin hydrochloride extended-release tablets, USP are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Metformin hydrochloride is a biguanide indicated as an adjunct to diet and exe rcise to i m p rove gl yc e mic cont rol in adults with t ype 2 diabetes m ellitus. (1)",
       "manufacturer": "Aphena Pharma Solutions - Tennessee, LLC",
@@ -482,6 +512,12 @@
       "splSetId": "4661d307-78b2-2f5b-e054-00144ff88e88"
     },
     {
+      "brand": "METFORMIN HYDROCHLORIDE",
+      "indication": "1 INDICATIONS AND USAGE Metformin Hydrochloride Tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. Metformin is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. ( 1 )",
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "4670d280-53c3-4c51-b3c5-26d71e47bddc"
+    },
+    {
       "brand": "METFORMIN HYDROCHLORIDE EXTENDED RELEASE",
       "indication": "Metformin hydrochloride extended release tablets USP are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.",
       "manufacturer": "Direct_Rx",
@@ -498,12 +534,6 @@
       "indication": "1 INDICATIONS AND USAGE Metformin hydrochloride extended-release tablets are a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 ) Metformin hydrochloride extended-release tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus.",
       "manufacturer": "Ingenus Pharmaceuticals, LLC",
       "splSetId": "49a0b5c2-ebaf-4c4c-905f-dfd1962ac647"
-    },
-    {
-      "brand": "GLUCOPHAGE XR",
-      "indication": "1 INDICATIONS AND USAGE GLUCOPHAGE is indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. GLUCOPHAGE XR is indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. GLUCOPHAGE is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. (1) GLUCOPHAGE XR is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. (1)",
-      "manufacturer": "Bristol-Myers Squibb Company",
-      "splSetId": "4a0166c7-7097-4e4a-9036-6c9a60d08fc6"
     },
     {
       "brand": "Glipizide and Metformin Hydrochloride",
@@ -542,12 +572,6 @@
       "splSetId": "4b081178-8826-4c27-8354-4904a52821b1"
     },
     {
-      "brand": "Metformin Hydrochloride",
-      "indication": "INDICATIONS AND USAGE Metformin hydrochloride tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults and children with type 2 diabetes mellitus.",
-      "manufacturer": "Mylan Institutional Inc.",
-      "splSetId": "4b0d0379-513c-4a7e-9b68-a929f75f1f81"
-    },
-    {
       "brand": "Metformin HCl",
       "indication": "INDICATIONS & USAGE Metformin Hydrochloride Tablets USP are indicated as an adjunct to diet and exercise to improve glycemic control in adults and children with type 2 diabetes mellitus.",
       "manufacturer": "Bryant Ranch Prepack",
@@ -566,22 +590,10 @@
       "splSetId": "4c91a980-1fef-4cc5-a6a6-fd7f4a6223cf"
     },
     {
-      "brand": "Metformin HCl",
-      "indication": "INDICATIONS & USAGE Metformin Hydrochloride Tablets USP are indicated as an adjunct to diet and exercise to improve glycemic control in adults and children with type 2 diabetes mellitus.",
-      "manufacturer": "A-S Medication Solutions",
-      "splSetId": "4e345b8c-57ab-4f09-9cbe-1d255e9354ba"
-    },
-    {
-      "brand": "METFORMIN HYDROCHLORIDE",
-      "indication": "1 INDICATIONS AND USAGE Metformin Hydrochloride Tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. Metformin is a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. ( 1 )",
-      "manufacturer": "ScieGen Pharmaceuticals Inc",
-      "splSetId": "4e4c4ba9-65c6-4273-8f6b-2423ab521dad"
-    },
-    {
       "brand": "Metformin Hydrochloride",
-      "indication": "1 INDICATIONS AND USAGE Metformin hydrochloride tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. Metformin hydrochloride tablets are a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults and pediatric patients 10 years of age and older with type 2 diabetes mellitus. ( 1 )",
-      "manufacturer": "Mylan Pharmaceuticals Inc.",
-      "splSetId": "4f70f907-08d5-4c2e-a4be-32c6124faa7b"
+      "indication": "1 INDICATIONS AND USAGE Metformin hydrochloride extended-release tablets are indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Metformin hydrochloride extended-release tablets are a biguanide indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 )",
+      "manufacturer": "Aphena Pharma Solutions - Tennessee, LLC",
+      "splSetId": "4d89a4ab-6cdd-4c39-92f9-a137fa27a070"
     }
   ],
   "id": "Metformin_Hydrochloride",

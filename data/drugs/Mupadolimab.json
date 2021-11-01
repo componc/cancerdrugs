@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mupadolimab",
+  "nciThesaurus": {
+    "casRegistry": "2451856-97-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A type II humanized immunoglobulin G1 (IgG1) monoclonal antibody targeting the ectoenzyme 5'-ecto-nucleotidase (cluster of differentiation 73; CD73; 5'-NT; ecto-5'-nucleotidase; NT5E), with potential immunomodulating and antineoplastic activities. Upon intravenous administration, mupadolimab targets and binds to CD73 on tumor cells, leading to internalization of CD73. This prevents CD73-mediated conversion of extracellular adenosine monophosphate (AMP) to adenosine, thereby preventing adenosine-mediated suppression of lymphocyte activity and increasing the activity of cytotoxic T-lymphocytes (CTLs). This also activates macrophages, and reduces the activity of both myeloid-derived suppressor cells (MDSCs) and regulatory T-lymphocytes. By abrogating the inhibitory effect on the immune system and enhancing the CTL-mediated immune response against cancer cells, tumor cell growth is decreased. CD73, a plasma membrane protein belonging to the 5'-nucleotidase (NTase) family, is upregulated on a number of cancer cell types and catalyzes the conversion of extracellular nucleotides, such as AMP, to membrane-permeable nucleosides, such as adenosine; it plays a key role in adenosine-mediated immunosuppression within the tumor microenvironment.",
+    "fdaUniiCode": "23ET6940RM",
+    "identifier": "C156061",
+    "preferredName": "Mupadolimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C176988"
+    ],
+    "synonyms": [
+      "Anti-CD73 Monoclonal Antibody CPI-006",
+      "CPI 006",
+      "CPI-006",
+      "CPI006",
+      "CPX-006",
+      "MUPADOLIMAB",
+      "Mupadolimab"
+    ]
+  }
+}

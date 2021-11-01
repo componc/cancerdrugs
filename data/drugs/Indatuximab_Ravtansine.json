@@ -6,7 +6,7 @@
     "casRegistry": "",
     "chebiId": "",
     "chemicalFormula": "",
-    "definition": "An immunoconjugate consisting of a monoclonal antibody directed against a highly-expressed myeloma cell surface antigen covalently attached to the maytansinoid DM4, a derivative of the cytotoxic agent maytansine (DM1), with potential antineoplastic activity. Indatuximab ravtansine binds to an unspecified cell surface antigen highly expressed on myeloma cells; upon internalization the DM4 moiety is released, binding to tubulin and disrupting microtubule assembly/disassembly dynamics, which may result in the inhibition of cell division and cell growth of myeloma tumor cells.",
+    "definition": "An immunoconjugate consisting of a monoclonal antibody directed against syndecan-1 (CD138) covalently attached to the maytansinoid DM4, a derivative of the cytotoxic agent maytansine (DM1), with potential antineoplastic activity. Upon administration, indatuximab ravtansine binds to syndecan-1-expressing tumor cells; upon internalization the DM4 moiety is released, binding to tubulin and disrupting microtubule assembly/disassembly dynamics, which may result in the inhibition of cell division and cell growth of syndecan-1-expressing tumor cells. Syndecan-1, a type 1 transmembrane proteoglycan and tumor-associated antigen (TAA), is overexpressed in a variety of cancer cells and plays a key role in the regulation of cell growth, differentiation, and adhesion.",
     "fdaUniiCode": "XGL4M23834",
     "identifier": "C78840",
     "preferredName": "Indatuximab Ravtansine",

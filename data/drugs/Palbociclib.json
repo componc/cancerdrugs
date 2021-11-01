@@ -2,7 +2,7 @@
   "emaEpar": [
     {
       "activeSubstance": "palbociclib",
-      "conditionIndication": "Ibrance is indicated for the treatment of hormone receptor (HR) positive, human epidermal growth factor receptor 2 (HER2) negative locally advanced or metastatic breast cancer:, , in combination with an aromatase inhibitor;, \tin combination with fulvestrant in women who have received prior endocrine therapy., In pre- or perimenopausal women, the endocrine therapy should be combined with a luteinizing hormone releasing hormone (LHRH) agonist., ",
+      "conditionIndication": "Ibrance is indicated for the treatment of hormone receptor (HR) positive, human epidermal growth factor receptor 2 (HER2) negative locally advanced or metastatic breast cancer:in combination with an aromatase inhibitor;in combination with fulvestrant in women who have received prior endocrine therapy.In pre- or perimenopausal women, the endocrine therapy should be combined with a luteinizing hormone releasing hormone (LHRH) agonist.",
       "inn": "palbociclib",
       "marketingAuthorisationDate": "2016-11-09 01:00:00",
       "marketingAuthorisationHolder": "Pfizer Europe MA EEIG\u00a0",
@@ -13,7 +13,7 @@
   "fdaDrugLabel": [
     {
       "brand": "Ibrance",
-      "indication": "1 INDICATIONS AND USAGE IBRANCE is indicated for the treatment of HR-positive, HER2-negative advanced or metastatic breast cancer in combination with: letrozole as initial endocrine based therapy in postmenopausal women, or fulvestrant in women with disease progression following endocrine therapy. The indication in combination with letrozole is approved under accelerated approval based on progression-free survival (PFS) [see Clinical Studies (14) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial. IBRANCE is a kinase inhibitor indicated for the treatment of hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with: letrozole as initial endocrine based therapy in postmenopausal women ( 1 ), or fulvestrant in women with disease progression following endocrine therapy. The indication in combination with letrozole is approved under accelerated approval based on progression-free survival (PFS). Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial. ( 1 )",
+      "indication": "1 INDICATIONS AND USAGE IBRANCE is indicated for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with: an aromatase inhibitor as initial endocrine-based therapy in postmenopausal women or in men; or fulvestrant in patients with disease progression following endocrine therapy. IBRANCE is a kinase inhibitor indicated for the treatment of adult patients with hormone receptor (HR)-positive, human epidermal growth factor receptor 2 (HER2)-negative advanced or metastatic breast cancer in combination with: an aromatase inhibitor as initial endocrine-based therapy in postmenopausal women or in men ( 1 ); or fulvestrant in patients with disease progression following endocrine therapy. ( 1 )",
       "manufacturer": "U.S. Pharmaceuticals",
       "splSetId": "86718885-da44-4d3d-b3ca-06cbcedcffd8"
     },

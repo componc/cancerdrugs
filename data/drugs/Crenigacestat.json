@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Crenigacestat",
+  "nciThesaurus": {
+    "casRegistry": "1421438-81-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available inhibitor of the integral membrane protein gamma-secretase (GS), with potential antineoplastic activity. Upon administration, crenigacestat binds to the GS protease complex, thereby blocking the proteolytic cleavage and release of the Notch intracellular domain (NICD), which would normally follow ligand binding to the extracellular domain of the Notch receptor. This prevents both the subsequent translocation of NICD to the nucleus to form a transcription factor complex and the expression of Notch-regulated genes. This results in the induction of apoptosis and the inhibition of growth in tumor cells that overexpress Notch. Overexpression of the Notch signaling pathway plays an important role in tumor cell proliferation and survival.",
+    "fdaUniiCode": "923X28214S",
+    "identifier": "C171871",
+    "preferredName": "Crenigacestat",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C783"
+    ],
+    "synonyms": [
+      "4,4,4-Trifluoro-N-((S)-1-(((S)-5-(2-hydroxyethyl)-6-oxo-6,7-dihydro-5H-benzo[d]pyrido[2,3-b]azepin-7-yl)amino)-1-oxopropan-2-yl)butanamide",
+      "BMS-986405",
+      "CRENIGACESTAT",
+      "Crenigacestat",
+      "Gamma-Secretase Inhibitor LY3039478",
+      "JSMD194",
+      "LY 3039478",
+      "LY-3039478",
+      "LY3039478"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "SERD_ZB-716",
+  "nciThesaurus": {
+    "casRegistry": "1853279-29-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable selective estrogen receptor degrader/downregulator (SERD) and a structural analog of fulvestrant, with potential antineoplastic activity. Upon oral administration, SERD ZB-716 specifically targets and binds to the estrogen receptor (ER) and induces a conformational change that promotes ER degradation. This prevents ER-mediated signaling and inhibits both the growth and survival of ER-expressing cancer cells.",
+    "fdaUniiCode": "E35ZN95LMT",
+    "identifier": "C179265",
+    "preferredName": "SERD ZB-716",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2116"
+    ],
+    "synonyms": [
+      "Borestrant",
+      "SERD ZB-716",
+      "Selective Estrogen Receptor Alpha Degrader ZB716",
+      "Selective Estrogen Receptor Degrader ZB716",
+      "ZB 716",
+      "ZB-716",
+      "ZB716"
+    ]
+  }
+}

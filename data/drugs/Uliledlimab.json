@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Uliledlimab",
+  "nciThesaurus": {
+    "casRegistry": "2378407-27-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A humanized monoclonal antibody targeting the ectoenzyme 5'-ecto-nucleotidase (cluster of differentiation 73; CD73; 5'-NT; ecto-5'-nucleotidase; NT5E), with potential immunomodulating and antineoplastic activities. Upon administration, uliledlimab targets and binds to CD73 on tumor cells, thereby inhibiting CD73 activity. This prevents CD73-mediated conversion of extracellular adenosine monophosphate (AMP) to adenosine, preventing adenosine-mediated suppression of lymphocyte activity and increasing the activity of cytotoxic T-lymphocytes (CTLs). This also activates macrophages and reduces the activity of both myeloid-derived suppressor cells (MDSCs) and regulatory T-lymphocytes (Tregs). By abrogating the inhibitory effect on the immune system and enhancing the CTL-mediated immune response against cancer cells, tumor cell growth is decreased. CD73, a plasma membrane protein belonging to the 5'-nucleotidase (NTase) family, is upregulated on a number of cancer cell types and catalyzes the conversion of extracellular nucleotides, such as AMP, to membrane-permeable nucleosides, such as adenosine; it plays a key role in adenosine-mediated immunosuppression within the tumor microenvironment (TME).",
+    "fdaUniiCode": "3OX1DBR75G",
+    "identifier": "C159168",
+    "preferredName": "Uliledlimab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C176988"
+    ],
+    "synonyms": [
+      "Anti-CD73 Monoclonal Antibody TJ4309",
+      "TJ 004309",
+      "TJ 4309",
+      "TJ-004309",
+      "TJ-4309",
+      "TJ004309",
+      "TJ4309",
+      "TJD5",
+      "ULILEDLIMAB",
+      "Uliledlimab"
+    ]
+  }
+}

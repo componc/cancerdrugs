@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mocravimod_Hydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "509088-69-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The hydrochloride salt form of mocravimod, a sphingosine 1-phosphate (S1P) receptor agonist, with potential immunosuppressive activity. Upon administration of mocravimod, this agent binds to S1P receptors on lymphocytes, which prevents binding of serum S1P to S1P receptors and leads to S1P receptor internalization. This reduces the number of circulating blood leukocytes and accelerates lymphocyte homing into peripheral lymph nodes, thereby preventing their infiltration into peripheral inflammatory sites. This agent also decreases the production of inflammatory cytokines by lymphocytes, such as interferon gamma (IFN-g), interleukin-12 (IL-12), and tumor necrosis factor (TNF).",
+    "fdaUniiCode": "3YH0N35CE3",
+    "identifier": "C106368",
+    "preferredName": "Mocravimod Hydrochloride",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C574"
+    ],
+    "synonyms": [
+      "2-Amino-2-propanediol Hydrochloride",
+      "KRP-203",
+      "KRP203",
+      "MOCRAVIMOD HYDROCHLORIDE",
+      "Mocravimod Hydrochloride"
+    ]
+  }
+}

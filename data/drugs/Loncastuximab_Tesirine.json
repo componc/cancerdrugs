@@ -1,6 +1,13 @@
 {
   "emaEpar": [],
-  "fdaDrugLabel": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "ZYNLONTA",
+      "indication": "1 INDICATIONS AND USAGE ZYNLONTA is indicated for the treatment of adult patients with relapsed or refractory large B-cell lymphoma after two or more lines of systemic therapy, including diffuse large B-cell lymphoma (DLBCL) not otherwise specified, DLBCL arising from low-grade lymphoma, and high-grade B-cell lymphoma. This indication is approved under accelerated approval based on overall response rate [see Clinical Studies (14.1) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ZYNLONTA is a CD19-directed antibody and alkylating agent conjugate indicated for the treatment of adult patients with relapsed or refractory large B-cell lymphoma after two or more lines of systemic therapy, including diffuse large B-cell lymphoma (DLBCL) not otherwise specified, DLBCL arising from low-grade lymphoma, and high-grade B-cell lymphoma. ( 1 ) This indication is approved under accelerated approval based on overall response rate. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ( 1 )",
+      "manufacturer": "ADC Therapeutics America, Inc.",
+      "splSetId": "af54af12-3edf-4301-8bc5-0446bc813c1d"
+    }
+  ],
   "id": "Loncastuximab_Tesirine",
   "nciThesaurus": {
     "casRegistry": "1879918-31-6",
@@ -20,7 +27,9 @@
       "ADCT-402",
       "Anti-CD19 PBD-conjugate ADCT-402",
       "LONCASTUXIMAB TESIRINE",
-      "Loncastuximab Tesirine"
+      "Loncastuximab Tesirine",
+      "Loncastuximab Tesirine-lpyl",
+      "Zynlonta"
     ]
   }
 }

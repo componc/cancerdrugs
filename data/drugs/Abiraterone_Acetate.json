@@ -1,27 +1,37 @@
 {
-  "emaEpar": [],
+  "emaEpar": [
+    {
+      "activeSubstance": "abiraterone acetate",
+      "conditionIndication": "Abiraterone Mylan is indicated with prednisone or prednisolone for:the treatment of newly diagnosed high risk metastatic hormone sensitive prostate cancer (mHSPC) in adult men in combination with androgen deprivation therapy (ADT).the treatment of metastatic castration resistant prostate cancer (mCRPC) in adult men who are asymptomatic or mildly symptomatic after failure of androgen deprivation therapy in whom chemotherapy is not yet clinically indicated.the treatment of mCRPC in adult men whose disease has progressed on or after a docetaxel based chemotherapy regimen.",
+      "inn": "abiraterone acetate",
+      "marketingAuthorisationDate": "2021-08-20 00:00:00",
+      "marketingAuthorisationHolder": "Mylan Ireland Limited",
+      "medicineName": "Abiraterone Mylan",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abiraterone-mylan"
+    }
+  ],
   "fdaDrugLabel": [
     {
       "brand": "Abiraterone",
-      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with \u2022 Metastatic castration-resistant prostate cancer (CRPC) Abiraterone acetate tablet is a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). (1)",
+      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with \u2022 Metastatic castration-resistant prostate cancer (CRPC) \u2022 Metastatic high-risk castration-sensitive prostate cancer (CSPC) Abiraterone acetate tablet is a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). (1) metastatic high-risk castration-sensitive prostate cancer (CSPC). ( 1 )",
       "manufacturer": "MSN LABORATORIES PRIVATE LIMITED",
       "splSetId": "0a84f388-a8b4-4065-93a6-1c663c99d265"
     },
     {
       "brand": "Abiraterone Acetate",
-      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with Metastatic castration-resistant prostate cancer (CRPC) Abiraterone acetate tablets are a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). ( 1 )",
+      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with Metastatic castration-resistant prostate cancer (CRPC) Metastatic high-risk castration-sensitive prostate cancer (CSPC) Abiraterone acetate tablets are a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). ( 1 ) metastatic high-risk castration-sensitive prostate cancer (CSPC). ( 1 )",
       "manufacturer": "Teva Pharmaceuticals USA, Inc.",
       "splSetId": "0b452d6a-c8fa-4668-9d34-60101a4129f0"
     },
     {
       "brand": "Abiraterone Acetate",
-      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with Metastatic castration-resistant prostate cancer (CRPC). Abiraterone acetate tablets are a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). ( 1 )",
+      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with Metastatic castration-resistant prostate cancer (CRPC) Metastatic high-risk castration-sensitive prostate cancer (CSPC) Abiraterone acetate tablets are a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). ( 1 ) metastatic high-risk castration-sensitive prostate cancer (CSPC). ( 1 )",
       "manufacturer": "Apotex Corp.",
       "splSetId": "2ac063f0-4177-c90f-27c3-e70e29689255"
     },
     {
       "brand": "Abiraterone",
-      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with \u2022 Metastatic castration-resistant prostate cancer (CRPC) Abiraterone acetate tablet is a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). (1)",
+      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with \u2022 Metastatic castration-resistant prostate cancer (CRPC) \u2022 Metastatic high-risk castration-sensitive prostate cancer (CSPC) Abiraterone acetate tablet is a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). (1) metastatic high-risk castration-sensitive prostate cancer (CSPC). ( 1 )",
       "manufacturer": "BluePoint Laboratories",
       "splSetId": "32f6b83d-c743-4934-9a20-1b5bf9f4eea3"
     },
@@ -63,7 +73,7 @@
     },
     {
       "brand": "Abiraterone Acetate",
-      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with \u2022 Metastatic castration-resistant prostate cancer (CRPC) Abiraterone acetate tablets are a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). ( 1)",
+      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with Metastatic castration-resistant prostate cancer (CRPC) Metastatic high-risk castration-sensitive prostate cancer (CSPC) Abiraterone acetate tablet is a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). ( 1) metastatic high-risk castration-sensitive prostate cancer (CSPC). ( 1 )",
       "manufacturer": "Dr. Reddys Laboratories Inc",
       "splSetId": "7eda0d98-c2ba-c117-b757-1f566292e789"
     },
@@ -81,15 +91,21 @@
     },
     {
       "brand": "Abiraterone",
-      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with \u2022 Metastatic castration-resistant prostate cancer (CRPC) Abiraterone acetate tablet is a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). (1)",
+      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with \u2022 Metastatic castration-resistant prostate cancer (CRPC) \u2022 Metastatic high-risk castration-sensitive prostate cancer (CSPC) Abiraterone acetate tablet is a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). (1) metastatic high-risk castration-sensitive prostate cancer (CSPC). ( 1 )",
       "manufacturer": "Novadoz Pharmaceuticals LLC",
       "splSetId": "88d05db3-8bdc-47f1-bb00-6b4a71f98609"
     },
     {
       "brand": "Abiraterone acetate",
-      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate is indicated in combination with prednisone for the treatment of patients with Metastatic castration-resistant prostate cancer (CRPC) Abiraterone acetate is a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). ( 1 )",
+      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate is indicated in combination with prednisone for the treatment of patients with Metastatic castration-resistant prostate cancer (CRPC) Metastatic high-risk castration-sensitive prostate cancer (CSPC) Abiraterone acetate is a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). ( 1 ) metastatic high-risk castration-sensitive prostate cancer (CSPC). ( 1 )",
       "manufacturer": "CELLTRION USA, INC.",
       "splSetId": "915b825a-2649-4079-9169-5e33a39c779d"
+    },
+    {
+      "brand": "abiraterone acetate",
+      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate is indicated in combination with prednisone for the treatment of patients with Metastatic castration-resistant prostate cancer (CRPC) Metastatic high-risk castration-sensitive prostate cancer (CSPC) Abiraterone acetate is a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). ( 1 ) metastatic high-risk castration-sensitive prostate cancer (CSPC). ( 1 )",
+      "manufacturer": "Apotex Corp.",
+      "splSetId": "9ce9d926-ef3a-4b22-a703-f49c18eb4e3d"
     },
     {
       "brand": "Abiraterone Acetate",
@@ -105,19 +121,25 @@
     },
     {
       "brand": "abiraterone acetate",
-      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with \u2022 Metastatic castration-resistant prostate cancer (CRPC) Abiraterone acetate tablets are CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with \u2022 metastatic castration-resistant prostate cancer (CRPC). (1)",
+      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with \u2022 Metastatic castration-resistant prostate cancer (CRPC) \u2022 Metastatic high-risk castration-sensitive prostate cancer (CSPC) Abiraterone acetate tablets are a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with \u2022 metastatic castration-resistant prostate cancer (CRPC). (1) \u2022 metastatic high-risk castration-sensitive prostate cancer (CSPC). ( 1 )",
       "manufacturer": "Glenmark Pharmaceuticals Inc., USA",
       "splSetId": "ba32c453-a231-452a-a6d9-b3e57afb2e75"
     },
     {
       "brand": "Abiraterone",
-      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with \u2022 Metastatic castration-resistant prostate cancer (CRPC) Abiraterone acetate tablets are a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with \u2022 metastatic castration-resistant prostate cancer (CRPC). (1)",
+      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with: Metastatic castration-resistant prostate cancer (CRPC) Metastatic high-risk castration-sensitive prostate cancer (CSPC) Abiraterone acetate tablets are a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with: metastatic castration-resistant prostate cancer (CRPC). (1) metastatic high-risk castration-sensitive prostate cancer (CSPC). (1)",
       "manufacturer": "Hikma Pharmaceuticals USA Inc.",
       "splSetId": "be29365a-ed25-44c0-9818-e9016dc95ba6"
     },
     {
-      "brand": "Abiraterone Acetate",
+      "brand": "ABIRATERONE ACETATE",
       "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with Metastatic castration-resistant prostate cancer (CRPC) Abiraterone acetate tablets are a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). (1)",
+      "manufacturer": "AvKARE",
+      "splSetId": "c1200e4e-c4f7-9067-e053-2a95a90af509"
+    },
+    {
+      "brand": "Abiraterone Acetate",
+      "indication": "1 INDICATIONS AND USAGE Abiraterone acetate tablets are indicated in combination with prednisone for the treatment of patients with Metastatic castration-resistant prostate cancer (CRPC) Metastatic high-risk castration-sensitive prostate cancer (CSPC) Abiraterone acetate tablets are a CYP17 inhibitor indicated in combination with prednisone for the treatment of patients with metastatic castration-resistant prostate cancer (CRPC). (1) metastatic high-risk castration-sensitive prostate cancer (CSPC). (1)",
       "manufacturer": "Amneal Pharmaceuticals NY LLC",
       "splSetId": "c9eb9b46-f847-40a8-802c-a51b40406d5a"
     },
@@ -152,7 +174,10 @@
       "ABIRATERONE ACETATE",
       "Abiraterone Acetate",
       "Androsta-5,16-dien-3-ol, 17-(3-pyridinyl)-, acetate (ester), (3beta)-",
+      "BR9004",
+      "BR9004-1",
       "CB7630",
+      "JNJ-212082",
       "Yonsa",
       "Zytiga",
       "abiraterone acetate"

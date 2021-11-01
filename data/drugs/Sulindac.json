@@ -20,12 +20,6 @@
       "splSetId": "1a5125c7-a63e-4214-b179-668ecfcd16ac"
     },
     {
-      "brand": "Sulindac",
-      "indication": "INDICATIONS AND USAGE Carefully consider the potential benefits and risks of sulindac tablets and other treatment options before deciding to use sulindac tablets. Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS ). Sulindac tablets are indicated for acute or long-term use in the relief of signs and symptoms of the following: 1. Osteoarthritis 2. Rheumatoid arthritis * 3. Ankylosing spondylitis 4. Acute painful shoulder (Acute subacromial bursitis/supraspinatus tendinitis) 5. Acute gouty arthritis * The safety and effectiveness of sulindac have not been established in rheumatoid arthritis patients who are designated in the American Rheumatism Association classification as Functional Class IV (incapacitated, largely or wholly bedridden, or confined to wheelchair; little or no self-care).",
-      "manufacturer": "Mylan Pharmaceuticals Inc.",
-      "splSetId": "473edb3e-ccaa-4a74-8dc8-6a053c52d3e0"
-    },
-    {
       "brand": "SULINDAC",
       "indication": "INDICATIONS AND USAGE Carefully consider the potential benefits and risks of sulindac and other treatment options before deciding to use sulindac. Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS ). Sulindac is indicated for acute or long-term use in the relief of signs and symptoms of the following: 1. Osteoarthritis 2. Rheumatoid arthritis** 3. Ankylosing spondylitis 4. Acute painful shoulder (Acute subacromial bursitis/supraspinatus tendinitis) 5. Acute gouty arthritis **The safety and effectiveness of sulindac tablets USP have not been established in rheumatoid arthritis patients who are designated in the American Rheumatism Association classification as Functional Class IV (incapacitated, largely or wholly bedridden, or confined to wheelchair, little or no self-care).",
       "manufacturer": "A-S Medication Solutions",
@@ -44,12 +38,6 @@
       "splSetId": "6db52fd3-172f-47ab-8aa6-4f3d031c6b25"
     },
     {
-      "brand": "Sulindac",
-      "indication": "INDICATIONS AND USAGE Carefully consider the potential benefits and risks of sulindac tablets, USP and other treatment options before deciding to use sulindac tablets. Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS ). Sulindac tablets are indicated for acute or long-term use in the relief of signs and symptoms of the following: Osteoarthritis Rheumatoid arthritis * Ankylosing spondylitis Acute painful shoulder (Acute subacromial bursitis/supraspinatus tendinitis) Acute gouty arthritis * The safety and effectiveness of sulindac have not been established in rheumatoid arthritis patients who are designated in the American Rheumatism Association classification as Functional Class IV (incapacitated, largely or wholly bedridden, or confined to wheelchair; little or no self-care).",
-      "manufacturer": "Mylan Institutional Inc.",
-      "splSetId": "7b16d772-ef1f-4f41-a0d4-47e3e38024e1"
-    },
-    {
       "brand": "SULINDAC",
       "indication": "INDICATIONS AND USAGE Carefully consider the potential benefits and risks of sulindac and other treatment options before deciding to use sulindac. Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS ). Sulindac is indicated for acute or long-term use in the relief of signs and symptoms of the following: 1. Osteoarthritis 2. Rheumatoid arthritis** 3. Ankylosing spondylitis 4. Acute painful shoulder (Acute subacromial bursitis/supraspinatus tendinitis) 5. Acute gouty arthritis **The safety and effectiveness of sulindac tablets USP have not been established in rheumatoid arthritis patients who are designated in the American Rheumatism Association classification as Functional Class IV (incapacitated, largely or wholly bedridden, or confined to wheelchair, little or no self-care).",
       "manufacturer": "Bryant Ranch Prepack",
@@ -63,7 +51,7 @@
     },
     {
       "brand": "SULINDAC",
-      "indication": "INDICATIONS AND USAGE Carefully consider the potential benefits and risks of sulindac tablets and other treatment options before deciding to use sulindac tablets. Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS ). Sulindac tablets are indicated for acute or long-term use in the relief of signs and symptoms of the following: 1. Osteoarthritis 2. Rheumatoid arthritis The safety and effectiveness of sulindac tablets have not been established in rheumatoid arthritis patients who are designated in the American Rheumatism Association classification as Functional Class IV (incapacitated, largely or wholly bedridden, or confined to wheelchair; little or no self-care). 3. Ankylosing spondylitis 4. Acute painful shoulder (Acute subacromial bursitis/supraspinatus tendinitis) 5. Acute gouty arthritis",
+      "indication": "INDICATIONS AND USAGE Carefully consider the potential benefits and risks of sulindac tablets and other treatment options before deciding to use sulindac tablets. Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS ). Sulindac tablets are indicated for acute or long-term use in the relief of signs and symptoms of the following: 1. Osteoarthritis 2. Rheumatoid arthritis* 3. Ankylosing spondylitis 4. Acute painful shoulder (Acute subacromial bursitis/supraspinatus tendinitis) 5. Acute gouty arthritis",
       "manufacturer": "Sun Pharmaceutical Industries, Inc.",
       "splSetId": "a47e4259-d44b-4b7b-b517-841cb6840982"
     },
@@ -78,6 +66,12 @@
       "indication": "INDICATIONS AND USAGE Carefully consider the potential benefits and risks of sulindac and other treatment options before deciding to use sulindac. Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS ). Sulindac tablets, USP are indicated for acute or long-term use in the relief of signs and symptoms of the following: Osteoarthritis Rheumatoid arthritis** Ankylosing spondylitis Acute painful shoulder (Acute subacromial bursitis/supraspinatus tendinitis) Acute gouty arthritis ** The safety and effectiveness of sulindac have not been established in rheumatoid arthritis patients who are designated in the American Rheumatism Association classification as Functional Class IV (incapacitated, largely or wholly bedridden, or confined to wheelchair; little or no self-care).",
       "manufacturer": "Bryant Ranch Prepack",
       "splSetId": "d150c3f3-c267-4d48-9502-4700670c954b"
+    },
+    {
+      "brand": "Sulindac",
+      "indication": "INDICATIONS AND USAGE Carefully consider the potential benefits and risks of sulindac and other treatment options before deciding to use sulindac. Use the lowest effective dose for the shortest duration consistent with individual patient treatment goals (see WARNINGS ). Sulindac tablets, USP are indicated for acute or long-term use in the relief of signs and symptoms of the following: Osteoarthritis Rheumatoid arthritis** Ankylosing spondylitis Acute painful shoulder (Acute subacromial bursitis/supraspinatus tendinitis) Acute gouty arthritis **The safety and effectiveness of sulindac have not been established in rheumatoid arthritis patients who are designated in the American Rheumatism Association classification as Functional Class IV (incapacitated, largely or wholly bedridden, or confined to wheelchair; little or no self-care).",
+      "manufacturer": "Actavis Pharma, Inc.",
+      "splSetId": "d8b9d517-5dd4-4c6b-8aa0-736bce87e7b4"
     },
     {
       "brand": "Sulindac",

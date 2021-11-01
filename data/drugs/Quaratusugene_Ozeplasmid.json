@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Quaratusugene_Ozeplasmid",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A formulation composed of DOTAP:cholesterol liposomal nanoparticles complexed with a plasmid expression cassette encoding human FUS1 protein, with potential antineoplastic activity. Upon administration, DOTAP:chol-Fus1 liposome complex accumulates mainly in the lungs and particularly in cancer cells. Upon transfer of the Fus1 gene into tumor cells, the expression of Fus1 may induce tumor cell apoptosis and suppress tumor cell proliferation. Fus1, a potent tumor-suppressor protein, is present in normal, healthy cells but often absent in certain cancer cells. DOTAP:cholesterol liposome is composed of cationic lipid dioleoyl-trimethylammonium propane (DOTAP) and cholesterol at a molar ratio of 1:1.",
+    "fdaUniiCode": "LD93JWY9D9",
+    "identifier": "C91708",
+    "preferredName": "Quaratusugene Ozeplasmid",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129821",
+      "C1962",
+      "C61199"
+    ],
+    "synonyms": [
+      "GPX 001",
+      "GPX-001",
+      "GPX001",
+      "INGN 401",
+      "QUARATUSUGENE OZEPLASMID",
+      "Quaratusugene Ozeplasmid",
+      "Reqorsa"
+    ]
+  }
+}

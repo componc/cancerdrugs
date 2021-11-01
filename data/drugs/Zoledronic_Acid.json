@@ -1,13 +1,58 @@
 {
   "emaEpar": [
     {
+      "activeSubstance": "zoledronic acid",
+      "conditionIndication": "Prevention of skeletal-related events and treatment of tumour-induced hypercalcaemia.",
+      "inn": "zoledronic acid",
+      "marketingAuthorisationDate": "2012-08-16 00:00:00",
+      "marketingAuthorisationHolder": "Teva B.V.",
+      "medicineName": "Zoledronic acid Teva",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-teva"
+    },
+    {
+      "activeSubstance": "zoledronic acid",
+      "conditionIndication": "Treatment of osteoporosis:in post-menopausal women;in men;at increased risk of fracture, including those with a recent low-trauma hip fracture.Treatment of osteoporosis associated with long-term systemic glucocorticoid therapy in post-menopausal women and in men at increased risk of fracture.Treatment of Paget's disease of the bone.",
+      "inn": "zoledronic acid",
+      "marketingAuthorisationDate": "2005-04-15 00:00:00",
+      "marketingAuthorisationHolder": "Novartis Europharm Limited\u00a0",
+      "medicineName": "Aclasta",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/aclasta"
+    },
+    {
+      "activeSubstance": "zoledronic acid monohydrate",
+      "conditionIndication": "Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies involving bone.Treatment of adult patients with tumour-induced hypercalcaemia (TIH).",
+      "inn": "zoledronic acid",
+      "marketingAuthorisationDate": "2014-01-16 01:00:00",
+      "marketingAuthorisationHolder": "Accord Healthcare S.L.U.",
+      "medicineName": "Zoledronic Acid Accord",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-accord"
+    },
+    {
       "activeSubstance": "zoledronic acid, zoledronic acid monohydrate",
-      "conditionIndication": "Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in patients with advanced malignancies involving bone;, \ttreatment of tumour-induced hypercalcaemia (TIH);, \tprevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in patients with advanced malignancies involving bone;, \ttreatment of tumour-induced hypercalcaemia (TIH);, \tprevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies involving bone;, \ttreatment of adult patients with tumour-induced hypercalcaemia (TIH)., ",
+      "conditionIndication": "Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in patients with advanced malignancies involving bone;treatment of tumour-induced hypercalcaemia (TIH);prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in patients with advanced malignancies involving bone;treatment of tumour-induced hypercalcaemia (TIH);prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies involving bone;treatment of adult patients with tumour-induced hypercalcaemia (TIH).",
       "inn": "zoledronic acid",
       "marketingAuthorisationDate": "2001-03-20 01:00:00",
-      "marketingAuthorisationHolder": "Novartis Europharm Limited",
+      "marketingAuthorisationHolder": "Phoenix Labs Unlimited Company",
       "medicineName": "Zometa",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zometa"
+    },
+    {
+      "activeSubstance": "zoledronic acid",
+      "conditionIndication": "Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies involving bone;treatment of adult patients with tumour-induced hypercalcaemia (TIH).",
+      "inn": "zoledronic acid",
+      "marketingAuthorisationDate": "2012-08-23 00:00:00",
+      "marketingAuthorisationHolder": "Mylan S.A.S.",
+      "medicineName": "Zoledronic acid Mylan",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-mylan"
+    },
+    {
+      "activeSubstance": "zoledronic acid monohydrate",
+      "conditionIndication": "4 mg / 5 ml and 4 mg / 100 ml:Prevention of skeletal-related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies involving bone.Treatment of adult patients with tumour-induced hypercalcaemia (TIH).5 mg / 100 ml:Treatment of osteoporosis:in post-menopausal women;in men;at increased risk of fracture, including those with a recent low-trauma hip fracture.Treatment of osteoporosis associated with long-term systemic glucocorticoid therapy:in post-menopausal women;in men;at increased risk of fracture.Treatment of Paget's disease of the bone in adults.",
+      "inn": "zoledronic acid",
+      "marketingAuthorisationDate": "2012-11-19 01:00:00",
+      "marketingAuthorisationHolder": "Pfizer Europe MA EEIG",
+      "medicineName": "Zoledronic Acid Hospira",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-hospira"
     },
     {
       "activeSubstance": "zoledronic acid monohydrate",
@@ -20,66 +65,15 @@
     },
     {
       "activeSubstance": "zoledronic acid monohydrate",
-      "conditionIndication": "Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies involving bone.Treatment of adult patients with tumour-induced hypercalcaemia (TIH).",
-      "inn": "zoledronic acid",
-      "marketingAuthorisationDate": "2014-01-16 01:00:00",
-      "marketingAuthorisationHolder": "Accord Healthcare S.L.U.",
-      "medicineName": "Zoledronic Acid Accord",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-accord"
-    },
-    {
-      "activeSubstance": "zoledronic acid monohydrate",
       "conditionIndication": "Prevention of skeletal-related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies involving bone., , Treatment of adult patients with tumour-induced hypercalcaemia. , ",
       "inn": "zoledronic acid",
       "marketingAuthorisationDate": "2012-04-20 00:00:00",
       "marketingAuthorisationHolder": "Actavis Group PTC ehf \u00a0",
       "medicineName": "Zoledronic acid Actavis",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-actavis"
-    },
-    {
-      "activeSubstance": "zoledronic acid",
-      "conditionIndication": "Prevention of skeletal-related events and treatment of tumour-induced hypercalcaemia.",
-      "inn": "zoledronic acid",
-      "marketingAuthorisationDate": "2012-08-16 00:00:00",
-      "marketingAuthorisationHolder": "Teva B.V.",
-      "medicineName": "Zoledronic acid Teva",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-teva"
-    },
-    {
-      "activeSubstance": "zoledronic acid",
-      "conditionIndication": "Prevention of skeletal related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies involving bone;treatment of adult patients with tumour-induced hypercalcaemia (TIH).",
-      "inn": "zoledronic acid",
-      "marketingAuthorisationDate": "2012-08-23 00:00:00",
-      "marketingAuthorisationHolder": "Mylan S.A.S.",
-      "medicineName": "Zoledronic acid Mylan",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-mylan"
-    },
-    {
-      "activeSubstance": "zoledronic acid",
-      "conditionIndication": "Treatment of osteoporosis:, , in post-menopausal women;, \tin men;, at increased risk of fracture, including those with a recent low-trauma hip fracture., , Treatment of osteoporosis associated with long-term systemic glucocorticoid therapy in post-menopausal women and in men at increased risk of fracture., , Treatment of Paget's disease of the bone., ",
-      "inn": "zoledronic acid",
-      "marketingAuthorisationDate": "2005-04-15 00:00:00",
-      "marketingAuthorisationHolder": "Novartis Europharm Limited\u00a0",
-      "medicineName": "Aclasta",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/aclasta"
-    },
-    {
-      "activeSubstance": "zoledronic acid monohydrate",
-      "conditionIndication": "4 mg / 5 ml and 4 mg / 100 ml:Prevention of skeletal-related events (pathological fractures, spinal compression, radiation or surgery to bone, or tumour-induced hypercalcaemia) in adult patients with advanced malignancies involving bone.Treatment of adult patients with tumour-induced hypercalcaemia (TIH).5 mg / 100 ml:Treatment of osteoporosis:in post-menopausal women;in men;at increased risk of fracture, including those with a recent low-trauma hip fracture.Treatment of osteoporosis associated with long-term systemic glucocorticoid therapy:in post-menopausal women;in men;at increased risk of fracture.Treatment of Paget's disease of the bone in adults.",
-      "inn": "zoledronic acid",
-      "marketingAuthorisationDate": "2012-11-19 01:00:00",
-      "marketingAuthorisationHolder": "Pfizer Europe MA EEIG",
-      "medicineName": "Zoledronic Acid Hospira",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/zoledronic-acid-hospira"
     }
   ],
   "fdaDrugLabel": [
-    {
-      "brand": "Zoledronic acid",
-      "indication": "1 INDICATIONS AND USAGE Zoledronic acid injection is a bisphosphonate indicated for the treatment of: Hypercalcemia of malignancy. (1.1) Patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy. (1.2) Important limitation of use: The safety and efficacy of zoledronic acid injection has not been established for use in hyperparathyroidism or nontumor-related hypercalcemia. (1.3) 1.1 Hypercalcemia of Malignancy Zoledronic acid injection is indicated for the treatment of hypercalcemia of malignancy defined as an albumin-corrected calcium (cCa) of greater than or equal to 12 mg/dL [3.0 mmol/L] using the formula: cCa in mg/dL=Ca in mg/dL + 0.8 ( 4.0 g/dL - patient albumin [g/dL]). 1.2 Multiple Myeloma and Bone Metastases of Solid Tumors Zoledronic acid injection is indicated for the treatment of patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy. 1.3 Important Limitation of Use The safety and efficacy of zoledronic acid injection in the treatment of hypercalcemia associated with hyperparathyroidism or with other nontumor-related conditions have not been established.",
-      "manufacturer": "Heritage Pharmaceuticals Inc. d/b/a Avet Pharmaceuticals Inc.",
-      "splSetId": "00a5bd5a-e5ee-4bad-b510-a4d4485485c8"
-    },
     {
       "brand": "Zoledronic acid",
       "indication": "1 INDICATIONS AND USAGE ZOLEDRONIC ACID Injection is a bisphosphonate indicated for the treatment of: Hypercalcemia of malignancy. ( 1.1 ) Patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy.( 1.2 ) Limitations of Use : The safety and efficacy of zoledronic acid injection has not been established for use in hyperparathyroidism or non-tumor-related hypercalcemia. 1.1 Hypercalcemia of Malignancy Zoledronic Acid Injection is indicated for the treatment of hypercalcemia of malignancy defined as an albumin-corrected calcium (cCa) of greater than or equal to 12 mg/dL [3.0 mmol/L] using the formula: cCa in mg/dL = Ca in mg/dL + 0.8 (4.0 g/dL - patient albumin [g/dL]). 1.2 Multiple Myeloma and Bone Metastases of Solid Tumors Zoledronic Acid Injection is indicated for the treatment of patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy. Limitations of Use The safety and efficacy of zoledronic acid injection in the treatment of hypercalcemia associated with hyperparathyroidism or with other non\u2013tumor-related conditions have not been established.",
@@ -100,7 +94,7 @@
     },
     {
       "brand": "Zoledronic Acid",
-      "indication": "1 INDICATIONS AND USAGE Zoledronic acid injection is a bisphosphonate indicated for the treatment of: Hypercalcemia of malignancy. ( 1.1 ) Patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy. ( 1.2 ) Limitations of Use: The safety and efficacy of zoledronic acid injection has not been established for use in hyperparathyroidism or nontumor-related hypercalcemia. ( 1.3 ) 1.1 Hypercalcemia of Malignancy Zoledronic acid injection is indicated for the treatment of hypercalcemia of malignancy defined as an albumin\u00ad-corrected calcium (cCa) of greater than or equal to 12 mg/dL [3 mmol/L] using the formula: cCa in mg/dL=Ca in mg/dL + 0.8 (4 g/dL - patient albumin [g/dL]). 1.2 Multiple Myeloma and Bone Metastases of Solid Tumors Zoledronic acid injection is indicated for the treatment of patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy. Limitations of Use The safety and efficacy of zoledronic acid injection in the treatment of hypercalcemia associated with hyperparathyroidism or with other non-tumor-related conditions have not been established.",
+      "indication": "1 INDICATIONS AND USAGE Zoledronic acid injection is a bisphosphonate indicated for the treatment of: Hypercalcemia of malignancy. ( 1.1 ) Patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy. ( 1.2 ) Limitations of Use: The safety and efficacy of zoledronic acid injection has not been established for use in hyperparathyroidism or non-tumor-related hypercalcemia. 1.1 Hypercalcemia of Malignancy Zoledronic acid injection is indicated for the treatment of hypercalcemia of malignancy defined as an albumin\u00ad-corrected calcium (cCa) of greater than or equal to 12 mg/dL [3.0 mmol/L] using the formula: cCa in mg/dL=Ca in mg/dL + 0.8 (4.0 g/dL - patient albumin [g/dL]). 1.2 Multiple Myeloma and Bone Metastases of Solid Tumors Zoledronic acid injection is indicated for the treatment of patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy. Limitations of Use The safety and efficacy of zoledronic acid injection in the treatment of hypercalcemia associated with hyperparathyroidism or with other non-tumor-related conditions have not been established.",
       "manufacturer": "Dr. Reddy's Laboratories Limited",
       "splSetId": "1738a682-5903-b675-3a7a-61d299a6f248"
     },
@@ -130,7 +124,7 @@
     },
     {
       "brand": "Zoledronic Acid",
-      "indication": "1 INDICATIONS AND USAGE Zoledronic acid injection is a bisphosphonate indicated for the treatment of: Hypercalcemia of malignancy. ( 1.1 ) Patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy. ( 1.2 ) Limitations of use : The safety and efficacy of zoledronic acid injection has not been established for use in hyperparathyroidism or non-tumor-related hypercalcemia. 1.1 Hypercalcemia of Malignancy Zoledronic acid injection is indicated for the treatment of hypercalcemia of malignancy defined as an albumin-corrected calcium (cCa) of greater than or equal to 12 mg/dL [3.0 mmol/L] using the formula: cCa in mg/dL=Ca in mg/dL + 0.8 (4.0 g/dL \u2013 patient albumin [g/dL]). 1.2 Multiple Myeloma and Bone Metastases of Solid Tumors Zoledronic acid injection is indicated for the treatment of patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy. Limitations of Use The safety and efficacy of zoledronic acid injection in the treatment of hypercalcemia associated with hyperparathyroidism or with other non-tumor-related conditions have not been established.",
+      "indication": "1 INDICATIONS AND USAGE Zoledronic acid injection is a bisphosphonate indicated for the treatment of: Hypercalcemia of malignancy. ( 1.1 ) Patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy. ( 1.2 ) Limitations of use: The safety and efficacy of zoledronic acid injection has not been established for use in hyperparathyroidism or non-tumor-related hypercalcemia. 1.1 Hypercalcemia of Malignancy Zoledronic acid injection is indicated for the treatment of hypercalcemia of malignancy defined as an albumin-corrected calcium (cCa) of greater than or equal to 12 mg/dL [3.0 mmol/L] using the formula: cCa in mg/dL= Ca in mg/dL + 0.8 (4.0 g/dL \u2013 patient albumin [g/dL]). 1.2 Multiple Myeloma and Bone Metastases of Solid Tumors Zoledronic acid injection is indicated for the treatment of patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy. Limitations of Use The safety and efficacy of zoledronic acid injection in the treatment of hypercalcemia associated with hyperparathyroidism or with other non-tumor-related conditions have not been established.",
       "manufacturer": "Akorn",
       "splSetId": "2191fccc-9f90-486c-8f30-dc828b62fe15"
     },
@@ -273,12 +267,6 @@
       "splSetId": "c8e02635-4473-8ba2-248f-ced58dbeabce"
     },
     {
-      "brand": "Zoledronic Acid",
-      "indication": "1 INDICATIONS AND USAGE Zoledronic Acid Injection is a bisphosphonate indicated for the treatment of: \u2022 Hypercalcemia of malignancy. ( 1.1 ) \u2022 Patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy. ( 1.2 ) Limitation of use : The safety and efficacy of Zoledronic Acid Injection has not been established for use in hyperparathyroidism or non-tumor-related hypercalcemia. 1.1 Hypercalcemia of Malignancy Zoledronic Acid Injection is indicated for the treatment of hypercalcemia of malignancy defined as an albumin-corrected calcium (cCa) of greater than or equal to 12 mg/dL [3.0 mmol/L] using the formula: cCa in mg/dL=Ca in mg/dL + 0.8 (4.0 g/dL - patient albumin [g/dL]). 1.2 Multiple Myeloma and Bone Metastases of Solid Tumors Zoledronic Acid Injection is indicated for the treatment of patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy. Limitations of Use The safety and efficacy of Zoledronic Acid Injection in the treatment of hypercalcemia associated with hyperparathyroidism or with other non-tumor-related conditions have not been established.",
-      "manufacturer": "BluePoint Laboratories",
-      "splSetId": "d73c0c7f-d008-4d38-967a-220eeaf8e8fc"
-    },
-    {
       "brand": "Zoledronic acid",
       "indication": "1 INDICATIONS AND USAGE 1.1 Treatment of Osteoporosis in Postmenopausal Women Zoledronic acid injection is indicated for treatment of osteoporosis in postmenopausal women. In postmenopausal women with osteoporosis, diagnosed by bone mineral density (BMD) or prevalent vertebral fracture, zoledronic acid injection reduces the incidence of fractures (hip, vertebral and non-vertebral osteoporosis-related fractures). In patients at high risk of fracture, defined as a recent low-trauma hip fracture, zoledronic acid injection reduces the incidence of new clinical fractures [ see Clinical Studies (14.1) ]. 1.2 Prevention of Osteoporosis in Postmenopausal Women Zoledronic acid injection is indicated for prevention of osteoporosis in postmenopausal women [ see Clinical Studies (14.2) ]. 1.3 Osteoporosis in Men Zoledronic acid injection is indicated for treatment to increase bone mass in men with osteoporosis [ see Clinical Studies (14.3) ]. 1.4 Glucocorticoid-Induced Osteoporosis Zoledronic acid injection is indicated for the treatment and prevention of glucocorticoid-induced osteoporosis in men and women who are either initiating or continuing systemic glucocorticoids in a daily dosage equivalent to 7.5 mg or greater of prednisone and who are expected to remain on glucocorticoids for at least 12 months [ see Clinical Studies (14.4) ]. 1.5 Paget's Disease of Bone Zoledronic acid injection is indicated for treatment of Paget's disease of bone in men and women. Treatment is indicated in patients with Paget\u2019s disease of bone with elevations in serum alkaline phosphatase of two times or higher than the upper limit of the age-specific normal reference range, or those who are symptomatic, or those at risk for complications from their disease [ see Clinical Studies (14.5) ]. 1.6 Important Limitations of Use The safety and effectiveness of zoledronic acid injection for the treatment of osteoporosis is based on clinical data of three years duration. The optimal duration of use has not been determined. All patients on bisphosphonate therapy should have the need for continued therapy re-evaluated on a periodic basis. Patients at low-risk for fracture should be considered for drug discontinuation after 3 to 5 years of use. Patients who discontinue therapy should have their risk for fracture re-evaluated periodically. Zoledronic acid injection is a bisphosphonate indicated for: \u2022 Treatment and prevention of postmenopausal osteoporosis (1.1, 1.2) \u2022 Treatment to increase bone mass in men with osteoporosis (1.3) \u2022 Treatment and prevention of glucocorticoid-induced osteoporosis (1.4) \u2022 Treatment of Paget\u2019s disease of bone in men and women (1.5) Limitations of Use Optimal duration of use has not been determined. For patients at low-risk for fracture, consider drug discontinuation after 3 to 5 years of use (1.6)",
       "manufacturer": "Gland Pharma Limited",
@@ -313,12 +301,6 @@
       "indication": "1 INDICATIONS AND USAGE Zoledronic acid injection is a bisphosphonate indicated for the treatment of: Hypercalcemia of malignancy ( 1.1 ) Patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy ( 1.2 ) Important limitation of use: The safety and efficacy of zoledronic acid injection has not been established for use in hyperparathyroidism or nontumor-related hypercalcemia. ( 1.3 ) 1.1 Hypercalcemia of Malignancy Zoledronic acid injection is indicated for the treatment of hypercalcemia of malignancy defined as an albumin-corrected calcium (cCa) of greater than or equal to 12 mg/dL [3.0 mmol/L] using the formula: cCa in mg/dL=Ca in mg/dL + 0.8 (4.0 g/dL - patient albumin [g/dL]). 1.2 Multiple Myeloma and Bone Metastases of Solid Tumors Zoledronic acid injection is indicated for the treatment of patients with multiple myeloma and patients with documented bone metastases from solid tumors, in conjunction with standard antineoplastic therapy. Prostate cancer should have progressed after treatment with at least one hormonal therapy. Limitations of Use Thesafety and efficacy of zoledronic acid injection in the treatment ofhypercalcemia associated with hyperparathyroidism or with other non-tumor-related conditionshave not been established.",
       "manufacturer": "Fresenius Kabi USA, LLC",
       "splSetId": "f3f9de47-3d85-4d0c-a29e-1635cad3a970"
-    },
-    {
-      "brand": "Zoledronic Acid",
-      "indication": "1 INDICATIONS AND USAGE Zoledronic Acid, Injection is a bisphosphonate indicated for: Treatment of Paget\u2019s disease of bone in men and women ( 1.5 ) 1.5 Paget's Disease of Bone Zoledronic Acid Injection is indicated for treatment of Paget's disease of bone in men and women. Treatment is indicated in patients with Paget\u2019s disease of bone with elevations in serum alkaline phosphatase of two times or higher than the upper limit of the age-specific normal reference range, or those who are symptomatic, or those at risk for complications from their disease [ see Clinical Studies ( 14.5 ) ].",
-      "manufacturer": "Breckenridge Pharmaceutical, Inc",
-      "splSetId": "f647bf88-9251-4e39-bc52-8d8c7552db1d"
     },
     {
       "brand": "Zoledronic Acid",

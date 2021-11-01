@@ -6,7 +6,7 @@
     "casRegistry": "",
     "chebiId": "",
     "chemicalFormula": "",
-    "definition": "A dinucleotide antimetabolite of a decitabine linked via phosphodiester bond to a guanosine, with potential antineoplastic activity. Following metabolic activation by phosphorylation and incorporation into DNA, guadecitabine inhibits DNA methyltransferase, thereby causing genome-wide and non-specific hypomethylation, and inducing cell cycle arrest at S-phase. This agent is resistant to cytidine deaminase, hence may result in gradual release of decitabine both extra and intracellularly, leading to more prolonged exposures to decitabine.",
+    "definition": "A dinucleotide antimetabolite composed of a decitabine linked via phosphodiester bond to a deoxyguanosine, with potential antineoplastic activity. Following metabolic activation via cleavage of the phosphodiester bond and incorporation of the decitabine moiety into DNA, guadecitabine inhibits DNA methyltransferase, thereby causing non-specific, genome-wide hypomethylation, and induction of cell cycle arrest at S-phase. This agent is resistant to cytidine deaminase, which may result in gradual release of decitabine both extra- and intra-cellularly, leading to prolonged exposure to decitabine.",
     "fdaUniiCode": "2KT4YN1DP7",
     "identifier": "C95209",
     "preferredName": "Guadecitabine",

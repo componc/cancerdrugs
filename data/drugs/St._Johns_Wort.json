@@ -122,12 +122,6 @@
       "splSetId": "6b9db7ed-3510-7a6d-e053-2a91aa0ac1d9"
     },
     {
-      "brand": "Arnica Hypericum DKS Special Order",
-      "indication": "Directions: FOR TOPICAL USE ONLY.",
-      "manufacturer": "Uriel Pharmacy Inc.",
-      "splSetId": "6e72d4d0-41a3-28ff-e053-2991aa0a2de5"
-    },
-    {
       "brand": "Arnica Echinacea",
       "indication": "Directions: FOR TOPICAL USE ONLY.",
       "manufacturer": "Uriel Pharmacy Inc.",
@@ -204,6 +198,30 @@
       "indication": "Directions: FOR ORAL USE.",
       "manufacturer": "Uriel Pharmacy Inc.",
       "splSetId": "c0681b4e-25ab-4730-9b44-5c42ed714647"
+    },
+    {
+      "brand": "Aquavit",
+      "indication": "Directions: FOR ORAL USE ONLY.",
+      "manufacturer": "Uriel Pharmacy Inc.",
+      "splSetId": "c1c0887a-c388-c737-e053-2a95a90a076c"
+    },
+    {
+      "brand": "Nenningers Naturals",
+      "indication": "Uses: Promote healing, reduce duration and severity of symptoms from bites and stings such as itching, redness, swelling, tenderness and pain. For serious allergic reactions seek immediate medical assistance.",
+      "manufacturer": "Nenningers Naturals, LLC",
+      "splSetId": "c8aae54d-9637-c630-e053-2a95a90aaad6"
+    },
+    {
+      "brand": "Nenningers Naturals",
+      "indication": "Uses: Promotes healing, reduce the severity of symptoms, and protect against infection from cuts, lacerations, scrapes, bruises, puncture, and surgical wounds.",
+      "manufacturer": "Nenningers Naturals, LLC",
+      "splSetId": "c8bdc6aa-6b69-081f-e053-2a95a90a09e5"
+    },
+    {
+      "brand": "Arnica Hypericum DKS",
+      "indication": "Directions: FOR TOPICAL USE ONLY",
+      "manufacturer": "Uriel Pharmacy, Inc.",
+      "splSetId": "c8c1e7ab-5476-ffb2-e053-2995a90ae1fb"
     },
     {
       "brand": "HPZ",

@@ -1,6 +1,13 @@
 {
   "emaEpar": [],
-  "fdaDrugLabel": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Deodorant disinfectant concentrate",
+      "indication": "Strong removal of odor in room and vehicleBacterial eliminating rate: 99.97% Kill rate of influenza A virus: Above 90% Strong mites removal, with mites removal rate: Above 81%Nontoxic according to oral test, no skin irritation",
+      "manufacturer": "YUNBAI (BEIJING) TECHNOLOGY CO.LTD",
+      "splSetId": "c4654bfc-bc77-a972-e053-2a95a90a323d"
+    }
+  ],
   "id": "Limonene_-",
   "nciThesaurus": {
     "casRegistry": "5989-27-5",

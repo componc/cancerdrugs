@@ -1,5 +1,15 @@
 {
-  "emaEpar": [],
+  "emaEpar": [
+    {
+      "activeSubstance": "Selpercatinib",
+      "conditionIndication": "Retsevmo as monotherapy is indicated for the treatment of adults with:advanced RET fusion-positive non-small cell lung cancer (NSCLC) who require systemic therapy following prior treatment with immunotherapy and/or platinum-based chemotherapyadvanced RET fusion-positive thyroid cancer who require systemic therapy following prior treatment with sorafenib and/or lenvatinibRetsevmo as monotherapy is indicated for the treatment of adults and adolescents 12 years and older with advanced RET-mutant medullary thyroid cancer (MTC) who require systemic therapy following prior treatment with cabozantinib and/or vandetanib.",
+      "inn": "selpercatinib",
+      "marketingAuthorisationDate": "2021-02-11 01:00:00",
+      "marketingAuthorisationHolder": "Eli Lilly Nederland B.V.",
+      "medicineName": "Retsevmo",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/retsevmo"
+    }
+  ],
   "fdaDrugLabel": [
     {
       "brand": "RETEVMO",

@@ -1,6 +1,23 @@
 {
-  "emaEpar": [],
-  "fdaDrugLabel": [],
+  "emaEpar": [
+    {
+      "activeSubstance": "dostarlimab",
+      "conditionIndication": "Jemparli is indicated as monotherapy for the treatment of adult patients with mismatch repair deficient (dMMR)/microsatellite instability-high (MSI H) recurrent or advanced endometrial cancer (EC) that has progressed on or following prior treatment with a platinum-containing regimen.",
+      "inn": "dostarlimab",
+      "marketingAuthorisationDate": "2021-04-21 00:00:00",
+      "marketingAuthorisationHolder": "GlaxoSmithKline (Ireland) Limited",
+      "medicineName": "Jemperli",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/jemperli"
+    }
+  ],
+  "fdaDrugLabel": [
+    {
+      "brand": "Jemperli",
+      "indication": "1 INDICATIONS AND USAGE JEMPERLI is indicated for the treatment of adult patients with mismatch repair deficient (dMMR) recurrent or advanced: \u2022 endometrial cancer (EC), as determined by an FDA-approved test, that has progressed on or following prior treatment with a platinum-containing regimen, or \u2022 solid tumors, as determined by an FDA-approved test, that have progressed on or following prior treatment and who have no satisfactory alternative treatment options [see Dosage and Administration ( 2.1 )] . These indications are approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies ( 14 )] . Continued approval for these indications may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). JEMPERLI is a programmed death receptor-1 (PD-1)\u2013blocking antibody indicated for the treatment of adult patients with mismatch repair deficient (dMMR) recurrent or advanced: \u2022 endometrial cancer, as determined by an FDA-approved test, that has progressed on or following prior treatment with a platinum-containing regimen, or \u2022 solid tumors, as determined by an FDA-approved test, that have progressed on or following prior treatment and who have no satisfactory alternative treatment options. ( 1 , 2.1 ) These indications are approved under accelerated approval based on tumor response rate and durability of response. Continued approval for these indications may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ( 1 )",
+      "manufacturer": "GlaxoSmithKline LLC",
+      "splSetId": "095eab9f-545a-4f12-bfb7-19477fb901a5"
+    }
+  ],
   "id": "Dostarlimab",
   "nciThesaurus": {
     "casRegistry": "2022215-59-2",
@@ -19,7 +36,9 @@
       "ANB011",
       "DOSTARLIMAB",
       "Dostarlimab",
+      "Dostarlimab-gxly",
       "Immunoglobulin G4, Anti-programmed Cell Death Protein 1 (PDCD1) (Humanized Clone ABT1 Gamma4-chain), Disulfide with Humanized Clone ABT1 Kappa-chain, Dimer",
+      "Jemperli",
       "TSR 042",
       "TSR-042",
       "TSR042"

@@ -16,7 +16,7 @@
     "casRegistry": "1254053-43-4",
     "chebiId": "",
     "chemicalFormula": "",
-    "definition": "An orally bioavailable inhibitor of the receptor tyrosine kinases (RTKs) FMS-related tyrosine kinase 3 (FLT3, STK1, or FLK2), AXL (UFO or JTK11) and anaplastic lymphoma kinase (ALK or CD246), with potential antineoplastic activity. Gilteritinib binds to and inhibits both the wild-type and mutated forms of FLT3, AXL and ALK. This may result in an inhibition of FLT3, AXL, and ALK-mediated signal transduction pathways and reduces tumor cell proliferation in cancer cell types that overexpress these RTKs. FLT3, AXL and ALK, overexpressed or mutated in a variety of cancer cell types, play a key role in tumor cell growth and survival.",
+    "definition": "An orally bioavailable inhibitor of the receptor tyrosine kinases (RTKs) FMS-like tyrosine kinase 3 (FLT3; STK1; FLK2), AXL (UFO; JTK11), anaplastic lymphoma kinase (ALK; CD246), and leukocyte receptor tyrosine kinase (LTK), with potential antineoplastic activity. Upon administration, gilteritinib binds to and inhibits both the wild-type and mutated forms of FLT3, AXL, ALK and LTK. This may result in an inhibition of FLT3-, AXL-, ALK-, and LTK-mediated signal transduction pathways and reduced proliferation in cancer cells that overexpress these RTKs. FLT3, AXL, ALK, and LTK, which are overexpressed or mutated in a variety of cancer cell types, play key roles in tumor cell growth and survival.",
     "fdaUniiCode": "66D92MGC8M",
     "identifier": "C116722",
     "preferredName": "Gilteritinib",

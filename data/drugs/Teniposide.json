@@ -1,13 +1,6 @@
 {
   "emaEpar": [],
-  "fdaDrugLabel": [
-    {
-      "brand": "Teniposide",
-      "indication": "INDICATIONS AND USAGE Teniposide Injection, in combination with other approved anticancer agents, is indicated for induction therapy in patients with refractory childhood acute lymphoblastic leukemia.",
-      "manufacturer": "WG Critical Care, LLC",
-      "splSetId": "f19cf6d7-a1c8-42ec-844c-c798512139d9"
-    }
-  ],
+  "fdaDrugLabel": [],
   "id": "Teniposide",
   "nciThesaurus": {
     "casRegistry": "29767-20-2",

@@ -2,21 +2,21 @@
   "emaEpar": [
     {
       "activeSubstance": "raloxifene hydrochloride",
-      "conditionIndication": "Evista is indicated for the treatment and prevention of osteoporosis in post-menopausal women. A significant reduction in the incidence of vertebral, but not hip fractures has been demonstrated. When determining the choice of Evista or other therapies, including oestrogens, for an individual postmenopausal woman, consideration should be given to menopausal symptoms, effects on uterine and breast tissues, and cardiovascular risks and benefits., ",
-      "inn": "raloxifene",
-      "marketingAuthorisationDate": "1998-08-05 00:00:00",
-      "marketingAuthorisationHolder": "Substipharm",
-      "medicineName": "Evista",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/evista"
-    },
-    {
-      "activeSubstance": "raloxifene hydrochloride",
       "conditionIndication": "Raloxifene is indicated for the treatment and prevention of osteoporosis in postmenopausal women. A significant reduction in the incidence of vertebral, but not hip fractures has been demonstrated.When determining the choice of raloxifene or other therapies, including oestrogens, for an individual postmenopausal woman, consideration should be given to menopausal symptoms, effects on uterine and breast tissues, and cardiovascular risks and benefits.",
       "inn": "raloxifene",
       "marketingAuthorisationDate": "2010-04-29 00:00:00",
       "marketingAuthorisationHolder": "Teva B.V.",
       "medicineName": "Raloxifene Teva",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/raloxifene-teva"
+    },
+    {
+      "activeSubstance": "raloxifene hydrochloride",
+      "conditionIndication": "Evista is indicated for the treatment and prevention of osteoporosis in post-menopausal women. A significant reduction in the incidence of vertebral, but not hip fractures has been demonstrated. When determining the choice of Evista or other therapies, including oestrogens, for an individual postmenopausal woman, consideration should be given to menopausal symptoms, effects on uterine and breast tissues, and cardiovascular risks and benefits.",
+      "inn": "raloxifene",
+      "marketingAuthorisationDate": "1998-08-05 00:00:00",
+      "marketingAuthorisationHolder": "Substipharm",
+      "medicineName": "Evista",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/evista"
     },
     {
       "activeSubstance": "raloxifene hydrochloride",

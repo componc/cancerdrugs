@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Gamitrinib",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A resorcinolic-based mitochondrial-targeted heat shock protein 90 (Hsp90) family inhibitor, with potential antineoplastic activity. Upon administration, gamitrinib targets and inhibits the activity of Hsp90 heat shock proteins, such as TNF receptor-associated protein-1 (TRAP1). This induces the accumulation of the mitochondrial kinase PINK1 and the cytosolic E3 ubiquitin (Ub) ligase Parkin, ubiquitylates substrate proteins, and induces PINK1/Parkin-dependent mitophagy. Gamitrinib induces acute mitochondrial dysfunction, loss of membrane potential and membrane rupture leading to the induction of apoptosis in susceptible tumor cells. Hsp90, a chaperone complex protein upregulated in a variety of tumor cell types, regulates the folding and degradation of many oncogenic signaling proteins.",
+    "fdaUniiCode": "M6LC47TUG3",
+    "identifier": "C180575",
+    "preferredName": "Gamitrinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C156880"
+    ],
+    "synonyms": [
+      "17-Demethoxy-17-((6-(triphenylphosphonio)hexyl)amino)geldanamycin",
+      "G-TPP",
+      "GAMITRINIB",
+      "Gamitrinib",
+      "Gamitrinib-TPP",
+      "Geldanamycin, 17-Demethoxy-17-((6-(triphenylphosphonio)hexyl)amino)-"
+    ]
+  }
+}

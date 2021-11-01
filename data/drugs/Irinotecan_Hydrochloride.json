@@ -38,12 +38,6 @@
       "splSetId": "6a186e60-6ea1-4450-9668-dac7dd7a03e3"
     },
     {
-      "brand": "Irinotecan Hydrochloride",
-      "indication": "1 INDICATIONS AND USAGE Irinotecan hydrochloride injection, USP is a topoisomerase inhibitor indicated for: \u2022 First-line therapy in combination with 5-fluorouracil and leucovorin for patients with metastatic carcinoma of the colon or rectum. ( 1 ) \u2022 Patients with metastatic carcinoma of the colon or rectum whose disease has recurred or progressed following initial fluorouracil-based therapy. ( 1 ) \u2022 Irinotecan hydrochloride injection, USP is indicated as a component of first-line therapy in combination with 5-fluorouracil (5-FU) and leucovorin (LV) for patients with metastatic carcinoma of the colon or rectum. \u2022 Irinotecan hydrochloride injection, USP is indicated for patients with metastatic carcinoma of the colon or rectum whose disease has recurred or progressed following initial fluorouracil-based therapy.",
-      "manufacturer": "BluePoint Laboratories",
-      "splSetId": "6ecbbe44-d1ba-4a7b-8c05-63ffd1d02c8a"
-    },
-    {
       "brand": "IRINOTECAN HYDROCHLORIDE",
       "indication": "1 INDICATIONS AND USAGE Irinotecan hydrochloride injection is indicated as a component of first-line therapy in combination with 5-fluorouracil (5-FU) and leucovorin (LV) for patients with metastatic carcinoma of the colon or rectum. Irinotecan hydrochloride injection is indicated for patients with metastatic carcinoma of the colon or rectum whose disease has recurred or progressed following initial fluorouracil-based therapy. Irinotecan hydrochloride injection is a topoisomerase inhibitor indicated for: First-line therapy in combination with 5-fluorouracil and leucovorin for patients with metastatic carcinoma of the colon or rectum. ( 1 ) Patients with metastatic carcinoma of the colon or rectum whose disease has recurred or progressed following initial fluorouracil-based therapy. ( 1 )",
       "manufacturer": "AuroMedics Pharma LLC",
@@ -138,12 +132,6 @@
       "indication": "1 INDICATIONS AND USAGE Irinotecan hydrochloride injection is indicated for patients with metastatic carcinoma of the colon or rectum whose disease has recurred or progressed following initial fluorouracil-based therapy. Irinotecan hydrochloride injection is a topoisomerase inhibitor indicated for: Patients with metastatic carcinoma of the colon or rectum whose disease has recurred or progressed following initial fluorouracil-based therapy. ( 1 )",
       "manufacturer": "Fresenius Kabi USA, LLC",
       "splSetId": "ee45f127-8450-4455-a945-a1f5707f1d39"
-    },
-    {
-      "brand": "Irinotecan Hydrochloride 40 mg/2 mL",
-      "indication": "1 INDICATIONS AND USAGE Irinotecan hydrochloride injection is a topoisomerase inhibitor indicated for: \u2022 Patients with metastatic carcinoma of the colon or rectum whose disease has recurred or progressed following initial fluorouracil-based therapy. ( 1 ) \u2022 Irinotecan hydrochloride injection is indicated for patients with metastatic carcinoma of the colon or rectum whose disease has recurred or progressed following initial fluorouracil-based therapy.",
-      "manufacturer": "BluePoint Laboratories",
-      "splSetId": "f1ea10a0-5d80-4b9d-a6cf-1811d058a7f0"
     }
   ],
   "id": "Irinotecan_Hydrochloride",

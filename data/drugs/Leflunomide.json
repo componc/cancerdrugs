@@ -2,7 +2,16 @@
   "emaEpar": [
     {
       "activeSubstance": "leflunomide",
-      "conditionIndication": "Leflunomide is indicated for the treatment of adult patients with:, , active rheumatoid arthritis as a 'disease-modifying antirheumatic drug' (DMARD);, \tactive psoriatic arthritis., Recent or concurrent treatment with hepatotoxic or haematotoxic DMARDs (e.g. methotrexate) may result in an increased risk of serious adverse reactions; therefore, the initiation of leflunomide treatment has to be carefully considered regarding these benefit / risk aspects., , Moreover, switching from leflunomide to another DMARD without following the washout procedure may also increase the risk of serious adverse reactions even for a long time after the switching., ",
+      "conditionIndication": "Leflunomide is indicated for the treatment of adult patients with:active rheumatoid arthritis as a 'disease-modifying antirheumatic drug' (DMARD);active psoriatic arthritis.Recent or concurrent treatment with hepatotoxic or haematotoxic DMARDs (e.g. methotrexate) may result in an increased risk of serious adverse reactions; therefore, the initiation of leflunomide treatment has to be carefully considered regarding these benefit / risk aspects.Moreover, switching from leflunomide to another DMARD without following the washout procedure may also increase the risk of serious adverse reactions even for a long time after the switching.",
+      "inn": "leflunomide",
+      "marketingAuthorisationDate": "2010-11-28 01:00:00",
+      "marketingAuthorisationHolder": "Ratiopharm GmbH",
+      "medicineName": "Leflunomide ratiopharm",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/leflunomide-ratiopharm"
+    },
+    {
+      "activeSubstance": "leflunomide",
+      "conditionIndication": "Leflunomide is indicated for the treatment of adult patients with:active rheumatoid arthritis as a 'disease-modifying antirheumatic drug' (DMARD);active psoriatic arthritis.Recent or concurrent treatment with hepatotoxic or haematotoxic DMARDs (e.g. methotrexate) may result in an increased risk of serious adverse reactions; therefore, the initiation of leflunomide treatment has to be carefully considered regarding these benefit / risk aspects.Moreover, switching from leflunomide to another DMARD without following the washout procedure may also increase the risk of serious adverse reactions even for a long time after the switching.",
       "inn": "leflunomide",
       "marketingAuthorisationDate": "1999-09-02 00:00:00",
       "marketingAuthorisationHolder": "Sanofi-aventis Deutschland GmbH",
@@ -13,31 +22,28 @@
       "activeSubstance": "leflunomide",
       "conditionIndication": "Leflunomide is indicated for the treatment of adult patients with:active rheumatoid arthritis as a 'disease-modifying antirheumatic drug' (DMARD);active psoriatic arthritis.Recent or concurrent treatment with hepatotoxic or haematotoxic DMARDs (e.g. methotrexate) may result in an increased risk of serious adverse reactions; therefore, the initiation of leflunomide treatment has to be carefully considered regarding these benefit / risk aspects.Moreover, switching from leflunomide to another DMARD without following the washout procedure may also increase the risk of serious adverse reactions even for a long time after the switching.",
       "inn": "leflunomide",
-      "marketingAuthorisationDate": "2010-11-28 01:00:00",
-      "marketingAuthorisationHolder": "Ratiopharm GmbH",
-      "medicineName": "Leflunomide ratiopharm",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/leflunomide-ratiopharm"
+      "marketingAuthorisationDate": "2010-01-08 01:00:00",
+      "marketingAuthorisationHolder": "Zentiva k.s.",
+      "medicineName": "Leflunomide Zentiva (previously Leflunomide Winthrop)",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/leflunomide-zentiva"
     },
     {
       "activeSubstance": "leflunomide",
-      "conditionIndication": "Leflunomide is indicated for the treatment of adult patients with:, , active rheumatoid arthritis as a 'disease-modifying antirheumatic drug' (DMARD)., Recent or concurrent treatment with hepatotoxic or haematotoxic DMARDs (e.g. methotrexate) may result in an increased risk of serious adverse reactions, therefore, the initiation of leflunomide treatment has to be carefully considered regarding these benefit / risk aspects., , Moreover, switching from leflunomide to another DMARD without following the washout procedure may also increase the risk of serious adverse reactions even for a long time after the switching., ",
+      "conditionIndication": "Leflunomide is indicated for the treatment of adult patients with:, , , \tactive rheumatoid arthritis as a 'disease-modifying antirheumatic drug' (DMARD)., , , Recent or concurrent treatment with hepatotoxic or haematotoxic DMARDs (e.g. methotrexate) may result in an increased risk of serious adverse reactions, therefore, the initiation of leflunomide treatment has to be carefully considered regarding these benefit / risk aspects., , Moreover, switching from leflunomide to another DMARD without following the washout procedure may also increase the risk of serious adverse reactions even for a long time after the switching., ",
       "inn": "leflunomide",
       "marketingAuthorisationDate": "2010-07-27 00:00:00",
       "marketingAuthorisationHolder": "medac Gesellschaft f\u00fcr klinische Spezialpr\u00e4parate mbH",
       "medicineName": "Leflunomide medac",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/leflunomide-medac"
-    },
-    {
-      "activeSubstance": "leflunomide",
-      "conditionIndication": "Leflunomide is indicated for the treatment of adult patients with:active rheumatoid arthritis as a 'disease-modifying antirheumatic drug' (DMARD);active psoriatic arthritis.Recent or concurrent treatment with hepatotoxic or haematotoxic DMARDs (e.g. methotrexate) may result in an increased risk of serious adverse reactions; therefore, the initiation of leflunomide treatment has to be carefully considered regarding these benefit / risk aspects.Moreover, switching from leflunomide to another DMARD without following the washout procedure may also increase the risk of serious adverse reactions even for a long time after the switching.",
-      "inn": "leflunomide",
-      "marketingAuthorisationDate": "2010-01-08 01:00:00",
-      "marketingAuthorisationHolder": "Zentiva k.s.",
-      "medicineName": "Leflunomide Zentiva (previously Leflunomide Winthrop)",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/leflunomide-zentiva-previously-leflunomide-winthrop"
     }
   ],
   "fdaDrugLabel": [
+    {
+      "brand": "Leflunomide",
+      "indication": "1 INDICATIONS AND USAGE Leflunomide tablets are indicated for the treatment of adults with active rheumatoid arthritis (RA). Leflunomide tablets are a pyrimidine synthesis inhibitor indicated for the treatment of adults with active rheumatoid arthritis. (1)",
+      "manufacturer": "REMEDYREPACK INC.",
+      "splSetId": "013bd673-3694-48a8-899b-de29faa07c9b"
+    },
     {
       "brand": "Arava",
       "indication": "1 INDICATIONS AND USAGE ARAVA is indicated for the treatment of adults with active rheumatoid arthritis (RA). ARAVA is a pyrimidine synthesis inhibitor indicated for the treatment of adults with active rheumatoid arthritis. ( 1 )",
@@ -91,6 +97,12 @@
       "indication": "1 INDICATIONS AND USAGE Leflunomide tablets USP are indicated for the treatment of adults with active rheumatoid arthritis (RA). Leflunomide is a pyrimidine synthesis inhibitor indicated for the treatment of adults with active rheumatoid arthritis. (1)",
       "manufacturer": "Alembic Pharmaceuticals Inc.",
       "splSetId": "c288d1d3-3fbe-4c34-a28a-923d515809b3"
+    },
+    {
+      "brand": "Leflunomide",
+      "indication": "1 INDICATIONS AND USAGE Leflunomide tablets are indicated for the treatment of adults with active rheumatoid arthritis (RA). Leflunomide is a pyrimidine synthesis inhibitor indicated for the treatment of adults with active rheumatoid arthritis. (1)",
+      "manufacturer": "Aurobindo Pharma Limited",
+      "splSetId": "c358276a-610e-46da-b81a-95c837af205d"
     },
     {
       "brand": "leflunomide",

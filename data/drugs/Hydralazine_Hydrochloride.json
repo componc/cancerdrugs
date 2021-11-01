@@ -10,8 +10,20 @@
     {
       "brand": "Hydralazine Hydrochloride",
       "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "10f3e76e-9bba-4151-89fb-90d823a0a68c"
+    },
+    {
+      "brand": "Hydralazine Hydrochloride",
+      "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
       "manufacturer": "Radha Pharmaceuticals, Inc.",
       "splSetId": "149fa857-30ad-451d-b6e2-0000483ccc97"
+    },
+    {
+      "brand": "Hydralazine Hydrochloride",
+      "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "162a0c00-4db8-4f8d-9686-be2f8449abd8"
     },
     {
       "brand": "Hydralazine Hydrochloride",
@@ -22,8 +34,8 @@
     {
       "brand": "Hydralazine Hydrochloride",
       "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
-      "manufacturer": "REMEDYREPACK INC.",
-      "splSetId": "1ac2dc89-2ca4-4515-8e8d-53f15f3ceb49"
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "18dd864f-1e27-4c98-8f21-eaded77a3ed6"
     },
     {
       "brand": "Hydralazine",
@@ -39,7 +51,7 @@
     },
     {
       "brand": "Hydralazine Hydrochloride",
-      "indication": "INDICATIONS AND USAGE: Essential hypertension, alone or as an adjunct.",
+      "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
       "manufacturer": "American Health Packaging",
       "splSetId": "26ba8da4-9752-46d3-a1ab-c5eee2bbd5ee"
     },
@@ -54,6 +66,12 @@
       "indication": "INDICATIONS AND USAGE: Essential hypertension, alone or as an adjunct.",
       "manufacturer": "Cardinal Health",
       "splSetId": "2afec728-a2f5-4c29-953d-f9c63fc15034"
+    },
+    {
+      "brand": "Hydralazine Hydrochloride",
+      "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "36499d4b-bcaf-4b49-aa2a-10c3e34550d0"
     },
     {
       "brand": "Hydralazine Hydrochloride",
@@ -87,15 +105,15 @@
     },
     {
       "brand": "Hydralazine Hydrochloride",
-      "indication": "INDICATIONS AND USAGE Severe essential hypertension when the drug cannot be given orally or when there is an urgent need to lower blood pressure.",
-      "manufacturer": "Cardinal Health",
-      "splSetId": "43ce0ecb-6d62-44bf-8539-823ae03eb9f4"
+      "indication": "INDICATIONS & USAGE Essential hypertension, alone or as an adjunct.",
+      "manufacturer": "Preferred Pharmaceuticals, Inc.",
+      "splSetId": "438479d0-ff61-4008-a0fc-1ee44b97cf7f"
     },
     {
       "brand": "Hydralazine Hydrochloride",
-      "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
-      "manufacturer": "NuCare Pharmaceuticals, Inc.",
-      "splSetId": "44be9837-f153-09f2-e054-00144ff8d46c"
+      "indication": "INDICATIONS AND USAGE Severe essential hypertension when the drug cannot be given orally or when there is an urgent need to lower blood pressure.",
+      "manufacturer": "Cardinal Health",
+      "splSetId": "43ce0ecb-6d62-44bf-8539-823ae03eb9f4"
     },
     {
       "brand": "HydrALAZINE Hydrochloride",
@@ -114,6 +132,12 @@
       "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
       "manufacturer": "Mylan Institutional Inc.",
       "splSetId": "493a8b7e-5bb1-4db2-91a7-77ed87864131"
+    },
+    {
+      "brand": "Hydralazine Hydrochloride",
+      "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "4985994c-23ab-4409-bab6-5a17db767f13"
     },
     {
       "brand": "Hydralazine Hydrochloride",
@@ -153,12 +177,6 @@
     },
     {
       "brand": "Hydralazine Hydrochloride",
-      "indication": "INDICATIONS AND USAGE Severe essential hypertension when the drug cannot be given orally or when there is an urgent need to lower blood pressure.",
-      "manufacturer": "Akorn, Inc.",
-      "splSetId": "638a511d-cb51-49b5-b917-ffe8192cc270"
-    },
-    {
-      "brand": "Hydralazine Hydrochloride",
       "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
       "manufacturer": "Proficient Rx LP",
       "splSetId": "63f388e0-9f3d-4902-990c-9a105aa098ad"
@@ -170,7 +188,7 @@
       "splSetId": "6bba1881-dcc0-dc4f-e053-2a91aa0af0eb"
     },
     {
-      "brand": "Hydralazine Hydrochloride",
+      "brand": "HYDRALAZINE HYDROCHLORIDE",
       "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
       "manufacturer": "REMEDYREPACK INC.",
       "splSetId": "6ee2265b-1da5-4215-848b-12aa5eb25eff"
@@ -222,12 +240,6 @@
       "indication": "Essential hypertension, alone or as an adjunct.",
       "manufacturer": "Direct_Rx",
       "splSetId": "8d2d75b7-1e0b-44fd-e053-2a95a90a6fdb"
-    },
-    {
-      "brand": "Hydralazine Hydrochloride",
-      "indication": "INDICATIONS AND USAGE Severe essential hypertension when the drug cannot be given orally or when there is an urgent need to lower blood pressure.",
-      "manufacturer": "Cardinal Health",
-      "splSetId": "8fef436a-e71c-4c17-b0d1-4a6142bb035a"
     },
     {
       "brand": "HYDRALAZINE HYDROCHLORIDE",
@@ -338,7 +350,7 @@
       "splSetId": "b9117e55-9fd0-4ba2-94b4-f5f8c522d70c"
     },
     {
-      "brand": "Hydralazine Hydrochloride",
+      "brand": "HYDRALAZINE HYDROCHLORIDE",
       "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
       "manufacturer": "REMEDYREPACK INC.",
       "splSetId": "b9e801b3-cd47-4197-a82a-253143d4adc7"
@@ -348,6 +360,12 @@
       "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
       "manufacturer": "Aphena Pharma Solutions - Tennessee, LLC",
       "splSetId": "bfbd5960-ae6b-46f5-adfa-e330d7a21dfa"
+    },
+    {
+      "brand": "Hydralazine Hydrochloride",
+      "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
+      "manufacturer": "Aphena Pharma Solutions - Tennessee, LLC",
+      "splSetId": "c2638ae6-a210-490f-8389-bbed6a3229c5"
     },
     {
       "brand": "hydrALAZINE Hydrochloride",
@@ -360,6 +378,12 @@
       "indication": "INDICATIONS AND USAGE: Severe essential hypertension when the drug cannot be given orally or when there is an urgent need to lower blood pressure.",
       "manufacturer": "A-S Medication Solutions",
       "splSetId": "c5647a72-22da-420a-a549-7b5185a621d4"
+    },
+    {
+      "brand": "Hydralazine Hydrochloride",
+      "indication": "INDICATIONS & USAGE Essential hypertension, alone or as an adjunct.",
+      "manufacturer": "NuCare Pharmaceuticals,Inc.",
+      "splSetId": "cba6a3d1-f76b-9adc-e053-2995a90aaad4"
     },
     {
       "brand": "HYDRALAZINE HYDROCHLORIDE",
@@ -417,6 +441,12 @@
     },
     {
       "brand": "Hydralazine Hydrochloride",
+      "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "e6d4b15e-1407-4783-94e4-9971dea68221"
+    },
+    {
+      "brand": "Hydralazine Hydrochloride",
       "indication": "INDICATIONS & USAGE Essential hypertension, alone or as an adjunct.",
       "manufacturer": "Ascend Laboratories, LLC",
       "splSetId": "e7bfec3d-5222-4a26-8f99-6c2a28e14aa6"
@@ -438,12 +468,6 @@
       "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
       "manufacturer": "REMEDYREPACK INC.",
       "splSetId": "eae6bd3d-140c-4dee-84a5-04ef541aef62"
-    },
-    {
-      "brand": "Hydralazine Hydrochloride",
-      "indication": "INDICATIONS AND USAGE Essential hypertension, alone or as an adjunct.",
-      "manufacturer": "McKesson Corporation dba RX Pak",
-      "splSetId": "efd96f3b-62bd-4137-a601-b8864c6d29e6"
     },
     {
       "brand": "Hydralazine Hydrochloride",

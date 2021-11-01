@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Camizestrant",
+  "nciThesaurus": {
+    "casRegistry": "2222844-89-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available selective estrogen receptor degrader (SERD), with potential antineoplastic activity. Upon administration, camizestrant binds to the estrogen receptor (ER) and induces a conformational change that results in the degradation of the receptor. This prevents ER-mediated signaling and inhibits the growth and survival of ER-expressing cancer cells.",
+    "fdaUniiCode": "JUP57A8EPZ",
+    "identifier": "C160603",
+    "preferredName": "Camizestrant",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [
+      "C2116"
+    ],
+    "synonyms": [
+      "AZ-14066724",
+      "AZD 9833",
+      "AZD-9833",
+      "AZD9833",
+      "CAMIZESTRANT",
+      "Camizestrant",
+      "N-(1-(3-Fluoropropyl)-3-azetidinyl)-6-((6S,8R)-8-methyl-7-(2,2,2-trifluoroethyl)-6,7,8,9-tetrahydro-3H-pyrazolo(4,3-f)isoquinolin-6-yl)-3-pyridinamine",
+      "SERD AZD9833",
+      "Selective Estrogen Receptor Degrader AZD9833"
+    ]
+  }
+}

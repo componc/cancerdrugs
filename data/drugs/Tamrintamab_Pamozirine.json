@@ -6,7 +6,7 @@
     "casRegistry": "2148334-68-1",
     "chebiId": "",
     "chemicalFormula": "",
-    "definition": "An antibody-drug conjugate (ADC) composed of a proprietary monoclonal antibody against a tumor-associated antigen (TAA) linked to an as of yet undisclosed cytotoxic agent, with potential antineoplastic activity. Upon intravenous administration of tamrintamab pamozirine, the monoclonal antibody moiety of SC-003 targets and binds to the TAA expressed on tumor cells. Upon binding and internalization, the cytotoxic agent is released and kills the TAA-expressing cancer cells, through an as of yet unknown mechanism of action.",
+    "definition": "An antibody-drug conjugate (ADC) composed of a humanized immunoglobulin G1 (IgG1) monoclonal antibody against dipeptidase 3 (DPEP3) conjugated, via a plasma-stable valine-alanine dipeptide linker, to a cytotoxic pyrrolobenzodiazepine (PBD) dimer, with potential antineoplastic activity. Upon administration, the monoclonal antibody moiety of tamrintamab pamozirine targets DPEP3 expressed on tumor cells. Upon binding and internalization, the cytotoxic, DNA cross-linking PBD moiety is released. This inhibits DNA replication, leads to G2/M cell cycle arrest, induces cell death, and inhibits the proliferation of DPEP3-expressing tumor cells. DPEP3, a membrane-bound glycoprotein, is overexpressed in some ovarian cancers.",
     "fdaUniiCode": "GM0RU5SU0E",
     "identifier": "C124133",
     "preferredName": "Tamrintamab Pamozirine",

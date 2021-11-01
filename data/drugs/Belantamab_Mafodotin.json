@@ -29,8 +29,7 @@
     "preferredName": "Belantamab Mafodotin",
     "semanticType": "Pharmacologic Substance",
     "subclassOf": [
-      "C129823",
-      "C575"
+      "C181108"
     ],
     "synonyms": [
       "BELANTAMAB MAFODOTIN",

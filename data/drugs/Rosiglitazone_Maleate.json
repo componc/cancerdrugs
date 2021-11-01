@@ -1,13 +1,6 @@
 {
   "emaEpar": [],
-  "fdaDrugLabel": [
-    {
-      "brand": "AVANDIA 2MG",
-      "indication": "1 INDICATIONS AND USAGE AVANDIA is a thiazolidinedione antidiabetic agent indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. Important Limitations of Use: \u2022 Due to its mechanism of action, AVANDIA is active only in the presence of endogenous insulin. Therefore, AVANDIA should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis. \u2022 The coadministration of AVANDIA and insulin is not recommended [see Warnings and Precautions ( 5.1 )] . AVANDIA is a thiazolidinedione antidiabetic agent indicated as an adjunct to diet and exercise to improve glycemic control in adults with type 2 diabetes mellitus. ( 1 ) Important Limitations of Use: \u2022 AVANDIA should not be used in patients with type 1 diabetes mellitus or for the treatment of diabetic ketoacidosis. ( 1 ) \u2022 Coadministration of AVANDIA and insulin is not recommended. ( 1 , 5.1 , 5.2 )",
-      "manufacturer": "GlaxoSmithKline LLC",
-      "splSetId": "ec682aec-e98f-41a1-9d21-eb7580ea3a8a"
-    }
-  ],
+  "fdaDrugLabel": [],
   "id": "Rosiglitazone_Maleate",
   "nciThesaurus": {
     "casRegistry": "155141-29-0",
