@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Onfekafusp_Alfa",
+  "nciThesaurus": {
+    "casRegistry": "1957239-88-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An immunocytokine consisting of human pro-inflammatory cytokine tumor necrosis factor alpha (TNFalpha) fused to a human single-chain variable fragment (scFv) directed against the extra-domain B (ED-B) of fibronectin (L19), with potential immunopotentiating and antineoplastic activities. Upon adinistration, the L19 moiety of onfekafusp alfa binds to the ED-B domain of fibronectin on tumor cells in the tumor neovasculature. In turn, the TNFalpha moiety may locally induce an immune response against ED-B fibronectin-expressing tumor cells and may specifically decrease the proliferation of ED-B-expressing tumor cells. ED-B is predominantly expressed during angiogenesis and tumor growth.",
+    "fdaUniiCode": "6HXC0O6JMV",
+    "identifier": "C166939",
+    "preferredName": "Onfekafusp Alfa",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129820",
+      "C1512"
+    ],
+    "synonyms": [
+      "Fibromun",
+      "L19-TNF-alpha",
+      "ONFEKAFUSP ALFA",
+      "Onfekafusp Alfa",
+      "Recombinant Human Fusion Protein L19TNFalpha"
+    ]
+  }
+}

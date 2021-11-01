@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pegcrisantaspase",
+  "nciThesaurus": {
+    "casRegistry": "1448590-54-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A recombinant, pegylated form of Erwinia asparaginase (crisantaspase), derived from the bacterium Erwinia chrysanthemi and genetically engineered to be produced in Pseudomonas fluorescens, with potential antineoplastic activity. Recombinant Erwinia asparaginase hydrolyzes L-asparagine to L-aspartic acid and ammonia. This depletes cancer cells of asparagine, which blocks protein synthesis and tumor cell proliferation. Asparagine is critical to protein synthesis in cancer cells, which cannot synthesize this amino acid due to the absence of the enzyme asparagine synthase. Recombinant Erwinia asparaginase can be used as an alternative in patients who are hypersensitive to Escherichia (E.) coli-derived asparaginase products.",
+    "fdaUniiCode": "Y8KTZ6Y35U",
+    "identifier": "C170297",
+    "preferredName": "Pegcrisantaspase",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C177280"
+    ],
+    "synonyms": [
+      "JZP 416",
+      "JZP-416",
+      "JZP416",
+      "PEGCRISANTASPASE",
+      "Pegcrisantaspase",
+      "Pegylated Erwinia asparaginase"
+    ]
+  }
+}

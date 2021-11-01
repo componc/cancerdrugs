@@ -2,21 +2,21 @@
   "emaEpar": [
     {
       "activeSubstance": "gefitinib",
-      "conditionIndication": "Iressa is indicated for the treatment of adult patients with locally advanced or metastatic non-small-cell lung cancer with activating mutations of epidermal-growth-factor-receptor tyrosine kinase.",
-      "inn": "gefitinib",
-      "marketingAuthorisationDate": "2009-06-24 00:00:00",
-      "marketingAuthorisationHolder": "AstraZeneca AB",
-      "medicineName": "Iressa",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/iressa"
-    },
-    {
-      "activeSubstance": "gefitinib",
       "conditionIndication": "Gefitinib Mylan is indicated as monotherapy for the treatment of adult patients with locally advanced or metastatic non\u2011small cell lung cancer (NSCLC) with activating mutations of EGFR\u2011TK.",
       "inn": "gefitinib",
       "marketingAuthorisationDate": "2018-09-27 00:00:00",
       "marketingAuthorisationHolder": "Mylan S.A.S.",
       "medicineName": "Gefitinib Mylan",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/gefitinib-mylan"
+    },
+    {
+      "activeSubstance": "gefitinib",
+      "conditionIndication": "Iressa is indicated for the treatment of adult patients with locally advanced or metastatic non-small-cell lung cancer with activating mutations of epidermal-growth-factor-receptor tyrosine kinase.",
+      "inn": "gefitinib",
+      "marketingAuthorisationDate": "2009-06-24 00:00:00",
+      "marketingAuthorisationHolder": "AstraZeneca AB",
+      "medicineName": "Iressa",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/iressa"
     }
   ],
   "fdaDrugLabel": [

@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Nendratareotide_Uzatansine",
+  "nciThesaurus": {
+    "casRegistry": "1853254-97-3",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A miniaturized drug conjugate composed of a peptide analog of somatostatin that targets the somatostatin receptor 2 (SSTR2) and is conjugated, through a cleavable linker, to the microtubule-binding cytotoxic maytansinoid DM1 (mertansine), with potential anti-tumor activity. Upon administration, the peptide ligand moiety of nendratareotide uzatansine targets and binds to SSTR2, which is overexpressed on certain tumor cell types. Binding stimulates SSTR2-mediated endocytosis of the agent; upon internalization, the DM1 moiety is released and binds to tubulin, thereby disrupting microtubule assembly/disassembly dynamics. This inhibits both cell division and the proliferation of SSTR2-expressing cancer cells. Compared to antibody-drug conjugates (ADCs), miniaturized drug conjugates are much smaller and can more easily penetrate and distribute in dense tumor tissue.",
+    "fdaUniiCode": "L8993M383E",
+    "identifier": "C131562",
+    "preferredName": "Nendratareotide Uzatansine",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C575"
+    ],
+    "synonyms": [
+      "NENDRATAREOTIDE UZATANSINE",
+      "Nendratareotide Uzatansine",
+      "PEN 221",
+      "PEN-221",
+      "PEN221",
+      "SSTR2-targeting Protein/DM1 Conjugate PEN-221",
+      "SSTR2PEN-221"
+    ]
+  }
+}

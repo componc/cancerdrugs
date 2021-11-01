@@ -2,6 +2,15 @@
   "emaEpar": [
     {
       "activeSubstance": "abiraterone acetate",
+      "conditionIndication": "Abiraterone Accord is indicated with prednisone or prednisolone for:the treatment of newly diagnosed high risk metastatic hormone sensitive prostate cancer (mHSPC) in adult men in combination with androgen deprivation therapy (ADT)the treatment of metastatic castration resistant prostate cancer (mCRPC) in adult men who are asymptomatic or mildly symptomatic after failure of androgen deprivation therapy in whom chemotherapy is not yet clinically indicatedthe treatment of mCRPC in adult men whose disease has progressed on or after a docetaxel based chemotherapy regimen.",
+      "inn": "abiraterone",
+      "marketingAuthorisationDate": "2021-04-26 00:00:00",
+      "marketingAuthorisationHolder": "Accord Healthcare S.L.U.",
+      "medicineName": "Abiraterone Accord",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/abiraterone-accord"
+    },
+    {
+      "activeSubstance": "abiraterone acetate",
       "conditionIndication": "Zytiga is indicated with prednisone or prednisolone for:the treatment of metastatic castration resistant prostate cancer in adult men who are asymptomatic or mildly symptomatic after failure of androgen deprivation therapy in whom chemotherapy is not yet clinically indicatedthe treatment of metastatic castration resistant prostate cancer in adult men whose disease has progressed on or after a docetaxel based chemotherapy regimen.",
       "inn": "abiraterone",
       "marketingAuthorisationDate": "2011-09-05 00:00:00",

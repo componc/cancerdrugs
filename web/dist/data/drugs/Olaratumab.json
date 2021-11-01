@@ -1,13 +1,6 @@
 {
   "emaEpar": [],
-  "fdaDrugLabel": [
-    {
-      "brand": "LARTRUVO",
-      "indication": "1 INDICATIONS AND USAGE LARTRUVO\u2122 is indicated, in combination with doxorubicin, for the treatment of adult patients with soft tissue sarcoma (STS) with a histologic subtype for which an anthracycline-containing regimen is appropriate and which is not amenable to curative treatment with radiotherapy or surgery. This indication is approved under accelerated approval [see Clinical Studies ( 14 )] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trial. LARTRUVO\u2122 is a platelet-derived growth factor receptor alpha (PDGFR-\u03b1) blocking antibody indicated, in combination with doxorubicin, for the treatment of adult patients with soft tissue sarcoma (STS) with a histologic subtype for which an anthracycline-containing regimen is appropriate and which is not amenable to curative treatment with radiotherapy or surgery. ( 1 ) This indication is approved under accelerated approval. Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trial. ( 14 )",
-      "manufacturer": "Eli Lilly and Company",
-      "splSetId": "6a5bff43-f922-46ae-a727-d54d9138c46e"
-    }
-  ],
+  "fdaDrugLabel": [],
   "id": "Olaratumab",
   "nciThesaurus": {
     "casRegistry": "1024603-93-7",

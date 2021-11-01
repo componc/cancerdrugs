@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Mezigdomide",
+  "nciThesaurus": {
+    "casRegistry": "2259648-80-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A modulator of the E3 ubiquitin ligase complex containing cereblon (CRL4-CRBN E3 ubiquitin ligase), with potential immunomodulating and antineoplastic activities. Upon administration, mezigdomide specifically binds to cereblon (CRBN), thereby affecting the ubiquitin E3 ligase activity, and targeting certain substrate proteins for ubiquitination. This induces proteasome-mediated degradation of certain transcription factors, some of which are transcriptional repressors in T-cells. This leads to modulation of the immune system, including activation of T-lymphocytes, and downregulation of the activity of other proteins, some of which play key roles in the proliferation of certain cancer cell types. CRBN, the substrate recognition component of the CRL4-CRBN E3 ubiquitin ligase complex, plays a key role in the ubiquitination of certain proteins.",
+    "fdaUniiCode": "LA88IH4O02",
+    "identifier": "C146660",
+    "preferredName": "Mezigdomide",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C574"
+    ],
+    "synonyms": [
+      "CC 92480",
+      "CC-92480",
+      "CELMoD CC-92480",
+      "Cereblon E3 Ligase Modulation Drug CC-92480",
+      "Cereblon E3 Ubiquitin Ligase Modulating Agent CC-92480",
+      "Cereblon Modulator CC-92480",
+      "MEZIGDOMIDE",
+      "Mezigdomide"
+    ]
+  }
+}

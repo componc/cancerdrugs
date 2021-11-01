@@ -1,13 +1,6 @@
 {
   "emaEpar": [],
-  "fdaDrugLabel": [
-    {
-      "brand": "GUNA-INF ALPHA",
-      "indication": "INDICATIONS & USAGE RECURRENT VIRAL INFECTIONS",
-      "manufacturer": "Guna spa",
-      "splSetId": "f96495b5-1ffe-432c-adcf-b2db9cfd1405"
-    }
-  ],
+  "fdaDrugLabel": [],
   "id": "Recombinant_Interferon_Alfa-2a",
   "nciThesaurus": {
     "casRegistry": "76543-88-9",

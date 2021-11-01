@@ -1,6 +1,13 @@
 {
   "emaEpar": [],
-  "fdaDrugLabel": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Rybrevant",
+      "indication": "1 INDICATIONS AND USAGE RYBREVANT is indicated for the treatment of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 20 insertion mutations, as detected by an FDA-approved test [see Dosage and Administration (2.1) ] , whose disease has progressed on or after platinum-based chemotherapy. This indication is approved under accelerated approval based on overall response rate and duration of response [see Clinical Studies (14) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials. RYBREVANT is a bispecific EGF receptor-directed and MET receptor-directed antibody indicated for the treatment of adult patients with locally advanced or metastatic non-small cell lung cancer (NSCLC) with epidermal growth factor receptor (EGFR) exon 20 insertion mutations, as detected by an FDA-approved test, whose disease has progressed on or after platinum-based chemotherapy. ( 1 , 2.1 ) This indication is approved under accelerated approval based on overall response rate and duration of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in the confirmatory trials. ( 1 )",
+      "manufacturer": "Janssen Biotech, Inc.",
+      "splSetId": "1466c070-9f97-4fa4-a955-6a6b59981fb8"
+    }
+  ],
   "id": "Amivantamab",
   "nciThesaurus": {
     "casRegistry": "2171511-58-1",
@@ -15,11 +22,15 @@
       "C1454"
     ],
     "synonyms": [
-      "2171511-58-1",
       "AMIVANTAMAB",
       "Amivantamab",
+      "Amivantamab-vmjw",
       "Anti-EGFR/c-Met Bispecific Antibody JNJ-61186372",
-      "JNJ-61186372"
+      "CNTO-4424",
+      "JNJ-611",
+      "JNJ-61186372",
+      "JNJ61186372",
+      "Rybrevant"
     ]
   }
 }

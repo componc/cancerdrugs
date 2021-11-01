@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Foscenvivint",
+  "nciThesaurus": {
+    "casRegistry": "1422253-38-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A potent, specific inhibitor of the canonical Wnt signaling pathway in cancer stem cells with potential antineoplastic activity. Foscenvivint specifically inhibits the recruiting of beta-catenin with its coactivator CBP (the binding protein of the cAMP response element-binding protein CREB); together with other transcription factors beta-catenin/CBP binds to WRE (Wnt-responsive element) and activates transcription of a wide range of target genes of Wnt/beta-catenin signaling. Blocking the interaction of CBP and beta-catenin by this agent prevents gene expression of many proteins necessary for growth, thereby potentially suppressing cancer cell growth. The Wnt/beta-catenin signaling pathway regulates cell morphology, motility, and proliferation; aberrant regulation of this pathway leads to neoplastic proliferation.",
+    "fdaUniiCode": "43Y934BBZ6",
+    "identifier": "C95894",
+    "preferredName": "Foscenvivint",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2189"
+    ],
+    "synonyms": [
+      "CBP/beta-catenin Antagonist PRI-724",
+      "FOSCENVIVINT",
+      "Foscenvivint",
+      "PRI-724"
+    ]
+  }
+}

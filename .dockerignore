@@ -1,0 +1,11 @@
+.cache
+.git
+dist
+.env
+.env.docker
+.gitignore
+__pycache__
+
+web/.nuxt
+web/dist
+web/node_modules

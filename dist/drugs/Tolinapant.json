@@ -1,0 +1,25 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Tolinapant",
+  "nciThesaurus": {
+    "casRegistry": "1799328-86-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable, non-peptidomimetic antagonist of both X chromosome-linked inhibitor of apoptosis protein (XIAP) and cellular IAP 1 (cIAP1), with potential antineoplastic and pro-apoptotic activities. Upon administration, tolinapant selectively binds to and inhibits the activity of XIAP and cIAP1. This restores and promotes the induction of apoptotic signaling pathways in cancer cells, and inactivates the nuclear factor-kappa B (NF-kB)-mediated survival pathway. XIAP and cIAP1 are overexpressed by many cancer cell types and suppress apoptosis by inhibiting the activity of certain caspases; they promote both cancer cell survival and chemotherapy resistance.",
+    "fdaUniiCode": "2LHZ9ZC3YO",
+    "identifier": "C123913",
+    "preferredName": "Tolinapant",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129839"
+    ],
+    "synonyms": [
+      "ASTX 660",
+      "ASTX660",
+      "TOLINAPANT",
+      "Tolinapant",
+      "XIAP/cIAP1 Antagonist ASTX660"
+    ]
+  }
+}

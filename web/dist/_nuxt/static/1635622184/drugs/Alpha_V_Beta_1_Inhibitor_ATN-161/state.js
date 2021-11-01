@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002Fcancerdrugs\u002F_nuxt\u002Fstatic\u002F1635622184",layout:"default",error:a,serverRendered:true,routePath:"\u002Fdrugs\u002FAlpha_V_Beta_1_Inhibitor_ATN-161",config:{_app:{basePath:"\u002Fcancerdrugs\u002F",assetsPath:"\u002Fcancerdrugs\u002F_nuxt\u002F",cdnURL:a},content:{dbHash:"86fd0263"}}}}(null));

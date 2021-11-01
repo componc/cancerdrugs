@@ -1,6 +1,13 @@
 {
   "emaEpar": [],
-  "fdaDrugLabel": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "LUMAKRAS",
+      "indication": "1 INDICATIONS AND USAGE LUMAKRAS is indicated for the treatment of adult patients with KRAS G12C -mutated locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined by an FDA-approved test [see Dosage and Administration (2.1) ], who have received at least one prior systemic therapy. This indication is approved under accelerated approval based on overall response rate (ORR) and duration of response (DOR) [see Clinical Studies (14) ]. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). LUMAKRAS is an inhibitor of the RAS GTPase family indicated for the treatment of adult patients with KRAS G12C- mutated locally advanced or metastatic non-small cell lung cancer (NSCLC), as determined by an FDA-approved test, who have received at least one prior systemic therapy. ( 1 ) This indication is approved under accelerated approval based on overall response rate (ORR) and duration of response (DOR). Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ( 1 )",
+      "manufacturer": "Amgen Inc",
+      "splSetId": "c80a362c-7ac3-4894-a076-0691e68ef8c1"
+    }
+  ],
   "id": "Sotorasib",
   "nciThesaurus": {
     "casRegistry": "2296729-00-3",
@@ -18,6 +25,7 @@
       "AMG 510",
       "AMG-510",
       "AMG510",
+      "Lumakras",
       "SOTORASIB",
       "Sotorasib"
     ]

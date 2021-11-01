@@ -1,5 +1,15 @@
 {
-  "emaEpar": [],
+  "emaEpar": [
+    {
+      "activeSubstance": "ofatumumab",
+      "conditionIndication": "Kesimpta is indicated for the treatment of adult patients with relapsing forms of multiple sclerosis (RMS) with active disease defined by clinical or imaging features (see section\u00a05.1).",
+      "inn": "ofatumumab",
+      "marketingAuthorisationDate": "2021-03-26 01:00:00",
+      "marketingAuthorisationHolder": "Novartis Ireland Ltd",
+      "medicineName": "Kesimpta",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/kesimpta"
+    }
+  ],
   "fdaDrugLabel": [
     {
       "brand": "KESIMPTA",
@@ -33,6 +43,7 @@
       "GSK1841157",
       "HuMax-CD20",
       "HuMax-CD20, 2F2",
+      "Kesimpta",
       "OFATUMUMAB",
       "Ofatumumab",
       "ofatumumab"

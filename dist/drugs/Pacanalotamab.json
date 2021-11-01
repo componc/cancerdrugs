@@ -1,0 +1,33 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pacanalotamab",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A short half-life bispecific T-cell engager (BiTE) antibody composed of two single-chain variable fragments (scFv), one directed against the tumor-associated antigen (TAA) human B-cell maturation antigen (BCMA; TNFRSF17), fused to one that is directed against the CD3 antigen found on T-lymphocytes, with potential immunostimulating and antineoplastic activities. Upon administration of pacanalotamab, this bispecific antibody binds to both CD3 on cytotoxic T-lymphocytes (CTLs) and BCMA found on BCMA-expressing tumor cells. This activates and redirects CTLs to BCMA-expressing tumor cells, which results in the CTL-mediated cell death of BCMA-expressing tumor cells. BCMA, a member of the tumor necrosis factor receptor superfamily that is specifically overexpressed on malignant plasma cells, plays a key role in promoting plasma cell survival.",
+    "fdaUniiCode": "102VUR9WQE",
+    "identifier": "C159652",
+    "preferredName": "Pacanalotamab",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C181113"
+    ],
+    "synonyms": [
+      "AMG 420",
+      "AMG-420",
+      "AMG420",
+      "Anti-BCMA x Anti-CD3 BiTE AMG 420",
+      "Anti-BCMA/CD3 BiTE Antibody AMG 420",
+      "BCMA/CD3-directed Bispecific T-cell Engager Antibody AMG 420",
+      "BI 836909",
+      "BI-836909",
+      "BI836909",
+      "BiTE Antibody AMG 420",
+      "Bispecific T-cell Engager Antibody AMG 420",
+      "PACANALOTAMAB",
+      "Pacanalotamab"
+    ]
+  }
+}

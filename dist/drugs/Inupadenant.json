@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Inupadenant",
+  "nciThesaurus": {
+    "casRegistry": "2246607-08-7",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable immune checkpoint inhibitor and antagonist of the adenosine A2A receptor (A2AR; ADORA2A), with potential immunomodulating and antineoplastic activities. Upon administration, inupadenant selectively binds to and inhibits A2AR expressed on T-lymphocytes. This prevents tumor-released adenosine from interacting with the A2A receptors, thereby blocking the adenosine/A2AR-mediated inhibition of T-lymphocytes. This results in the proliferation and activation of T-lymphocytes, and stimulates a T-cell-mediated immune response against tumor cells. A2AR, a G protein-coupled receptor, is highly expressed on the cell surfaces of T-cells and, upon activation by adenosine, inhibits their proliferation and activation. Adenosine is often overproduced by cancer cells and plays a key role in immunosuppression.",
+    "fdaUniiCode": "HQ700V0X06",
+    "identifier": "C172109",
+    "preferredName": "Inupadenant",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2139"
+    ],
+    "synonyms": [
+      "A2A Receptor Antagonist EOS100850",
+      "EOS 100850",
+      "EOS-100850",
+      "EOS100850",
+      "INUPADENANT",
+      "Inupadenant"
+    ]
+  }
+}

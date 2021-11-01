@@ -6,6 +6,18 @@
       "indication": "Uses temporarily relieves: minor irritations of the mouth minor pain in the mouth sore mouth sore throat first aid to help prevent skin infection in minor cuts, scrapes, and burns",
       "manufacturer": "NUMARK BRANDS, INC",
       "splSetId": "7d7acca2-aa8a-5272-e813-faab039cc798"
+    },
+    {
+      "brand": "MUCINEX INSTASOOTHE SORE THROAT PLUS COUGH RELIEF",
+      "indication": "Uses temporarily relieves cough due to minor throat and bronchial irritation as may occur with the common cold occasional irritation and pain due to a sore mouth or sore throat pain associated with canker sores",
+      "manufacturer": "RB Health (US) LLC",
+      "splSetId": "8d670d91-9e22-45b9-b568-5b62c2133d32"
+    },
+    {
+      "brand": "MUCINEX INSTASOOTHE SORE THROAT PLUS SOOTHING COMFORT",
+      "indication": "Uses temporarily relieves occasional minor irritation and pain associated with sore throat sore mouth canker sores",
+      "manufacturer": "RB Health (US) LLC",
+      "splSetId": "91cd2964-5d83-4e40-bc18-e3e5462f454a"
     }
   ],
   "id": "Hexylresorcinol",

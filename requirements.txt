@@ -1,0 +1,4 @@
+pandas==1.2.4
+python-dotenv==0.19.1
+xlrd==2.0.1
+openpyxl==3.0.9

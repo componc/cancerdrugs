@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Lutetium_Lu_177_Rosopatamab_Tetraxetan",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A radioimmunoconjugate consisting of rosopatamab, a humanized monoclonal antibody (MoAb) against the external domain of the prostate-specific membrane antigen (PSMA) that is linked, via the chelating agent, dodecanetetraacetic acid (DOTA), to the beta-emitting radioisotope lutetium Lu 177, with potential antineoplastic activity and imaging activity during single-photon emission computerized tomography/computerized tomography (SPECT/CT). Upon administration, lutetium Lu 177 rosopatamab tetraxetan binds to PSMA expressed on certain tumor cells. Upon binding and internalization, this radioconjugate specifically delivers a cytotoxic dose of beta radiation to PSMA-expressing cells. PSMA is overexpressed in the malignant prostate and its metastases.",
+    "fdaUniiCode": "JB9647672Z",
+    "identifier": "C38701",
+    "preferredName": "Lutetium Lu 177 Rosopatamab Tetraxetan",
+    "semanticType": "Amino Acid, Peptide, or Protein",
+    "subclassOf": [
+      "C129819",
+      "C1511"
+    ],
+    "synonyms": [
+      "177Lu-DOTA-TLX591",
+      "DOTA-HUJ-591 LU-177",
+      "Lu 177 MOAB J591",
+      "Lutetium Lu 177 Monoclonal Antibody J591",
+      "Lutetium Lu 177 Rosopatamab",
+      "Lutetium Lu 177 Rosopatamab Tetraxetan",
+      "Lutetium Lu 177-DOTA-Rosopatamab",
+      "Lutetium Lu 177-DOTA-TLX591",
+      "ROSOPATAMAB TETRAXETAN LUTETIUM LU-177"
+    ]
+  }
+}

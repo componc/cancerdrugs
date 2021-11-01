@@ -2,16 +2,22 @@
   "emaEpar": [],
   "fdaDrugLabel": [
     {
-      "brand": "Tranylcypromine Sulfate",
-      "indication": "1 INDICATIONS AND USAGE Tranylcypromine tablets are indicated for the treatment of major depressive disorder (MDD) in adult patients who have not responded adequately to other antidepressants. Tranylcypromine tablets are not indicated for the initial treatment of MDD due to the potential for serious adverse reactions and drug interactions, and the need for dietary restrictions [see Contraindications (4), Warnings and Precautions (5) , and Drug Interactions (7)]. Tranylcypromine tablets are a monoamine oxidase inhibitor (MAOI) indicated for the treatment of major depressive disorder (MDD) in adult patients who have not responded adequately to other antidepressants ( 1 ) Tranylcypromine tablets are not indicated for the initial treatment of MDD due to the potential for serious adverse reactions and drug interactions, and the need for dietary restrictions ( 1 , 4 , 5 , 7 )",
-      "manufacturer": "Alvogen Inc.",
-      "splSetId": "5e660597-bffa-4f7e-869f-67e753f56937"
+      "brand": "TRANYLCYPROMINE SULFATE",
+      "indication": "1 INDICATIONS AND USAGE Tranylcypromine Sulfate is indicated for the treatment of major depressive disorder (MDD) in adult patients who have not responded adequately to other antidepressants. Tranylcypromine Sulfate is not indicated for the initial treatment of MDD due to the potential for serious adverse reactions and drug interactions, and the need for dietary restrictions [ see Contraindications (4) , Warnings and Precautions (5) , and Drug Interactions (7) ] . Tranylcypromine Sulfate is a monoamine oxidase inhibitor (MAOI) indicated for the treatment of major depressive disorder (MDD) in adult patients who have not responded adequately to other antidepressants ( 1 ) Tranylcypromine Sulfate is not indicated for the initial treatment of MDD due to the potential for serious adverse reactions and drug interactions, and the need for dietary restrictions ( 1 , 4 , 5 , 7 )",
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "53bbe740-f3d5-4d72-9bfe-dc84d729b019"
     },
     {
       "brand": "Tranylcypromine Sulfate",
       "indication": "1 INDICATIONS & USAGE Tranylcypromine sulfate tablets are indicated for the treatment of major depressive disorder (MDD) in adult patients who have not responded adequately to other antidepressants. Tranylcypromine sulfate tablets are not indicated for the initial treatment of MDD due to the potential for serious adverse reactions and drug interactions, and the need for dietary restrictions [see Contraindications (4), Warnings and Precautions (5) , and Drug Interactions (7)]. Tranylcypromine sulfate tablets are a monoamine oxidase inhibitor (MAOI) indicated for the treatment of major depressive disorder (MDD) in adult patients who have not responded adequately to other antidepressants ( 1 ) Tranylcypromine sulfate tablets are not indicated for the initial treatment of MDD due to the potential for serious adverse reactions and drug interactions, and the need for dietary restrictions ( 1 , 4 , 5 , 7 )",
       "manufacturer": "Actavis Pharma, Inc.",
       "splSetId": "6a0b609b-0625-4c26-91a1-59ee3ece3ddf"
+    },
+    {
+      "brand": "Tranylcypromine",
+      "indication": "1 INDICATIONS & USAGE Tranylcypromine tablets are indicated for the treatment of major depressive disorder (MDD) in adult patients who have not responded adequately to other antidepressants. Tranylcypromine tablets are not indicated for the initial treatment of MDD due to the potential for serious adverse reactions and drug interactions, and the need for dietary restrictions [see Contraindications (4), Warnings and Precautions (5), and Drug Interactions (7)] . Tranylcypromine tablets are a monoamine oxidase inhibitor (MAOI) indicated for the treatment of major depressive disorder (MDD) in adult patients who have not responded adequately to other antidepressants (1) Tranylcypromine tablets are not indicated for the initial treatment of MDD due to the potential for serious adverse reactions and drug interactions, and the need for dietary restrictions (1,4, 5, 7)",
+      "manufacturer": "Novitium Pharma LLC",
+      "splSetId": "8ab1c887-76fb-44ca-9999-4eefd3778cfc"
     },
     {
       "brand": "TRANYLCYPROMINE SULFATE",

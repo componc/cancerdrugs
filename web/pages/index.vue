@@ -20,8 +20,7 @@ export default {
     }
   },
   async asyncData ({ $content }) {
-    const index = await $content('index')
-    .fetch()
+    const index = await $content('index').fetch()
     return { index }
   },
   methods: {

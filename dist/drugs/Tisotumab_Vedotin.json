@@ -1,6 +1,13 @@
 {
   "emaEpar": [],
-  "fdaDrugLabel": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "TIVDAK",
+      "indication": "1 INDICATIONS AND USAGE TIVDAK\u2122 is indicated for the treatment of adult patients with recurrent or metastatic cervical cancer with disease progression on or after chemotherapy. This indication is approved under accelerated approval based on tumor response rate and durability of response [see Clinical Studies ( 14.1 )]. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials. TIVDAK is a tissue factor-directed antibody and microtubule inhibitor conjugate indicated for the treatment of adult patients with recurrent or metastatic cervical cancer with disease progression on or after chemotherapy. ( 1 ) This indication is approved under accelerated approval based on tumor response rate and durability of response. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trials. ( 14.1 )",
+      "manufacturer": "Seagen Inc.",
+      "splSetId": "c9fe3f32-4219-466e-acb9-3f609b4f4df1"
+    }
+  ],
   "id": "Tisotumab_Vedotin",
   "nciThesaurus": {
     "casRegistry": "1418731-10-8",
@@ -19,7 +26,9 @@
     "synonyms": [
       "HuMax-TF-ADC",
       "TISOTUMAB VEDOTIN",
-      "Tisotumab Vedotin"
+      "Tisotumab Vedotin",
+      "Tisotumab Vedotin-tftv",
+      "Tivdak"
     ]
   }
 }

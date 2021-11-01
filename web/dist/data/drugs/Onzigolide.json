@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Onzigolide",
+  "nciThesaurus": {
+    "casRegistry": "868562-36-1",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A chimeric dopamine (DA)-somatostatin (SST) compound, with potential antineoplastic activity. Upon administration, onzigolide binds with high affinity to dopamine D2 receptor (D2R) and somatostatin receptor subtype 2 (SSTR2), and to a lesser extent to somatostatin receptor subtype 5 (SSTR5). This agent appears to exert its effect mainly by binding to D2R to activate the ERK1/2 and p38 MAPK pathways, thus inducing apoptosis and inhibiting cellular proliferation in non-functioning pituitary adenoma (NFPA) and neuroendocrine tumors. By binding to SSTR2, this agent may inhibit the secretion of growth hormone (GH) by the pituitary gland.",
+    "fdaUniiCode": "L32IM11DV4",
+    "identifier": "C88345",
+    "preferredName": "Onzigolide",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129839"
+    ],
+    "synonyms": [
+      "BIM-23A760",
+      "Dopamine-Somatostatin Chimeric Molecule TBR-760",
+      "ONZIGOLIDE",
+      "Onzigolide",
+      "TBR 760",
+      "TBR-760",
+      "TBR760"
+    ]
+  }
+}

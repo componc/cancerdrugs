@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Eltrapuldencel-T",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A therapeutic melanoma vaccine consisting of autologous dendritic cells (DCs) pulsed with antigens from lethally irradiated autologous tumor cells derived from a patient-specific, continuously proliferating and melanoma-initiating cell line and suspended in a solution containing the cytokine granulocyte-macrophage colony stimulating factor (GM-CSF), with potential immunostimulatory and antineoplastic activities. Upon subcutaneous administration, eltrapuldencel-T may stimulate the immune system to exert a cytotoxic T-lymphocyte (CTL) immune response against the patient's repertoire of melanoma-associated antigens, particularly tumor stem cell antigens, found in the irradiated autologous cancer cells. As an immunostimulant, GM-CSF enhances the activation of dendritic cells (DCs) and promotes antigen presentation to both B- and T-lymphocytes.",
+    "fdaUniiCode": "M2LBQ7RN2X",
+    "identifier": "C120183",
+    "preferredName": "Eltrapuldencel-T",
+    "semanticType": "Cell",
+    "subclassOf": [
+      "C2594"
+    ],
+    "synonyms": [
+      "Autologous DCs Loaded with Irradiated Autologous Tumor Cells in GM-CSF",
+      "Autologous Dendritic Cells Loaded with Irradiated Autologous Tumor Cells in Granulocyte-macrophage Colony-stimulating Factor",
+      "DC-TC",
+      "ELTRAPULDENCEL-T",
+      "Eltrapuldencel-T",
+      "Melapuldencel-T",
+      "NBS-20",
+      "NBS20"
+    ]
+  }
+}

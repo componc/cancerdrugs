@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Elraglusib",
+  "nciThesaurus": {
+    "casRegistry": "1034895-42-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A maleimide-based, small molecule inhibitor of glycogen synthase kinase-3 (GSK-3; serine/threonine-protein kinase GSK3) with potential antineoplastic activity. Upon intravenous administration, elraglusib binds to and competitively inhibits GSK-3, which may lead to downregulation of nuclear factor kappa B (NF-kappaB) and decreased expression of NF-kappaB target genes including cyclin D1, B-cell lymphoma 2 (Bcl-2), anti-apoptotic protein XIAP, and B-cell lymphoma extra-large (Bcl-XL). This may inhibit NF-kappaB-mediated survival and chemoresistance in certain tumor types. GSK-3, a constitutively active serine/threonine kinase that plays a role in numerous pathways involved in protein synthesis, cellular proliferation, differentiation, and metabolism, is aberrantly overexpressed in certain tumor types and may promote tumor cell survival and resistance to chemotherapy and radiotherapy.",
+    "fdaUniiCode": "ND1SOF0DLU",
+    "identifier": "C156792",
+    "preferredName": "Elraglusib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1404"
+    ],
+    "synonyms": [
+      "9 ING 41",
+      "9-ING-41",
+      "ELRAGLUSIB",
+      "Elraglusib",
+      "GSK-3 Inhibitor 9-ING-41",
+      "Glycogen Synthase Kinase-3 Inhibitor 9-ING-41"
+    ]
+  }
+}

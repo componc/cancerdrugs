@@ -4,7 +4,7 @@
     {
       "brand": "Ellence",
       "indication": "1 INDICATIONS AND USAGE ELLENCE is indicated as a component of adjuvant therapy in patients with evidence of axillary node tumor involvement following resection of primary breast cancer [see Clinical Studies (14.1) ] . ELLENCE is an anthracycline topoisomerase inhibitor indicated as a component of adjuvant therapy in patients with evidence of axillary node tumor involvement following resection of primary breast cancer ( 1 ).",
-      "manufacturer": "Pharmacia and Upjohn Company LLC",
+      "manufacturer": "Pharmacia & Upjohn Company LLC",
       "splSetId": "0a03c798-a652-4895-b29c-3b521a89ba42"
     },
     {
@@ -18,12 +18,6 @@
       "indication": "1 INDICATIONS AND USAGE Epirubicin Hydrochloride Injection is an anthracycline topoisomerase II inhibitor indicated as a component of adjuvant therapy in patients with evidence of axillary node tumor involvement following resection of primary breast cancer ( 1 ). Epirubicin Hydrochloride Injection is indicated as a component of adjuvant therapy in patients with evidence of axillary node tumor involvement following resection of primary breast cancer [ see Clinical Studies (14.1) ] .",
       "manufacturer": "Areva Pharmaceuticals,Inc.",
       "splSetId": "ab115cc4-43cd-4a59-aa01-89e356ce3a08"
-    },
-    {
-      "brand": "Epirubicin Hydrochloride",
-      "indication": "1 INDICATIONS & USAGE Epirubicin Hydrochloride Injection is indicated as a component of adjuvant therapy in patients with evidence of axillary node tumor involvement following resection of primary breast cancer [see Clinical Studies (14.1 )]. Epirubicin Hydrochloride Injection is an anthracycline topoisomerase II inhibitor indicated as a component of adjuvant therapy in patients with evidence of axillary node tumor involvement following resection of primary breast cancer ( 1.1 ).",
-      "manufacturer": "Actavis Pharma, Inc.",
-      "splSetId": "d42a4313-63b8-47d5-a346-817998b5bf95"
     }
   ],
   "id": "Epirubicin_Hydrochloride",

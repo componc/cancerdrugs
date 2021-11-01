@@ -15,12 +15,6 @@
     },
     {
       "brand": "Megestrol Acetate",
-      "indication": "INDICATIONS AND USAGE Megestrol acetate oral suspension is indicated for the treatment of anorexia, cachexia, or an unexplained, significant weight loss in patients with a diagnosis of acquired immunodeficiency syndrome (AIDS).",
-      "manufacturer": "West-Ward Pharmaceuticals Corp.",
-      "splSetId": "2bd8c04f-491c-4269-9281-642efa05a7c8"
-    },
-    {
-      "brand": "Megestrol Acetate",
       "indication": "1 INDICATIONS AND USAGE Megestrol acetate oral suspension is indicated for the treatment of anorexia, cachexia, or an unexplained significant weight loss in patients with a diagnosis of acquired immunodeficiency syndrome (AIDS). Limitations of Use Therapy with megestrol acetate oral suspension for weight loss should only be insti\u00adtuted after treatable causes of weight loss are sought and addressed. These treatable causes include possible malignancies, systemic infections, gastrointestinal disorders affecting absorption, endocrine disease, renal disease or psychiatric diseases. Megestrol acetate oral suspension is not intended for prophylactic use to avoid weight loss. Megestrol acetate oral suspension is a progestin indicated for the treatment of anorexia, cachexia, or an unexplained significant weight loss in patients with a diagnosis of acquired immunodeficiency syndrome (AIDS) (1) .",
       "manufacturer": "TWi Pharmaceuticals, Inc.",
       "splSetId": "2dc921d5-e423-4379-a345-151e87d13651"
@@ -33,15 +27,21 @@
     },
     {
       "brand": "Megestrol Acetate",
-      "indication": "INDICATIONS AND USAGE Megestrol Acetate Tablets are indicated for the palliative treatment of advanced carcinoma of the breast or endometrium (i.e., recurrent, inoperable, or metastatic disease). It should not be used in lieu of currently accepted procedures such as surgery, radiation, or chemotherapy.",
-      "manufacturer": "Mylan Institutional Inc.",
-      "splSetId": "3ff650c9-5665-4fa3-8163-f8eed8dcb1bd"
+      "indication": "INDICATIONS AND USAGE Megestrol acetate tablets are indicated for the palliative treatment of advanced carcinoma of the breast or endometrium (ie, recurrent, inoperable, or metastatic disease). It should not be used in lieu of currently accepted procedures such as surgery, radiation, or chemotherapy.",
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "354ac291-0fb5-4369-b40d-3f0d4842ae05"
     },
     {
       "brand": "Megestrol Acetate",
       "indication": "INDICATIONS AND USAGE Megestrol acetate tablets are indicated for the palliative treatment of advanced carcinoma of the breast or endometrium (ie, recurrent, inoperable, or metastatic disease). It should not be used in lieu of currently accepted procedures such as surgery, radiation, or chemotherapy.",
       "manufacturer": "Par Pharmaceutical, Inc.",
       "splSetId": "4f94daf8-ceb9-4577-ab71-8b7e3db7ff8e"
+    },
+    {
+      "brand": "Megestrol Acetate",
+      "indication": "1 INDICATIONS AND USAGE Megestrol Acetate Oral Suspension (125 mg/mL) is indicated for the treatment of anorexia, cachexia, or an unexplained significant weight loss in patients with a diagnosis of acquired immunodeficiency syndrome (AIDS). Limitations of Use Therapy with megestrol acetate for weight loss should only be instituted after treatable causes of weight loss are sought and addressed. These treatable causes include possible malignancies, systemic infections, gastrointestinal disorders affecting absorption, endocrine disease, renal disease or psychiatric diseases. Megestrol acetate is not intended for prophylactic use to avoid weight loss. Megestrol Acetate Oral Suspension is a progestin indicated for the treatment of anorexia, cachexia, or an unexplained significant weight loss in patients with a diagnosis of acquired immunodeficiency syndrome (AIDS) ( 1 ).",
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "5f4e01ca-24f7-4e09-ba81-f5521fba54bd"
     },
     {
       "brand": "Megestrol Acetate",
@@ -70,8 +70,8 @@
     {
       "brand": "Megestrol Acetate",
       "indication": "INDICATIONS AND USAGE Megestrol acetate tablets are indicated for the palliative treatment of advanced carcinoma of the breast or endometrium (ie, recurrent, inoperable, or metastatic disease). It should not be used in lieu of currently accepted procedures such as surgery, radiation, or chemotherapy.",
-      "manufacturer": "McKesson Corporation dba SKY Packaging",
-      "splSetId": "7dea36eb-93bf-4593-9160-c84dfec26ab5"
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "6fcdd175-c66b-4829-b886-c6a87e0a9969"
     },
     {
       "brand": "Megestrol acetate",
@@ -93,6 +93,12 @@
     },
     {
       "brand": "Megestrol Acetate",
+      "indication": "INDICATIONS AND USAGE Megestrol acetate oral suspension, USP is indicated for the treatment of anorexia, cachexia, or an unexplained, significant weight loss in patients with a diagnosis of acquired immunodeficiency syndrome (AIDS).",
+      "manufacturer": "PINNACLE PHARMA LLC",
+      "splSetId": "904d8eef-194c-4802-9fe0-a4ac999b5002"
+    },
+    {
+      "brand": "Megestrol Acetate",
       "indication": "1 INDICATIONS AND USAGE Megestrol Acetate Oral Suspension (125 mg/mL) is indicated for the treatment of anorexia, cachexia, or an unexplained significant weight loss in patients with a diagnosis of acquired immunodeficiency syndrome (AIDS). Limitations of Use Therapy with megestrol acetate for weight loss should only be instituted after treatable causes of weight loss are sought and addressed. These treatable causes include possible malignancies, systemic infections, gastrointestinal disorders affecting absorption, endocrine disease, renal disease or psychiatric diseases. Megestrol acetate is not intended for prophylactic use to avoid weight loss. Megestrol Acetate Oral Suspension is a progestin indicated for the treatment of anorexia, cachexia, or an unexplained significant weight loss in patients with a diagnosis of acquired immunodeficiency syndrome (AIDS) ( 1 ).",
       "manufacturer": "Par Pharmaceutical, Inc.",
       "splSetId": "9439c3c2-338a-4d5a-be71-62c71e255504"
@@ -100,7 +106,7 @@
     {
       "brand": "Megestrol Acetate",
       "indication": "INDICATIONS AND USAGE Megestrol acetate oral suspension, USP is indicated for the treatment of anorexia, cachexia, or an unexplained, significant weight loss in patients with a diagnosis of acquired immunodeficiency syndrome (AIDS).",
-      "manufacturer": "McKesson Corporation dba SKY Packaging",
+      "manufacturer": "McKesson Corporation DBA SKY Packaging",
       "splSetId": "95dfc24a-5744-4ddf-8809-86184142a372"
     },
     {

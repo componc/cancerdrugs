@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Azercabtagene_Zapreleucel",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A preparation of allogeneic, off-the-shelf, T-lymphocytes that have been genetically modified using a proprietary synthetic nuclease-based system to express a chimeric antigen receptor (CAR) targeting the tumor-associated antigen (TAA) CD19 (cluster of differentiation 19) with potential immunostimulating and antineoplastic activities. Upon administration, azercabtagene zapreleucel specifically recognize and kill CD19-expressing tumor cells. CD19 antigen is a B-cell specific cell surface antigen, which is expressed in all B-cell lineage malignancies and normal B-cells.",
+    "fdaUniiCode": "PFZ3AP93TA",
+    "identifier": "C158558",
+    "preferredName": "Azercabtagene Zapreleucel",
+    "semanticType": "Cell",
+    "subclassOf": [
+      "C129826",
+      "C176018",
+      "C28676"
+    ],
+    "synonyms": [
+      "AZERCABTAGENE ZAPRELEUCEL",
+      "Allogeneic Anti-CD19-CAR T-cells PBCAR0191",
+      "Allogeneic Anti-CD19-CAR T-lymphocytes PBCAR0191",
+      "Anti-CD19-CAR Allogeneic T-cells PBCAR0191",
+      "Azercabtagene Zapreleucel",
+      "PBCAR0191"
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Onilcamotide",
+  "nciThesaurus": {
+    "casRegistry": "1164096-85-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A cancer vaccine composed of an immunogenic peptide derived from the Ras homolog family member C (RhoC; Rho-related GTP-binding protein RhoC) that is emulsified in the immunoadjuvant montanide ISA-51, with potential immunomodulating and antineoplastic activities. Upon subcutaneous administration, onilcamotide may stimulate the host immune system to mount a humoral and cytotoxic T-lymphocyte (CTL) response against tumor cells expressing RhoC, which results in tumor cell lysis. RhoC, a tumor-associated antigen (TAA) that is overexpressed in a variety of tumor cell types, is associated with increased metastatic potential.",
+    "fdaUniiCode": "UQE6KP7T0D",
+    "identifier": "C151937",
+    "preferredName": "Onilcamotide",
+    "semanticType": "Immunologic Factor",
+    "subclassOf": [
+      "C1752"
+    ],
+    "synonyms": [
+      "ONILCAMOTIDE",
+      "Onilcamotide",
+      "RV 001",
+      "RV 001V",
+      "RV001 Vaccine",
+      "RV001V",
+      "RhoC Peptide Vaccine RV001V"
+    ]
+  }
+}

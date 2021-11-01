@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Osugacestat",
+  "nciThesaurus": {
+    "casRegistry": "1401066-79-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A small-molecule gamma secretase (GS) and pan-Notch inhibitor, with potential antineoplastic activity. Upon intravenous administration, osugacestat binds to GS and blocks activation of Notch receptors, which may inhibit the proliferation of tumor cells with an overly-active Notch pathway. The integral membrane protein GS is a multi-subunit protease complex that cleaves single-pass transmembrane proteins, such as Notch receptors, at residues within their transmembrane domains that lead to their activation. Overactivation of the Notch signaling pathway, often triggered by activating mutations, has been correlated with increased cellular proliferation and poor prognosis in certain tumor types.",
+    "fdaUniiCode": "DRL23N424R",
+    "identifier": "C116872",
+    "preferredName": "Osugacestat",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C471"
+    ],
+    "synonyms": [
+      "AL 101",
+      "AL-101",
+      "AL101",
+      "BM-0018",
+      "BM0018",
+      "BMS-906024",
+      "GS/pan-Notch Inhibitor AL101",
+      "OSUGACESTAT",
+      "Osugacestat"
+    ]
+  }
+}

@@ -12,7 +12,8 @@
     "preferredName": "Intiquinatine",
     "semanticType": "Pharmacologic Substance",
     "subclassOf": [
-      "C274"
+      "C274",
+      "C542"
     ],
     "synonyms": [
       "(2R)-2-(4-((7-Bromoquinolin-2-yl)Oxy)Phenoxy)Propanoic Acid",

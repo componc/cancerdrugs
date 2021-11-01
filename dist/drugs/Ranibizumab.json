@@ -2,6 +2,15 @@
   "emaEpar": [
     {
       "activeSubstance": "ranibizumab",
+      "conditionIndication": "Byooviz is indicated in adults for:The treatment of neovascular (wet) age-related macular degeneration (AMD)The treatment of visual impairment due to diabetic macular oedema (DME)The treatment of proliferative diabetic retinopathy (PDR)The treatment of visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO)The treatment of visual impairment due to choroidal neovascularisation (CNV)",
+      "inn": "ranibizumab",
+      "marketingAuthorisationDate": "2021-08-18 00:00:00",
+      "marketingAuthorisationHolder": "Samsung Bioepis NL B.V.",
+      "medicineName": "Byooviz",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/byooviz"
+    },
+    {
+      "activeSubstance": "ranibizumab",
       "conditionIndication": "Lucentis is indicated in adults for:The treatment of neovascular (wet) age-related macular degeneration (AMD)The treatment of visual impairment due to choroidal neovascularisation (CNV)The treatment of visual impairment due to diabetic macular oedema (DME)The treatment of visual impairment due to macular oedema secondary to retinal vein occlusion (branch RVO or central RVO)",
       "inn": "ranibizumab",
       "marketingAuthorisationDate": "2007-01-22 01:00:00",

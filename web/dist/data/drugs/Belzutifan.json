@@ -1,6 +1,13 @@
 {
   "emaEpar": [],
-  "fdaDrugLabel": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "WELIREG",
+      "indication": "1 INDICATIONS AND USAGE WELIREG is indicated for treatment of adult patients with von Hippel-Lindau (VHL) disease who require therapy for associated renal cell carcinoma (RCC), central nervous system (CNS) hemangioblastomas, or pancreatic neuroendocrine tumors (pNET), not requiring immediate surgery. WELIREG is a hypoxia-inducible factor inhibitor indicated for treatment of adult patients with von Hippel-Lindau (VHL) disease who require therapy for associated renal cell carcinoma (RCC), central nervous system (CNS) hemangioblastomas, or pancreatic neuroendocrine tumors (pNET), not requiring immediate surgery. ( 1 )",
+      "manufacturer": "Merck Sharp & Dohme Corp.",
+      "splSetId": "13e15ee0-d679-4fa9-9430-e2e2170474da"
+    }
+  ],
   "id": "Belzutifan",
   "nciThesaurus": {
     "casRegistry": "1672668-24-4",
@@ -10,7 +17,7 @@
     "fdaUniiCode": "7K28NB895L",
     "identifier": "C135627",
     "preferredName": "Belzutifan",
-    "semanticType": "Chemical Viewed Functionally",
+    "semanticType": "Pharmacologic Substance",
     "subclassOf": [
       "C2189"
     ],
@@ -21,7 +28,8 @@
       "MK 6482",
       "MK-6482",
       "MK6482",
-      "PT2977"
+      "PT2977",
+      "Welireg"
     ]
   }
 }

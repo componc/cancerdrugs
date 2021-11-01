@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Atamparib",
+  "nciThesaurus": {
+    "casRegistry": "2381037-82-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available small molecule inhibitor of the nuclear enzyme poly (ADP-ribose) polymerase (PARP) 7, with potential immunomodulating and antineoplastic activities. Upon oral administration,atamparib selectively binds to PARP7 and restores interferon (type 1) signaling.  This may lead to the induction of both innate and adaptive immune responses, and the inhibition of tumor growth and proliferation. PARP catalyzes post-translational ADP-ribosylation of nuclear proteins that signal and recruit other proteins to repair damaged DNA.",
+    "fdaUniiCode": "B1MW2ME77A",
+    "identifier": "C170764",
+    "preferredName": "Atamparib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C62554"
+    ],
+    "synonyms": [
+      "ATAMPARIB",
+      "Atamparib",
+      "PARP7 Inhibitor RBN-2397",
+      "RBN 2397",
+      "RBN-2397",
+      "RBN2397"
+    ]
+  }
+}

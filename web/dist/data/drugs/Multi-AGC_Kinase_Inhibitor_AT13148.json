@@ -1,0 +1,24 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Multi-AGC_Kinase_Inhibitor_AT13148",
+  "nciThesaurus": {
+    "casRegistry": "1056901-62-2",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available, small molecule inhibitor of AGC group kinases, with potential antineoplastic activity. AT13148 inhibits, in an ATP-competitive manner, the enzymatic activity of two AGC kinases, protein kinase B (PKB or AKT) and p70S6K which play key roles in the PI3K/PKB/mTOR signaling pathway. Blockade of this pathway leads to an inhibition of cell growth and the induction of apoptosis in susceptible tumor cells. PI3K/PKB/mTOR pathway is dysregulated in greater than 50% of tumors, and is often correlated with resistance and increased tumor survival. AGC group kinases are serine/threonine kinases that are regulated by secondary messengers such as cyclic AMP and lipids.",
+    "fdaUniiCode": "A49037RP1E",
+    "identifier": "C101786",
+    "preferredName": "Multi-AGC Kinase Inhibitor AT13148",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C61074"
+    ],
+    "synonyms": [
+      "AT-13148",
+      "AT13148",
+      "Multi-AGC Kinase Inhibitor AT13148"
+    ]
+  }
+}

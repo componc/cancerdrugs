@@ -3,7 +3,7 @@ Build cancerdrugs dataset
 '''
 
 import logging, os, csv, gzip, json, mimetypes, hashlib, zipfile, glob, re
-import concurrent.futures, datetime, os, urllib.request, shutil
+import concurrent.futures, datetime, os, urllib.request, shutil, subprocess
 import xml.etree.ElementTree as ET
 import pandas as pd
 from utils import download_file, get_json, create_archive, normalize, snake_to_camel
@@ -12,7 +12,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Configuration
-RELEASE = '2021-04'
+RELEASE = os.environ.get('RELEASE')
 
 BASE_PATH = os.path.dirname(os.path.realpath(__file__))
 DIST_FOLDER = os.path.join(BASE_PATH, 'dist')
@@ -178,6 +178,12 @@ if __name__ == '__main__':
     # Write data to file
     logging.info('Create archive.')
     create_archive(os.path.join(DIST_FOLDER, f'cancerdrugs-{RELEASE}.zip'), DIST_FOLDER, '**/*.json')
+
+    # Generate web page and move dist folder
+    subprocess.call(['npm', 'run', 'generate'], cwd='web')
+    
+    # Copy folder to XX
+    # shutil.copytree()
 
     # Finish
     logging.info('Build completed.')

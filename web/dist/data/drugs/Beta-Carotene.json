@@ -2,22 +2,10 @@
   "emaEpar": [],
   "fdaDrugLabel": [
     {
-      "brand": "NataChew",
-      "indication": "INDICATIONS AND USAGE: NataChew \u00ae is a prescription pre/post-natal multivitamin, multimineral indicated for use in improving the nutritional status of women throughout pregnancy, as well as in the post-natal period for both lactating and non-lactating mothers. This product is also useful in improving the nutritional status of women prior to conception.",
-      "manufacturer": "Eckson Labs, LLC",
-      "splSetId": "043f8497-8bb3-4604-84eb-d463ef25f724"
-    },
-    {
       "brand": "PreNatal 19",
       "indication": "INDICATIONS PreNatal 19 chewable tablets are indicated for use in improving the nutritional status of women throughout pregnancy and in postnatal period for both lactating and non-lactating mothers. PreNatal 19 chewable tablets are also useful in improving the nutritional status of women prior to conception.",
       "manufacturer": "Nationwide Laboratories, LLC",
       "splSetId": "198442c8-730a-4635-a496-91e4767714a3"
-    },
-    {
-      "brand": "PRENATAL PLUS",
-      "indication": "Indication To provide Vitamin and Mineral supplementation throughout pregnancy and during the postnatal period for both the lactating and non lactating mother. It is also useful for improving nutritional status prior to conception",
-      "manufacturer": "AvKARE, Inc.",
-      "splSetId": "1a58de37-470c-6108-5ba8-1af4a628b97d"
     }
   ],
   "id": "Beta-Carotene",

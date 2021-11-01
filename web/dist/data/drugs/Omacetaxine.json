@@ -1,0 +1,21 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Omacetaxine",
+  "nciThesaurus": {
+    "casRegistry": "24316-19-6",
+    "chebiId": "",
+    "chemicalFormula": "C18H21NO4",
+    "definition": "A protein translation inhibitor and cytotoxic plant alkaloid homoharringtonine isolated from the evergreen tree Cephalotaxus, with potential antineoplastic activity. Although the exact mechanism of action has not been fully elucidated, upon administration, omacetaxine targets and binds to the 80S ribosome in eukaryotic cells and inhibits protein synthesis by interfering with chain elongation. This reduces levels of certain oncoproteins and anti-apoptotic proteins.",
+    "fdaUniiCode": "84MI6OYN4Z",
+    "identifier": "C179199",
+    "preferredName": "Omacetaxine",
+    "semanticType": "Organic Chemical",
+    "subclassOf": [],
+    "synonyms": [
+      "Cephalotaxine",
+      "OMACETAXINE",
+      "Omacetaxine"
+    ]
+  }
+}

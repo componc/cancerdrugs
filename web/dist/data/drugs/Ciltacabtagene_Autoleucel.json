@@ -13,7 +13,7 @@
     "semanticType": "Cell",
     "subclassOf": [
       "C129826",
-      "C137999",
+      "C176023",
       "C28681"
     ],
     "synonyms": [
@@ -21,6 +21,7 @@
       "Autologous Bi-epitope BCMA-targeted CAR T-cells JNJ-68284528",
       "Autologous Bi-epitope CAR T-cells JNJ-68284528",
       "CILTACABTAGENE AUTOLEUCEL",
+      "Cilta-cel",
       "Ciltacabtagene Autoleucel",
       "JNJ-68284528",
       "LCAR-B38M",

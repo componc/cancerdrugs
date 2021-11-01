@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Vebreltinib",
+  "nciThesaurus": {
+    "casRegistry": "1440964-89-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally bioavailable inhibitor of the proto-oncogene c-Met (hepatocyte growth factor receptor; HGFR) with potential antineoplastic activity. Upon administration, vebreltinib selectively binds to c-Met, thereby inhibiting c-Met phosphorylation and disrupting c-Met signal transduction pathways. This may induce cell death in tumor cells overexpressing or expressing constitutively activated c-Met protein. c-Met, a receptor tyrosine kinase overexpressed or mutated in many tumor cell types, plays key roles in tumor cell proliferation, survival, invasion, metastasis, and tumor angiogenesis.",
+    "fdaUniiCode": "2WZP8A9VFN",
+    "identifier": "C129717",
+    "preferredName": "Vebreltinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C129825",
+      "C143099"
+    ],
+    "synonyms": [
+      "6-(1-Cyclopropyl-1h-pyrazol-4-yl)-3-(difluoro(6-fluoro-2-methyl-2H-indazol-5-yl)methyl)-1,2,4-triazolo(4,3-b)pyridazine",
+      "APL-101",
+      "APL101",
+      "Bozitinib",
+      "CBI-3103",
+      "CBT-101",
+      "PLB-1001",
+      "PLB1001",
+      "VEBRELTINIB",
+      "Vebreltinib"
+    ]
+  }
+}

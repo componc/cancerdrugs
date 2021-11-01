@@ -2,10 +2,10 @@
   "emaEpar": [
     {
       "activeSubstance": "Cemiplimab",
-      "conditionIndication": "Libtayo as monotherapy is indicated for the treatment of adult patients with metastatic or locally advanced cutaneous squamous cell carcinoma who are not candidates for curative surgery or curative radiation.",
+      "conditionIndication": "Cutaneous Squamous Cell CarcinomaLIBTAYO as monotherapy is indicated for the treatment of adult patients with metastatic or locally advanced cutaneous squamous cell carcinoma (mCSCC or laCSCC) who are not candidates for curative surgery or curative radiation.Basal Cell CarcinomaLIBTAYO as monotherapy is indicated for the treatment of adult patients with locally advanced or metastatic basal cell carcinoma (laBCC or mBCC) who have progressed on or are intolerant to a hedgehog pathway inhibitor (HHI).\u00a0Non-Small Cell Lung CancerLIBTAYO as monotherapy is indicated for the first-line treatment of adult patients with non-small cell lung cancer (NSCLC) expressing PD-L1 (in\u00a050% tumour cells), with no EGFR, ALK or ROS1 aberrations, who have:locally advanced NSCLC who are not candidates for definitive chemoradiation, ormetastatic NSCLC.\u00a0",
       "inn": "cemiplimab",
       "marketingAuthorisationDate": "2019-06-28 00:00:00",
-      "marketingAuthorisationHolder": "Regeneron Ireland U.C.",
+      "marketingAuthorisationHolder": "Regeneron Ireland Designated Activity Company (DAC)",
       "medicineName": "Libtayo",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/libtayo"
     }

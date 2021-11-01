@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Amcenestrant",
+  "nciThesaurus": {
+    "casRegistry": "2114339-57-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available, nonsteroidal selective estrogen receptor degrader/downregulator (SERD), with potential antineoplastic activity. Upon oral administration, amcenestrant specifically targets and binds to the estrogen receptor (ER) and induces a conformational change that promotes ER degradation. This prevents ER-mediated signaling and inhibits both the growth and survival of ER-expressing cancer cells.",
+    "fdaUniiCode": "TBF1NHY02O",
+    "identifier": "C174915",
+    "preferredName": "Amcenestrant",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C2116",
+      "C481"
+    ],
+    "synonyms": [
+      "AMCENESTRANT",
+      "Amcenestrant",
+      "SAR 439859",
+      "SAR-439859",
+      "SAR439859",
+      "Selective Estrogen Receptor Degrader SAR439859",
+      "Selective Estrogen Receptor Downregulator SAR439859"
+    ]
+  }
+}

@@ -14,6 +14,12 @@
       "splSetId": "1de4f602-6e3c-4142-b60a-90585ac33884"
     },
     {
+      "brand": "Enviro I",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to food allergies including swelling of the lips, stomach cramps, vomiting, diarrhea, and skin rashes .** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "3222cd2c-a3d6-48ab-adac-313a4de3f6f4"
+    },
+    {
       "brand": "Thea sinensis",
       "indication": "INDICATIONS Indications: THEA SINENSIS Sleeplessness",
       "manufacturer": "Washington Homeopathic Products",
@@ -42,12 +48,6 @@
       "indication": "Sleeplessness with agitation*",
       "manufacturer": "Boiron",
       "splSetId": "812a75f0-cc1b-1141-e053-2a91aa0af339"
-    },
-    {
-      "brand": "Enviro I",
-      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to food allergies including swelling of the lips, stomach cramps, vomiting, diarrhea, skin rashes or eczema, and wheezing or breathing problems.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
-      "manufacturer": "Deseret Biologicals, Inc.",
-      "splSetId": "91117989-eb31-481b-a4a4-f7b62daca26d"
     },
     {
       "brand": "THEA SINENSIS",

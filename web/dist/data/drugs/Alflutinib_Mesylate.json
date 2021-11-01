@@ -3,7 +3,7 @@
   "fdaDrugLabel": [],
   "id": "Alflutinib_Mesylate",
   "nciThesaurus": {
-    "casRegistry": "",
+    "casRegistry": "2130958-55-1",
     "chebiId": "",
     "chemicalFormula": "",
     "definition": "The mesylate salt form of alflutinib, an orally available selective inhibitor of the epidermal growth factor receptor (EGFR) mutant form T790M, with potential antineoplastic activity. Upon administration, alflutinib specifically binds to and inhibits the tyrosine kinase activity of EGFR T790M, a secondarily acquired resistance mutation. This prevents EGFR T790M-mediated signaling and leads to cell death in EGFR T790M-expressing tumor cells. EGFR, a receptor tyrosine kinase that is mutated in many tumor cell types, plays a key role in tumor cell proliferation and tumor vascularization. Compared to some other EGFR inhibitors, alflutinib may have therapeutic benefits in tumors with T790M-mediated drug resistance.",
@@ -18,9 +18,10 @@
     "synonyms": [
       "ALFLUTINIB MESYLATE",
       "ASK120067",
-      "AST 2818",
-      "AST2818",
-      "Alflutinib Mesylate"
+      "AST 2818 Mesylate",
+      "AST2818 Mesylate",
+      "Alflutinib Mesylate",
+      "Furmonertinib Mesylate"
     ]
   }
 }

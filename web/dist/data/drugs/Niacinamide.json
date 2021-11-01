@@ -26,10 +26,22 @@
       "splSetId": "0378352d-8928-4007-8071-1d0a15d75a02"
     },
     {
+      "brand": "COXIR INTENSIVE EGF PEPTIDE SERUM",
+      "indication": "Uses \u25a0 Intensive EGF peptide serum is formulated with EGF, peptide and collagen for brightening and firming.",
+      "manufacturer": "NOKSIBCHO cosmetic Co., Ltd.",
+      "splSetId": "03a97ef0-6ad1-47ef-a8f4-fd32fd02a199"
+    },
+    {
       "brand": "NataChew",
       "indication": "INDICATIONS AND USAGE: NataChew \u00ae is a prescription pre/post-natal multivitamin, multimineral indicated for use in improving the nutritional status of women throughout pregnancy, as well as in the post-natal period for both lactating and non-lactating mothers. This product is also useful in improving the nutritional status of women prior to conception.",
       "manufacturer": "Eckson Labs, LLC",
       "splSetId": "043f8497-8bb3-4604-84eb-d463ef25f724"
+    },
+    {
+      "brand": "BRING GREEN CARROT VITA DARK SPOT SERUM",
+      "indication": "Uses Helps brighten skin tone. Helps improve wrinkle problem.",
+      "manufacturer": "CJ Olive Young Corporation",
+      "splSetId": "04b1f132-c732-4638-9fc3-e25cc50dc271"
     },
     {
       "brand": "MORINGA PURIFY WATER",
@@ -44,6 +56,12 @@
       "splSetId": "05728979-8eff-4d05-9700-240387f17af9"
     },
     {
+      "brand": "ARSMEDIC STEP 02 After Ampoule",
+      "indication": "Uses \u25a0 Reduce wrinkles and brighten \u25a0 Supply moisture \u25a0 Helps calm down skin \u25a0 Smooth skin",
+      "manufacturer": "Korea Bio Lab Co., Ltd",
+      "splSetId": "059a34dc-b08e-42d3-89e3-84d5908c92a3"
+    },
+    {
       "brand": "Dialyvite with Zinc",
       "indication": "INDICATIONS AND USAGE Dialyvite with Zinc is a prescription folic acid supplement with Zinc and additional nutrients indicated for use in improving the nutritional status of renal dialysis patients.",
       "manufacturer": "Hillestad Pharmaceuticals USA",
@@ -51,7 +69,7 @@
     },
     {
       "brand": "Transform 30",
-      "indication": "INDICATIONS: May temporarily relieve symptoms when reducing diet intake such as food cravings, excessive appetite, regulation of metabolism and fatigue.",
+      "indication": "INDICATIONS: May temporarily relieve symptoms when reducing diet intake such as food cravings, excessive appetite, regulation of metabolism and fatigue.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
       "manufacturer": "H2 Nutrition",
       "splSetId": "073d724f-9a83-4e27-a230-0dc1ef6b6924"
     },
@@ -80,6 +98,12 @@
       "splSetId": "0bf5d3b9-5931-4180-9517-19977b58fe9a"
     },
     {
+      "brand": "Spring Campus Hydrogel Mask",
+      "indication": "Uses \u25a0 Hydrogel facial mask \u25a0 Helps brighten skin tone \u25a0 Helps improve wrinkle problem \u25a0 Strengthening the skin barrier \u25a0 Enhance moisturizing function \u25a0 Enhancement of antioxidant function",
+      "manufacturer": "INCODON BIOCOSMETIC Co., Ltd.",
+      "splSetId": "0c7bb433-9805-4a8b-9e86-9329b3bf5473"
+    },
+    {
       "brand": "MEDIKOii Bio Active Vital Shot Ampoule",
       "indication": "Uses \u25a0 Helps brighten skin tone and improve wrinkles to disappear \u25a0 Helps anti-oxidation process within skin and possibly hinders aging-mechanism.",
       "manufacturer": "THERANOTICS CO.,LTD.",
@@ -104,10 +128,10 @@
       "splSetId": "1228bfab-6e51-4295-8194-5f2b395d62d2"
     },
     {
-      "brand": "DHT X HAIRLOSS",
-      "indication": "INDICATION AND USAGE INDICATION AND USAGE: Apply 3 to 5ml to wet hair and lather onto hair and scalp for 3mins. Rinse thoroughly with water to remove",
-      "manufacturer": "IDOOGEN Co.,Ltd.",
-      "splSetId": "12e96e1d-52b2-4ea9-a419-9496e9547456"
+      "brand": "Spring Campus Skin Base",
+      "indication": "Uses \u25a0 Serum, skin and lotion all in one product \u25a0 Helps brighten skin tone \u25a0 Helps improve wrinkle problem \u25a0 Strengthen skin barrier function \u25a0 Enhancement of antioxidant function \u25a0 Enhancement of moisturizing function",
+      "manufacturer": "INCODON BIOCOSMETIC Co., Ltd.",
+      "splSetId": "13e42998-0981-48ef-87f7-a72a9f07869f"
     },
     {
       "brand": "B-PLEX 100",
@@ -122,12 +146,6 @@
       "splSetId": "14c7bfc5-07e8-400f-b8ff-5e4794dd2805"
     },
     {
-      "brand": "We Sell Hope EGF ESSENCE",
-      "indication": "Uses Uses: Helps improve wrinkle problem and skin whitening.",
-      "manufacturer": "PASCAL INTERNATIONAL",
-      "splSetId": "1504fadb-a4cb-4d3d-b980-9b18cb16035f"
-    },
-    {
       "brand": "Prenatal Vitamins Plus",
       "indication": "Indications: To promote vitamin and mineral supplementation throughout pregnancy and during the postnatal period for both the lactating and non lactating mother. It is also useful for improving nutritional status prior to conception.",
       "manufacturer": "Nnodum Pharmaceuticals",
@@ -138,12 +156,6 @@
       "indication": "Uses Uses: Helps brighten skin Helps anti wrinkle",
       "manufacturer": "Ultra V Co., Ltd",
       "splSetId": "17e392bd-f960-4c20-b06c-fcbdae6f2612"
-    },
-    {
-      "brand": "WHITE VITA FLORAL TONER",
-      "indication": "HOW TO USE HOW TO USE: After washing the face, dispense an appropriate amount onto a cotton pad and gently cleanse the skin along skin\u2019s texture starting from the inside and working outward; pat to promote absorption into skin. It is recommended to apply after first essence.",
-      "manufacturer": "NATURE REPUBLIC CO., LTD.",
-      "splSetId": "19599a11-b4c1-4ab1-a066-08bf297cebbd"
     },
     {
       "brand": "PreNatal 19",
@@ -158,6 +170,12 @@
       "splSetId": "1a58de37-470c-6108-5ba8-1af4a628b97d"
     },
     {
+      "brand": "DR.PLINUS FILLINCELL MULTI",
+      "indication": "Uses \u25a0 Helps moisturize your skin \u25a0 Helps brighten skin tone \u25a0 Helps improve wrinkle problem",
+      "manufacturer": "S Skin Co., Ltd.",
+      "splSetId": "1d6da6f7-bcc4-4efc-a8b1-9b80bedd85af"
+    },
+    {
       "brand": "BONAJOUR GREEN TEA WATER BOMB",
       "indication": "Uses \u25a0Vitamin and antioxidant enriched green tea protects throughout the day to keep skin healthy and hydrated. \u25a0Unlike Silicone oil which is well-known as a chemical moisturizer, high quality natural moisturizing ingredients give full hydration to your skin in a healthy way. \u25a0Different peptides improve skin vitality. Peptides increase moisture, elasticity and skin protection.",
       "manufacturer": "BONAJOUR",
@@ -170,16 +188,82 @@
       "splSetId": "1fc313f6-01ae-49d9-b46f-b7baa0e21e23"
     },
     {
+      "brand": "THE SKINHOUSE VITA SNAIL FIRST ESSENSE",
+      "indication": "Uses \u25a0 It refreshes and smoothes skin and effectively prepares the next skin care routines.",
+      "manufacturer": "NOKSIBCHO cosmetic Co., Ltd.",
+      "splSetId": "20fcfd5c-7645-453a-a761-d355b0f1efc6"
+    },
+    {
       "brand": "Skin Project Ya Cooling Celluven Mask",
       "indication": "Uses \u25a0 This brightening sheet mask coated by Biocellulose adds high moisturizing and cooling to tired skin. \u25a0 Helps moisturize dehydrated skin \u25a0 Helps improve the brightness skin tone",
       "manufacturer": "Woorhi Mechatronics Co., Ltd.",
       "splSetId": "22fa0f17-2d4a-4fa5-9450-7deca5ae5a36"
     },
     {
+      "brand": "JUVEHEAL B Ampoule",
+      "indication": "Uses \u25a0 Helps charging skin moisture \u25a0 Helps improve skin elasticity",
+      "manufacturer": "J MEDICAL Inter Co., Ltd.",
+      "splSetId": "26319e46-b4ff-4d91-b76e-edf5dec55cb9"
+    },
+    {
       "brand": "LEBODY LAB RENEWAL DUAL EFFECT 24K GOLD SERUM",
       "indication": "Uses Uses: \u25a0 It makes improvement in skin tone evenness and level of brightness.",
       "manufacturer": "GTG Wellness Co., Ltd.",
       "splSetId": "272fad35-db93-465b-869a-6b90f15fb999"
+    },
+    {
+      "brand": "Vitamin B Complex",
+      "indication": "INDICATIONS AND USAGE In disorders requiring parenteral administration of vitamins, i.e. pre- and post-operative treatment, when requirements are increased as in fever, severe burns, increased metabolism, pregnancy, gastrointestinal disorders interfering with intake or absorption of vitamins, prolonged or wasting diseases, alcoholism and where other deficiencies exist.",
+      "manufacturer": "Mylan Institutional LLC",
+      "splSetId": "282ccec8-9bcd-4571-9b91-bbb96ef2620d"
+    },
+    {
+      "brand": "BIBILIP ALOE CICA DUAL MOISTURIZER",
+      "indication": "Uses Uses: Helps brighten skin tone. Helps improve wrinkle problem.",
+      "manufacturer": "GTG Wellness Co., Ltd.",
+      "splSetId": "298cb05e-da38-4238-8046-e5e738397968"
+    },
+    {
+      "brand": "PEDIATRIC INFUVITE MULTIPLE VITAMINS FOR INFUSION",
+      "indication": "1 INDICATIONS AND USAGE INFUVITE PEDIATRIC is a combination of vitamins indicated for the prevention of vitamin deficiency in pediatric patients up to 11 years of age receiving parenteral nutrition. The physician should not await the development of clinical signs of vitamin deficiency before initiating vitamin therapy. INFUVITE PEDIATRIC is a combination of vitamins indicated for the prevention of vitamin deficiency in pediatric patients up to 11 years of age receiving parenteral nutrition ( 1 )",
+      "manufacturer": "Sandoz Manufacturing Inc",
+      "splSetId": "2e3c2e71-a3b8-48bf-8e95-96299424cad5"
+    },
+    {
+      "brand": "COXIR INTENSIVE EGF PEPTIDE",
+      "indication": "Uses \u25a0 Intensive EGF peptide emulsion is formulated with EGF, peptide and collagen for brightening and firming.",
+      "manufacturer": "NOKSIBCHO cosmetic Co., Ltd.",
+      "splSetId": "2f121591-4c13-4824-95d6-bd3ab4ee17c9"
+    },
+    {
+      "brand": "Dr.Different VITALIFT A Eye and Neck",
+      "indication": "Uses \u25a0 Helps brighten skin tone. \u25a0 Helps improve wrinkle problem.",
+      "manufacturer": "Dareun Cosmetics Co., Ltd.",
+      "splSetId": "311b8210-16e8-4771-bcd4-5b64a730b43b"
+    },
+    {
+      "brand": "Dr JmeeLab Double Complex Smile Zone",
+      "indication": "Uses Uses: - Helps prevent winkle - Helps Skin Brightening",
+      "manufacturer": "JMPBIO co., Ltd.",
+      "splSetId": "31bbaf7e-b7f3-4cb7-a8b0-17475ba5dfd6"
+    },
+    {
+      "brand": "OHM-DREN LFT",
+      "indication": "USES: Temporarily relieves slow lymphatic drainage. Assists in removing toxins and improves metabolism.**",
+      "manufacturer": "OHM PHARMA INC.",
+      "splSetId": "31f4eaab-fbd6-4924-b956-c0ff2934fbf0"
+    },
+    {
+      "brand": "COSMEPURE BRIGHTENING CALMING",
+      "indication": "Uses \u25a0 Helps improve trouble relax and good for sensitive skin",
+      "manufacturer": "Cosmogen Co., Ltd.",
+      "splSetId": "3247cccf-a541-4eea-b51e-fd89190ce491"
+    },
+    {
+      "brand": "Cellapy Haircell",
+      "indication": "Helps prevent hair loss and thicken hair. Keeps scalp clean, healthy and smooth.",
+      "manufacturer": "Gm Holdings Co., Ltd",
+      "splSetId": "346bb092-d220-4962-be52-889071614f7d"
     }
   ],
   "id": "Niacinamide",

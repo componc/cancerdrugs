@@ -13,6 +13,7 @@
     "semanticType": "Pharmacologic Substance",
     "subclassOf": [
       "C129822",
+      "C181114",
       "C28227"
     ],
     "synonyms": [

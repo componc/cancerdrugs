@@ -1,5 +1,15 @@
 {
-  "emaEpar": [],
+  "emaEpar": [
+    {
+      "activeSubstance": "Selumetinib sulfate",
+      "conditionIndication": "Koselugo as monotherapy is indicated for the treatment of symptomatic, inoperable plexiform neurofibromas (PN) in paediatric patients with neurofibromatosis type 1 (NF1) aged 3 years and above",
+      "inn": "selumetinib",
+      "marketingAuthorisationDate": "2021-06-17 00:00:00",
+      "marketingAuthorisationHolder": "AstraZeneca AB",
+      "medicineName": "Koselugo",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/koselugo"
+    }
+  ],
   "fdaDrugLabel": [
     {
       "brand": "KOSELUGO",

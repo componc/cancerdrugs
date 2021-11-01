@@ -32,10 +32,22 @@
       "splSetId": "2ccbffbd-4e87-48ad-ae8e-dcdaf04972b4"
     },
     {
+      "brand": "Enviro I",
+      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to food allergies including swelling of the lips, stomach cramps, vomiting, diarrhea, and skin rashes .** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Deseret Biologicals, Inc.",
+      "splSetId": "3222cd2c-a3d6-48ab-adac-313a4de3f6f4"
+    },
+    {
       "brand": "Cardio Tonic",
       "indication": "INDICATIONS: May temporarily relieve nervous anxiety with tiredness, difficulty breathing at night while sleeping, coldness of hands and feet, and swelling of the extremities.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
       "manufacturer": "Energique, Inc.",
       "splSetId": "3b69f1ff-ecfc-48ca-86d8-7130f32cb772"
+    },
+    {
+      "brand": "Grain and Seed Antigens",
+      "indication": "INDICATIONS: May temporarily relieve symptoms associated with grains and seed allergies such as runny nose and sneezing.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "4be0c1b3-f854-441b-854e-4c7c929b3fda"
     },
     {
       "brand": "Allergen I",
@@ -50,6 +62,12 @@
       "splSetId": "6bd3056a-52b4-4165-a0a5-689afa9091dc"
     },
     {
+      "brand": "Chip Cravings",
+      "indication": "HOMEOPATHIC INDICATIONS: Temporary relief of symptoms related to grains and gluten including bowel irregularity, occasional diarrhea, occasional constipation and fatigue.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
+      "manufacturer": "Dr. Donna Restivo DC",
+      "splSetId": "719ef104-88f3-4db5-9c3a-1ac9a1a63c26"
+    },
+    {
       "brand": "Foods",
       "indication": "Uses To help with sensitivities to common foods",
       "manufacturer": "VIATREXX BIO INCORPORATED",
@@ -62,10 +80,16 @@
       "splSetId": "7e19b7ce-74d5-4028-8559-d486057f2953"
     },
     {
-      "brand": "Enviro I",
-      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to food allergies including swelling of the lips, stomach cramps, vomiting, diarrhea, skin rashes or eczema, and wheezing or breathing problems.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
-      "manufacturer": "Deseret Biologicals, Inc.",
-      "splSetId": "91117989-eb31-481b-a4a4-f7b62daca26d"
+      "brand": "Grain and Seed Antigens",
+      "indication": "INDICATIONS: For temporary relief of allergies due to grain and seeds.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "9ad306fe-fce4-4de8-8f34-204e7e03abce"
+    },
+    {
+      "brand": "Grain and Seed Antigens",
+      "indication": "INDICATIONS: May temporarily relieve symptoms associated with grains and seed allergies such as runny nose and sneezing.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "a028eaea-76ef-45db-80e1-d7b4a0655d5e"
     },
     {
       "brand": "Grain and Seed Antigens",

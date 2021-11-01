@@ -5,7 +5,7 @@
   "nciThesaurus": {
     "casRegistry": "733035-26-2",
     "chebiId": "",
-    "chemicalFormula": "",
+    "chemicalFormula": "C28H34N2O4",
     "definition": "A potent inhibitor of the RAS/RAF/MAPK signaling pathway with potential antineoplastic activity. Diazepinomicin binds to and inhibits Ras kinase, thereby preventing the phosphorylation and activation of proteins downstream of the Ras signal transduction pathway, including serine/threonine kinase RAF (BRAF) and extracellular signal-regulated kinases 1 and 2 (ERK1 and ERK-2), that play a crucial role in regulating cell growth and survival. Diazepinomicin also selectively binds to the peripheral benzodiazepine receptor (BZRP), a receptor highly expressed in certain cancer cells, thus inducing cell cycle arrest and apoptosis in BZRP-expressing cells. In addition, diazepinomicin is able to cross the blood-brain barrier, thereby reaching therapeutic concentrations in the brain.",
     "fdaUniiCode": "YPH994Y0RF",
     "identifier": "C62508",

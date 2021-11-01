@@ -25,6 +25,12 @@
       "indication": "1 INDICATIONS AND USAGE REBIF is indicated for the treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults. Rebif is an interferon beta indicated for the treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults. ( 1 )",
       "manufacturer": "EMD Serono, Inc.",
       "splSetId": "c6fcb5d2-8fcd-44fa-a838-b84ee5f44f0f"
+    },
+    {
+      "brand": "Avonex",
+      "indication": "1 INDICATIONS AND USAGE AVONEX is indicated for the treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults. AVONEX is for the treatment of relapsing forms of multiple sclerosis (MS), to include clinically isolated syndrome, relapsing-remitting disease, and active secondary progressive disease, in adults. ( 1 )",
+      "manufacturer": "Biogen Inc.",
+      "splSetId": "d70a39cc-de15-4c12-a1ec-8063b69ea0e1"
     }
   ],
   "id": "Interferon_Beta-1A",

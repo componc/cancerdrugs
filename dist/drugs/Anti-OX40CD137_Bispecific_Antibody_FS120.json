@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Anti-OX40CD137_Bispecific_Antibody_FS120",
+  "nciThesaurus": {
+    "casRegistry": "2377152-39-9",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An immunoglobulin G1 (IgG1) dual-agonist, tetravalent, bispecific monoclonal antibody targeting the two human tumor necrosis factor receptor (TNFR) co-stimulatory receptors OX40 (CD134; tumor necrosis factor receptor superfamily member 4; TNFRSF4) and CD137 (4-1BB; tumor necrosis factor receptor superfamily member 9; TNFRSF9), with potential immunostimulating and antineoplastic activities. Upon administration, anti-OX40/CD137 bispecific antibody FS120 simultaneously targets, binds to, and activates both OX40 and CD137. This may lead to T-cell co-stimulation, induce the proliferation of memory and effector T-lymphocytes and enhance immune-mediated anti-tumor responses. OX40 and CD137, cell surface glycoproteins and members of the TNFRSF, are expressed on T-lymphocytes and natural killer (NK) cells and play an essential role in T-cell activation, differentiation, proliferation, survival and cytolytic activity.",
+    "fdaUniiCode": "CAN96F6UCF",
+    "identifier": "C178418",
+    "preferredName": "Anti-OX40/CD137 Bispecific Antibody FS120",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1454",
+      "C155745",
+      "C96040"
+    ],
+    "synonyms": [
+      "Anti-OX40/Anti-CD137 Bispecific Antibody FS120",
+      "Anti-OX40/CD137 Bispecific Antibody FS120",
+      "Bispecific Antibody FS120",
+      "FS 120",
+      "FS-120",
+      "FS120",
+      "OX40 x CD137 Bispecific Antibody FS120"
+    ]
+  }
+}

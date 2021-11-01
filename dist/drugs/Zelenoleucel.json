@@ -1,0 +1,27 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Zelenoleucel",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A preparation of allogeneic multi-tumor-associated antigen (MultiTAA)-specific T-lymphocytes, with potential immunomodulating and antineoplastic activities. Upon administration, zelenoleucel may target and kill tumor cells expressing the TAAs.",
+    "fdaUniiCode": "L4D9X59F34",
+    "identifier": "C175351",
+    "preferredName": "Zelenoleucel",
+    "semanticType": "Cell",
+    "subclassOf": [
+      "C28676"
+    ],
+    "synonyms": [
+      "Allogeneic MultiTAA-specific T-lymphocytes MT-401",
+      "Donor-Derived Multi-Tumor-Associated Antigen-specific T Cells",
+      "MT 401",
+      "MT-401",
+      "MT401",
+      "ZELENOLEUCEL",
+      "Zelenoleucel"
+    ]
+  }
+}

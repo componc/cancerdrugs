@@ -1,6 +1,15 @@
 {
   "emaEpar": [
     {
+      "activeSubstance": "pemetrexed",
+      "conditionIndication": "Malignant pleural mesotheliomaPemetrexed Hospira in combination with cisplatin is indicated for the treatment of chemotherapy na\u00efve patients with unresectable malignant pleural mesothelioma.Non-small cell lung cancerPemetrexed Hospira in combination with cisplatin is indicated for the first-line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.Pemetrexed Hospira is indicated as monotherapy for the maintenance treatment of locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology in patients whose disease has not progressed immediately following platinum-based chemotherapy.Pemetrexed Hospira is indicated as monotherapy for the second-line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.",
+      "inn": "pemetrexed",
+      "marketingAuthorisationDate": "2015-11-19 01:00:00",
+      "marketingAuthorisationHolder": "Pfizer Europe MA EEIG",
+      "medicineName": "Pemetrexed Hospira",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-hospira"
+    },
+    {
       "activeSubstance": "pemetrexed disodium hemipentahydrate",
       "conditionIndication": "Malignant pleural mesotheliomaPemetrexed Accord in combination with cisplatin is indicated for the treatment of chemotherapy na\u00efve patients with unresectable malignant pleural mesothelioma.Non-small cell lung cancerPemetrexed Accord in combination with cisplatin is indicated for the first line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.Pemetrexed Accord is indicated as monotherapy for the maintenance treatment of locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology in patients whose disease has not progressed immediately following platinum-based chemotherapy.Pemetrexed Accord is indicated as monotherapy for the second line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.",
       "inn": "pemetrexed",
@@ -8,6 +17,33 @@
       "marketingAuthorisationHolder": "Accord Healthcare S.L.U.",
       "medicineName": "Pemetrexed Accord",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-accord"
+    },
+    {
+      "activeSubstance": "pemetrexed disodium hemipentahydrate",
+      "conditionIndication": "Malignant pleural mesotheliomaPemetrexed Sandoz in combination with cisplatin is indicated for the treatment of chemotherapy naive patients with unresectable malignant pleural mesothelioma.Non-small cell lung cancerPemetrexed Sandoz in combination with cisplatin is indicated for the first-line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.Pemetrexed Sandoz is indicated as monotherapy for the maintenance treatment of locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology in patients whose disease has not progressed immediately following platinum-based chemotherapy.Pemetrexed Sandoz is indicated as monotherapy for the second-line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.",
+      "inn": "pemetrexed",
+      "marketingAuthorisationDate": "2015-09-18 00:00:00",
+      "marketingAuthorisationHolder": "Sandoz GmbH",
+      "medicineName": "Pemetrexed Sandoz",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-sandoz"
+    },
+    {
+      "activeSubstance": "pemetrexed diacid monohydrate",
+      "conditionIndication": "Malignant pleural mesotheliomaPemetrexed in combination with cisplatin is indicated for the treatment of chemotherapy na\u00efve patients with unresectable malignant pleural mesothelioma.Non-small cell lung cancerPemetrexed in combination with cisplatin is indicated for the first line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.Pemetrexed is indicated as monotherapy for the maintenance treatment of locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology in patients whose disease has not progressed immediately following platinum-based chemotherapy.Pemetrexed is indicated as monotherapy for the second line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.",
+      "inn": "pemetrexed",
+      "marketingAuthorisationDate": "2016-01-18 01:00:00",
+      "marketingAuthorisationHolder": "Actavis Group PTC ehf",
+      "medicineName": "Armisarte (previously Pemetrexed Actavis)",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/armisarte"
+    },
+    {
+      "activeSubstance": "pemetrexed",
+      "conditionIndication": "Malignant pleural mesotheliomaPemetrexed Lilly in combination with cisplatin is indicated for the treatment of chemotherapy na\u00efve patients with unresectable malignant pleural mesothelioma.Non-small cell lung cancerPemetrexed Lilly in combination with cisplatin is indicated for the first line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.Pemetrexed Lilly is indicated as monotherapy for the maintenance treatment of locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology in patients whose disease has not progressed immediately following platinum-based chemotherapy.Pemetrexed Lilly is indicated as monotherapy for the second line treatment of patients with locally advanced or metastatic non small cell lung cancer other than predominantly squamous cell histology.",
+      "inn": "pemetrexed",
+      "marketingAuthorisationDate": "2015-09-14 00:00:00",
+      "marketingAuthorisationHolder": "Eli Lilly Netherlands",
+      "medicineName": "Pemetrexed Lilly",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-lilly"
     },
     {
       "activeSubstance": "pemetrexed",
@@ -38,39 +74,12 @@
     },
     {
       "activeSubstance": "pemetrexed",
-      "conditionIndication": "Malignant pleural mesotheliomaPemetrexed Hospira in combination with cisplatin is indicated for the treatment of chemotherapy na\u00efve patients with unresectable malignant pleural mesothelioma.Non-small cell lung cancerPemetrexed Hospira in combination with cisplatin is indicated for the first-line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.Pemetrexed Hospira is indicated as monotherapy for the maintenance treatment of locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology in patients whose disease has not progressed immediately following platinum-based chemotherapy.Pemetrexed Hospira is indicated as monotherapy for the second-line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.",
-      "inn": "pemetrexed",
-      "marketingAuthorisationDate": "2015-11-19 01:00:00",
-      "marketingAuthorisationHolder": "Pfizer Europe MA EEIG",
-      "medicineName": "Pemetrexed Hospira",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-hospira"
-    },
-    {
-      "activeSubstance": "pemetrexed",
       "conditionIndication": "Malignant pleural mesothelioma Pemetrexed medac in combination with cisplatin is indicated for the treatment of chemotherapy na\u00efve patients with unresectable malignant pleural mesothelioma.Non-small cell lung cancer Pemetrexed medac in combination with cisplatin is indicated for the first line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.Pemetrexed medac is indicated as monotherapy for the maintenance treatment of locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology in patients whose disease has not progressed immediately following platinum-based chemotherapy.Pemetrexed medac is indicated as monotherapy for the second line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.",
       "inn": "pemetrexed",
       "marketingAuthorisationDate": "2015-11-26 01:00:00",
       "marketingAuthorisationHolder": "medac Gesellschaft f\u00fcr klinische Spezialpr\u00e4parate mbH",
       "medicineName": "Pemetrexed medac",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-medac"
-    },
-    {
-      "activeSubstance": "pemetrexed diacid monohydrate",
-      "conditionIndication": "Malignant pleural mesothelioma, , Pemetrexed in combination with cisplatin is indicated for the treatment of chemotherapy na\u00efve patients with unresectable malignant pleural mesothelioma., , Non-small cell lung cancer, , Pemetrexed in combination with cisplatin is indicated for the first line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology., , Pemetrexed is indicated as monotherapy for the maintenance treatment of locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology in patients whose disease has not progressed immediately following platinum-based chemotherapy., , Pemetrexed is indicated as monotherapy for the second line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology., ",
-      "inn": "pemetrexed",
-      "marketingAuthorisationDate": "2016-01-18 01:00:00",
-      "marketingAuthorisationHolder": "Actavis Group PTC ehf",
-      "medicineName": "Armisarte (previously Pemetrexed Actavis)",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/armisarte"
-    },
-    {
-      "activeSubstance": "pemetrexed disodium hemipentahydrate",
-      "conditionIndication": "Malignant pleural mesothelioma, , Pemetrexed Sandoz in combination with cisplatin is indicated for the treatment of chemotherapy naive patients with unresectable malignant pleural mesothelioma.Non-small cell lung cancer, , Pemetrexed Sandoz in combination with cisplatin is indicated for the first-line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology., Pemetrexed Sandoz is indicated as monotherapy for the maintenance treatment of locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology in patients whose disease has not progressed immediately following platinum-based chemotherapy., Pemetrexed Sandoz is indicated as monotherapy for the second-line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology., ",
-      "inn": "pemetrexed",
-      "marketingAuthorisationDate": "2015-09-18 00:00:00",
-      "marketingAuthorisationHolder": "Sandoz GmbH",
-      "medicineName": "Pemetrexed Sandoz",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-sandoz"
     },
     {
       "activeSubstance": "pemetrexed disodium hemipentahydrate",
@@ -80,24 +89,6 @@
       "marketingAuthorisationHolder": "Menarini International Operations Luxembourg S.A.",
       "medicineName": "Ciambra",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/ciambra"
-    },
-    {
-      "activeSubstance": "pemetrexed",
-      "conditionIndication": "Malignant pleural mesotheliomaPemetrexed Lilly in combination with cisplatin is indicated for the treatment of chemotherapy na\u00efve patients with unresectable malignant pleural mesothelioma.Non-small cell lung cancerPemetrexed Lilly in combination with cisplatin is indicated for the first line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology.Pemetrexed Lilly is indicated as monotherapy for the maintenance treatment of locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology in patients whose disease has not progressed immediately following platinum-based chemotherapy.Pemetrexed Lilly is indicated as monotherapy for the second line treatment of patients with locally advanced or metastatic non small cell lung cancer other than predominantly squamous cell histology.",
-      "inn": "pemetrexed",
-      "marketingAuthorisationDate": "2015-09-14 00:00:00",
-      "marketingAuthorisationHolder": "Eli Lilly Netherlands",
-      "medicineName": "Pemetrexed Lilly",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-lilly"
-    },
-    {
-      "activeSubstance": "pemetrexed ditromethamine",
-      "conditionIndication": "Malignant pleural mesothelioma, , Pemetrexed Hospira UK Limited in combination with cisplatin is indicated for the treatment of chemotherapy na\u00efve patients with unresectable malignant pleural mesothelioma., , Non-small cell lung cancer, , Pemetrexed Hospira UK Limited in combination with cisplatin is indicated for the first-line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology (see SmPC section 5.1)., , Pemetrexed Hospira UK Limited is indicated as monotherapy for the maintenance treatment of locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology in patients whose disease has not progressed immediately following platinum-based chemotherapy (see SmPC section 5.1)., , Pemetrexed Hospira UK Limited is indicated as monotherapy for the second-line treatment of patients with locally advanced or metastatic non-small cell lung cancer other than predominantly squamous cell histology (see SmPC section 5.1)., ",
-      "inn": "pemetrexed",
-      "marketingAuthorisationDate": "2017-04-24 00:00:00",
-      "marketingAuthorisationHolder": "Pfizer Europe MA EEIG",
-      "medicineName": "Pemetrexed Pfizer (previously known as Pemetrexed Hospira UK Limited)",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pemetrexed-pfizer-previously-known-pemetrexed-hospira-uk-limited"
     }
   ],
   "fdaDrugLabel": [],

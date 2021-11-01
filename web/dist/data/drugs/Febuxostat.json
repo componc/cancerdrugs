@@ -2,10 +2,10 @@
   "emaEpar": [
     {
       "activeSubstance": "febuxostat",
-      "conditionIndication": "Febuxostat Mylan is indicated for the prevention and treatment of hyperuricaemia in adult patients undergoing chemotherapy for haematologic malignancies at intermediate to high risk of Tumor Lysis Syndrome (TLS)., , Febuxostat Mylan is indicated for the treatment of chronic hyperuricaemia in conditions where urate deposition has already occurred (including a history, or presence of, tophus and/or gouty arthritis)., , Febuxostat Mylan is indicated in adults., ",
+      "conditionIndication": "Febuxostat Mylan is indicated for the prevention and treatment of hyperuricaemia in adult patients undergoing chemotherapy for haematologic malignancies at intermediate to high risk of Tumor Lysis Syndrome (TLS).Febuxostat Mylan is indicated for the treatment of chronic hyperuricaemia in conditions where urate deposition has already occurred (including a history, or presence of, tophus and/or gouty arthritis).Febuxostat Mylan is indicated in adults.",
       "inn": "febuxostat",
       "marketingAuthorisationDate": "2017-06-15 00:00:00",
-      "marketingAuthorisationHolder": "Mylan S.A.S",
+      "marketingAuthorisationHolder": "Mylan Pharmaceuticals Limited",
       "medicineName": "Febuxostat Mylan",
       "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/febuxostat-mylan"
     },
@@ -88,6 +88,18 @@
       "indication": "1 INDICATIONS AND USAGE ULORIC is a xanthine oxidase (XO) inhibitor indicated for the chronic management of hyperuricemia in adult patients with gout who have an inadequate response to a maximally titrated dose of allopurinol, who are intolerant to allopurinol, or for whom treatment with allopurinol is not advisable. For the safe and effective use of allopurinol, see allopurinol prescribing information. ULORIC is a xanthine oxidase (XO) inhibitor indicated for the chronic management of hyperuricemia in adult patients with gout who have an inadequate response to a maximally titrated dose of allopurinol, who are intolerant to allopurinol, or for whom treatment with allopurinol is not advisable. ( 1 ) For the safe and effective use of allopurinol, see allopurinol prescribing information. Limitations of Use : ULORIC is not recommended for the treatment of asymptomatic hyperuricemia. ( 1 ) Limitations of Use : ULORIC is not recommended for the treatment of asymptomatic hyperuricemia.",
       "manufacturer": "Takeda Pharmaceuticals America, Inc.",
       "splSetId": "54de10ef-fe5f-4930-b91d-6bbb04c664bd"
+    },
+    {
+      "brand": "FEBUXOSTAT",
+      "indication": "1 INDICATIONS AND USAGE Febuxostat tablet is a xanthine oxidase (XO) inhibitor indicated for the chronic management of hyperuricemia in adult patients with gout who have an inadequate response to a maximally titrated dose of allopurinol, who are intolerant to allopurinol, or for whom treatment with allopurinol is not advisable. For the safe and effective use of allopurinol, see allopurinol prescribing information. Febuxostat tablet is a xanthine oxidase (XO) inhibitor indicated for the chronic management of hyperuricemia in adult patients with gout who have an inadequate response to a maximally titrated dose of allopurinol, who are intolerant to allopurinol, or for whom treatment with allopurinol is not advisable. ( 1 ) For the safe and effective use of allopurinol, see allopurinol prescribing information. Limitations of Use : Febuxostat tablets are not recommended for the treatment of asymptomatic hyperuricemia. ( 1 ) Limitations of Use : Febuxostat tablets are not recommended for the treatment of asymptomatic hyperuricemia.Febuxostat tablets are not recommended for the treatment of asymptomatic hyperuricemia.",
+      "manufacturer": "Lannett Company, Inc.",
+      "splSetId": "73b07a94-c044-42dc-abe4-7d7c860c9638"
+    },
+    {
+      "brand": "Febuxostat",
+      "indication": "1 INDICATIONS AND USAGE Febuxostat tablets are xanthine oxidase (XO) inhibitor indicated for the chronic management of hyperuricemia in adult patients with gout who have an inadequate response to a maximally titrated dose of allopurinol, who are intolerant to allopurinol, or for whom treatment with allopurinol is not advisable. For the safe and effective use of allopurinol, see allopurinol prescribing information. Febuxostat tablets are xanthine oxidase (XO) inhibitor indicated for the chronic management of hyperuricemia in adult patients with gout who have an inadequate response to a maximally titrated dose of allopurinol, who are intolerant to allopurinol, or for whom treatment with allopurinol is not advisable. ( 1 ) For the safe and effective use of allopurinol, see allopurinol prescribing information. Limitations of Use : Febuxostat tablets is not recommended for the treatment of asymptomatic hyperuricemia. ( 1 ) Limitations of Use : Febuxostat tablets is not recommended for the treatment of asymptomatic hyperuricemia.",
+      "manufacturer": "Aphena Pharma Solutions - Tennessee, LLC",
+      "splSetId": "8ed19d23-b91c-4e5a-b1c5-24e355b8c0a4"
     },
     {
       "brand": "Febuxostat",

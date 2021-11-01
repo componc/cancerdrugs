@@ -1,0 +1,31 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [
+    {
+      "brand": "Pepaxto",
+      "indication": "1 INDICATIONS AND USAGE PEPAXTO is indicated in combination with dexamethasone for the treatment of adult patients with relapsed or refractory multiple myeloma who have received at least four prior lines of therapy and whose disease is refractory to at least one proteasome inhibitor, one immunomodulatory agent, and one CD38-directed monoclonal antibody. This indication is approved under accelerated approval based on response rate. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s) [see Clinical Studies (14) ] . PEPAXTO is an alkylating drug indicated in combination with dexamethasone, for the treatment of adult patients with relapsed or refractory multiple myeloma who have received at least four prior lines of therapy and whose disease is refractory to at least one proteasome inhibitor, one immunomodulatory agent, and one CD38-directed monoclonal antibody. ( 1 ) This indication is approved under accelerated approval based on response rate. Continued approval for this indication may be contingent upon verification and description of clinical benefit in confirmatory trial(s). ( 1 ) Limitations of Use : PEPAXTO is not indicated and is not recommended for use as a conditioning regimen for transplant outside of controlled clinical trials. ( 1 , 5.5 ) Limitations of Use PEPAXTO is not indicated and is not recommended for use as a conditioning regimen for transplant outside of controlled clinical trials [see Warnings and Precautions (5.5) ].",
+      "manufacturer": "Oncopeptides, AB",
+      "splSetId": "321f455b-1de8-45bd-96f8-1bf14337f4e9"
+    }
+  ],
+  "id": "Melphalan_Flufenamide_Hydrochloride",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "The hydrochloride salt form of melphalan flufenamide, a peptide-drug conjugate composed of a peptide conjugated, via an aminopeptidase-targeting linkage, to the alkylating agent melphalan, with potential antineoplastic and anti-angiogenic activities. Upon administration, the highly lipophilic melphalan flufenamide penetrates cell membranes and enters cells. In aminopeptidase-positive tumor cells, melphalan flufenamide is hydrolyzed by peptidases to release the hydrophilic alkylating agent melphalan. This results in the specific release and accumulation of melphalan in aminopeptidase-positive tumor cells. Melphalan alkylates DNA at the N7 position of guanine residues and induces DNA intra- and inter-strand cross-linkages. This results in the inhibition of DNA and RNA synthesis and the induction of apoptosis, thereby inhibiting tumor cell proliferation. Peptidases are overexpressed by certain cancer cells. The administration of melphalan flufenamide allows for enhanced efficacy and reduced toxicity compared to melphalan.",
+    "fdaUniiCode": "3412470A0V",
+    "identifier": "C175815",
+    "preferredName": "Melphalan Flufenamide Hydrochloride",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1742",
+      "C697"
+    ],
+    "synonyms": [
+      "MELPHALAN FLUFENAMIDE HYDROCHLORIDE",
+      "Melphalan Flufenamide Hydrochloride",
+      "Pepaxto"
+    ]
+  }
+}

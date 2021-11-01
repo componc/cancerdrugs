@@ -1,0 +1,29 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pirtobrutinib",
+  "nciThesaurus": {
+    "casRegistry": "2101700-15-4",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "An orally available, selective, non-covalent Bruton's tyrosine kinase (BTK) inhibitor with potential antineoplastic activity. Upon oral administration, pirtobrutinib selectively and reversibly binds to BTK. This prevents both the activation of the B-cell antigen receptor (BCR) signaling pathway and BTK-mediated activation of downstream survival pathways, thereby inhibiting the growth of malignant B-cells that overexpress BTK. Reversible binding of LOXO-305 may preserve antitumor activity in the presence of certain acquired resistance mutations, including C481 mutated BTK, and limit toxicity associated with inhibition of other non-BTK kinases. BTK, a member of the Src-related BTK/Tec family of cytoplasmic tyrosine kinases, is overexpressed or mutated in B-cell malignancies; it plays an important role in the development, activation, signaling, proliferation and survival of B-lymphocytes.",
+    "fdaUniiCode": "JNA39I7ZVB",
+    "identifier": "C158617",
+    "preferredName": "Pirtobrutinib",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C124801",
+      "C129825"
+    ],
+    "synonyms": [
+      "5-Amino-3-(4-((5-fluoro-2-methoxybenzamido)methyl)phenyl)-1-((2S)-1,1,1-trifluoropropan-2-yl)-1h-pyrazole-4-carboxamide",
+      "BTK Inhibitor LOXO-305",
+      "LOXO 305",
+      "LOXO-305",
+      "LOXO305",
+      "LY3527727",
+      "PIRTOBRUTINIB",
+      "Pirtobrutinib"
+    ]
+  }
+}

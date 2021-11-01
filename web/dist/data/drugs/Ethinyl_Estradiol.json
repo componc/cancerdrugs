@@ -68,6 +68,12 @@
       "splSetId": "44fbc5ae-5682-471f-a12a-955e8b4d233a"
     },
     {
+      "brand": "NuvaRing",
+      "indication": "1 INDICATIONS AND USAGE FOR VAGINAL USE ONLY NuvaRing \u00ae is indicated for use by females of reproductive age to prevent pregnancy. NuvaRing is an estrogen/progestin combination hormonal contraceptive (CHC) indicated for use by women to prevent pregnancy. ( 1 )",
+      "manufacturer": "Organon LLC",
+      "splSetId": "55eb60e3-6f4d-40a3-8ee6-e7fd2d0c7d97"
+    },
+    {
       "brand": "Norethindrone Acetate and Ethinyl Estradiol",
       "indication": "INDICATIONS AND USAGE Norethindrone acetate and ethinyl estradiol tablets are indicated for the prevention of pregnancy in women who elect to use oral contraceptives as a method of contraception. Oral contraceptives are highly effective. Table I lists the typical accidental pregnancy rates for users of combination oral contraceptives and other methods of contraception. The efficacy of these contraceptive methods, except sterilization, depends upon the reliability with which they are used. Correct and consistent use of methods can result in lower failure rates. TABLE I LOWEST EXPECTED AND TYPICAL FAILURE RATES DURING THE FIRST YEAR OF CONTINUOUS USE OF A METHOD % of Women Experiencing an Unintended Pregnancy in the First Year of Continuous Use Method Lowest Expected* Typical** (No contraception) (85) (85) Oral contraceptives 3 combined 0.1 N/A*** progestin only 0.5 N/A*** Diaphragm with spermicidal cream or jelly 6 20 Spermicides alone (foam, creams, gels, vaginal suppositories, and vaginal film) 6 26 Vaginal Sponge nulliparous 9 20 parous 20 40 Implant 0.05 0.05 Injection: depot medroxyprogesterone acetate 0.3 0.3 IUD progesterone T 1.5 2 copper T 380A 0.6 0.8 LNg 20 0.1 0.1 Condom without spermicides female 5 21 male 3 14 Cervical Cap with spermicidal cream or jelly nulliparous 9 20 parous 26 40 Periodic abstinence (all methods) 1 to 9 25 Withdrawal 4 19 Female sterilization 0.5 0.5 Male sterilization 0.1 0.15 Adapted from RA Hatcher et al, Reference 7. *The authors' best guess of the percentage of women expected to experience an accidental pregnancy among couples who initiate a method (not necessarily for the first time) and who use it consistently and correctly during the first year if they do not stop for any other reason. **This term represents \u201ctypical\u201d couples who initiate use of a method (not necessarily for the first time), who experience an accidental pregnancy during the first year if they do not stop use for any other reason. ***N/A-Data not available.",
       "manufacturer": "Glenmark Pharmaceuticals Inc., USA",
@@ -156,6 +162,12 @@
       "indication": "1 INDICATIONS AND USAGE Jinteli is an estrogen plus progestin indicated in a woman with a uterus for: Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause ( 1.1 ) Prevention of Postmenopausal Osteoporosis ( 1.2 ) 1.1 Treatment of Moderate to Severe Vasomotor Symptoms due to Menopause . 1.2 Prevention of Postmenopausal Osteoporosis Limitation of Use When prescribing solely for the prevention of postmenopausal osteoporosis, therapy should only be considered for women at significant risk of osteoporosis and non-estrogen medication should be carefully considered.",
       "manufacturer": "Teva Pharmaceuticals USA, Inc.",
       "splSetId": "d667ca75-1a17-43fc-9077-f25ce0908f8d"
+    },
+    {
+      "brand": "NUVARING",
+      "indication": "1 INDICATIONS AND USAGE FOR VAGINAL USE ONLY NuvaRing \u00ae is indicated for use by females of reproductive age to prevent pregnancy. NuvaRing is an estrogen/progestin combination hormonal contraceptive (CHC) indicated for use by women to prevent pregnancy. ( 1 )",
+      "manufacturer": "A-S Medication Solutions",
+      "splSetId": "e14bc197-dd22-4e6e-8aa1-d6cf2242fe0f"
     },
     {
       "brand": "Etonogestrel/Ethinyl Estradiol",

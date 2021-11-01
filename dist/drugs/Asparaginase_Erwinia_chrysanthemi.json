@@ -1,13 +1,6 @@
 {
   "emaEpar": [],
-  "fdaDrugLabel": [
-    {
-      "brand": "ERWINAZE",
-      "indication": "1 INDICATIONS AND USAGE ERWINAZE is indicated as a component of a multi-agent chemotherapeutic regimen for the treatment of patients with acute lymphoblastic leukemia (ALL) who have developed hypersensitivity to E. coli -derived asparaginase. ERWINAZE is an asparagine specific enzyme indicated as a component of a multi-agent chemotherapeutic regimen for the treatment of patients with acute lymphoblastic leukemia (ALL) who have developed hypersensitivity to E. coli -derived asparaginase. ( 1 )",
-      "manufacturer": "Jazz Pharmaceuticals, Inc.",
-      "splSetId": "30bdf2ea-008b-4cbb-81e4-c3474f2ad286"
-    }
-  ],
+  "fdaDrugLabel": [],
   "id": "Asparaginase_Erwinia_chrysanthemi",
   "nciThesaurus": {
     "casRegistry": "9015-68-3",

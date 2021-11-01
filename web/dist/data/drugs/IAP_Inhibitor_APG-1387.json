@@ -12,8 +12,7 @@
     "preferredName": "IAP Inhibitor APG-1387",
     "semanticType": "Pharmacologic Substance",
     "subclassOf": [
-      "C129825",
-      "C93259"
+      "C129839"
     ],
     "synonyms": [
       "APG 1387",

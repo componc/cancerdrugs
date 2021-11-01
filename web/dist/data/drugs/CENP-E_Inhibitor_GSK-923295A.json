@@ -1,0 +1,28 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "CENP-E_Inhibitor_GSK-923295A",
+  "nciThesaurus": {
+    "casRegistry": "1088965-37-0",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A small-molecule inhibitor of the mitotic kinesin centromere-associated protein E (CENP-E), with potential antineoplastic activity. Upon administration, GSK-923295A binds to and inhibits CENP-E, thereby preventing cell division, inducing cell cycle arrest, and ultimately leading to an inhibition of cell proliferation. CENP-E, a kinetochore-associated mitotic kinesin, plays an essential role in chromosome movement during mitosis and regulates cell-cycle transition from metaphase to anaphase.",
+    "fdaUniiCode": "072702W9QD",
+    "identifier": "C91080",
+    "preferredName": "CENP-E Inhibitor GSK-923295A",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C273"
+    ],
+    "synonyms": [
+      "CENP-E Inhibitor GSK-923295A",
+      "Centromere-Associated Protein E Inhibitor GSK-923295",
+      "GSK 923295",
+      "GSK 923295A",
+      "GSK-923295",
+      "GSK-923295A",
+      "GSK923295",
+      "GSK923295A"
+    ]
+  }
+}

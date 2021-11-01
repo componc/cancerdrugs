@@ -1,15 +1,5 @@
 {
-  "emaEpar": [
-    {
-      "activeSubstance": "Moxetumomab pasudotox",
-      "conditionIndication": "Lumoxiti as monotherapy is indicated for the treatment of adult patients with relapsed or refractory hairy cell leukaemia (HCL) after receiving at least two prior systemic therapies, including treatment with a purine nucleoside analogue (PNA).",
-      "inn": "moxetumomab pasudotox",
-      "marketingAuthorisationDate": "2021-02-08 01:00:00",
-      "marketingAuthorisationHolder": "AstraZeneca AB",
-      "medicineName": "Lumoxiti",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/lumoxiti"
-    }
-  ],
+  "emaEpar": [],
   "fdaDrugLabel": [
     {
       "brand": "LUMOXITI",

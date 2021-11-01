@@ -13,7 +13,8 @@
     "semanticType": "Pharmacologic Substance",
     "subclassOf": [
       "C307",
-      "C308"
+      "C308",
+      "C783"
     ],
     "synonyms": [
       ".ALPHA.1-PROTEINASE INHIBITOR HUMAN",

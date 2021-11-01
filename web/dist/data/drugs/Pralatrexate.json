@@ -3,6 +3,12 @@
   "fdaDrugLabel": [
     {
       "brand": "Folotyn",
+      "indication": "1 INDICATIONS AND USAGE FOLOTYN is indicated for the treatment of patients with relapsed or refractory peripheral T-cell lymphoma (PTCL). This indication is based on overall response rate. Clinical benefit such as improvement in progression-free survival or overall survival has not been demonstrated. FOLOTYN is a folate analog metabolic inhibitor indicated for the treatment of patients with relapsed or refractory peripheral T-cell lymphoma (PTCL). This indication is based on overall response rate. Clinical benefit such as improvement in progression-free survival or overall survival has not been demonstrated. ( 1 )",
+      "manufacturer": "Allos Therapeutics",
+      "splSetId": "5e4cf15b-bf7b-4b83-863e-e9ef27741a51"
+    },
+    {
+      "brand": "Folotyn",
       "indication": "1 INDICATIONS AND USAGE FOLOTYN is indicated for the treatment of patients with relapsed or refractory peripheral T-cell lymphoma (PTCL). This indication is approved under accelerated approval based on overall response rate [ see Clinical Studies (14) ] . Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). FOLOTYN is a dihydrofolate reductase inhibitor indicated for the treatment of patients with relapsed or refractory peripheral T-cell lymphoma (PTCL). This indication is approved under accelerated approval based on overall response rate. Continued approval for this indication may be contingent upon verification and description of clinical benefit in a confirmatory trial(s). ( 1 )",
       "manufacturer": "Acrotech Biopharma LLC",
       "splSetId": "9f3d9c4d-9386-4451-b712-0fbdc5478d8f"

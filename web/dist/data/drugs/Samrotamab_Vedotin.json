@@ -6,7 +6,7 @@
     "casRegistry": "2052649-42-8",
     "chebiId": "",
     "chemicalFormula": "",
-    "definition": "An antibody-drug conjugate (ADC) composed of a proprietary monoclonal antibody against a tumor-associated antigen (TAA) linked to an as of yet undisclosed cytotoxic agent, with potential antineoplastic activity. Upon intravenous administration, the monoclonal antibody moiety of ABBV-085 targets and binds to the TAA expressed on tumor cells. Upon binding and internalization, the cytotoxic agent is released and kills the TAA-expressing cancer cells, through an as of yet unknown mechanism of action.",
+    "definition": "An antibody-drug conjugate (ADC) composed of a humanized monoclonal antibody against leucine-rich repeat containing 15 (LRRC15) linked, via the protease-cleavable valine-citrulline linker, to the microtubule-disrupting cytotoxic agent monomethyl auristatin E (MMAE), with potential antineoplastic activity. Upon administration of samrotamab vedotin, the samrotamab moiety targets and binds to LRRC15 expressed on cancer-associated fibroblasts (CAFs) and tumor cells. Upon binding and internalization, MMAE is released after proteolytic cleavage. MMAE targets and binds to tubulin, and inhibits microtubule polymerization. This results in G2/M phase cell cycle arrest and apoptosis in LRRC15-expressing CAFs and tumor cells. LRRC15, a type I membrane protein and a member of the LRR superfamily, is highly expressed on CAFs in the tumor microenvironment (TME) within some tumor stroma and on tumor cells in certain tumors.",
     "fdaUniiCode": "SY5HF6N5MB",
     "identifier": "C124134",
     "preferredName": "Samrotamab Vedotin",

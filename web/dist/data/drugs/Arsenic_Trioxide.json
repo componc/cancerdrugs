@@ -2,16 +2,16 @@
   "emaEpar": [
     {
       "activeSubstance": "Arsenic trioxide",
-      "conditionIndication": "Arsenic trioxide medac is indicated for induction of remission, and consolidation in adult patients with:Newly diagnosed low-to-intermediate risk acute promyelocytic leukaemia (APL) (white blood cell count, \u2264 10 x 10\u00b3/\u03bcl) in combination with all-trans-retinoic acid (ATRA)Relapsed/refractory APL (previous treatment should have included a retinoid and chemotherapy) characterised by the presence of the t(15;17) translocation and/or the presence of the pro-myelocytic leukaemia/retinoic-acid-receptor-alpha (PML/RAR\u03b1) gene.The response rate of other acute myelogenous leukaemia subtypes to arsenic trioxide has not been examined.",
+      "conditionIndication": "Arsenic trioxide Mylan is indicated for induction of remission, and consolidation in adult patients with:- Newly diagnosed low to intermediate risk acute promyelocytic leukaemia (APL) (white blood cell count, \u2264 10 x 103/\u03bcl) in combination with all trans retinoic acid (ATRA)- Relapsed/refractory acute promyelocytic leukaemia (APL) (Previous treatment should have included a retinoid and chemotherapy)characterised by the presence of the t(15;17) translocation and/or the presence of the promyelocytic leukaemia/retinoic acid receptor alpha (PML/RAR alpha) gene.The response rate of other acute myelogenous leukaemia subtypes to arsenic trioxide has not beenexamined.",
       "inn": "arsenic trioxide",
-      "marketingAuthorisationDate": "2020-09-17 00:00:00",
-      "marketingAuthorisationHolder": "medac Gesellschaft f\u00fcr klinische Spezialpr\u00e4parate mbH",
-      "medicineName": "Arsenic trioxide medac",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/arsenic-trioxide-medac"
+      "marketingAuthorisationDate": "2020-04-01 00:00:00",
+      "marketingAuthorisationHolder": "Mylan Ireland Limited",
+      "medicineName": "Arsenic trioxide Mylan",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/arsenic-trioxide-mylan"
     },
     {
       "activeSubstance": "Arsenic trioxide",
-      "conditionIndication": "Arsenic trioxide is indicated for induction of remission, and consolidation in adult patients with:, , Newly diagnosed low-to-intermediate risk acute promyelocytic leukaemia (APL) (white blood cell count, \u2264 10 x 103/\u03bcl) in combination with all-trans-retinoic acid (ATRA), \tRelapsed/refractory acute promyelocytic leukaemia (APL)(Previous treatment should have included a retinoid and chemotherapy) characterised by the presence of the t(15;17) translocation and/or the presence of the promyelocytic leukaemia/retinoic-acid-receptor-alpha (PML/RAR-alpha) gene., \tThe response rate of other acute myelogenous leukaemia subtypes to arsenic trioxide has not been examined., ",
+      "conditionIndication": "Arsenic trioxide is indicated for induction of remission, and consolidation in adult patients with:Newly diagnosed low-to-intermediate risk acute promyelocytic leukaemia (APL) (white blood cell count, \u2264 10 x 103/\u03bcl) in combination with all-trans-retinoic acid (ATRA)Relapsed/refractory acute promyelocytic leukaemia (APL)(Previous treatment should have included a retinoid and chemotherapy) characterised by the presence of the t(15;17) translocation and/or the presence of the promyelocytic leukaemia/retinoic-acid-receptor-alpha (PML/RAR-alpha) gene.The response rate of other acute myelogenous leukaemia subtypes to arsenic trioxide has not been examined.",
       "inn": "arsenic trioxide",
       "marketingAuthorisationDate": "2019-11-14 01:00:00",
       "marketingAuthorisationHolder": "Accord Healthcare S.L.U.",
@@ -20,12 +20,12 @@
     },
     {
       "activeSubstance": "Arsenic trioxide",
-      "conditionIndication": "Arsenic trioxide Mylan is indicated for induction of remission, and consolidation in adult patients with:- Newly diagnosed low to intermediate risk acute promyelocytic leukaemia (APL) (white blood cell count, \u2264 10 x 103/\u03bcl) in combination with all trans retinoic acid (ATRA)- Relapsed/refractory acute promyelocytic leukaemia (APL) (Previous treatment should have included a retinoid and chemotherapy)characterised by the presence of the t(15;17) translocation and/or the presence of the promyelocytic leukaemia/retinoic acid receptor alpha (PML/RAR alpha) gene.The response rate of other acute myelogenous leukaemia subtypes to arsenic trioxide has not beenexamined.",
+      "conditionIndication": "Arsenic trioxide medac is indicated for induction of remission, and consolidation in adult patients with:Newly diagnosed low-to-intermediate risk acute promyelocytic leukaemia (APL) (white blood cell count, \u2264 10 x 10\u00b3/\u03bcl) in combination with all-trans-retinoic acid (ATRA)Relapsed/refractory APL (previous treatment should have included a retinoid and chemotherapy) characterised by the presence of the t(15;17) translocation and/or the presence of the pro-myelocytic leukaemia/retinoic-acid-receptor-alpha (PML/RAR\u03b1) gene.The response rate of other acute myelogenous leukaemia subtypes to arsenic trioxide has not been examined.",
       "inn": "arsenic trioxide",
-      "marketingAuthorisationDate": "2020-04-01 00:00:00",
-      "marketingAuthorisationHolder": "Mylan Ireland Limited",
-      "medicineName": "Arsenic trioxide Mylan",
-      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/arsenic-trioxide-mylan"
+      "marketingAuthorisationDate": "2020-09-17 00:00:00",
+      "marketingAuthorisationHolder": "medac Gesellschaft f\u00fcr klinische Spezialpr\u00e4parate mbH",
+      "medicineName": "Arsenic trioxide medac",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/arsenic-trioxide-medac"
     },
     {
       "activeSubstance": "Arsenic trioxide",
@@ -43,12 +43,6 @@
       "indication": "Directions: FOR ORAL USE ONLY.",
       "manufacturer": "Uriel Pharmacy Inc.",
       "splSetId": "0002a6ef-6e5e-4a34-95d5-ebaab222496f"
-    },
-    {
-      "brand": "Focus",
-      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to attention deficit including hyperactivity and poor concentration.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
-      "manufacturer": "Deseret Biologicals, Inc.",
-      "splSetId": "0012578b-66ff-49a8-8415-693c68ab9c16"
     },
     {
       "brand": "Sciatic Nerve Formula",
@@ -171,12 +165,6 @@
       "splSetId": "07d2988b-5012-481c-9b48-a709c33d2979"
     },
     {
-      "brand": "Insecticides/Pest/Food Additives Detox",
-      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to food additives, herbicides and insecticides including muscle weakness, skin irritation, poor muscle coordination, headache, cough, diarrhea, dizziness, fatigue, fever, stomach pain and vomiting.** **These statements are based upon homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
-      "manufacturer": "Dr. Donna Restivo DC",
-      "splSetId": "08c310fb-d0d6-4396-9982-55c348809433"
-    },
-    {
       "brand": "BAC HP",
       "indication": "INDICATIONS: For temporary relief of symptoms of chronic swelling and inflammation of lymph nodes. ** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
       "manufacturer": "Energique, Inc.",
@@ -189,10 +177,10 @@
       "splSetId": "09a75182-6939-4e2b-a61a-9c58c9e9284e"
     },
     {
-      "brand": "Bio-Immune",
-      "indication": "INDICATIONS: For temporary relief of bacterial and viral conditions.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
+      "brand": "Psora Miasm",
+      "indication": "INDICATIONS: May temporarily relieve itching of the itching skin, eruption on the scalp and bends of joints with itching, skin that is dry, scaly, and general exhaustion.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
       "manufacturer": "Energique, Inc.",
-      "splSetId": "0b2249a0-9657-451b-a6d1-383fc168a7b6"
+      "splSetId": "09f54674-1e8b-4d2c-aa47-21bc4040f8ee"
     },
     {
       "brand": "Skin Infections",
@@ -223,12 +211,6 @@
       "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms such as poor digestion, bloating and stress.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
       "manufacturer": "Deseret Biologicals, Inc.",
       "splSetId": "0d1ef705-94b1-433d-887e-c0731140f1ea"
-    },
-    {
-      "brand": "Perfect Sleep",
-      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of the symptoms of sleeplessness such as tiredness, fatigue, and lack of energy.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
-      "manufacturer": "Deseret Biologicals, Inc.",
-      "splSetId": "0d91cfa4-6533-4a86-9aad-b9b6b9bd7040"
     },
     {
       "brand": "ARSENICUM ALBUM",
@@ -321,6 +303,18 @@
       "splSetId": "125d7369-f384-4bc1-a1a3-40e8d6a9ea8c"
     },
     {
+      "brand": "Industristat",
+      "indication": "INDICATIONS: May temporarily relieve symptoms associated with industrial pollutants, such as cough, sensation of looseness in chest, rhinitis, and hoarseness with rough scraped feeling in the throat.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "1279a90c-6263-4ca6-87e1-4b31a36854bb"
+    },
+    {
+      "brand": "Gastropar",
+      "indication": "INDICATIONS: May temporarily relieve indigestion, flatulence, nausea, retching, vomiting after eating or drinking, and minor burning in the stomach.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "128b917d-2d92-4c41-bbc4-09f916b822a5"
+    },
+    {
       "brand": "Vertitone",
       "indication": "INDICATIONS: May temporarily relieve dizziness and motion sickness with nausea.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
       "manufacturer": "Energique, Inc.",
@@ -363,10 +357,22 @@
       "splSetId": "16ee1833-db7c-46fe-e054-00144ff88e88"
     },
     {
+      "brand": "Lymph HP",
+      "indication": "INDICATIONS: May temporarily relieve symptoms associated with bacterial and viral conditions, such as chronic fever and cough.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "17aa9d9c-3d32-4963-91db-d1e96717e7ad"
+    },
+    {
       "brand": "Bio-Immune",
       "indication": "INDICATIONS: May temporarily relieve symptoms associated with bacterial and viral conditions, such as fever and chills, and cough.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
       "manufacturer": "Energique, Inc.",
       "splSetId": "17b5ee2c-20e6-47d1-96f3-aedc5328d2ba"
+    },
+    {
+      "brand": "Sinusforce",
+      "indication": "INDICATIONS: For temporary relief of allergic rhinitis with runny nose, nasal mucus with yellow-green discharge, pain & swelling of sinus cavities, and nasal drip.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "17ceb312-5d0a-4eb0-b1f2-daa6994e1e86"
     },
     {
       "brand": "Grain and Seed Antigens",
@@ -403,6 +409,12 @@
       "indication": "Indications & Usage: Turn tube upside down, twist cap to break seal & release pellets. Using clear cap, place 3 pellets to dissolve under your tongue 3 times a day or as needed. Take apart from food or drinks. To preserve purity avoid touching pellets with fingers.",
       "manufacturer": "Homeocare Laboratories",
       "splSetId": "1bfea3be-5909-4aa3-9ec3-05b4db2dd69b"
+    },
+    {
+      "brand": "Pulmopar",
+      "indication": "INDICATIONS: May temporarily relieve wheezing, shortness of breath, constrictive feeling in the chest and cough.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "1cfb69c5-dc01-4acc-8053-5ca4e64165dc"
     },
     {
       "brand": "6 Liver",
@@ -465,12 +477,6 @@
       "splSetId": "21fdd260-7536-4133-baa5-9181805034c7"
     },
     {
-      "brand": "Septastat",
-      "indication": "INDICATIONS: For temporary relief of septic states, venomous infection, blood poisoning/blood disorders, fever, muscular soreness, burning/stinging pain, convulsions, inflammation, gangrene and/or paralysis.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
-      "manufacturer": "Energique, Inc.",
-      "splSetId": "22085b76-6872-4894-8680-91f0c89bb217"
-    },
-    {
       "brand": "Lymphastat B",
       "indication": "INDICATIONS: May temporarily relieve fever, irritated throat, and acute irritation of the bladder.** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
       "manufacturer": "Energique, Inc.",
@@ -513,6 +519,12 @@
       "splSetId": "24f85823-7068-4686-a16b-f537bf20d654"
     },
     {
+      "brand": "Epiforce P-HP",
+      "indication": "INDICATIONS: For temporary relief of symptoms due to skin eruptions.",
+      "manufacturer": "BioActive Nutritional, Inc.",
+      "splSetId": "250441d1-e261-417e-9100-700368ea38fd"
+    },
+    {
       "brand": "Relaxatone",
       "indication": "INDICATIONS: May temporarily relieve anxiety and stress. **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
       "manufacturer": "Energique, Inc.",
@@ -523,6 +535,12 @@
       "indication": "Uses Helps promote and maintain healthy immune system function and overall health. Directions To be taken 20 minutes away from food. Place drops directly under the tongue or into \u00bc oz of water. Adults and adolescents (12 years and older): Take 10 drops two to three times daily or as recommended by your healthcare practitioner. Children (under 12 years): Take under the direction of your healthcare practitioner.",
       "manufacturer": "Seroyal USA",
       "splSetId": "25c9982b-2bc9-4b75-e054-00144ff8d46c"
+    },
+    {
+      "brand": "Anxiety HP",
+      "indication": "INDICATIONS: May temporarily relieve symptoms of anxiety and nervousness. ** **Claims based on traditional homeopathic practice, not accepted medical evidence. Not FDA evaluated.",
+      "manufacturer": "Energique, Inc.",
+      "splSetId": "25e2b1cf-da4e-405b-b568-7e49a00d16e4"
     }
   ],
   "id": "Arsenic_Trioxide",

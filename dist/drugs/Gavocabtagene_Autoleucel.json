@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Gavocabtagene_Autoleucel",
+  "nciThesaurus": {
+    "casRegistry": "",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A preparation of autologous T-lymphocytes that have been genetically engineered to express a single-domain antibody that recognizes human mesothelin, fused to the N-terminus of the CD3-epsilon T-cell receptor (TCR) subunit which, upon expression is incorporated into the endogenous TCR complex, with potential antineoplastic activity. Upon administration, gavocabtagene autoleucel specifically target and bind to mesothelin-expressing tumor cells. This leads to T-cell activation and T-cell mediated lysis of mesothelin-expressing tumor cells. Mesothelin, a cell surface glycoprotein involved in cell adhesion, is overexpressed in a variety of cancer cell types. Compared to chimeric antigen receptor (CAR) T-cells, TRuCs may be associated with less pro-inflammatory cytokine secretion and fewer adverse effects without compromising therapeutic efficacy.",
+    "fdaUniiCode": "NP6CFH3G8H",
+    "identifier": "C160780",
+    "preferredName": "Gavocabtagene Autoleucel",
+    "semanticType": "Cell",
+    "subclassOf": [
+      "C129826",
+      "C28681"
+    ],
+    "synonyms": [
+      "Autologous Anti-mesothelin T-cell Receptor Fusion Construct T-cells TC-210",
+      "Autologous Anti-mesothelin TRuC T-cells TC-210",
+      "GAVOCABTAGENE AUTOLEUCEL",
+      "Gavo-cel",
+      "Gavocabtagene Autoleucel",
+      "TC 210",
+      "TC-210",
+      "TC-210 T Cells",
+      "TC210"
+    ]
+  }
+}

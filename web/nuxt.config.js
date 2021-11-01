@@ -4,7 +4,7 @@ export default {
   dev: process.env.NODE_ENV !== 'production',
 
   // Disable server-side rendering: https://go.nuxtjs.dev/ssr-mode
-  ssr: false,
+  ssr: true,
 
   // Target: https://go.nuxtjs.dev/config-target
   target: 'static',
@@ -52,8 +52,7 @@ export default {
   ],
 
   router: {
-    base: '/cancerdrugs/',
-    mode: 'hash'
+    base: '/cancerdrugs/'
   },
 
   // Content module configuration: https://go.nuxtjs.dev/config-content
@@ -75,5 +74,15 @@ export default {
 
   // Build Configuration: https://go.nuxtjs.dev/config-build
   build: {
+  },
+
+  generate: {
+    async routes () {
+      const { $content } = require('@nuxt/content')
+      const { drugs } = await $content('index').fetch()
+      const routes = drugs.map(drug => '/drugs/' + drug.id)
+      console.log(routes)
+      return routes
+    }
   }
 }

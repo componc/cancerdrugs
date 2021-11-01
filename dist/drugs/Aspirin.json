@@ -8,6 +8,12 @@
       "splSetId": "003986de-ee58-4ecf-a850-73505967a976"
     },
     {
+      "brand": "Low Dose Aspirin",
+      "indication": "Uses for the temporary relief of minor aches and pains or as recommended by your doctor. Because of its delayed action, this product will not provide fast relief of headaches or other symptoms needing immediate relief. ask your doctor about other uses for safety coated 81 mg aspirin",
+      "manufacturer": "P & L Development, LLC",
+      "splSetId": "0058175f-3474-40c3-a046-6cfaec86d84b"
+    },
+    {
       "brand": "sunmark adult aspirin",
       "indication": "Uses temporarily relieves \u2022 headache \u2022 muscle pain \u2022 toothache \u2022 menstrual pain \u2022 pain and fever of colds \u2022 minor pain of arthritis",
       "manufacturer": "Strategic Sourcing Services LLC",
@@ -18,6 +24,12 @@
       "indication": "Uses for the temporary relief of minor aches and pains or as recommended by your doctor. Because of its delayed action, this product will not provide fast relief of headaches or other symptoms needing immediate relief. ask your doctor about other uses for safety coated 81 mg aspirin",
       "manufacturer": "P & L Development, LLC",
       "splSetId": "01666439-849c-4459-9490-b4e040137357"
+    },
+    {
+      "brand": "Aspirin Low Dose",
+      "indication": "Uses for the temporary relief of minor aches and pains or as recommended by your doctor. Because of its delayed action, this product will not provide fast relief of headaches or other symptoms needing immediate relief.",
+      "manufacturer": "ATLANTIC BIOLOGICALS CORP.",
+      "splSetId": "024c5054-959f-4ea5-a71f-c0e16cc4b90c"
     },
     {
       "brand": "Family Wellness Aspirin",
@@ -56,6 +68,12 @@
       "splSetId": "055d0288-61d4-48bc-b91f-6ecc1969beb8"
     },
     {
+      "brand": "Methocarbamol and Aspirin",
+      "indication": "INDICATIONS AND USAGE Methocarbamol and Aspirin tablets are indicated as an adjunct to rest, physical therapy and other measures for the relief of discomfort associated with acute, painful musculoskeletal conditions. The mode of action of methocarbamol has not been clearly identified but may be related to its sedative properties. Methocarbamol does not directly relax tense skeletal muscles in man.",
+      "manufacturer": "Jerome Stevens Pharmaceuticals, Inc.",
+      "splSetId": "055edd83-bab7-486a-a2b8-dad9f3bae916"
+    },
+    {
       "brand": "Regular Strength Aspirin EC",
       "indication": "Uses \u2022 for the temporary relief of minor aches and pains due to \u2022 headache \u2022 colds \u2022 muscle pain \u2022 menstrual pain \u2022 toothache \u2022 minor pain of arthritis \u2022 or as directed by your doctor",
       "manufacturer": "Proficient Rx LP",
@@ -72,6 +90,12 @@
       "indication": "Uses temporarily relieves minor aches and pains due to: headache a cold arthritis muscular aches toothache premenstrual and menstrual cramps",
       "manufacturer": "P & L Development, LLC",
       "splSetId": "067ca015-497a-4116-a8fc-af1e59e2b638"
+    },
+    {
+      "brand": "up and up aspirin",
+      "indication": "Uses temporarily relieves \u2022 headache \u2022 muscle pain \u2022 toothache \u2022 menstrual pain \u2022 pain and fever of colds \u2022 minor pain of arthritis",
+      "manufacturer": "Target Corporation",
+      "splSetId": "06af68e7-2bed-4a0b-b003-c04b9ac5dcd6"
     },
     {
       "brand": "migraine formula",
@@ -158,12 +182,6 @@
       "splSetId": "09cb07fc-d826-4e96-b813-a1ae010104cb"
     },
     {
-      "brand": "HEALTH SENSE Adult Chewable Low Strength Aspirin",
-      "indication": "Uses for the temporary relief of minor aches and pains ask your doctor about other uses for aspirin",
-      "manufacturer": "Prime Marketing, LLC",
-      "splSetId": "0a7ffe70-a861-003e-e054-00144ff8d46c"
-    },
-    {
       "brand": "Chewable Low Dose Aspirin",
       "indication": "Uses for the temporary relief of minor aches and pains or as recommended by your doctor",
       "manufacturer": "Family Dollar Services Inc",
@@ -180,12 +198,6 @@
       "indication": "Uses temporarily relieves headache pain and fever of colds muscle pain menstrual pain toothache minor pain of arthritis",
       "manufacturer": "Bayer HealthCare LLC.",
       "splSetId": "0ae64cdb-4ea0-23af-e054-00144ff88e88"
-    },
-    {
-      "brand": "HEALTH SENSE ASPIRIN 81",
-      "indication": "Uses for the temporary relief of minor aches and pains ask your doctor about other uses for aspirin",
-      "manufacturer": "Prime Marketing, LLC",
-      "splSetId": "0ae75975-fa65-5cf6-e054-00144ff8d46c"
     },
     {
       "brand": "GOODYS Hangover",
@@ -272,12 +284,6 @@
       "splSetId": "0d3fcc4f-5b8a-43ee-9bad-ba35dc8dc948"
     },
     {
-      "brand": "Regular Strength Aspirin EC",
-      "indication": "Uses \u2022 Uses o for the temporary relief of minor aches and pains due to \u25aa headache \u25aa colds \u25aa muscle pain \u25aa menstrual pain \u25aa toothache \u25aa minor pain of arthritis o or as directed by your doctor",
-      "manufacturer": "Bryant Ranch Prepack",
-      "splSetId": "0d659db4-1065-439a-91f7-dc9886139602"
-    },
-    {
       "brand": "Aspirin",
       "indication": "Uses temporarily relieves minor aches and pains ask your doctor about other uses for this product",
       "manufacturer": "Chain Drug Marketing Association",
@@ -302,22 +308,16 @@
       "splSetId": "0faa3592-4d56-4645-9a0e-066e0bdfebb6"
     },
     {
-      "brand": "Chemtox",
-      "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of symptoms related to chemical toxicity including fatigue, frequent colds, insomnia, headache, rash, depression, sinusitis, constipation, poor circulation, and memory difficulties.** **These statements are based upon traditional homeopathic practice. They have not been reviewed by the Food and Drug Administration.",
-      "manufacturer": "Deseret Biologicals, Inc.",
-      "splSetId": "10d51085-8822-4eb8-8287-aa60a01906d0"
-    },
-    {
-      "brand": "Headache Relief Extra Strength",
-      "indication": "Uses temporarily relieves minor aches and pains due to: headache arthritis a cold muscular aches toothache premenstrual and menstrual cramps",
-      "manufacturer": "Hy-Vee",
-      "splSetId": "110c91f7-7589-4e03-b5c3-aa47cf2ddc6f"
-    },
-    {
       "brand": "Extra Strength Aspirin",
       "indication": "Uses Temporarily relieves minor aches and pains due to: headache muscular aches backache minor pain of arthritis the common cold toothache premenstrual and menstrual cramps",
       "manufacturer": "Healthlife of USA",
       "splSetId": "1118dc27-0a9e-4a48-b86c-1338bf28fecc"
+    },
+    {
+      "brand": "ASPIRIN AND EXTENDED-RELEASE DIPYRIDAMOLE",
+      "indication": "1 INDICATIONS AND USAGE Aspirin and extended-release dipyridamole capsule is indicated to reduce the risk of stroke in patients who have had transient ischemia of the brain or completed ischemic stroke due to thrombosis. Aspirin and extended-release dipyridamole capsule is a combination of aspirin and dipyridamole, antiplatelet agents, indicated to reduce the risk of stroke in patients who have had transient ischemia of the brain or completed ischemic stroke due to thrombosis ( 1 )",
+      "manufacturer": "Micro Labs Limited",
+      "splSetId": "111a4f6a-c3e4-43e2-8f0e-8c72f71cddb2"
     },
     {
       "brand": "Aspirin",
@@ -332,10 +332,22 @@
       "splSetId": "11a8439b-0159-4351-b0f5-fe7fad6a33c0"
     },
     {
+      "brand": "Dollar General Headache Powders",
+      "indication": "Uses temporarily relieves minor aches and pains due to: headache toothache menstrual cramps muscular aches minor arthritis pain colds temporarily reduces fever",
+      "manufacturer": "Dolgencorp, LLC",
+      "splSetId": "11b0271b-d65c-49c4-a081-d71044a0e04c"
+    },
+    {
       "brand": "Energize",
       "indication": "HOMEOPATHIC INDICATIONS: For temporary relief of exhaustion, fatigue, and feelings of low energy.** **These statements are based upon traditional homeopathic principles. They have not been reviewed by the Food and Drug Administration.",
       "manufacturer": "Parasitology Center Inc.",
       "splSetId": "1228bfab-6e51-4295-8194-5f2b395d62d2"
+    },
+    {
+      "brand": "Signature Care Aspririn",
+      "indication": "Uses temporarily relieves \u2022 headache \u2022 muscle pain \u2022 toothache \u2022 menstrual pain \u2022 pain and fever of colds \u2022 minor pain of arthritis",
+      "manufacturer": "Safeway",
+      "splSetId": "1277e38d-63e3-4cc2-bacd-688f5d3552f1"
     },
     {
       "brand": "aspirin",
@@ -378,6 +390,12 @@
       "indication": "Uses temporarily relieves: headache muscle pain toothache menstrual pain pain of colds minor pain of arthritis temporarily reduces fever",
       "manufacturer": "Marc Glassman, Inc.",
       "splSetId": "14cb1d2d-95b8-447e-8d79-e6ec82c0e431"
+    },
+    {
+      "brand": "chewable aspirin",
+      "indication": "Uses temporarily relieves minor aches and pains ask your doctor about other uses for this product",
+      "manufacturer": "STRATEGIC SOURCING SERVICES LLC",
+      "splSetId": "14ccce78-b263-4bf8-af3a-9e5401758dc9"
     },
     {
       "brand": "Aspirin 81mg Adult Low Dose",
@@ -429,7 +447,7 @@
     },
     {
       "brand": "Aspirin",
-      "indication": "Uses temporarily relieves: headache toothache muscle pain menstrual pain pain and fever of colds minor pain of arthritis",
+      "indication": "Uses temporarily relieves: headache pain and fever of colds toothache menstrual pain muscle pain minor pain of arthritis",
       "manufacturer": "CVS Pharmacy",
       "splSetId": "188de17c-36aa-41ae-9d84-d1b8c4ea6957"
     },
@@ -440,6 +458,12 @@
       "splSetId": "18b79449-5c4c-41ce-9609-80f5efa0375c"
     },
     {
+      "brand": "Aspirin 81 mg",
+      "indication": "Uses temporarily relieves minor aches and pains Because of its delayed action, this product will not prodice fast relief of headaches or other symptoms needing immediate relief. ask your doctor about other uses for enteric-coated 81 mg Aspirin",
+      "manufacturer": "A-S Medication Solutions",
+      "splSetId": "19489806-f99d-472c-a3c8-2d4561c9a44d"
+    },
+    {
       "brand": "Aspirin",
       "indication": "Directions drink a full glass of water with each dose adults and children 12 years and over: take 1 to 2 tablets every 4 hours while symptoms last. Do not take more than 12 tablets in 24 hours unless directed by a doctor. children under 12 years: do not use unless directed by a doctor",
       "manufacturer": "United Exchange Corp.",
@@ -447,7 +471,7 @@
     },
     {
       "brand": "LOW DOSE ASPIRIN",
-      "indication": "",
+      "indication": "Uses for the temporary relief of minor aches and pains or as recommended by your doctor Because of its delayed action, this product will not provide fast relief of headaches or other symptoms needing immediate relief. ask your doctor about other uses for enteric-coated 81 mg Aspirin",
       "manufacturer": "TIME CAP LABORATORIES, INC",
       "splSetId": "1acc8c1a-c746-4635-800c-de1ad758fce0"
     },
@@ -459,7 +483,7 @@
     },
     {
       "brand": "Aspirin and Extended-Release Dipyridamole",
-      "indication": "1 INDICATIONS AND USAGE Aspirin and Extended-Release Dipyridamole Capsules are indicated to reduce the risk of stroke in patients who have had transient ischemia of the brain or completed ischemic stroke due to thrombosis. Aspirin and Extended-Release Dipyridamole Capsules are a combination antiplatelet agent indicated to reduce the risk of stroke in patients who have had transient ischemia of the brain or completed ischemic stroke due to thrombosis ( 1 )",
+      "indication": "1 INDICATIONS AND USAGE Aspirin and Extended-Release Dipyridamole Capsules are indicated to reduce the risk of stroke in patients who have had transient ischemia of the brain or completed ischemic stroke due to thrombosis. Aspirin and Extended-Release Dipyridamole Capsules are a combination of aspirin and dipyridamole, antiplatelet agents, indicated to reduce the risk of stroke in patients who have had transient ischemia of the brain or completed ischemic stroke due to thrombosis ( 1 )",
       "manufacturer": "Lannett Company, Inc.",
       "splSetId": "1b1e6e68-343f-45ed-9956-870238303ead"
     },
@@ -468,6 +492,12 @@
       "indication": "Uses \u2022 temporarily relieves minor aches and pains due to: \u2022 headache \u2022 a cold \u2022 arthritis \u2022 muscular aches \u2022 toothache \u2022 premenstrual & menstrual cramps",
       "manufacturer": "GlaxoSmithKline Consumer Healthcare Holdings (US) LLC",
       "splSetId": "1b5ff867-5442-4cf8-bd1e-530093cc88f8"
+    },
+    {
+      "brand": "Hydrocodone Bitartrate and Aspirin",
+      "indication": "INDICATIONS AND USAGE Hydrocodone Bitartrate and Aspirin Tablets are indicated for the management of pain severe enough to require an opioid analgesic and for which alternative treatments are inadequate. Limitations of Use Because of the risks of addiction, abuse, and misuse, with opioids, even at recommended doses [see WARNINGS ], reserve Hydrocodone Bitartrate and Aspirin Tablets for use in patients for whom alternative treatment options (e.g., non-opioid analgesics): \u2022 have not been tolerated, or are not expected to be tolerated. have not provided adequate analgesia, or are not expected to provide adequate analgesia.",
+      "manufacturer": "LGM Pharma Solutions, LLC",
+      "splSetId": "1bdb6c28-6b01-4e91-863f-bb325d3ee424"
     },
     {
       "brand": "Ascomp with Codeine",
@@ -524,16 +554,16 @@
       "splSetId": "205f7924-35e3-422c-9996-a13a07f3b9b7"
     },
     {
-      "brand": "Goodys Cool Orange",
-      "indication": "Uses temporarily relieves minor aches and pains due to: headache backache toothache menstrual cramps muscular aches colds",
-      "manufacturer": "Lil' Drug Store Products, Inc",
-      "splSetId": "206d4d34-bcf7-4a95-9063-6e22ad40b029"
-    },
-    {
       "brand": "Aspirin",
       "indication": "Uses temporarily relieves: headache muscle pain toothache menstrual pain pain and fever of colds minor pain of arthritis",
       "manufacturer": "Harmon Stores Inc.",
       "splSetId": "219ca3f4-24ad-470c-8482-6606d6c4bc85"
+    },
+    {
+      "brand": "Low Dose Aspirin",
+      "indication": "Uses for the temporary relief of minor aches and pains or as recommended by your doctor. Because of its delayed action, this product will not provide fast relief of headaches or other symptoms needing immediate relief. ask your doctor about other uses for safety coated 81 mg aspirin",
+      "manufacturer": "Care One (Retail Business Services, LLC.)",
+      "splSetId": "21c7e575-5732-4a94-a2af-1c7c0cc95a9a"
     },
     {
       "brand": "Ecotrin",
@@ -564,36 +594,6 @@
       "indication": "1 INDICATIONS & USAGE Aspirin and Extended-Release Dipyridamole Capsule is indicated to reduce the risk of stroke in patients who have had transient ischemia of the brain or completed ischemic stroke due to thrombosis. Aspirin and Extended-Release Dipyridamole Capsule is a combination antiplatelet agent indicated to reduce the risk of stroke in patients who have had transient ischemia of the brain or completed ischemic stroke due to thrombosis (1)",
       "manufacturer": "Par Pharmaceutical, Inc.",
       "splSetId": "237a1f63-53ff-47fa-903c-ac6276e594a2"
-    },
-    {
-      "brand": "Ascomp with Codeine",
-      "indication": "1 INDICATIONS AND USAGE ASCOMP with Codeine is indicated for the management of the symptom complex of tension (or muscle contraction) headache, when non-opioid analgesic and alternative treatments are inadequate. ASCOMP with Codeine is a combination of butalbital, a barbiturate, aspirin, a nonsteroidal anti-inflammatory drug, caffeine, a methylxanthine, and codeine phosphate, an opioid agonist, and is indicated for the management of the symptom complex of tension (or muscle contraction) headache, when other non-opioid analgesics and alternative treatments are inadequate. Limitations of Use Because of the risks of addiction, abuse, and misuse with opioids, even at recommended doses, reserve ASCOMP with Codeine for use in patients for whom alternative treatment options (e.g., non-opioid analgesics) ( 5.1 ): Have not been tolerated, or are not expected to be tolerated, Have not provided adequate analgesia, or are not expected to provide adequate analgesia. Limitations of Use Because of the risks of addiction, abuse, and misuse with opioids and butalbital, even at recommended doses [see Warnings and Precautions (5.1) ] , reserve ASCOMP with Codeine for use in patients for whom alternative treatment options (e.g., non-opioid, non-barbiturate analgesics): Have not been tolerated, or are not expected to be tolerated, Have not provided adequate analgesia, or are not expected to provide adequate analgesia.",
-      "manufacturer": "Breckenridge Pharmaceutical, Inc.",
-      "splSetId": "243a6aea-0f48-42a9-a85e-ff247ab94336"
-    },
-    {
-      "brand": "St. Joseph Chewable Low Dose Aspirin",
-      "indication": "Uses temporarily relieves minor aches and pains ask your doctor about other uses for St. Joseph Safety Coated 81 mg Aspirin",
-      "manufacturer": "Foundation Consumer Healthcare LLC",
-      "splSetId": "248cd302-e380-4837-bdae-9df620b67e8a"
-    },
-    {
-      "brand": "Headache Relief PM",
-      "indication": "Uses for the temporary relief of occasional headaches and minor aches and pains with accompanying sleeplessness",
-      "manufacturer": "Valu Merchandisers Company",
-      "splSetId": "2547f2ca-ea36-4ded-8a51-fb83b293d336"
-    },
-    {
-      "brand": "basic care aspirin",
-      "indication": "Uses for the temporary relief of minor aches and pains",
-      "manufacturer": "Amazon.com Services LLC",
-      "splSetId": "265c7d85-a666-4234-9c30-ca8e31f4bcb8"
-    },
-    {
-      "brand": "Aspirin Regular Strength",
-      "indication": "Uses temporarily relieves minor aches and pains due to: headache muscle pain toothache menstrual pain colds minor pains of arthritis temporarily reduces fever",
-      "manufacturer": "Ulai Health LLC",
-      "splSetId": "26942d32-d6e6-464d-8fc4-ffd9806d3e62"
     }
   ],
   "id": "Aspirin",

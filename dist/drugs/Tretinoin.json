@@ -3,6 +3,12 @@
   "fdaDrugLabel": [
     {
       "brand": "Tretinoin",
+      "indication": "INDICATIONS AND USAGE Tretinoin Capsules are indicated for the induction of remission in patients with acute promyelocytic leukemia (APL), French-American-British (FAB) classification M3 (including the M3 variant), characterized by the presence of the t(15;17) translocation and/or the presence of the PML/RAR\u03b1 gene who are refractory to, or who have relapsed from, anthracycline chemotherapy, or for whom anthracycline based chemotherapy is contraindicated. Tretinoin is for the induction of remission only. The optimal consolidation or maintenance regimens have not been defined, but all patients should receive an accepted form of remission consolidation and/or maintenance therapy for APL after completion of induction therapy with tretinoin.",
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "00892887-ad81-414d-a388-08716235fa2c"
+    },
+    {
+      "brand": "Tretinoin",
       "indication": "INDICATIONS AND USAGE Tretinoin capsules are indicated for the induction of remission in patients with acute promyelocytic leukemia (APL), French-American-British (FAB) classification M3 (including the M3 variant), characterized by the presence of the t(15;17) translocation and/or the presence of the PML/RAR\u03b1 gene who are refractory to, or who have relapsed from, anthracycline chemotherapy, or for whom anthracycline-based chemotherapy is contraindicated. Tretinoin capsules are for the induction of remission only. The optimal consolidation or maintenance regimens have not been defined, but all patients should receive an accepted form of remission consolidation and/or maintenance therapy for APL after completion of induction therapy with tretinoin capsules.",
       "manufacturer": "Major Pharmaceuticals",
       "splSetId": "045258e2-5efb-4147-bf74-4c43af04dccc"
@@ -58,7 +64,7 @@
     {
       "brand": "TRETINOIN",
       "indication": "Indications and Usage: Tretinoin gel and cream are indicated for topical application in the treatment of acne vulgaris. The safety and efficacy of the long-term use of this product in the treatment of other disorders have not been established.",
-      "manufacturer": "Paddock Laboratories, LLC",
+      "manufacturer": "Padagis US LLC",
       "splSetId": "4889c7f8-37d0-4f1a-9829-bca107806586"
     },
     {
@@ -86,12 +92,6 @@
       "splSetId": "745cc3ce-60b4-4479-a055-316817567949"
     },
     {
-      "brand": "Tretinoin",
-      "indication": "Indications and Usage: Tretinoin is indicated for topical application in the treatment of acne vulgaris. The safety and efficacy of the long-term use of this product in the treatment of other disorders have not been established.",
-      "manufacturer": "Spear Dermatology Products Inc",
-      "splSetId": "7483423c-695c-4b62-b3cd-4e475f30b857"
-    },
-    {
       "brand": "ZIANA",
       "indication": "1 INDICATIONS AND USAGE ZIANA Gel is indicated for the topical treatment of acne vulgaris in patients 12 years or older. ZIANA \u00ae Gel is a lincosamide antibiotic and retinoid combination product indicated for the topical treatment of acne vulgaris in patients 12 years or older. ( 1 )",
       "manufacturer": "Bausch Health US, LLC",
@@ -102,6 +102,12 @@
       "indication": "1 INDICATIONS & USAGE Clindamycin phosphate and tretinoin gel 1.2% / 0.025% is indicated for the topical treatment of acne vulgaris in patients 12 years or older. Clindamycin phosphate and tretinoin gel 1.2% / 0.025% is a lincosamide antibiotic and retinoid combination product indicated for the topical treatment of acne vulgaris in patients 12 years or older. ( 1 )",
       "manufacturer": "Actavis Pharma, Inc.",
       "splSetId": "79e1c8f6-59cd-4efa-9efa-0762d4b1a10c"
+    },
+    {
+      "brand": "Tretinoin",
+      "indication": "INDICATIONS AND USAGE Tretinoin capsules are indicated for the induction of remission in patients with acute promyelocytic leukemia (APL), French-American-British (FAB) classification M3 (including the M3 variant), characterized by the presence of the t(15;17) translocation and/or the presence of the PML/RAR\u03b1 gene who are refractory to, or who have relapsed from, anthracycline chemotherapy, or for whom anthracycline-based chemotherapy is contraindicated. Tretinoin capsules are for the induction of remission only. The optimal consolidation or maintenance regimens have not been defined, but all patients should receive an accepted form of remission consolidation and/or maintenance therapy for APL after completion of induction therapy with tretinoin capsules.",
+      "manufacturer": "Bryant Ranch Prepack",
+      "splSetId": "844941d4-f557-42cf-b7fa-5bd7574925f6"
     }
   ],
   "id": "Tretinoin",

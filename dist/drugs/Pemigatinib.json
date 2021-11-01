@@ -1,5 +1,15 @@
 {
-  "emaEpar": [],
+  "emaEpar": [
+    {
+      "activeSubstance": "pemigatinib",
+      "conditionIndication": "Pemazyre monotherapy is indicated for the treatment of adults with locally advanced or metastatic cholangiocarcinoma with a fibroblast growth factor receptor 2 (FGFR2) fusion or rearrangement that have progressed \u00a0after at least one prior line of systemic therapy.",
+      "inn": "pemigatinib",
+      "marketingAuthorisationDate": "2021-03-26 01:00:00",
+      "marketingAuthorisationHolder": "Incyte Biosciences Distribution B.V.",
+      "medicineName": "Pemazyre",
+      "url": "https://www.ema.europa.eu/en/medicines/human/EPAR/pemazyre"
+    }
+  ],
   "fdaDrugLabel": [
     {
       "brand": "PEMAZYRE",

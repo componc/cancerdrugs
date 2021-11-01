@@ -1,0 +1,30 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Vusolimogene_Oderparepvec",
+  "nciThesaurus": {
+    "casRegistry": "2305659-09-8",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A genetically modified oncolytic viral strain of the herpes simplex type 1 (HSV-1) virus, with potential oncolytic, immunostimulating and antineoplastic activities. Upon administration, vusolimogene oderparepvec specifically targets, infects and replicates in tumor cells only while not infecting normal, healthy cells. This induces tumor cell lysis. The released virus particles, infect and replicate in neighboring tumor cells, thereby further killing tumor cells. The released tumor-associated antigens (TAAs) from the tumor cells activate the immune system to exert an anti-tumor immune response against the tumor cells, thereby further killing the tumor cells. The virus itself also elicits a tumor-specific systemic immune and cytotoxic T-lymphocyte (CTL) response, thereby killing nearby non-infected tumor cells. In RP1, ICP34.5 and 47 proteins of the HSV1 strain have been deleted; RP1 expresses a fusogenic protein for optimal tumor cell infection and killing.",
+    "fdaUniiCode": "45KLN7N6UV",
+    "identifier": "C158074",
+    "preferredName": "Vusolimogene Oderparepvec",
+    "semanticType": "Pharmacologic Substance",
+    "subclassOf": [
+      "C1962",
+      "C717"
+    ],
+    "synonyms": [
+      "Genetically Modified HSV-1 Oncolytic Immunotherapeutic RP1",
+      "HSV-1 Engineered RP1",
+      "HSV-1 Oncolytic Viral Strain RP1",
+      "HSV-1 RP1",
+      "Oncolytic Virus RP1",
+      "RP-1",
+      "RP1",
+      "VUSOLIMOGENE ODERPAREPVEC",
+      "Vusolimogene Oderparepvec"
+    ]
+  }
+}

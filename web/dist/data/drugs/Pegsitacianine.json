@@ -1,0 +1,26 @@
+{
+  "emaEpar": [],
+  "fdaDrugLabel": [],
+  "id": "Pegsitacianine",
+  "nciThesaurus": {
+    "casRegistry": "2396651-85-5",
+    "chebiId": "",
+    "chemicalFormula": "",
+    "definition": "A micellar polymer tracer labeled with the near-infrared (NIR) fluorescent imaging dye indocyanine green (ICG), with potential fluorescent imaging activity. Upon administration, pegsitacianine accumulates in tumor tissue. The micelles dissociate and subsequently fluoresce upon exposure to the acidic conditions of the tumor microenvironment (TME), allowing the visualization of tumors using infrared-based cameras.",
+    "fdaUniiCode": "49X2Q41T99",
+    "identifier": "C158750",
+    "preferredName": "Pegsitacianine",
+    "semanticType": "Indicator, Reagent, or Diagnostic Aid",
+    "subclassOf": [
+      "C1966"
+    ],
+    "synonyms": [
+      "Indocyanine Green-labeled Polymeric Micelles ONM-100",
+      "ONM 100",
+      "ONM-100",
+      "ONM100",
+      "PEGSITACIANINE",
+      "Pegsitacianine"
+    ]
+  }
+}
